@@ -31,6 +31,9 @@ sysinfo.txt
 
 # Added by Brendan Luu
 *.DS_Store
+$PROJDIR/Temp/
+$PROJDIR/Library/
+$PROJDIR/Obj/
 
 # Builds
 *.apk
