@@ -29,6 +29,12 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+# Added by Brendan Luu
+*.DS_Store
+$PROJDIR/Temp/
+$PROJDIR/Library/
+$PROJDIR/Obj/
+
 # Builds
 *.apk
 *.unitypackage
