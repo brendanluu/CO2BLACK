@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Calluori01.unity
+- path: Assets/_Scenes/Wiegman01.unity
   isLoaded: 1
   isActive: 1
