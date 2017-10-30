@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< Updated upstream
-- path: Assets/_Scenes/Wiegman01.unity
-=======
-- path: Assets/_Scenes/Culp.unity
->>>>>>> Stashed changes
+- path: Assets/_Scenes/Calluori01.unity
   isLoaded: 1
   isActive: 1
