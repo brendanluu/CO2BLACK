@@ -1,5 +1,6 @@
 <linker>
 <assembly fullname="Assembly-CSharp">
+<type fullname="CameraScript" preserve="all"/>
 <type fullname="collideScript" preserve="all"/>
 <type fullname="Mapbox.Examples.Scripts.Utilities.DragRotate" preserve="all"/>
 <type fullname="Mapbox.Examples.SpawnOnGlobeExample" preserve="all"/>

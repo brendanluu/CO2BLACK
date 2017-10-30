@@ -11,7 +11,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 202
   Total Field Removals = 1118
-  Total Method Removals = 15232
+  Total Method Removals = 15223
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mapbox.Json
@@ -1305,7 +1305,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 81
   Total Field Removals = 473
-  Total Method Removals = 4560
+  Total Method Removals = 4555
   References Removed = 0
 ---------------------------------------------------
     <PrivateImplementationDetails>
@@ -2297,7 +2297,6 @@ Summary:
         WriteLine(System.Double)
         WriteLine(System.Int32)
         WriteLine(System.Int64)
-        WriteLine(System.Object)
         WriteLine(System.Single)
         WriteLine(System.String,System.Object)
         WriteLine(System.String,System.Object,System.Object)
@@ -3271,7 +3270,6 @@ Summary:
         Write(System.Decimal)
         Write(System.Int32)
         Write(System.Int64)
-        Write(System.Object)
         Write(System.Single)
         Write(System.String,System.Object,System.Object)
         Write(System.String,System.Object,System.Object,System.Object)
@@ -3286,7 +3284,6 @@ Summary:
         WriteLine(System.Double)
         WriteLine(System.Int32)
         WriteLine(System.Int64)
-        WriteLine(System.Object)
         WriteLine(System.Single)
         WriteLine(System.String,System.Object,System.Object)
         WriteLine(System.String,System.Object,System.Object,System.Object)
@@ -3305,7 +3302,6 @@ Summary:
         Write(System.Double)
         Write(System.Int32)
         Write(System.Int64)
-        Write(System.Object)
         Write(System.Single)
         Write(System.String,System.Object,System.Object)
         Write(System.String,System.Object,System.Object,System.Object)
@@ -3320,7 +3316,6 @@ Summary:
         WriteLine(System.Double)
         WriteLine(System.Int32)
         WriteLine(System.Int64)
-        WriteLine(System.Object)
         WriteLine(System.Single)
         WriteLine(System.String,System.Object,System.Object)
         WriteLine(System.String,System.Object,System.Object,System.Object)
@@ -7698,7 +7693,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 20
   Total Field Removals = 109
-  Total Method Removals = 1190
+  Total Method Removals = 1187
   References Removed = 0
 ---------------------------------------------------
     <PrivateImplementationDetails>
@@ -8245,11 +8240,8 @@ Summary:
     System.Diagnostics.DataReceivedEventHandler
     System.Diagnostics.Debug
         .ctor()
-        Assert(System.Boolean,System.String)
         Assert(System.Boolean,System.String,System.String)
         Assert(System.Boolean,System.String,System.String,System.Object[])
-        WriteLine(System.Object)
-        WriteLine(System.String)
         WriteLine(System.String,System.Object[])
     System.Diagnostics.DefaultTraceListener
     System.Diagnostics.FileVersionInfo
@@ -15088,7 +15080,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 45
   Total Field Removals = 27
-  Total Method Removals = 2683
+  Total Method Removals = 2682
   References Removed = 0
 ---------------------------------------------------
     JetBrains.Annotations.AssertionMethodAttribute
@@ -15775,7 +15767,6 @@ Summary:
         Assert(System.Boolean)
         Assert(System.Boolean,System.Object)
         Assert(System.Boolean,System.Object,UnityEngine.Object)
-        Assert(System.Boolean,System.String)
         Assert(System.Boolean,System.String,System.Object[])
         Assert(System.Boolean,System.String,UnityEngine.Object)
         Assert(System.Boolean,UnityEngine.Object)
