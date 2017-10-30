@@ -1,12 +1,18 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/_Scenes/MapboxTesting.unity
 =======
+=======
+>>>>>>> 92eaff29e204ed95b23ce091163d23477b278546
 <<<<<<< Updated upstream
 - path: Assets/_Scenes/Wiegman01.unity
 =======
 - path: Assets/_Scenes/Culp.unity
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> 92eaff29e204ed95b23ce091163d23477b278546
+=======
 >>>>>>> 92eaff29e204ed95b23ce091163d23477b278546
   isLoaded: 1
   isActive: 1
