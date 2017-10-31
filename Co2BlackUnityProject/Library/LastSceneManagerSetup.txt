@@ -1,4 +1,30 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/Calluori01.unity
+=======
+<<<<<<< HEAD
+- path: Assets/_Scenes/Culp.unity
+=======
+<<<<<<< HEAD
+- path: Assets/_Scenes/Calluori01.unity
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+- path: Assets/_Scenes/MapboxTesting.unity
+=======
+=======
+>>>>>>> 92eaff29e204ed95b23ce091163d23477b278546
+<<<<<<< Updated upstream
+- path: Assets/_Scenes/Wiegman01.unity
+=======
+- path: Assets/_Scenes/Culp.unity
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> 92eaff29e204ed95b23ce091163d23477b278546
+=======
+>>>>>>> 92eaff29e204ed95b23ce091163d23477b278546
+>>>>>>> 8b81208593b9a92256a89ffc07d6887f2a20a2f8
+>>>>>>> origin/master
+>>>>>>> 3c425430bf6a9e3ede096be02941b926d8423226
   isLoaded: 1
   isActive: 1

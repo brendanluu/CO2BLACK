@@ -251,3 +251,4 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
 e4eb7ab1b14de91732c229d2e0e48391 Assembly-CSharp.dll:.collideScript
+1f65ccebe9029df134fa6e801252c398 Assembly-CSharp.dll:.CameraScript
