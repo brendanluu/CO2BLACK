@@ -6,12 +6,24 @@ using UnityEngine.SceneManagement;
 
 public class MoveScene : MonoBehaviour {
 
-		void OnTriggerEnter (Collider other) 
+
+
+	void OnTriggerEnter ()
 	{
-		if (other.CompareTag ("Player")) 
-		{
-			SceneManager.LoadScene ("Calluori01");
-		}
+		Application.LoadLevel ("Calluori01");
 	}
+
+
+
+
+
+
+
+	//{
+		//if (other.CompareTag ("Player")) 
+		//{
+			//SceneManager.LoadScene ("Calluori01");
+		//}
+	//}
 
 }
