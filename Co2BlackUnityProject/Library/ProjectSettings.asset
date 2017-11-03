@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
+<<<<<<< HEAD
   productGUID: 2e04c2494351a4d5fb9baa9a9abda00d
+=======
+  productGUID: 8858a47d399144575b1933987ce2a52c
+>>>>>>> af6b75abad3dd30ec8a2b687730b229d7a8b8071
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -142,6 +146,10 @@ PlayerSettings:
       depthFormat: 1
   protectGraphicsMemory: 0
   useHDRDisplay: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> af6b75abad3dd30ec8a2b687730b229d7a8b8071
   m_ColorGamuts: 00000000
   targetPixelDensity: 0
   resolutionScalingMode: 0
@@ -149,6 +157,23 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier: {}
   buildNumber: {}
+<<<<<<< HEAD
+=======
+=======
+  applicationIdentifier:
+    Android: com.Company.ProductName
+    Standalone: unity.Unity Technologies.Native Rendering Plugin Example
+    Tizen: com.Company.ProductName
+<<<<<<< HEAD
+    iOS: com.martinacalluori.ARCollideTest
+=======
+    iOS: com.unity.arkitscene
+>>>>>>> 45eb125f1bdb8a133829177dcdd446b5fa19ee98
+    tvOS: com.Company.ProductName
+  buildNumber:
+    iOS: 0
+>>>>>>> origin/master
+>>>>>>> af6b75abad3dd30ec8a2b687730b229d7a8b8071
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
