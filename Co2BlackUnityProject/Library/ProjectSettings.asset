@@ -142,6 +142,7 @@ PlayerSettings:
       depthFormat: 1
   protectGraphicsMemory: 0
   useHDRDisplay: 0
+<<<<<<< HEAD
   m_ColorGamuts: 00000000
   targetPixelDensity: 0
   resolutionScalingMode: 0
@@ -149,6 +150,20 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier: {}
   buildNumber: {}
+=======
+  applicationIdentifier:
+    Android: com.Company.ProductName
+    Standalone: unity.Unity Technologies.Native Rendering Plugin Example
+    Tizen: com.Company.ProductName
+<<<<<<< HEAD
+    iOS: com.martinacalluori.ARCollideTest
+=======
+    iOS: com.unity.arkitscene
+>>>>>>> 45eb125f1bdb8a133829177dcdd446b5fa19ee98
+    tvOS: com.Company.ProductName
+  buildNumber:
+    iOS: 0
+>>>>>>> origin/master
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
