@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/_Scenes/Culp.unity
+=======
 - path: Assets/_Scenes/Calluori03.unity
+>>>>>>> origin/master
   isLoaded: 1
   isActive: 1
