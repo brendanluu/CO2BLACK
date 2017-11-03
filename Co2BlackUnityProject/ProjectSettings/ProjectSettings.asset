@@ -140,7 +140,11 @@ PlayerSettings:
     Android: com.Company.ProductName
     Standalone: unity.Unity Technologies.Native Rendering Plugin Example
     Tizen: com.Company.ProductName
+<<<<<<< HEAD
     iOS: com.unity.arkitscene
+=======
+    iOS: com.martinacalluori.ARCollideTest
+>>>>>>> origin/master
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
@@ -577,7 +581,14 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLUseWasm: 0
   webGLCompressionFormat: 1
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: CROSS_PLATFORM_INPUT
+    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    14: MOBILE_INPUT
+    17: MOBILE_INPUT
+    20: MOBILE_INPUT
+    22: MOBILE_INPUT
   platformArchitecture:
     iOS: 2
   scriptingBackend:
