@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Culp.unity
+- path: Assets/_Scenes/RussoMapBox.unity
   isLoaded: 1
   isActive: 1
