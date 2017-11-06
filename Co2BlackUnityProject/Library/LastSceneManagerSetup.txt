@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/calluori04.unity
+=======
+- path: Assets/_Scenes/RussoMapBox.unity
+>>>>>>> e4a45e0e4dfa949538c137a1bce1990f12aec0c4
   isLoaded: 1
   isActive: 1
