@@ -41,7 +41,10 @@
 <type fullname="CameraScript" preserve="all"/>
 <type fullname="collideScript" preserve="all"/>
 <type fullname="fact1_script" preserve="all"/>
+<type fullname="FactHit1" preserve="all"/>
 <type fullname="factTrigger" preserve="all"/>
+<type fullname="HitByRay" preserve="all"/>
+<type fullname="HitByRaycast" preserve="all"/>
 <type fullname="Mapbox.Examples.Scripts.Utilities.DragRotate" preserve="all"/>
 <type fullname="Mapbox.Examples.SpawnOnGlobeExample" preserve="all"/>
 <type fullname="Mapbox.Examples.ReloadMap" preserve="all"/>
@@ -130,7 +133,7 @@
 <type fullname="Mapbox.Unity.Utilities.Runnable" preserve="all"/>
 <type fullname="Mapbox.Unity.Utilities.SingletonScriptableObject`1" preserve="all"/>
 <type fullname="Mapbox.Unity.Utilities.TelemetryConfigurationButton" preserve="all"/>
-<type fullname="MoveScript" preserve="all"/>
+<type fullname="RayHit" preserve="all"/>
 <type fullname="ballDrop" preserve="all"/>
 <type fullname="BlankScript" preserve="all"/>
 <type fullname="createBalls" preserve="all"/>
