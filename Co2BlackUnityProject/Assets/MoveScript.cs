@@ -28,8 +28,9 @@ public class MoveScript : MonoBehaviour {
 					moleculeSelect = hit.transform.gameObject;
 //					moleculeSelect.transform.localPosition = new Vector3(0, 0, 1);
 //					moleculePosition = moleculeSelect.transform.position;
-					Vector3 newPos = new Vector3 (0, 0, 1);
-					moleculeSelect.transform.position = newPos;
+//					Vector3 newPos = new Vector3 (0, 0, 1);
+//					moleculeSelect.transform.position = newPos;
+					moleculeSelect.transform.SendMessage ("HitByRay");
 
 				}
 			}

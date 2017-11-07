@@ -20,6 +20,7 @@ af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.ReverseGeocodeUserInput
 74602f47ac5939fc6675c58c724452bc Assembly-CSharp.dll:Mapbox.Unity.Map.RangeAroundTransformTileProvider
 0ea7e3a1b65cd933d7a007e6774c4eaa Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.AICharacterControl
+8400aa3156b3bfb7a0e14a6acc86fd04 Assembly-CSharp.dll:.factTrigger
 7481472d4e57e8477d484d43a43b79dc Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.FirstPersonController
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.SnapTerrainModifier
 516e5cc4558edc3eaf07fa540ce485bf Assembly-CSharp.dll:.ColorPickerTester
@@ -335,8 +336,3 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
-<<<<<<< Updated upstream
-8400aa3156b3bfb7a0e14a6acc86fd04 Assembly-CSharp.dll:.factTrigger
-=======
-737dc880dce98bb0fac4f9602dd69377 Assembly-CSharp.dll:.createBalls
->>>>>>> Stashed changes
