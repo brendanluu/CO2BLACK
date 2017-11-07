@@ -143,6 +143,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.ForwardGeocodeUserInput
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.FeatureSelectionDetector
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.TextureSelector
+27acdffc7a8f7930267dca6612c43cee Assembly-CSharp.dll:.fact1_script
 e1734f63576cd8ea370eede4efae656b Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.MapImageFactory
 f0bdc1041dee6504f25216b38b2bb3cb TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.InlineGraphic
 cd5f66d713a060bf891e329290b64cc4 TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.InlineGraphicManager
@@ -176,6 +177,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.FeatureBehaviour
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.start
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DragRigidbody
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.PoiMarkerHelper
 78ebae5ed9b3edeb216da437b99754a4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.Joystick
@@ -244,6 +246,7 @@ e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
 f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.FlatTerrainFactory
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScript
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -326,12 +329,10 @@ f4322fc0f64b38fe7809a75cfdc78866 Assembly-CSharp.dll:Mapbox.Examples.Voxels.Voxe
 44a3dfd1a8522003ea79fe6180df91d5 Assembly-CSharp.dll:Mapbox.Unity.Map.DynamicZoomMap
 fd1441f74fdb9cec10ac22c943c596cd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.LayerModifier
 a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Filters.TypeFilter
+4a1e28075dd4bc320c4b4f5f824cb893 Assembly-CSharp.dll:.appear
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.MeshModifier
 391d84b859f3b155fe38f54bfce79162 Assembly-CSharp.dll:.UnityPointCloudExample
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.start
-0cd7f8161022c2fd4e5c3d33243963ff Assembly-CSharp.dll:.appear
-27acdffc7a8f7930267dca6612c43cee Assembly-CSharp.dll:.fact1_script
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScript
+8400aa3156b3bfb7a0e14a6acc86fd04 Assembly-CSharp.dll:.factTrigger
