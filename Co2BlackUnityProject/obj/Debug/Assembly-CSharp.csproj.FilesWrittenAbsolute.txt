@@ -28,3 +28,4 @@
 /Users/martinacalluori/Documents/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/martinacalluori/Documents/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.Pdb.dll
 /Users/martinacalluori/Documents/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/martinacalluori/Documents/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/TextMeshPro-1.0.55.2017.2.0b12.dll

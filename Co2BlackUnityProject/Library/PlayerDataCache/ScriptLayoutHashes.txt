@@ -267,6 +267,7 @@ dd9e526ff0048688a95ccb5807afc057 Assembly-CSharp.dll:Mapbox.Unity.Location.Locat
 4da4da3ccc3d73b63daf7b6b2240656e Assembly-CSharp.dll:Mapbox.Unity.Map.CameraBoundsTileProvider
 52a93e2b3d8c5325282084d1f6989f55 Assembly-CSharp.dll:Mapbox.Examples.SpawnOnGlobeExample
 b1f0704fc1b542c80ecf3fa1bbf472a1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController
+737dc880dce98bb0fac4f9602dd69377 Assembly-CSharp.dll:.createBalls
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 2a56361227def9f56c2cf57a88b32f4d UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
@@ -330,3 +331,7 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.start
+0cd7f8161022c2fd4e5c3d33243963ff Assembly-CSharp.dll:.appear
+27acdffc7a8f7930267dca6612c43cee Assembly-CSharp.dll:.fact1_script
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScript
