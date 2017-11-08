@@ -41,6 +41,8 @@ public class appear : MonoBehaviour {
 
 
 		molecule.transform.SetParent(null);
+
+		Debug.Log (fact1.transform.position);
 	}
 
 
