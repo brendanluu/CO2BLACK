@@ -12,7 +12,11 @@ public class instantiateSphere : MonoBehaviour
 
 	public GameObject sphere;
 
-	int ballCount = 5000/10;
+<<<<<<< Updated upstream
+	int ballCount = 3000/10;
+=======
+	int ballCount = 2000/10;
+>>>>>>> Stashed changes
 
 
 
@@ -24,7 +28,7 @@ public class instantiateSphere : MonoBehaviour
 
 		for (int i = 0; i < ballCount; i++)
 		{
-			GameObject spheres = Instantiate(sphere, new Vector3(0, (i + 50) * 1.20F, Random.Range(-120.0f, 120.0f)), Quaternion.identity) as GameObject;
+			GameObject spheres = Instantiate(sphere, new Vector3(0, 0, 0), Quaternion.identity) as GameObject;
 			spheres.transform.parent = holder.transform;
 
 
