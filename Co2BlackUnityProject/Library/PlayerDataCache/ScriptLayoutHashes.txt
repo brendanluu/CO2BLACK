@@ -66,6 +66,7 @@ f8e1023e5cf37242261f5d0e232b4fe5 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARH
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.GameObjectModifier
 1f65ccebe9029df134fa6e801252c398 Assembly-CSharp.dll:.CameraScript
 820e591855ac19dd439d99ec06d3ef2c Assembly-CSharp.dll:.ColorLabel
+847245c25608094191ee5efa95898bce Assembly-CSharp.dll:.instantiateSphere
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -267,6 +268,7 @@ c3bbced3b920c972296954f059b11c2e Assembly-CSharp.dll:UnityEngine.UI.BoxSlider
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 7317d05fdc27591726053b234b9ea5ee Assembly-CSharp.dll:.ColorSliderImage
 dd9e526ff0048688a95ccb5807afc057 Assembly-CSharp.dll:Mapbox.Unity.Location.LocationProviderFactory
+2716fc22dbe4918eea100a5410bb6b29 Assembly-CSharp.dll:.collideFreeze
 4da4da3ccc3d73b63daf7b6b2240656e Assembly-CSharp.dll:Mapbox.Unity.Map.CameraBoundsTileProvider
 52a93e2b3d8c5325282084d1f6989f55 Assembly-CSharp.dll:Mapbox.Examples.SpawnOnGlobeExample
 b1f0704fc1b542c80ecf3fa1bbf472a1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController
