@@ -7,22 +7,13 @@ public class instantiateSphere : MonoBehaviour
 {
 
 
-
 	public GameObject holder;
 
 	public GameObject sphere;
 
-<<<<<<< HEAD
-
-	int ballCount = 3000/10;
-=======
-<<<<<<< HEAD
-	int ballCount = 3000;
 =======
 
 	int ballCount = 3000/10;
->>>>>>> b4645d287836b418c6fa37c80bca20036d927578
->>>>>>> ff913892ba02d441ccd83606ba40979e8cd848cb
 
 
 
