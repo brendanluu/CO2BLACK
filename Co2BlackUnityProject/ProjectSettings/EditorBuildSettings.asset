@@ -4,6 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 0
     path: Assets/_Scenes/RussoMapBox2.unity
@@ -14,3 +15,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/RussoMapBox3.unity
     guid: 60beb4c246c5948ef843227e459387ca
+=======
+  m_Scenes: []
+>>>>>>> b4645d287836b418c6fa37c80bca20036d927578

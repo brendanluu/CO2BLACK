@@ -12,7 +12,13 @@ public class instantiateSphere : MonoBehaviour
 
 	public GameObject sphere;
 
+<<<<<<< HEAD
 	int ballCount = 3000;
+=======
+
+	int ballCount = 3000/10;
+>>>>>>> b4645d287836b418c6fa37c80bca20036d927578
+
 
 
 
