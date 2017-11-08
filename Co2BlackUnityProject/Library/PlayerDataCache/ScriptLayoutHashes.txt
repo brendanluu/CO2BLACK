@@ -20,6 +20,7 @@ af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.ReverseGeocodeUserInput
 74602f47ac5939fc6675c58c724452bc Assembly-CSharp.dll:Mapbox.Unity.Map.RangeAroundTransformTileProvider
 0ea7e3a1b65cd933d7a007e6774c4eaa Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.AICharacterControl
+8400aa3156b3bfb7a0e14a6acc86fd04 Assembly-CSharp.dll:.factTrigger
 7481472d4e57e8477d484d43a43b79dc Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.FirstPersonController
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.SnapTerrainModifier
 516e5cc4558edc3eaf07fa540ce485bf Assembly-CSharp.dll:.ColorPickerTester
@@ -246,7 +247,6 @@ e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
 f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.FlatTerrainFactory
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScript
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -335,4 +335,6 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
-8400aa3156b3bfb7a0e14a6acc86fd04 Assembly-CSharp.dll:.factTrigger
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HitByRaycast
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FactHit1
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RayHit
