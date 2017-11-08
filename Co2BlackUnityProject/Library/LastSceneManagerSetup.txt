@@ -1,8 +1,12 @@
 sceneSetups:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/_Scenes/calluori04.unity
 =======
 - path: Assets/_Scenes/RussoMapBox2.unity
 >>>>>>> 818c1045132fbe962ad3cddaf93db2523a2ee155
+=======
+- path: Assets/_Scenes/asmoketing.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
