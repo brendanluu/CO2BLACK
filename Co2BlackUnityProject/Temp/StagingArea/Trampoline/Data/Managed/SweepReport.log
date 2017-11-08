@@ -11,7 +11,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 201
   Total Field Removals = 1117
-  Total Method Removals = 15541
+  Total Method Removals = 15540
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mapbox.Json
@@ -20477,7 +20477,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 0
   Total Field Removals = 7
-  Total Method Removals = 418
+  Total Method Removals = 417
   References Removed = 0
 ---------------------------------------------------
     UnityEngine.BoxCollider
@@ -20541,7 +20541,6 @@ Summary:
         get_collider()
         get_contacts()
         get_frictionForceSum()
-        get_gameObject()
         get_impactForceSum()
         get_impulse()
         get_other()

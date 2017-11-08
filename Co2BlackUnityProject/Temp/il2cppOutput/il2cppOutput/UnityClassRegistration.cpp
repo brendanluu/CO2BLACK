@@ -159,7 +159,7 @@ class BillboardRenderer;
 class LineRenderer; 
 class MeshRenderer; template <> void RegisterClass<MeshRenderer>();
 class ParticleRenderer; 
-class ParticleSystemRenderer; template <> void RegisterClass<ParticleSystemRenderer>();
+class ParticleSystemRenderer; 
 class SkinnedMeshRenderer; 
 class SpriteMask; 
 class SpriteRenderer; 
@@ -191,7 +191,7 @@ class ComputeShader;
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
-class LightProbes; 
+class LightProbes; template <> void RegisterClass<LightProbes>();
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -200,7 +200,7 @@ class AnimationClip;
 class PreviewAnimationClip; 
 class NavMeshData; 
 class OcclusionCullingData; 
-class PhysicMaterial; template <> void RegisterClass<PhysicMaterial>();
+class PhysicMaterial; 
 class PhysicsMaterial2D; 
 class PreloadData; template <> void RegisterClass<PreloadData>();
 class RuntimeAnimatorController; 
@@ -270,7 +270,7 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
-	//Total: 81 non stripped classes
+	//Total: 80 non stripped classes
 	//0. AudioClip
 	RegisterClass<AudioClip>();
 	//1. SampleClip
@@ -427,11 +427,9 @@ RegisterBuiltinTypes();
 	RegisterClass<LightmapSettings>();
 	//77. CGProgram
 	RegisterClass<CGProgram>();
-	//78. PhysicMaterial
-	RegisterClass<PhysicMaterial>();
-	//79. ParticleSystemRenderer
-	RegisterClass<ParticleSystemRenderer>();
-	//80. NavMeshSettings
+	//78. LightProbes
+	RegisterClass<LightProbes>();
+	//79. NavMeshSettings
 	RegisterClass<NavMeshSettings>();
 
 }

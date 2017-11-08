@@ -137,8 +137,10 @@
 <type fullname="RayHit" preserve="all"/>
 <type fullname="ballDrop" preserve="all"/>
 <type fullname="BlankScript" preserve="all"/>
+<type fullname="collideFreeze" preserve="all"/>
 <type fullname="createBalls" preserve="all"/>
 <type fullname="fallController" preserve="all"/>
+<type fullname="instantiateSphere" preserve="all"/>
 <type fullname="MoveScene" preserve="all"/>
 <type fullname="start" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.ConnectToEditor" preserve="all"/>

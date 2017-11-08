@@ -4,7 +4,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>
-    <string>Co2BlackUnityProject</string>
+    <string>stress</string>
     <key>CFBundleExecutable</key>
     <string>${EXECUTABLE_NAME}</string>
     <key>CFBundleIconFiles</key>
@@ -18,7 +18,7 @@
       <string>AppIcon76x76~ipad.png</string>
     </array>
     <key>CFBundleIdentifier</key>
-    <string>com.jacobculp.${PRODUCT_NAME}</string>
+    <string>com.bluu.${PRODUCT_NAME}</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
