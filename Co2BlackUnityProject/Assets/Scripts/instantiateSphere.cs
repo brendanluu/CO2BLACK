@@ -12,7 +12,11 @@ public class instantiateSphere : MonoBehaviour
 
 	public GameObject sphere;
 
+<<<<<<< Updated upstream
 	int ballCount = 3000/10;
+=======
+	int ballCount = 2000/10;
+>>>>>>> Stashed changes
 
 
 

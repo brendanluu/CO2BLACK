@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< Updated upstream
-- path: Assets/_Scenes/calluori04.unity
-=======
-- path: Assets/_Scenes/RussoMapBox.unity
->>>>>>> Stashed changes
+- path: Assets/_Scenes/RussoMapBox2.unity
   isLoaded: 1
   isActive: 1
