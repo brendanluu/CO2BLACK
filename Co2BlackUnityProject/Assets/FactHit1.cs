@@ -10,7 +10,11 @@ public class FactHit1 : MonoBehaviour {
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
 
-		Destroy (this.gameObject);
+//		Destroy (this.gameObject);
+
+		fact1OrigPos = this.gameObject.transform.position;
+
+
 
 
 

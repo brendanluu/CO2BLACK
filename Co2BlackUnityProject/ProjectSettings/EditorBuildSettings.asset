@@ -4,4 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes: []
+=======
+<<<<<<< HEAD
+  m_Scenes: []
+=======
+<<<<<<< HEAD
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/RussoMapBox2.unity
+    guid: 8c24a1e5f0e48419f8243da50e0b12ce
+  - enabled: 0
+    path: Assets/UnityARKitPlugin/ARKitRemote/UnityARKitRemote.unity
+    guid: 3ed73c0c9d4b76a418a0541c0cefd3ac
+  - enabled: 1
+    path: Assets/_Scenes/RussoMapBox3.unity
+    guid: 60beb4c246c5948ef843227e459387ca
+=======
+  m_Scenes: []
+>>>>>>> b4645d287836b418c6fa37c80bca20036d927578
+>>>>>>> ff913892ba02d441ccd83606ba40979e8cd848cb
+>>>>>>> 8ad1f48656ecf4f6179e394bfc2a5e21c3b47be7
