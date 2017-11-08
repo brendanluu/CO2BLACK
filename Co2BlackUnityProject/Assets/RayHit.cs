@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 using UnityEngine.XR.iOS;
 
-public class MoveScript : MonoBehaviour {
+public class RayHit : MonoBehaviour {
 
 	private static GameObject moleculeSelect;
 	private static GameObject moleculeSelect1;
