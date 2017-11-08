@@ -42,6 +42,7 @@
 <type fullname="collideScript" preserve="all"/>
 <type fullname="fact1_script" preserve="all"/>
 <type fullname="FactHit1" preserve="all"/>
+<type fullname="FactHit2" preserve="all"/>
 <type fullname="factTrigger" preserve="all"/>
 <type fullname="HitByRay" preserve="all"/>
 <type fullname="HitByRaycast" preserve="all"/>
