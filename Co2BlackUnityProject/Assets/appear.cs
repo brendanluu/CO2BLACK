@@ -10,6 +10,10 @@ public class appear : MonoBehaviour {
 	public GameObject fact2; 
 	public GameObject fact3;
 	public GameObject fact4; 
+	public GameObject smoke;
+	public GameObject cam;
+
+	private float distance = 3.0f;
 
 
 
@@ -17,6 +21,7 @@ public class appear : MonoBehaviour {
 
 		molecule.SetActive (true);
 		tapButton.SetActive (false);
+		smoke.SetActive (false);
 		fact1.SetActive (true);
 		fact2.SetActive (true);
 		fact3.SetActive (true);
@@ -24,6 +29,32 @@ public class appear : MonoBehaviour {
 
 		if (fact1.active) {
 			molecule.SetActive (false);
+			smoke.SetActive (true);
+		
+//			fact1.transform.position = cam.transform.forward;
+//			fact1.transform.position = cam.transform.position;
+
+//			Debug.Log (fact1.transform.position);
+//			fact1.transform.position = fact1.transform.position + Camera.main.transform.forward * distance * Time.deltaTime;
+//			Debug.Log (fact1.transform.position);
+//
+			fact1.transform.position = (cam.transform.position-cam.transform.right) + cam.transform.forward * distance ;
+			fact1.transform.rotation = new Quaternion( 0.0f, cam.transform.rotation.y, 0.0f, cam.transform.rotation.w );
+			fact2.transform.position = (cam.transform.position+cam.transform.right) + cam.transform.forward * distance;
+			fact2.transform.rotation = new Quaternion( 0.0f, cam.transform.rotation.y, 0.0f, cam.transform.rotation.w );
+			fact3.transform.position = cam.transform.position + cam.transform.forward * distance;
+			fact3.transform.rotation = new Quaternion( 0.0f, cam.transform.rotation.y, 0.0f, cam.transform.rotation.w );
+			fact4.transform.position = (cam.transform.position+(2*cam.transform.right)) + cam.transform.forward * distance;
+			fact4.transform.rotation = new Quaternion( 0.0f, cam.transform.rotation.y, 0.0f, cam.transform.rotation.w );
+//			fact1.transform.localPosition = new Vector3(0, 0, 1);
+//			fact2.transform.localPosition = new Vector3(-1, 0, 1);
+//			fact3.transform.localPosition = new Vector3(1, 0, 1);
+//			fact4.transform.localPosition = new Vector3(2, 0, 1);
+
+
+
+
+
 	
 //			Vector3 offset = fact1.position - lastPos;
 //			if (offset.x > 0.0f) {
@@ -42,7 +73,7 @@ public class appear : MonoBehaviour {
 
 		molecule.transform.SetParent(null);
 
-		Debug.Log (fact1.transform.position);
+//		Debug.Log (fact1.transform.position);
 	}
 
 
