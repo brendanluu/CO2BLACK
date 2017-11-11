@@ -4,11 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Scenes: []
-=======
-  m_Scenes:
-  - enabled: 1
-    path: Assets/_Scenes/calluori04.unity
-    guid: a5306223d2d31459cbce74b35152c0b5
->>>>>>> cbe5c448d3b9705c8edc92ad8928593108bc7d90
