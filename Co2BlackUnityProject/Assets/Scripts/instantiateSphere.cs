@@ -7,27 +7,30 @@ public class instantiateSphere : MonoBehaviour
 {
 
 
+
 	public GameObject holder;
 
 	public GameObject sphere;
 
-	int ballCount = 3000/10;
+	int ballCount = 3000;
+
+
+
 
 
 	void Start()
 	{
-		
+
 
 		for (int i = 0; i < ballCount; i++)
 		{
-			GameObject spheres = Instantiate(sphere, new Vector3(0, i * 0.1f, -3), Quaternion.identity) as GameObject;
+			GameObject spheres = Instantiate(sphere, new Vector3(0, i * 0.1f, 1), Quaternion.identity) as GameObject;
 			spheres.transform.parent = holder.transform;
 
 
 		}
 	}
 }
-
 
 
 
