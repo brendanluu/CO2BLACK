@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/RussoMapBox3.unity
+- path: Assets/_Scenes/mapBuildScene.unity
   isLoaded: 1
   isActive: 1
