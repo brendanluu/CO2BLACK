@@ -4,13 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
+  m_Scenes: []
+=======
   m_Scenes:
   - enabled: 0
     path: Assets/_Scenes/RussoMapBox3.unity
     guid: 60beb4c246c5948ef843227e459387ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/mapBuildScene.unity
     guid: cc26dfe94c9644c12b4dc8b5fd3d9d07
+<<<<<<< HEAD
   - enabled: 0
     path: Assets/UnityARKitPlugin/ARKitRemote/UnityARKitRemote.unity
     guid: 3ed73c0c9d4b76a418a0541c0cefd3ac
+=======
+<<<<<<< HEAD
+  - enabled: 1
+    path: Assets/_Scenes/calluori04.unity
+    guid: a5306223d2d31459cbce74b35152c0b5
+  - enabled: 1
+    path: Assets/_Scenes/Calluori01.unity
+    guid: 15cb373830fcd41558d80e06540c833c
+=======
+>>>>>>> origin/master
+>>>>>>> 9f3fd95239b45d16c098bdc12cf367174b6381c8
+>>>>>>> origin/master

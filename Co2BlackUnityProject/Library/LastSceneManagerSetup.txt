@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/mapBuildScene.unity
+=======
+- path: Assets/_Scenes/calluori04.unity
+>>>>>>> origin/master
   isLoaded: 1
   isActive: 1
