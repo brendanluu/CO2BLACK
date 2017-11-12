@@ -1,8 +1,12 @@
 sceneSetups:
 <<<<<<< HEAD
+- path: Assets/_Scenes/mapBuildScene.unity
+=======
+<<<<<<< HEAD
 - path: Assets/_Scenes/calluori04.unity
 =======
 - path: Assets/_Scenes/WiegmanRussoMapBoxSmoke.unity
 >>>>>>> e146a4171d322f9694c1a15f0dadbd3805c57e1a
+>>>>>>> origin/master
   isLoaded: 1
   isActive: 1
