@@ -12,7 +12,7 @@ public class instantiateSphere : MonoBehaviour
 
 	public GameObject sphere;
 
-	int ballCount = 5000/10;
+	int ballCount = 3000;
 
 
 
@@ -20,18 +20,17 @@ public class instantiateSphere : MonoBehaviour
 
 	void Start()
 	{
-		
+
 
 		for (int i = 0; i < ballCount; i++)
 		{
-			GameObject spheres = Instantiate(sphere, new Vector3(0, (i + 50) * 1.20F, Random.Range(-120.0f, 120.0f)), Quaternion.identity) as GameObject;
+			GameObject spheres = Instantiate(sphere, new Vector3(0, i * 0.1f, 1), Quaternion.identity) as GameObject;
 			spheres.transform.parent = holder.transform;
 
 
 		}
 	}
 }
-
 
 
 

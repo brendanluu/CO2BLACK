@@ -1,5 +1,14 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
+<<<<<<< HEAD
+=======
+Cmd: preprocess
+  insize=2378 outsize=1060 ok=1
+Cmd: preprocess
+  insize=2236 outsize=943 ok=1
+Cmd: preprocess
+  insize=2273 outsize=1004 ok=1
+>>>>>>> origin/master
 Unhandled exception: Protocol error - failed to read correct magic number
 
 Quitting shader compiler process
