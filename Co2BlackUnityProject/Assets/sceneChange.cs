@@ -9,7 +9,7 @@ public class sceneChange : MonoBehaviour {
 
 	public void loadScene ()
 	{
-		Application.LoadLevel ("Calluori01");
+		Application.LoadLevel ("mapBuildScene");
 	}
 
 }

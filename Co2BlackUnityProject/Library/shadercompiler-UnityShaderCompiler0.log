@@ -1,20 +1,2 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-Cmd: preprocess
-  insize=2378 outsize=1060 ok=1
-Cmd: preprocess
-  insize=2236 outsize=943 ok=1
-Cmd: preprocess
-  insize=2273 outsize=1004 ok=1
->>>>>>> origin/master
-Unhandled exception: Protocol error - failed to read correct magic number
-
-Quitting shader compiler process
->>>>>>> 9f3fd95239b45d16c098bdc12cf367174b6381c8
-=======
->>>>>>> Stashed changes

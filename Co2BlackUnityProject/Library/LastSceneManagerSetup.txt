@@ -1,10 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/mapBuildScene.unity
-<<<<<<< Updated upstream
-=======
 - path: Assets/_Scenes/calluori04.unity
->>>>>>> origin/master
-=======
->>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
