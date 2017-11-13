@@ -147,12 +147,14 @@
 <type fullname="Mapbox.Unity.Utilities.SingletonScriptableObject`1" preserve="all"/>
 <type fullname="Mapbox.Unity.Utilities.TelemetryConfigurationButton" preserve="all"/>
 <type fullname="RayHit" preserve="all"/>
+<type fullname="sceneChange" preserve="all"/>
 <type fullname="ballDrop" preserve="all"/>
 <type fullname="BlankScript" preserve="all"/>
 <type fullname="collideFreeze" preserve="all"/>
 <type fullname="createBalls" preserve="all"/>
 <type fullname="fallController" preserve="all"/>
 <type fullname="instantiateSphere" preserve="all"/>
+<type fullname="mapBuildScript" preserve="all"/>
 <type fullname="MoveScene" preserve="all"/>
 <type fullname="start" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.ConnectToEditor" preserve="all"/>

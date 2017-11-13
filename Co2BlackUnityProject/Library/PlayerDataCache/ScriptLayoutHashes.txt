@@ -346,10 +346,12 @@ f4322fc0f64b38fe7809a75cfdc78866 Assembly-CSharp.dll:Mapbox.Examples.Voxels.Voxe
 44a3dfd1a8522003ea79fe6180df91d5 Assembly-CSharp.dll:Mapbox.Unity.Map.DynamicZoomMap
 fd1441f74fdb9cec10ac22c943c596cd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.LayerModifier
 a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Filters.TypeFilter
-99abfc770aeb6b04a3ca395c0cffadcc Assembly-CSharp.dll:.appear
+5a1d827c95efbcf20ddfe8b9ec199725 Assembly-CSharp.dll:.appear
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.MeshModifier
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FactHit4
 391d84b859f3b155fe38f54bfce79162 Assembly-CSharp.dll:.UnityPointCloudExample
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.sceneChange
+b78b41b80d730d4593aaf83225c3f062 Assembly-CSharp.dll:.mapBuildScript

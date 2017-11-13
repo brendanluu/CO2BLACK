@@ -1,7 +1,8 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
-		<type fullname="ballDrop">
-			<method name="ballFall"/>
+		<type fullname="mapBuildScript">
+			<method name="toggleSmoke"/>
+			<method name="toggleSpheres"/>
 		</type>
 	</assembly>
 </linker>
