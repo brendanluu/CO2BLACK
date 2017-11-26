@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Wiegman01.unity
+- path: Assets/_Scenes/WiegmanRusso_T1.unity
   isLoaded: 1
   isActive: 1
