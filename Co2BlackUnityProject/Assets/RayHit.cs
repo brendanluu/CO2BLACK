@@ -7,7 +7,6 @@ using UnityEngine.XR.iOS;
 public class RayHit : MonoBehaviour {
 
 	private static GameObject moleculeSelect;
-	private static GameObject moleculeSelect1;
 	private Vector3 fixedPos;
 	private Vector3 moleculePosition;
 

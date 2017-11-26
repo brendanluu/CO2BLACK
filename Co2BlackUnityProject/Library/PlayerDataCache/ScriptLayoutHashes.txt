@@ -174,6 +174,7 @@ e763036081c708b34f78f5a56f72c23d TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_St
 136f28bae18bcd1072d830ee3456f3ab TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_SubMesh
 5833a86cc374f497ae8d9fb9d8c3e5f4 TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_SubMeshUI
 d672cee35261f9935d5ce974c746730f TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_Text
+51c9cbdf3e71d8f78252c2a491af267b Assembly-CSharp.dll:.newScreen
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
 0abbdc4938288c690efd9c810a09b02f Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.MergedModifierStack
 6c74016cffb8e2a4239ac7139861e869 Assembly-CSharp.dll:Mapbox.Examples.FeatureUiMarker
@@ -355,3 +356,4 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LampHit
