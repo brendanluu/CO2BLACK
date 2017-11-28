@@ -5,24 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/calluori04.unity
-    guid: a5306223d2d31459cbce74b35152c0b5
-  - enabled: 0
-    path: Assets/_Scenes/mapBuildScene.unity
-    guid: cc26dfe94c9644c12b4dc8b5fd3d9d07
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/ARKitRemote/UnityARKitRemote.unity
-    guid: 3ed73c0c9d4b76a418a0541c0cefd3ac
-  - enabled: 0
-    path: Assets/_Scenes/lampScene.unity
-    guid: 57d972580a8c14806966f49c72558d2c
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/Examples/FocusSquare/FocusSquareScene.unity
-    guid: 3c9ef824a7b95400bade362484e9b6af
-  - enabled: 0
-    path: Assets/_Scenes/lampSceneCool.unity
-    guid: 1a4aa0373bd9348a9a581a1e1aa74bd5
   - enabled: 1
     path: Assets/_Scenes/lampSceneCool2.unity
     guid: 16420fbacc3b84b6f9f75964cdb380b0

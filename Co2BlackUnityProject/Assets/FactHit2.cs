@@ -8,6 +8,7 @@ public class FactHit2 : MonoBehaviour {
 	private Vector3 fact2NewPos;
 
 	public GameObject spotlightObject;
+	public GameObject spotlightObject1;
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
@@ -16,7 +17,8 @@ public class FactHit2 : MonoBehaviour {
 //		this.gameObject.transform.localPosition = new Vector3(-1.25f, 0, -1.25f);
 
 
-		spotlightObject.SetActive (true);
+		spotlightObject.SetActive (false);
+		spotlightObject1.SetActive (false);
 	}
 }
 
