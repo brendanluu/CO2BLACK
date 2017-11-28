@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/UnityARKitPlugin/Examples/FocusSquare/FocusSquareScene.unity
     guid: 3c9ef824a7b95400bade362484e9b6af
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/lampSceneCool.unity
     guid: 1a4aa0373bd9348a9a581a1e1aa74bd5
+  - enabled: 1
+    path: Assets/_Scenes/lampSceneCool2.unity
+    guid: 16420fbacc3b84b6f9f75964cdb380b0

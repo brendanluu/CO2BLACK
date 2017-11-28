@@ -6,9 +6,9 @@ using UnityEngine.XR.iOS;
 
 public class RayHitLamp : MonoBehaviour {
 
-	public GameObject lampObject;
-	private Vector3 fixedPos;
-	private Vector3 moleculePosition;
+	private static GameObject lampObject;
+//	private Vector3 fixedPos;
+//	private Vector3 moleculePosition;
 
 	// Use this for initialization
 	void Start () {
@@ -29,9 +29,7 @@ public class RayHitLamp : MonoBehaviour {
 				RaycastHit hit;
 				if (Physics.Raycast (ray, out hit, 100)) {
 					lampObject = hit.transform.gameObject;
-					Destroy (lampObject);
-//					lampObject.transform.SendMessage ("HitByRay");
-					Debug.Log("Hit by Ray");
+					lampObject.transform.SendMessage ("HitByRay");
 				}
 			}
 		}

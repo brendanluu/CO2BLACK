@@ -10,11 +10,6 @@ public class LampHit : MonoBehaviour {
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
-
-//
-//		this.gameObject.SetActive (false);
-	}
-	void Update () {
-
+		Destroy (gameObject);
 	}
 }
