@@ -6,8 +6,7 @@ using UnityEngine.XR.iOS;
 
 public class RayHit : MonoBehaviour {
 
-	private static GameObject moleculeSelect;
-	private static GameObject moleculeSelect1;
+	private static GameObject lampObject;
 	private Vector3 fixedPos;
 	private Vector3 moleculePosition;
 
@@ -18,29 +17,22 @@ public class RayHit : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		//debug
+		Vector3 forward = transform.TransformDirection(Vector3.forward) * 10;
+		Debug.DrawRay(transform.position, forward, Color.green);
+
 		if (Input.touchCount > 0) {
-			moleculeSelect = null;
+			lampObject = null;
 			Touch touch = Input.GetTouch (0);
 			if (touch.phase == TouchPhase.Began) {
 				Ray ray = Camera.main.ScreenPointToRay (touch.position);
 				RaycastHit hit;
 				if (Physics.Raycast (ray, out hit, 100)) {
-					moleculeSelect = hit.transform.gameObject;
-//					moleculeSelect.transform.localPosition = new Vector3(0, 0, 1);
-//					moleculePosition = moleculeSelect.transform.position;
-//					Vector3 newPos = new Vector3 (0, 0, 1);
-//					moleculeSelect.transform.position = newPos;
-					moleculeSelect.transform.SendMessage ("HitByRay");
-
+					lampObject = hit.transform.gameObject;
+					lampObject.transform.SendMessage ("HitByRay");
+					Debug.Log("Hit by Ray");
 				}
 			}
 		}
 	}
-
-//	public void DetachFromParent()
-//	{
-//		// Detaches the transform from its parent.
-//		moleculeSelect.transform.parent = null;
-//	}
-
 }
