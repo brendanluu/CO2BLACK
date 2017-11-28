@@ -15,23 +15,33 @@ public class newScreen : MonoBehaviour {
 		Screen1.SetActive (false);
 		Screen2.SetActive (true);
 	}
+		
+	public void visualize() {
+//		if visualize button is clicked, hide second screen, show the third
+		Screen2.SetActive (false);
+		Screen3.SetActive (true);
+		smoke.SetActive (true);
+	}
+		
+}
+
 //	attempt to get next audio clip to play once previous clip ends
-	//	public AudioClip otherClip;
-	//	AudioSource audioSource;
-	//
-	//	void Start()
-	//	{
-	//		audioSource = GetComponent<AudioSource>();
-	//	}
-	//
-	//	void Update()
-	//	{
-	//		if (audioSource.isPlaying == false)
-	//		{
-	//			audioSource.clip = otherClip;
-	//			audioSource.Play();
-	//		}
-	//	}
+//		public AudioClip otherClip;
+//		AudioSource audioSource;
+//	
+//		void Start()
+//		{
+//			audioSource = GetComponent<AudioSource>();
+//		}
+//	
+//		void Update()
+//		{
+//			if (audioSource.isPlaying == false)
+//			{
+//				audioSource.clip = otherClip;
+//				audioSource.Play();
+//			}
+//		}
 
 //		public AudioClip engineStartClip;
 //		public AudioClip engineLoopClip;
@@ -71,13 +81,3 @@ public class newScreen : MonoBehaviour {
 //		if(Screen1 != null)
 //			Screen1.SetActive(false); //Do something
 //	}
-
-	public void visualize() {
-//		if visualize button is clicked, hide second screen, show the third
-		Screen2.SetActive (false);
-		Screen3.SetActive (true);
-		smoke.SetActive (true);
-	}
-
-
-}
