@@ -14,6 +14,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 44
     width: 1280
     height: 752
@@ -21,6 +22,21 @@ MonoBehaviour:
   m_Title: 
   m_RootView: {fileID: 6}
   m_MinSize: {x: 950, y: 542}
+=======
+<<<<<<< HEAD
+    y: 44
+    width: 1280
+    height: 752
+=======
+    y: 45
+    width: 2560
+    height: 1391
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 392}
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -40,10 +56,23 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1280
     height: 702
   m_MinSize: {x: 681, y: 492}
+=======
+<<<<<<< HEAD
+    width: 1280
+    height: 702
+  m_MinSize: {x: 683, y: 342}
+  m_MaxSize: {x: 12008, y: 8042}
+=======
+    width: 2560
+    height: 1341
+  m_MinSize: {x: 683, y: 492}
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 14004, y: 14042}
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
   vertical: 0
   controlID: 52
 --- !u!114 &3
@@ -60,10 +89,24 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1003
     y: 0
     width: 277
     height: 702
+=======
+<<<<<<< HEAD
+    x: 1003
+    y: 0
+    width: 277
+    height: 702
+=======
+    x: 2041
+    y: 0
+    width: 519
+    height: 1341
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -87,11 +130,24 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 248
     height: 425
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
+=======
+<<<<<<< HEAD
+    width: 248
+    height: 425
+=======
+    width: 505
+    height: 811
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_Panes:
   - {fileID: 17}
   m_Selected: 0
@@ -111,6 +167,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 425
     width: 1003
     height: 277
@@ -123,6 +180,28 @@ MonoBehaviour:
   - {fileID: 12}
   m_Selected: 0
   m_LastSelected: 2
+=======
+<<<<<<< HEAD
+    y: 425
+    width: 1003
+    height: 277
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 18}
+=======
+    y: 811
+    width: 2041
+    height: 530
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 13}
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+  m_Panes:
+  - {fileID: 13}
+  - {fileID: 18}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> parent of e095a4a2... added voiceover audio
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,9 +221,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1280
     height: 752
   m_MinSize: {x: 950, y: 542}
+=======
+<<<<<<< HEAD
+    width: 1280
+    height: 752
+=======
+    width: 2560
+    height: 1391
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -162,11 +252,27 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1280
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+=======
+<<<<<<< HEAD
+    width: 1280
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+=======
+    width: 2560
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: Default
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -182,8 +288,18 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 732
     width: 1280
+=======
+<<<<<<< HEAD
+    y: 732
+    width: 1280
+=======
+    y: 1371
+    width: 2560
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -205,10 +321,23 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1003
     height: 702
   m_MinSize: {x: 404, y: 492}
+=======
+<<<<<<< HEAD
+    width: 1003
+    height: 702
+  m_MinSize: {x: 406, y: 342}
+  m_MaxSize: {x: 8006, y: 8042}
+=======
+    width: 2041
+    height: 1341
+  m_MinSize: {x: 406, y: 492}
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 10002, y: 14042}
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
   vertical: 1
   controlID: 53
 --- !u!114 &10
@@ -229,10 +358,22 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1003
     height: 425
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
+=======
+<<<<<<< HEAD
+    width: 1003
+    height: 425
+=======
+    width: 2041
+    height: 811
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+>>>>>>> parent of e095a4a2... added voiceover audio
   vertical: 0
   controlID: 54
 --- !u!114 &11
@@ -249,7 +390,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 248
+=======
+<<<<<<< HEAD
+    x: 248
+=======
+    x: 505
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     y: 0
     width: 755
     height: 425
@@ -384,9 +533,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 519
     width: 1001
     height: 256
+=======
+<<<<<<< HEAD
+    y: 519
+    width: 1001
+    height: 256
+=======
+    y: 905
+    width: 2039
+    height: 509
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -405,6 +566,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Models
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: /Users/student/Documents/GitHub/CO2BLACK/Co2BlackUnityProject
   m_IsLocked: 0
   m_FolderTreeState:
@@ -412,6 +574,25 @@ MonoBehaviour:
     m_SelectedIDs: 5e370000
     m_LastClickedID: 14174
     m_ExpandedIDs: 000000004e3300003e3500005e3700003038000088390000363a0000083b0000283b0000663b0000363d000000ca9a3bffffff7f
+=======
+<<<<<<< HEAD
+  m_LastProjectPath: /Users/student/Documents/GitHub/CO2BLACK/Co2BlackUnityProject
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 962b0000
+    m_LastClickedID: 11158
+    m_ExpandedIDs: 00000000962b00007e2d00009c2f00005c300000a63100004e32000016330000723300003835000000ca9a3bffffff7f
+=======
+  m_LastProjectPath: /Users/danielbrauer/Unity Projects/New Unity Project 20
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: b0230000
+    m_LastClickedID: 9136
+    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -439,7 +620,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000004e3300003e3500005e3700003038000088390000363a0000083b0000283b0000663b0000363d0000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000962b00007e2d00009c2f00005c300000a63100004e320000163300007233000038350000
+=======
+    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -463,10 +652,25 @@ MonoBehaviour:
       m_Path: 
       m_Icon: {fileID: 0}
       m_ResourceFile: 
+<<<<<<< HEAD
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
+=======
+<<<<<<< HEAD
+  m_ListAreaState:
+    m_SelectedInstanceIDs: ec360000
+    m_LastClickedInstanceID: 14060
+=======
+    m_SearchString: 
+    m_ColumnWidths: []
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -516,10 +720,24 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1005
     y: 94
     width: 275
     height: 681
+=======
+<<<<<<< HEAD
+    x: 1005
+    y: 94
+    width: 275
+    height: 681
+=======
+    x: 2043
+    y: 94
+    width: 517
+    height: 1320
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -551,13 +769,32 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 94
+<<<<<<< HEAD
+    width: 246
+    height: 404
+=======
+<<<<<<< HEAD
     width: 246
     height: 404
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ec360000
+    m_LastClickedID: 14060
+    m_ExpandedIDs: 42fbffff00000000c4380000a8390000
+=======
+    width: 503
+    height: 790
+>>>>>>> parent of e095a4a2... added voiceover audio
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 58e7ffff00000000cc3e0000e23e0000183f0000ee400000
+=======
+    m_ExpandedIDs: 00000000
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -573,10 +810,22 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+<<<<<<< HEAD
+      m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
+  - RussoMapBox3
+=======
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+<<<<<<< HEAD
+  m_ExpandedScenes:
   - WiegmanRusso_T1
+=======
+    m_ColumnWidths: []
+  m_ExpandedScenes: []
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -602,10 +851,24 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 250
     y: 94
     width: 751
     height: 404
+=======
+<<<<<<< HEAD
+    x: 250
+    y: 94
+    width: 751
+    height: 404
+=======
+    x: 507
+    y: 94
+    width: 1532
+    height: 790
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_SceneLighting: 1
   lastFramingTime: 0
   m_2DMode: 0
@@ -637,13 +900,27 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
+    m_Target: {x: -0.04378647, y: -0.020381851, z: 0.0008936522, w: -0.99883324}
+=======
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.043786444, y: -0.020381838, z: 0.0008936517, w: -0.99883264}
   m_Size:
+<<<<<<< HEAD
     m_Target: 11.200001
     speed: 2
     m_Value: 11.200001
+=======
+    m_Target: 3.7332823
+    speed: 2
+<<<<<<< HEAD
+    m_Value: 3.7332823
+=======
+    m_Value: 10
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -677,10 +954,24 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 250
     y: 94
     width: 751
     height: 404
+=======
+<<<<<<< HEAD
+    x: 250
+    y: 94
+    width: 751
+    height: 404
+=======
+    x: 507
+    y: 94
+    width: 1532
+    height: 790
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -689,10 +980,23 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_HBaseRangeMin: -375.5
     m_HBaseRangeMax: 375.5
     m_VBaseRangeMin: -193.5
     m_VBaseRangeMax: 193.5
+<<<<<<< HEAD
+=======
+=======
+    m_HBaseRangeMin: -383
+    m_HBaseRangeMax: 383
+    m_VBaseRangeMin: -193.25
+    m_VBaseRangeMax: 193.25
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -709,29 +1013,72 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of e095a4a2... added voiceover audio
       width: 751
       height: 387
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 375.5, y: 193.5}
+<<<<<<< HEAD
+=======
+=======
+      width: 1532
+      height: 773
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 766, y: 386.5}
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of e095a4a2... added voiceover audio
       x: -375.5
       y: -193.5
       width: 751
       height: 387
+<<<<<<< HEAD
+=======
+=======
+      x: -383
+      y: -193.25
+      width: 766
+      height: 386.5
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
+<<<<<<< HEAD
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1502, y: 808}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
 --- !u!114 &20
+=======
+<<<<<<< HEAD
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1502, y: 808}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+=======
+  m_CurrentColorSpace: 1
+  m_LastWindowPixelSize: {x: 3064, y: 1580}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 010000000001000001
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+--- !u!114 &18
+>>>>>>> parent of e095a4a2... added voiceover audio
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -753,7 +1100,20 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of e095a4a2... added voiceover audio
     x: 0
     y: 519
     width: 1001
     height: 256
+<<<<<<< HEAD
+=======
+=======
+    x: 8
+    y: 718
+    width: 1366
+    height: 308
+>>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+>>>>>>> parent of e095a4a2... added voiceover audio
