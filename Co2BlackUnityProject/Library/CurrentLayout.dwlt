@@ -14,6 +14,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 45
@@ -36,6 +37,11 @@ MonoBehaviour:
     width: 2560
     height: 1391
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+=======
+    y: 44
+    width: 1440
+    height: 786
+>>>>>>> Stashed changes
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
@@ -64,6 +70,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     width: 1280
     height: 702
@@ -87,16 +94,23 @@ MonoBehaviour:
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
     width: 2560
     height: 1341
+=======
+    width: 1440
+    height: 736
+>>>>>>> Stashed changes
   m_MinSize: {x: 683, y: 492}
 >>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 14004, y: 14042}
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
   vertical: 0
   controlID: 52
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 >>>>>>> a27d921f561b539756cb61e57bcd64959b9cba01
 =======
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -111,6 +125,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 1003
     y: 0
@@ -135,6 +150,12 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    x: 1148
+    y: 0
+    width: 292
+    height: 736
+>>>>>>> Stashed changes
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -158,6 +179,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     width: 248
     height: 425
@@ -180,6 +202,10 @@ MonoBehaviour:
     width: 505
     height: 811
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+=======
+    width: 284
+    height: 445
+>>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -203,6 +229,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 30
@@ -238,6 +265,11 @@ MonoBehaviour:
     y: 811
     width: 2041
     height: 530
+=======
+    y: 445
+    width: 1148
+    height: 291
+>>>>>>> Stashed changes
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
@@ -267,6 +299,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 706
@@ -288,6 +321,10 @@ MonoBehaviour:
     width: 2560
     height: 1391
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+=======
+    width: 1440
+    height: 786
+>>>>>>> Stashed changes
   m_MinSize: {x: 950, y: 300}
 >>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 10000, y: 10000}
@@ -307,6 +344,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 706
@@ -345,6 +383,13 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    width: 1440
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+>>>>>>> Stashed changes
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,6 +405,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 313
@@ -389,6 +435,10 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    y: 766
+    width: 1440
+>>>>>>> Stashed changes
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -410,6 +460,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     width: 1003
     height: 702
@@ -426,11 +477,16 @@ MonoBehaviour:
 =======
     width: 2041
     height: 1341
+=======
+    width: 1148
+    height: 736
+>>>>>>> Stashed changes
   m_MinSize: {x: 406, y: 492}
 >>>>>>> parent of e095a4a2... added voiceover audio
   m_MaxSize: {x: 10002, y: 14042}
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
   vertical: 1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 2150
@@ -440,6 +496,9 @@ MonoBehaviour:
 =======
   controlID: 53
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+  controlID: 53
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -458,6 +517,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 297
@@ -483,15 +543,22 @@ MonoBehaviour:
     width: 2041
     height: 811
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+=======
+    width: 1148
+    height: 445
+>>>>>>> Stashed changes
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
 >>>>>>> parent of e095a4a2... added voiceover audio
   vertical: 0
   controlID: 54
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 >>>>>>> a27d921f561b539756cb61e57bcd64959b9cba01
 =======
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -506,6 +573,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 0
@@ -545,6 +613,21 @@ MonoBehaviour:
   - {fileID: 13}
   m_Selected: 0
   m_LastSelected: 1
+=======
+    x: 284
+    y: 0
+    width: 864
+    height: 445
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 17}
+  - {fileID: 12}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> Stashed changes
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -609,6 +692,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     y: 407
     width: 704
@@ -873,6 +957,11 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    y: 538
+    width: 1146
+    height: 270
+>>>>>>> Stashed changes
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -885,6 +974,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/Models
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -924,6 +1014,21 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    - Assets/_Scenes
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/_Scenes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/jakeculp/Desktop/FALL17-18/IDM 371/CO2BLACK/Co2BlackUnityProject
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 1.3632812}
+    m_SelectedIDs: 8a2d0000
+    m_LastClickedID: 11658
+    m_ExpandedIDs: 00000000702b0000b42d00001a30000012310000b4320000743300005c34000080340000be340000f036000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -951,6 +1056,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -967,6 +1073,9 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    m_ExpandedIDs: 00000000702b0000b42d00001a30000012310000b4320000743300005c34000080340000be340000f0360000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -990,6 +1099,7 @@ MonoBehaviour:
       m_Path: 
       m_Icon: {fileID: 0}
       m_ResourceFile: 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_AssetTreeState:
@@ -1017,6 +1127,12 @@ MonoBehaviour:
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
     m_HadKeyboardFocusLastEvent: 0
 >>>>>>> parent of e095a4a2... added voiceover audio
+=======
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> Stashed changes
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1041,10 +1157,15 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 1.9921875}
     m_GridSize: 64
+<<<<<<< Updated upstream
   m_DirectoriesAreaWidth: 115
 --- !u!114 &16
+=======
+  m_DirectoriesAreaWidth: 244
+--- !u!114 &14
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -1066,6 +1187,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 1005
     y: 94
@@ -1091,6 +1213,13 @@ MonoBehaviour:
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
   m_ScrollPosition: {x: 0, y: 0}
+=======
+    x: 1150
+    y: 93
+    width: 290
+    height: 715
+  m_ScrollPosition: {x: 0, y: 180.07812}
+>>>>>>> Stashed changes
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -1120,6 +1249,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
     y: 94
 <<<<<<< HEAD
     width: 246
@@ -1156,21 +1286,32 @@ MonoBehaviour:
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    y: 93
+    width: 282
+    height: 424
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 297}
+    m_SelectedIDs: 5cb30000dab20000d0b000002eb3000092b0000052b200000ab30000e2b10000d2b2000042af0000cab20000e4af0000f4b2000036b100001caf0000dcaf0000
+    m_LastClickedID: 45020
+    m_ExpandedIDs: ba50f8ff9451f8ff5654f8ff325af8ffca5af8ff8e5df8ff2a14ffff0415ffffc817ffff781effff101fffffea21fffff880ffff2c89fffff089ffffd28cffffee92ffff7096ffff3cafffffcab6ffff02c2ffffc6c2ffffacc5ffff2eedffff06f5ffffa6fbffff00000000984100009c410000e44a0000e84a0000224e000008500000c06b0000206e000054b30000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: smokeParent
+      m_OriginalName: smokeParent
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 28746
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -1200,6 +1341,12 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+      m_ClientGUIView: {fileID: 4}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - lampSceneCool2
+>>>>>>> Stashed changes
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -1225,6 +1372,7 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 250
     y: 94
@@ -1249,15 +1397,21 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    x: 286
+    y: 93
+    width: 860
+    height: 424
+>>>>>>> Stashed changes
   m_SceneLighting: 1
-  lastFramingTime: 0
+  lastFramingTime: 1840.8253129720688
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 3.744866, y: 0.062210083, z: -2.5531933}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 3.744866, y: 0.062210083, z: -2.5531933}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -1280,6 +1434,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: {x: -0.04378647, y: -0.020381851, z: 0.0008936522, w: -0.99883324}
 =======
@@ -1307,6 +1462,15 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    m_Target: {x: -0.11538155, y: 0.05420763, z: -0.0062960433, w: -0.9918366}
+    speed: 2
+    m_Value: {x: -0.11537977, y: 0.054206796, z: -0.0062959464, w: -0.99182135}
+  m_Size:
+    m_Target: 32.77799
+    speed: 2
+    m_Value: 32.77799
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1340,6 +1504,7 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 250
     y: 94
@@ -1364,6 +1529,12 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    x: 286
+    y: 93
+    width: 860
+    height: 424
+>>>>>>> Stashed changes
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -1372,6 +1543,7 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1398,6 +1570,12 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+    m_HBaseRangeMin: -430
+    m_HBaseRangeMax: 430
+    m_VBaseRangeMin: -203.5
+    m_VBaseRangeMax: 203.5
+>>>>>>> Stashed changes
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1414,6 +1592,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1440,12 +1619,19 @@ MonoBehaviour:
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+      width: 860
+      height: 407
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 430, y: 203.5}
+>>>>>>> Stashed changes
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1499,6 +1685,20 @@ MonoBehaviour:
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 010000000001000001
 >>>>>>> cd0cb4b4f859bb0bf45834da2ba7fedd0039e81b
+=======
+      x: -430
+      y: -203.5
+      width: 860
+      height: 407
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1720, y: 848}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+>>>>>>> Stashed changes
 --- !u!114 &18
 >>>>>>> parent of e095a4a2... added voiceover audio
 MonoBehaviour:
