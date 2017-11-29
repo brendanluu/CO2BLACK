@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 701
-  m_MinSize: {x: 709, y: 471}
-  m_MaxSize: {x: 18006, y: 14021}
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
-  controlID: 1545
+  controlID: 10327
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
@@ -121,10 +121,10 @@ MonoBehaviour:
     y: 0
     width: 706
     height: 701
-  m_MinSize: {x: 200, y: 321}
+  m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 1485
+  controlID: 10307
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,14 +143,14 @@ MonoBehaviour:
     y: 0
     width: 706
     height: 313
-  m_MinSize: {x: 100, y: 100}
+  m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 6}
+  m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
   - {fileID: 6}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -178,14 +178,14 @@ MonoBehaviour:
     width: 704
     height: 292
   m_SceneLighting: 1
-  lastFramingTime: 515.0406330227852
+  lastFramingTime: 144.5773730278015
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 1, z: -10}
+    m_Target: {x: -4.945921, y: 1.1196747, z: 0.16648865}
     speed: 2
-    m_Value: {x: 0, y: 1, z: -10}
+    m_Value: {x: -4.945921, y: 1.1196747, z: 0.16648865}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -212,9 +212,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.3351363, y: -0.03531985, z: 0.012573473, w: -0.94142383}
   m_Size:
-    m_Target: 756.6815
+    m_Target: 673.1515
     speed: 2
-    m_Value: 756.6815
+    m_Value: 673.1515
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -262,18 +262,18 @@ MonoBehaviour:
     - {fileID: 1107900337941493494, guid: 64fc68875af35427cbdb0de2665dc0c4, type: 2}
     - {fileID: 1107329110779782954, guid: 24b2f00139a684c03824e50524195ad8, type: 2}
     m_ValueSerializationHelper:
-    - {x: 342.40002, y: 170.40001}
-    - {x: 372.40002, y: 175.20001}
+    - {x: 372.40002, y: 124.00391}
+    - {x: 372.40002, y: 124.00391}
     - {x: 320.2, y: 155.20001}
-    - {x: 320.2, y: 175.20001}
+    - {x: 372.40002, y: 124.00391}
+    - {x: 372.40002, y: 104.00391}
     - {x: 372.40002, y: 155.20001}
-    - {x: 372.40002, y: 155.20001}
-    - {x: 372.40002, y: 175.20001}
+    - {x: 265.80005, y: 93.400024}
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 24b2f00139a684c03824e50524195ad8,
+  m_AnimatorController: {fileID: 9100000, guid: f56f0869e25654f7592b677e3bbfa956,
     type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 1107329110779782954, guid: 24b2f00139a684c03824e50524195ad8,
+  - m_Target: {fileID: 1107865935718294500, guid: f56f0869e25654f7592b677e3bbfa956,
       type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -304,8 +304,8 @@ MonoBehaviour:
     y: 313
     width: 706
     height: 388
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -360,10 +360,10 @@ MonoBehaviour:
     y: 0
     width: 297
     height: 701
-  m_MinSize: {x: 234, y: 471}
-  m_MaxSize: {x: 10004, y: 14021}
+  m_MinSize: {x: 234, y: 492}
+  m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 1546
+  controlID: 10328
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -417,9 +417,9 @@ MonoBehaviour:
     height: 288
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be3e0000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 4afbffff00000000f0380000063900007a390000
+    m_SelectedIDs: b03a0000
+    m_LastClickedID: 15024
+    m_ExpandedIDs: a6fbffff00000000183900004639000056390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -505,19 +505,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Animations
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Animations
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/erinwiegman/Desktop/junior_year/Fall_17/Workshop-IDM_371/CO2BLACK/Co2BlackUnityProject
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: aa300000
-    m_LastClickedID: 12458
-    m_ExpandedIDs: 00000000aa2b00007a2c0000ea2d00000c2e0000e6310000ea320000f43400001036000050360000ffffff7f
+    scrollPos: {x: 0, y: 126}
+    m_SelectedIDs: 02330000
+    m_LastClickedID: 13058
+    m_ExpandedIDs: 00000000702b0000422c0000b42d0000d62d0000922f0000b0310000b4320000be340000da3500001a360000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -545,7 +545,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000aa2b00007a2c0000ea2d00000c2e0000e6310000ea320000f43400001036000050360000ffffff7f
+    m_ExpandedIDs: 00000000702b0000422c0000b42d0000d62d0000922f0000b0310000b4320000be340000da3500001a360000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -570,8 +570,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: be3e0000
-    m_LastClickedInstanceID: 16062
+    m_SelectedInstanceIDs: b03a0000
+    m_LastClickedInstanceID: 15024
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -597,7 +597,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 803}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &14
