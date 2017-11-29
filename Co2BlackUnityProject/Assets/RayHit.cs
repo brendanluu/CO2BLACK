@@ -7,6 +7,7 @@ using UnityEngine.XR.iOS;
 public class RayHit : MonoBehaviour {
 
 	private static GameObject lampObject;
+
 	private Vector3 fixedPos;
 	private Vector3 moleculePosition;
 
@@ -31,6 +32,7 @@ public class RayHit : MonoBehaviour {
 					lampObject = hit.transform.gameObject;
 					lampObject.transform.SendMessage ("HitByRay");
 					Debug.Log("Hit by Ray");
+
 				}
 			}
 		}

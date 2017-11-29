@@ -9,6 +9,10 @@ public class FactHit2 : MonoBehaviour {
 
 	public GameObject spotlightObject;
 	public GameObject spotlightObject1;
+	public GameObject TapToText;
+	public GameObject SmokeParent;
+	public GameObject SmokeParentLite;
+	public GameObject buildingsText;
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
@@ -19,6 +23,12 @@ public class FactHit2 : MonoBehaviour {
 
 		spotlightObject.SetActive (false);
 		spotlightObject1.SetActive (false);
+
+		TapToText.SetActive (false);
+		SmokeParent.SetActive (false);
+		SmokeParentLite.SetActive (true);
+		buildingsText.SetActive (true);
+
 	}
 }
 
