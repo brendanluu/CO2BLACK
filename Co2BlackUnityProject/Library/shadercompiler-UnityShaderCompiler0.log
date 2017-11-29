@@ -1,5 +1,6 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -69,3 +70,5 @@ Cmd: compileSnippet
 =======
 >>>>>>> parent of e095a4a2... added voiceover audio
 >>>>>>> c3b1183c5cc8d59b0fd2ae85ee635b38a767a5d0
+=======
+>>>>>>> Stashed changes
