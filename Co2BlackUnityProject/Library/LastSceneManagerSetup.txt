@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/WiegmanRusso_T1 copy.unity
+=======
+<<<<<<< Updated upstream
+- path: Assets/_Scenes/WiegmanRusso_T1-01.unity
+=======
+- path: Assets/_Scenes/TestingHitExample.unity
+>>>>>>> Stashed changes
+>>>>>>> 23c2a8e00f8a75dc3bbdda54149cd0a7391cb977
   isLoaded: 1
   isActive: 1
