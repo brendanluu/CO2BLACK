@@ -45,7 +45,11 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 615
+=======
+  controlID: 25
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +213,11 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 547
+=======
+  controlID: 26
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +241,11 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 548
+=======
+  controlID: 27
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -324,19 +336,26 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/_Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/_Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/danielbrauer/Unity Projects/New Unity Project 20
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< Updated upstream
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b0230000
     m_LastClickedID: 9136
     m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 14.597656}
+    m_SelectedIDs: 963d0000
+    m_LastClickedID: 15766
+    m_ExpandedIDs: 00000000d03b0000b83d0000d03f0000a2400000aa4200007e4300009e430000ce430000b845000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +384,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+=======
+    m_ExpandedIDs: 00000000d03b0000b83d0000d03f0000a240000012420000aa4200007e4300009e430000ce430000b8450000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -393,7 +416,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -420,7 +443,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 181
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -484,7 +507,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000
+=======
+    m_ExpandedIDs: 8612feff6413feff4616feffce2cfeffbe3ffeff525cfeff2a5dfeff0c60feffccb6feffa4b7feff86bafeff34e3feffb23cffff483dffff2a40ffffba69ffff966affff7c6dffff6a9affff469bffff289effffa4c5ffff44cbffff10eeffff000000001a4d00003e4d0000c44f0000ec4f0000885100008c510000e2520000fe5200001053000080540000005500004455000060550000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,8 +535,13 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_SearchString: 
+<<<<<<< Updated upstream
     m_ColumnWidths: []
   m_ExpandedScenes: []
+=======
+  m_ExpandedScenes:
+  - TestingHitExample
+>>>>>>> Stashed changes
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -540,14 +572,24 @@ MonoBehaviour:
     width: 1532
     height: 790
   m_SceneLighting: 1
+<<<<<<< Updated upstream
   lastFramingTime: 0
+=======
+  lastFramingTime: 443.26195299625397
+>>>>>>> Stashed changes
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: -2.5310738, y: -0.69309133, z: 0.5315068}
+    speed: 2
+    m_Value: {x: -2.5310738, y: -0.69309133, z: 0.5315068}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_SceneViewState:
     showFog: 1
@@ -569,6 +611,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< Updated upstream
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -576,6 +619,15 @@ MonoBehaviour:
     m_Target: 10
     speed: 2
     m_Value: 10
+=======
+    m_Target: {x: -0.106589735, y: 0.45632616, z: -0.05516732, w: -0.881687}
+    speed: 2
+    m_Value: {x: -0.10658919, y: 0.45632383, z: -0.055167038, w: -0.88168246}
+  m_Size:
+    m_Target: 8.5182705
+    speed: 2
+    m_Value: 8.5182705
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
