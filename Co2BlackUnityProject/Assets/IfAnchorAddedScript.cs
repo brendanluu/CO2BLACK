@@ -10,6 +10,7 @@ public class IfAnchorAddedScript : MonoBehaviour {
 	public GameObject FindFlatSurfaceText;
 	public GameObject TapToPlaceText;
 	public GameObject ObjectFocusSquare;
+	public Material lampShade;
 
 
 	// Use this for initialization
@@ -27,6 +28,8 @@ public class IfAnchorAddedScript : MonoBehaviour {
 			FindFlatSurfaceText.SetActive (false);
 			TapToPlaceText.SetActive (true);
 			ObjectFocusSquare.SetActive (true);
+
+			lampShade.DisableKeyword ("_EMISSION");
 		}
 
 	}
