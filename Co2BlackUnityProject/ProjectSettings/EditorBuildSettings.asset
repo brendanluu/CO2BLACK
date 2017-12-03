@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/WiegmanRusso_T1-02.unity
     guid: 5dcc3af3b3e784782b2065c4d95d9bdf
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/lampSceneCool2.unity
     guid: 16420fbacc3b84b6f9f75964cdb380b0
+  - enabled: 1
+    path: Assets/_Scenes/lampSceneRedux 1.unity
+    guid: 91781c33a4e4f4adeb027674e3f3bb76
