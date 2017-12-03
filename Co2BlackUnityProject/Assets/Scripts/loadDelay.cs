@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class loadDelay : MonoBehaviour {
 
+
 	public void ModeSelect(){
 		StartCoroutine ("Wait");
 	}
