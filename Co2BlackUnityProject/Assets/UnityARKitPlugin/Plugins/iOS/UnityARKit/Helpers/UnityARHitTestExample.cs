@@ -6,6 +6,7 @@ namespace UnityEngine.XR.iOS
 	public class UnityARHitTestExample : MonoBehaviour
 	{
 		public Transform m_HitTransform;
+		public float findingSquareDist = 0.5f;
 
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
@@ -24,12 +25,13 @@ namespace UnityEngine.XR.iOS
 
 		// Update is called once per frame
 		void Update () {
+			Vector3 center = new Vector3(Screen.width/2, Screen.height/2, findingSquareDist);
 			if (Input.touchCount > 0 && m_HitTransform != null)
 			{
 				var touch = Input.GetTouch(0);
 				if (touch.phase == TouchPhase.Began || touch.phase == TouchPhase.Moved)
 				{
-					var screenPosition = Camera.main.ScreenToViewportPoint(touch.position);
+					var screenPosition = Camera.main.ScreenToViewportPoint(center);
 					ARPoint point = new ARPoint {
 						x = screenPosition.x,
 						y = screenPosition.y
@@ -40,8 +42,8 @@ namespace UnityEngine.XR.iOS
 						ARHitTestResultType.ARHitTestResultTypeExistingPlaneUsingExtent, 
 						// if you want to use infinite planes use this:
 						//ARHitTestResultType.ARHitTestResultTypeExistingPlane,
-						ARHitTestResultType.ARHitTestResultTypeHorizontalPlane, 
-						ARHitTestResultType.ARHitTestResultTypeFeaturePoint
+						//						ARHitTestResultType.ARHitTestResultTypeHorizontalPlane, 
+						//						ARHitTestResultType.ARHitTestResultTypeFeaturePoint
 					}; 
 
 					foreach (ARHitTestResultType resultType in resultTypes)
