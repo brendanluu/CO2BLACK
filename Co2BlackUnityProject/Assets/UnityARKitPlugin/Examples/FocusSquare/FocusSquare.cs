@@ -13,6 +13,9 @@ public class FocusSquare : MonoBehaviour {
 
 	public GameObject findingSquare;
 	public GameObject foundSquare;
+	public GameObject focusImageIcon;
+	public GameObject tapToPlaceText;
+	public GameObject findFlatSurface;
 
 	//for editor version
 	public float maxRayDistance = 30.0f;
@@ -27,7 +30,9 @@ public class FocusSquare : MonoBehaviour {
 		set {
 			squareState = value;
 			foundSquare.SetActive (squareState == FocusState.Found);
-			findingSquare.SetActive (squareState != FocusState.Found);
+			focusImageIcon.SetActive (squareState != FocusState.Found);
+			tapToPlaceText.SetActive (squareState == FocusState.Found);
+			findFlatSurface.SetActive (squareState != FocusState.Found);
 		} 
 	}
 
@@ -81,26 +86,26 @@ public class FocusSquare : MonoBehaviour {
 		#else
 		var screenPosition = Camera.main.ScreenToViewportPoint(center);
 		ARPoint point = new ARPoint {
-			x = screenPosition.x,
-			y = screenPosition.y
+		x = screenPosition.x,
+		y = screenPosition.y
 		};
 
 		// prioritize reults types
 		ARHitTestResultType[] resultTypes = {
-			ARHitTestResultType.ARHitTestResultTypeExistingPlaneUsingExtent, 
-			// if you want to use infinite planes use this:
-			//ARHitTestResultType.ARHitTestResultTypeExistingPlane,
-			//ARHitTestResultType.ARHitTestResultTypeHorizontalPlane, 
-			//ARHitTestResultType.ARHitTestResultTypeFeaturePoint
+		ARHitTestResultType.ARHitTestResultTypeExistingPlaneUsingExtent, 
+		// if you want to use infinite planes use this:
+		//ARHitTestResultType.ARHitTestResultTypeExistingPlane,
+		//ARHitTestResultType.ARHitTestResultTypeHorizontalPlane, 
+		//ARHitTestResultType.ARHitTestResultTypeFeaturePoint
 		}; 
 
 		foreach (ARHitTestResultType resultType in resultTypes)
 		{
-			if (HitTestWithResultType (point, resultType))
-			{
-				SquareState = FocusState.Found;
-				return;
-			}
+		if (HitTestWithResultType (point, resultType))
+		{
+		SquareState = FocusState.Found;
+		return;
+		}
 		}
 
 		#endif
