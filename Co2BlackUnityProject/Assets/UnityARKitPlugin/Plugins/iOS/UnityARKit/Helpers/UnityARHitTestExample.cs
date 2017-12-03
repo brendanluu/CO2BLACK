@@ -13,6 +13,8 @@ namespace UnityEngine.XR.iOS
 		public GameObject TapToText;
 		public GameObject WholeLamp;
 
+		public Material lampShade;
+
 
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
@@ -22,6 +24,9 @@ namespace UnityEngine.XR.iOS
 				FocusedSquare.SetActive (false);
 				Destroy (TapToText);
 
+				lampShade.DisableKeyword ("_EMISSION");
+
+
 				foreach (var hitResult in hitResults) {
 					Debug.Log ("Got hit!");
 					m_HitTransform.position = UnityARMatrixOps.GetPosition (hitResult.worldTransform);
@@ -29,8 +34,8 @@ namespace UnityEngine.XR.iOS
 					Debug.Log (string.Format ("x:{0:0.######} y:{1:0.######} z:{2:0.######}", m_HitTransform.position.x, m_HitTransform.position.y, m_HitTransform.position.z));
 					return true;
 				}
-
-				WholeLamp.transform.SetParent (null);
+				m_HitTransform = null;
+//				WholeLamp.transform.DetachChildren ();
 				Debug.Log ("REMOVED FROM PARENT");
 			}
 			return false;

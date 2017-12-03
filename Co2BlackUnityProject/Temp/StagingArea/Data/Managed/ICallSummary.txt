@@ -206,8 +206,15 @@ UnityEngine.Gizmos::INTERNAL_CALL_DrawWireSphere
 UnityEngine.Gizmos::INTERNAL_set_color
 UnityEngine.Gradient::Cleanup
 UnityEngine.Gradient::Init
+UnityEngine.Graphics::Internal_GetMaxDrawMeshInstanceCount
+UnityEngine.Graphics::Internal_DrawTexture
 UnityEngine.GUI::INTERNAL_CALL_DoButton
+UnityEngine.GUI::INTERNAL_get_color
+UnityEngine.GUI::INTERNAL_set_color
 UnityEngine.GUI::set_changed
+UnityEngine.GUI::get_blendMaterial
+UnityEngine.GUI::get_blitMaterial
+UnityEngine.GUI::get_roundedRectMaterial
 UnityEngine.GUILayer::INTERNAL_CALL_HitTest
 UnityEngine.GUILayoutUtility::INTERNAL_CALL_Internal_GetWindowRect
 UnityEngine.GUILayoutUtility::INTERNAL_CALL_Internal_MoveWindow
@@ -561,6 +568,7 @@ UnityEngine.Texture2D::Apply
 UnityEngine.Texture2D::INTERNAL_CALL_Compress
 UnityEngine.Texture2D::INTERNAL_CALL_GetPixel
 UnityEngine.Texture2D::INTERNAL_CALL_GetPixelBilinear
+UnityEngine.Texture2D::INTERNAL_CALL_SetPixel
 UnityEngine.Texture2D::Internal_Create
 UnityEngine.Texture2D::SetAllPixels32
 UnityEngine.Texture2D::SetBlockOfPixels32

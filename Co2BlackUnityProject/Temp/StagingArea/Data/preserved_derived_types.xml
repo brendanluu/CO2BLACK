@@ -162,6 +162,8 @@
 <type fullname="mapBuildScript" preserve="all"/>
 <type fullname="MoveScene" preserve="all"/>
 <type fullname="newScreen" preserve="all"/>
+<type fullname="Screen3" preserve="all"/>
+<type fullname="Fader" preserve="all"/>
 <type fullname="start" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.ConnectToEditor" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.EditorHitTest" preserve="all"/>

@@ -964,15 +964,47 @@ void RegisterAllStrippedInternalCalls()
 
 	//End Registrations for type : UnityEngine.Gradient
 
+	//Start Registrations for type : UnityEngine.Graphics
+
+		//System.Int32 UnityEngine.Graphics::Internal_GetMaxDrawMeshInstanceCount()
+		void Register_UnityEngine_Graphics_Internal_GetMaxDrawMeshInstanceCount();
+		Register_UnityEngine_Graphics_Internal_GetMaxDrawMeshInstanceCount();
+
+		//System.Void UnityEngine.Graphics::Internal_DrawTexture(UnityEngine.Internal_DrawTextureArguments&)
+		void Register_UnityEngine_Graphics_Internal_DrawTexture();
+		Register_UnityEngine_Graphics_Internal_DrawTexture();
+
+	//End Registrations for type : UnityEngine.Graphics
+
 	//Start Registrations for type : UnityEngine.GUI
 
 		//System.Boolean UnityEngine.GUI::INTERNAL_CALL_DoButton(UnityEngine.Rect&,UnityEngine.GUIContent,System.IntPtr)
 		void Register_UnityEngine_GUI_INTERNAL_CALL_DoButton();
 		Register_UnityEngine_GUI_INTERNAL_CALL_DoButton();
 
+		//System.Void UnityEngine.GUI::INTERNAL_get_color(UnityEngine.Color&)
+		void Register_UnityEngine_GUI_INTERNAL_get_color();
+		Register_UnityEngine_GUI_INTERNAL_get_color();
+
+		//System.Void UnityEngine.GUI::INTERNAL_set_color(UnityEngine.Color&)
+		void Register_UnityEngine_GUI_INTERNAL_set_color();
+		Register_UnityEngine_GUI_INTERNAL_set_color();
+
 		//System.Void UnityEngine.GUI::set_changed(System.Boolean)
 		void Register_UnityEngine_GUI_set_changed();
 		Register_UnityEngine_GUI_set_changed();
+
+		//UnityEngine.Material UnityEngine.GUI::get_blendMaterial()
+		void Register_UnityEngine_GUI_get_blendMaterial();
+		Register_UnityEngine_GUI_get_blendMaterial();
+
+		//UnityEngine.Material UnityEngine.GUI::get_blitMaterial()
+		void Register_UnityEngine_GUI_get_blitMaterial();
+		Register_UnityEngine_GUI_get_blitMaterial();
+
+		//UnityEngine.Material UnityEngine.GUI::get_roundedRectMaterial()
+		void Register_UnityEngine_GUI_get_roundedRectMaterial();
+		Register_UnityEngine_GUI_get_roundedRectMaterial();
 
 	//End Registrations for type : UnityEngine.GUI
 
@@ -2649,6 +2681,10 @@ void RegisterAllStrippedInternalCalls()
 		//System.Void UnityEngine.Texture2D::INTERNAL_CALL_GetPixelBilinear(UnityEngine.Texture2D,System.Single,System.Single,UnityEngine.Color&)
 		void Register_UnityEngine_Texture2D_INTERNAL_CALL_GetPixelBilinear();
 		Register_UnityEngine_Texture2D_INTERNAL_CALL_GetPixelBilinear();
+
+		//System.Void UnityEngine.Texture2D::INTERNAL_CALL_SetPixel(UnityEngine.Texture2D,System.Int32,System.Int32,UnityEngine.Color&)
+		void Register_UnityEngine_Texture2D_INTERNAL_CALL_SetPixel();
+		Register_UnityEngine_Texture2D_INTERNAL_CALL_SetPixel();
 
 		//System.Void UnityEngine.Texture2D::Internal_Create(UnityEngine.Texture2D,System.Int32,System.Int32,UnityEngine.TextureFormat,System.Boolean,System.Boolean,System.IntPtr)
 		void Register_UnityEngine_Texture2D_Internal_Create();

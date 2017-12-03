@@ -522,6 +522,7 @@ MonoBehaviour:
   FindFlatSurfaceText: {fileID: 1635677934}
   TapToPlaceText: {fileID: 727606664}
   ObjectFocusSquare: {fileID: 2045406692}
+  lampShade: {fileID: 0}
 --- !u!1 &229804520
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,7 +1490,8 @@ MonoBehaviour:
   BlueFocusSquare: {fileID: 1308259102}
   FocusedSquare: {fileID: 747402895}
   TapToText: {fileID: 727606664}
-  WholeLamp: {fileID: 1880585743}
+  WholeLamp: {fileID: 1286139107}
+  lampShade: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
 --- !u!114 &1880585746
 MonoBehaviour:
   m_ObjectHideFlags: 0
