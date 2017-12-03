@@ -1,20 +1,4 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-- path: Assets/_Scenes/WiegmanRusso_T1-02.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/WiegmanRusso_T1 copy.unity
-=======
-<<<<<<< Updated upstream
-- path: Assets/_Scenes/WiegmanRusso_T1-01.unity
-=======
-- path: Assets/_Scenes/TestingHitExample.unity
->>>>>>> Stashed changes
->>>>>>> 23c2a8e00f8a75dc3bbdda54149cd0a7391cb977
->>>>>>> 7195116227e067fdacb8c348ee3d4b176cb77e59
-=======
-- path: Assets/_Scenes/lampSceneCool2.unity
->>>>>>> Stashed changes
+- path: Assets/_Scenes/WiegmanRussoContrast.unity
   isLoaded: 1
   isActive: 1
