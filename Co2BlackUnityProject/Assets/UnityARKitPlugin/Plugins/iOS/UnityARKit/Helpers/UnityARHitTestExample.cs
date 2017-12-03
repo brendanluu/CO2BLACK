@@ -8,10 +8,20 @@ namespace UnityEngine.XR.iOS
 		public Transform m_HitTransform;
 		public float findingSquareDist = 0.5f;
 
+		public GameObject BlueFocusSquare;
+		public GameObject FocusedSquare;
+		public GameObject TapToText;
+		public GameObject WholeLamp;
+
+
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
 			List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
 			if (hitResults.Count > 0) {
+				BlueFocusSquare.SetActive (false);
+				FocusedSquare.SetActive (false);
+				Destroy (TapToText);
+
 				foreach (var hitResult in hitResults) {
 					Debug.Log ("Got hit!");
 					m_HitTransform.position = UnityARMatrixOps.GetPosition (hitResult.worldTransform);
@@ -19,6 +29,9 @@ namespace UnityEngine.XR.iOS
 					Debug.Log (string.Format ("x:{0:0.######} y:{1:0.######} z:{2:0.######}", m_HitTransform.position.x, m_HitTransform.position.y, m_HitTransform.position.z));
 					return true;
 				}
+
+				WholeLamp.transform.SetParent (null);
+				Debug.Log ("REMOVED FROM PARENT");
 			}
 			return false;
 		}
@@ -32,6 +45,8 @@ namespace UnityEngine.XR.iOS
 				if (touch.phase == TouchPhase.Began || touch.phase == TouchPhase.Moved)
 				{
 					var screenPosition = Camera.main.ScreenToViewportPoint(center);
+
+
 					ARPoint point = new ARPoint {
 						x = screenPosition.x,
 						y = screenPosition.y
