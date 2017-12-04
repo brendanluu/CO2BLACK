@@ -493,7 +493,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 138297576}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 860, y: 407, z: 0}
+  m_LocalPosition: {x: 1532, y: 773, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1815411312}
@@ -1451,6 +1451,8 @@ GameObject:
   - component: {fileID: 1880585745}
   - component: {fileID: 1880585747}
   - component: {fileID: 1880585746}
+  - component: {fileID: 1880585748}
+  - component: {fileID: 1880585749}
   m_Layer: 0
   m_Name: lampNew
   m_TagString: Untagged
@@ -1491,6 +1493,7 @@ MonoBehaviour:
   FocusedSquare: {fileID: 747402895}
   TapToText: {fileID: 727606664}
   WholeLamp: {fileID: 1286139107}
+  lampNewCollider: {fileID: 1880585743}
   lampShade: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
 --- !u!114 &1880585746
 MonoBehaviour:
@@ -1503,7 +1506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5eb44dc5ef8df4a4d81f98507f0435be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lampObject: {fileID: 1880585743}
+  lampSpotlight: {fileID: 67093273}
   lampShade: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
 --- !u!114 &1880585747
 MonoBehaviour:
@@ -1516,6 +1519,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ab3f0fc78a4e4e02835e65d587db4c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!54 &1880585748
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1880585743}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1880585749
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1880585743}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 2.0294645, y: 5.906335, z: 1.997292}
+  m_Center: {x: 0.032170564, y: 2.8713865, z: -0.01608491}
 --- !u!1001 &1905489060
 Prefab:
   m_ObjectHideFlags: 0

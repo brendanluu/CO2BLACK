@@ -28,8 +28,6 @@ public class IfAnchorAddedScript : MonoBehaviour {
 			FindFlatSurfaceText.SetActive (false);
 			TapToPlaceText.SetActive (true);
 			ObjectFocusSquare.SetActive (true);
-
-			lampShade.DisableKeyword ("_EMISSION");
 		}
 
 	}
