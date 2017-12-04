@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/WiegmanRussoContrast.unity
+- path: Assets/_Scenes/lampSceneRedux 1.unity
   isLoaded: 1
   isActive: 1
