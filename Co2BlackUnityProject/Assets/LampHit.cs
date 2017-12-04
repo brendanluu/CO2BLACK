@@ -5,9 +5,8 @@ using UnityEngine;
 public class LampHit : MonoBehaviour {
 
 	public GameObject lampSpotlight;
-
 	public Material lampShade;
-
+	public GameObject BuildingFact;
 
 
 
@@ -17,6 +16,7 @@ public class LampHit : MonoBehaviour {
 
 		lampShade.DisableKeyword ("_EMISSION");
 		lampSpotlight.SetActive (false);
+		BuildingFact.SetActive (true);
 
 
 	}

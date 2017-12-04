@@ -13,6 +13,8 @@ namespace UnityEngine.XR.iOS
 		public GameObject TapToText;
 		public GameObject WholeLamp;
 
+
+
 		public GameObject lampNewCollider;
 
 		public Material lampShade;
