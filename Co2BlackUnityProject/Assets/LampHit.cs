@@ -4,12 +4,20 @@ using UnityEngine;
 
 public class LampHit : MonoBehaviour {
 
-	public GameObject lampObject;
+	public GameObject lampSpotlight;
+
+	public Material lampShade;
+
+
 
 
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
-		Destroy (gameObject);
+
+		lampShade.DisableKeyword ("_EMISSION");
+		lampSpotlight.SetActive (false);
+
+
 	}
 }
