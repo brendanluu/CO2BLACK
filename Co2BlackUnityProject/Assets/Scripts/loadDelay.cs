@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class loadDelay : MonoBehaviour {
 
+
 	public void ModeSelect(){
 		StartCoroutine ("Wait");
+		Initiate.Fade("lampSceneCool2",Color.black,1.0f);
 	}
 
 	IEnumerator Wait(){
