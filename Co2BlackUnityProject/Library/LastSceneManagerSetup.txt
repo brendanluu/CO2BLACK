@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-sceneSetups: []
-=======
 sceneSetups:
 - path: Assets/_Scenes/lampSceneRedux 1.unity
   isLoaded: 1
   isActive: 1
->>>>>>> bdd1e2a8784a966511202d6f6c3595f1af7efc7f
