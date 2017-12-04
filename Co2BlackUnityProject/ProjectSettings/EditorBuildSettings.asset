@@ -5,6 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/lampSceneRedux 1.unity
     guid: 91781c33a4e4f4adeb027674e3f3bb76
+  - enabled: 0
+    path: Assets/_Scenes/lampSceneRedux 2.unity
+    guid: 0a9fc4f4405cc4eea97edfc877a59ba2
+  - enabled: 0
+    path: Assets/_Scenes/lampSceneRedux 3.unity
+    guid: 2d94ea5cb189840a3b43fbb0a2b7c280
+  - enabled: 1
+    path: Assets/_Scenes/lampSceneRedux 4.unity
+    guid: 8275061b390bb41e588a9e986d4fa883
