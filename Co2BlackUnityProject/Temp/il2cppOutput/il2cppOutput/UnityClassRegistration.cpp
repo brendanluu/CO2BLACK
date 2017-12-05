@@ -191,7 +191,7 @@ class ComputeShader;
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
-class LightProbes; 
+class LightProbes; template <> void RegisterClass<LightProbes>();
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -270,7 +270,7 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
-	//Total: 86 non stripped classes
+	//Total: 87 non stripped classes
 	//0. AudioClip
 	RegisterClass<AudioClip>();
 	//1. SampleClip
@@ -441,7 +441,9 @@ RegisterBuiltinTypes();
 	RegisterClass<Avatar>();
 	//84. AnimationClip
 	RegisterClass<AnimationClip>();
-	//85. NavMeshSettings
+	//85. LightProbes
+	RegisterClass<LightProbes>();
+	//86. NavMeshSettings
 	RegisterClass<NavMeshSettings>();
 
 }

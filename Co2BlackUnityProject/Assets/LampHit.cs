@@ -7,6 +7,12 @@ public class LampHit : MonoBehaviour {
 	public GameObject lampSpotlight;
 	public Material lampShade;
 	public GameObject BuildingFact;
+	public Material smokeHigh;
+
+//	public GameObject smokeHigh;
+//
+//	public Material smokeLow;
+
 
 
 
@@ -18,6 +24,11 @@ public class LampHit : MonoBehaviour {
 		lampSpotlight.SetActive (false);
 		BuildingFact.SetActive (true);
 
+//		MeshRenderer smokeHighMesh = smokeHigh.GetComponent<MeshRenderer>();
+//
+//		smokeLow = smokeHighMesh.material; 
+
+		smokeHigh.SetFloat ("_Alpha", 0.15f);
 
 	}
 }

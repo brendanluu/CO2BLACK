@@ -47,7 +47,6 @@
 <type fullname="UnityStandardAssets.Utility.WaypointProgressTracker" preserve="all"/>
 </assembly>
 <assembly fullname="Assembly-CSharp">
-<type fullname="appear" preserve="all"/>
 <type fullname="CameraScript" preserve="all"/>
 <type fullname="collideScript" preserve="all"/>
 <type fullname="fact1_script" preserve="all"/>
@@ -62,6 +61,7 @@
 <type fullname="IfAnchorAddedScript" preserve="all"/>
 <type fullname="LampHit" preserve="all"/>
 <type fullname="exampleSceneScript" preserve="all"/>
+<type fullname="loadDelayOutro" preserve="all"/>
 <type fullname="Mapbox.Examples.Scripts.Utilities.DragRotate" preserve="all"/>
 <type fullname="Mapbox.Examples.SpawnOnGlobeExample" preserve="all"/>
 <type fullname="Mapbox.Examples.ReloadMap" preserve="all"/>

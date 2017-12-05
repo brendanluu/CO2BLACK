@@ -82,6 +82,10 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Animator_INTERNAL_get_deltaPosition();
 		Register_UnityEngine_Animator_INTERNAL_get_deltaPosition();
 
+		//System.Void UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)
+		void Register_UnityEngine_Animator_Play();
+		Register_UnityEngine_Animator_Play();
+
 		//System.Void UnityEngine.Animator::ResetTriggerString(System.String)
 		void Register_UnityEngine_Animator_ResetTriggerString();
 		Register_UnityEngine_Animator_ResetTriggerString();
@@ -877,10 +881,6 @@ void RegisterAllStrippedInternalCalls()
 		//System.Array UnityEngine.GameObject::GetComponentsInternal(System.Type,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Object)
 		void Register_UnityEngine_GameObject_GetComponentsInternal();
 		Register_UnityEngine_GameObject_GetComponentsInternal();
-
-		//System.Boolean UnityEngine.GameObject::get_active()
-		void Register_UnityEngine_GameObject_get_active();
-		Register_UnityEngine_GameObject_get_active();
 
 		//System.Boolean UnityEngine.GameObject::get_activeInHierarchy()
 		void Register_UnityEngine_GameObject_get_activeInHierarchy();

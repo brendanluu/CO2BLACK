@@ -14,6 +14,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Scenes/lampSceneRedux 3.unity
     guid: 2d94ea5cb189840a3b43fbb0a2b7c280
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/lampSceneRedux 4.unity
     guid: 8275061b390bb41e588a9e986d4fa883
+  - enabled: 1
+    path: Assets/_Scenes/lampSceneRedux 5.unity
+    guid: d6c790f36c94b4516971b3d419b79413
+  - enabled: 1
+    path: Assets/_Scenes/Outro2.unity
+    guid: 781b8fe1362f443a7a287ab22409b535
+  - enabled: 1
+    path: Assets/_Scenes/WiegmanRussoContrast.unity
+    guid: 49bf403695bd74c1fbfab63f1b510d7d

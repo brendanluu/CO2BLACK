@@ -15,6 +15,7 @@ UnityEngine.AnimationCurve::Init
 UnityEngine.Animator::get_hasBoundPlayables
 UnityEngine.Animator::StringToHash
 UnityEngine.Animator::INTERNAL_get_deltaPosition
+UnityEngine.Animator::Play
 UnityEngine.Animator::ResetTriggerString
 UnityEngine.Animator::SetBoolString
 UnityEngine.Animator::SetFloatString
@@ -187,7 +188,6 @@ UnityEngine.Font::get_dynamic
 UnityEngine.Font::get_fontSize
 UnityEngine.Font::get_material
 UnityEngine.GameObject::GetComponentsInternal
-UnityEngine.GameObject::get_active
 UnityEngine.GameObject::get_activeInHierarchy
 UnityEngine.GameObject::get_activeSelf
 UnityEngine.GameObject::get_layer

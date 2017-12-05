@@ -19,137 +19,137 @@
 #include "object-internals.h"
 
 // UnityEngine.AudioClip
-struct AudioClip_t152874045;
+struct AudioClip_t303190502;
 // UnityEngine.Object
-struct Object_t224960187;
+struct Object_t2092332117;
 // System.Single[]
-struct SingleU5BU5D_t2389899948;
+struct SingleU5BU5D_t1702561364;
 // UnityEngine.AudioClip/PCMReaderCallback
-struct PCMReaderCallback_t3351312833;
+struct PCMReaderCallback_t4099579993;
 // UnityEngine.AudioClip/PCMSetPositionCallback
-struct PCMSetPositionCallback_t1935024535;
+struct PCMSetPositionCallback_t2517488568;
 // System.IAsyncResult
-struct IAsyncResult_t3178317030;
+struct IAsyncResult_t2622942685;
 // System.AsyncCallback
-struct AsyncCallback_t1505771400;
+struct AsyncCallback_t1433732315;
 // UnityEngine.AudioExtensionDefinition
-struct AudioExtensionDefinition_t3397395452;
+struct AudioExtensionDefinition_t192562823;
 // System.Type
 struct Type_t;
 // System.String
 struct String_t;
 // System.String[]
-struct StringU5BU5D_t2095834596;
+struct StringU5BU5D_t1799834177;
 // UnityEngine.AudioSourceExtension
-struct AudioSourceExtension_t1539232135;
+struct AudioSourceExtension_t2842685391;
 // UnityEngine.AudioSource
-struct AudioSource_t2681891155;
+struct AudioSource_t109427735;
 // System.Collections.Generic.List`1<UnityEngine.AudioSpatializerExtensionDefinition>
-struct List_1_t1192643089;
+struct List_1_t305644031;
 // System.Collections.Generic.List`1<System.Object>
-struct List_1_t2691904472;
+struct List_1_t2378961247;
 // UnityEngine.AudioSpatializerExtensionDefinition
-struct AudioSpatializerExtensionDefinition_t2022077663;
+struct AudioSpatializerExtensionDefinition_t3915630517;
 // System.Collections.Generic.List`1<UnityEngine.AudioAmbisonicExtensionDefinition>
-struct List_1_t3223321231;
+struct List_1_t1950557518;
 // UnityEngine.AudioAmbisonicExtensionDefinition
-struct AudioAmbisonicExtensionDefinition_t4052755805;
+struct AudioAmbisonicExtensionDefinition_t1265576708;
 // UnityEngine.AudioListenerExtension
-struct AudioListenerExtension_t901597245;
+struct AudioListenerExtension_t4241147580;
 // UnityEngine.AudioListener
-struct AudioListener_t2335968177;
+struct AudioListener_t2036345966;
 // System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>
-struct List_1_t709797561;
+struct List_1_t3527666201;
 // UnityEngine.Behaviour
-struct Behaviour_t142731593;
+struct Behaviour_t1994696285;
 // UnityEngine.ScriptableObject
-struct ScriptableObject_t1637412538;
+struct ScriptableObject_t184210050;
 // UnityEngine.AudioSettings/AudioConfigurationChangeHandler
-struct AudioConfigurationChangeHandler_t932913356;
+struct AudioConfigurationChangeHandler_t2726240268;
 // UnityEngine.AudioSourceExtension[]
-struct AudioSourceExtensionU5BU5D_t2661985406;
+struct AudioSourceExtensionU5BU5D_t2628330518;
 // UnityEngine.AudioAmbisonicExtensionDefinition[]
-struct AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464;
+struct AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629;
 // UnityEngine.AudioSpatializerExtensionDefinition[]
-struct AudioSpatializerExtensionDefinitionU5BU5D_t3066108102;
+struct AudioSpatializerExtensionDefinitionU5BU5D_t2675859928;
 // System.Char[]
-struct CharU5BU5D_t1514866300;
+struct CharU5BU5D_t715161023;
 // System.Void
-struct Void_t175556975;
+struct Void_t3405838077;
 // System.Reflection.MethodInfo
 struct MethodInfo_t;
 // System.DelegateData
-struct DelegateData_t166884503;
+struct DelegateData_t3096787616;
 // System.Type[]
-struct TypeU5BU5D_t1241867390;
+struct TypeU5BU5D_t807720159;
 // System.Reflection.MemberFilter
-struct MemberFilter_t2830463451;
+struct MemberFilter_t3414113354;
 
-extern RuntimeClass* Object_t224960187_il2cpp_TypeInfo_var;
-extern const uint32_t AudioClip__ctor_m19692579_MetadataUsageId;
-extern RuntimeClass* Int32_t2532088842_il2cpp_TypeInfo_var;
-extern const uint32_t PCMSetPositionCallback_BeginInvoke_m2861733800_MetadataUsageId;
-extern RuntimeClass* StringU5BU5D_t2095834596_il2cpp_TypeInfo_var;
+extern RuntimeClass* Object_t2092332117_il2cpp_TypeInfo_var;
+extern const uint32_t AudioClip__ctor_m3347687127_MetadataUsageId;
+extern RuntimeClass* Int32_t1542953417_il2cpp_TypeInfo_var;
+extern const uint32_t PCMSetPositionCallback_BeginInvoke_m1370046046_MetadataUsageId;
+extern RuntimeClass* StringU5BU5D_t1799834177_il2cpp_TypeInfo_var;
 extern RuntimeClass* String_t_il2cpp_TypeInfo_var;
 extern RuntimeClass* Type_t_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral301637209;
-extern Il2CppCodeGenString* _stringLiteral2008683680;
-extern const uint32_t AudioExtensionDefinition_GetExtensionType_m2702929274_MetadataUsageId;
-extern RuntimeClass* AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var;
-extern const RuntimeMethod* List_1_GetEnumerator_m3756085531_RuntimeMethod_var;
-extern const RuntimeMethod* Enumerator_get_Current_m216234719_RuntimeMethod_var;
-extern const RuntimeMethod* Enumerator_MoveNext_m1770433219_RuntimeMethod_var;
-extern const RuntimeMethod* Enumerator_Dispose_m1789222286_RuntimeMethod_var;
-extern const uint32_t AudioExtensionManager_AddSpatializerExtension_m91879993_MetadataUsageId;
-extern const RuntimeMethod* List_1_GetEnumerator_m96184421_RuntimeMethod_var;
-extern const RuntimeMethod* Enumerator_get_Current_m2922529038_RuntimeMethod_var;
-extern const RuntimeMethod* Enumerator_MoveNext_m575420844_RuntimeMethod_var;
-extern const RuntimeMethod* Enumerator_Dispose_m3136653832_RuntimeMethod_var;
-extern const uint32_t AudioExtensionManager_AddAmbisonicDecoderExtension_m342453594_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_WriteExtensionProperties_m3800946984_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_AddSpatializerExtension_m1812492843_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_WriteExtensionProperties_m96107381_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_GetListenerSpatializerExtensionType_m731357134_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4157760074_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_GetSourceSpatializerExtensionType_m771901715_MetadataUsageId;
-extern const RuntimeMethod* List_1_Add_m1053829_RuntimeMethod_var;
-extern const RuntimeMethod* List_1_get_Count_m1402367815_RuntimeMethod_var;
-extern const uint32_t AudioExtensionManager_AddExtensionToManager_m863188417_MetadataUsageId;
-extern const RuntimeMethod* List_1_get_Item_m2534902725_RuntimeMethod_var;
-extern const RuntimeMethod* List_1_set_Item_m2480814918_RuntimeMethod_var;
-extern const RuntimeMethod* List_1_RemoveAt_m271836106_RuntimeMethod_var;
-extern const uint32_t AudioExtensionManager_RemoveExtensionFromManager_m1906670292_MetadataUsageId;
-extern RuntimeClass* AudioListener_t2335968177_il2cpp_TypeInfo_var;
-extern const uint32_t AudioExtensionManager_Update_m73762593_MetadataUsageId;
-extern const uint32_t AudioExtensionManager_GetReadyToPlay_m254406875_MetadataUsageId;
-extern Il2CppCodeGenString* _stringLiteral655663447;
-extern const uint32_t AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242_MetadataUsageId;
-extern RuntimeClass* List_1_t1192643089_il2cpp_TypeInfo_var;
-extern RuntimeClass* List_1_t3223321231_il2cpp_TypeInfo_var;
-extern RuntimeClass* List_1_t709797561_il2cpp_TypeInfo_var;
-extern const RuntimeMethod* List_1__ctor_m2664792360_RuntimeMethod_var;
-extern const RuntimeMethod* List_1__ctor_m2191815930_RuntimeMethod_var;
-extern const RuntimeMethod* List_1__ctor_m2478877522_RuntimeMethod_var;
-extern const uint32_t AudioExtensionManager__cctor_m1956508522_MetadataUsageId;
-extern RuntimeClass* AudioListenerExtension_t901597245_il2cpp_TypeInfo_var;
-extern const uint32_t AudioListener_AddExtension_m2570928421_MetadataUsageId;
-extern RuntimeClass* AudioSettings_t3533641043_il2cpp_TypeInfo_var;
-extern const uint32_t AudioSettings_InvokeOnAudioConfigurationChanged_m2003890111_MetadataUsageId;
-extern const uint32_t AudioSettings_InvokeOnAudioManagerUpdate_m3321870624_MetadataUsageId;
-extern const uint32_t AudioSettings_InvokeOnAudioSourcePlay_m2192450994_MetadataUsageId;
-extern RuntimeClass* Boolean_t2016116572_il2cpp_TypeInfo_var;
-extern const uint32_t AudioConfigurationChangeHandler_BeginInvoke_m3966684641_MetadataUsageId;
-extern const uint32_t AudioSource_PlayOneShot_m2254371663_MetadataUsageId;
-extern RuntimeClass* AudioSourceExtension_t1539232135_il2cpp_TypeInfo_var;
-extern const uint32_t AudioSource_AddSpatializerExtension_m694521801_MetadataUsageId;
-extern const uint32_t AudioSource_AddAmbisonicExtension_m1544932888_MetadataUsageId;
+extern Il2CppCodeGenString* _stringLiteral3951408296;
+extern Il2CppCodeGenString* _stringLiteral880287380;
+extern const uint32_t AudioExtensionDefinition_GetExtensionType_m692425019_MetadataUsageId;
+extern RuntimeClass* AudioExtensionManager_t406276441_il2cpp_TypeInfo_var;
+extern const RuntimeMethod* List_1_GetEnumerator_m3629966127_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_get_Current_m3739187253_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_MoveNext_m342936855_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_Dispose_m1433320748_RuntimeMethod_var;
+extern const uint32_t AudioExtensionManager_AddSpatializerExtension_m3116584675_MetadataUsageId;
+extern const RuntimeMethod* List_1_GetEnumerator_m3560737948_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_get_Current_m3709297553_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_MoveNext_m88114248_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_Dispose_m487311834_RuntimeMethod_var;
+extern const uint32_t AudioExtensionManager_AddAmbisonicDecoderExtension_m9332641_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_WriteExtensionProperties_m3218885782_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_AddSpatializerExtension_m398767448_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_WriteExtensionProperties_m1226602203_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_GetListenerSpatializerExtensionType_m4255011715_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4004119794_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_GetSourceSpatializerExtensionType_m214240226_MetadataUsageId;
+extern const RuntimeMethod* List_1_Add_m1345455169_RuntimeMethod_var;
+extern const RuntimeMethod* List_1_get_Count_m205895629_RuntimeMethod_var;
+extern const uint32_t AudioExtensionManager_AddExtensionToManager_m4109618171_MetadataUsageId;
+extern const RuntimeMethod* List_1_get_Item_m381162371_RuntimeMethod_var;
+extern const RuntimeMethod* List_1_set_Item_m2799211326_RuntimeMethod_var;
+extern const RuntimeMethod* List_1_RemoveAt_m933238453_RuntimeMethod_var;
+extern const uint32_t AudioExtensionManager_RemoveExtensionFromManager_m66721685_MetadataUsageId;
+extern RuntimeClass* AudioListener_t2036345966_il2cpp_TypeInfo_var;
+extern const uint32_t AudioExtensionManager_Update_m1805526171_MetadataUsageId;
+extern const uint32_t AudioExtensionManager_GetReadyToPlay_m1586308525_MetadataUsageId;
+extern Il2CppCodeGenString* _stringLiteral105097484;
+extern const uint32_t AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727_MetadataUsageId;
+extern RuntimeClass* List_1_t305644031_il2cpp_TypeInfo_var;
+extern RuntimeClass* List_1_t1950557518_il2cpp_TypeInfo_var;
+extern RuntimeClass* List_1_t3527666201_il2cpp_TypeInfo_var;
+extern const RuntimeMethod* List_1__ctor_m4278654810_RuntimeMethod_var;
+extern const RuntimeMethod* List_1__ctor_m3799196528_RuntimeMethod_var;
+extern const RuntimeMethod* List_1__ctor_m1723826519_RuntimeMethod_var;
+extern const uint32_t AudioExtensionManager__cctor_m815812195_MetadataUsageId;
+extern RuntimeClass* AudioListenerExtension_t4241147580_il2cpp_TypeInfo_var;
+extern const uint32_t AudioListener_AddExtension_m398067144_MetadataUsageId;
+extern RuntimeClass* AudioSettings_t4246639668_il2cpp_TypeInfo_var;
+extern const uint32_t AudioSettings_InvokeOnAudioConfigurationChanged_m4086318332_MetadataUsageId;
+extern const uint32_t AudioSettings_InvokeOnAudioManagerUpdate_m1734027323_MetadataUsageId;
+extern const uint32_t AudioSettings_InvokeOnAudioSourcePlay_m392845342_MetadataUsageId;
+extern RuntimeClass* Boolean_t806962679_il2cpp_TypeInfo_var;
+extern const uint32_t AudioConfigurationChangeHandler_BeginInvoke_m1298908602_MetadataUsageId;
+extern const uint32_t AudioSource_PlayOneShot_m2326217846_MetadataUsageId;
+extern RuntimeClass* AudioSourceExtension_t2842685391_il2cpp_TypeInfo_var;
+extern const uint32_t AudioSource_AddSpatializerExtension_m1274846644_MetadataUsageId;
+extern const uint32_t AudioSource_AddAmbisonicExtension_m2087215766_MetadataUsageId;
 
-struct SingleU5BU5D_t2389899948;
-struct StringU5BU5D_t2095834596;
+struct SingleU5BU5D_t1702561364;
+struct StringU5BU5D_t1799834177;
 
 
-#ifndef U3CMODULEU3E_T890490890_H
-#define U3CMODULEU3E_T890490890_H
+#ifndef U3CMODULEU3E_T373433062_H
+#define U3CMODULEU3E_T373433062_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -157,7 +157,7 @@ struct StringU5BU5D_t2095834596;
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t890490890 
+struct  U3CModuleU3E_t373433062 
 {
 public:
 
@@ -167,7 +167,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // U3CMODULEU3E_T890490890_H
+#endif // U3CMODULEU3E_T373433062_H
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__
@@ -197,8 +197,8 @@ struct Il2CppArrayBounds;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEARRAY_H
-#ifndef VALUETYPE_T4281574503_H
-#define VALUETYPE_T4281574503_H
+#ifndef VALUETYPE_T1711964182_H
+#define VALUETYPE_T1711964182_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -206,7 +206,7 @@ struct Il2CppArrayBounds;
 #endif
 
 // System.ValueType
-struct  ValueType_t4281574503  : public RuntimeObject
+struct  ValueType_t1711964182  : public RuntimeObject
 {
 public:
 
@@ -217,16 +217,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.ValueType
-struct ValueType_t4281574503_marshaled_pinvoke
+struct ValueType_t1711964182_marshaled_pinvoke
 {
 };
 // Native definition for COM marshalling of System.ValueType
-struct ValueType_t4281574503_marshaled_com
+struct ValueType_t1711964182_marshaled_com
 {
 };
-#endif // VALUETYPE_T4281574503_H
-#ifndef AUDIOSETTINGS_T3533641043_H
-#define AUDIOSETTINGS_T3533641043_H
+#endif // VALUETYPE_T1711964182_H
+#ifndef AUDIOSETTINGS_T4246639668_H
+#define AUDIOSETTINGS_T4246639668_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -234,24 +234,24 @@ struct ValueType_t4281574503_marshaled_com
 #endif
 
 // UnityEngine.AudioSettings
-struct  AudioSettings_t3533641043  : public RuntimeObject
+struct  AudioSettings_t4246639668  : public RuntimeObject
 {
 public:
 
 public:
 };
 
-struct AudioSettings_t3533641043_StaticFields
+struct AudioSettings_t4246639668_StaticFields
 {
 public:
 	// UnityEngine.AudioSettings/AudioConfigurationChangeHandler UnityEngine.AudioSettings::OnAudioConfigurationChanged
-	AudioConfigurationChangeHandler_t932913356 * ___OnAudioConfigurationChanged_0;
+	AudioConfigurationChangeHandler_t2726240268 * ___OnAudioConfigurationChanged_0;
 
 public:
-	inline static int32_t get_offset_of_OnAudioConfigurationChanged_0() { return static_cast<int32_t>(offsetof(AudioSettings_t3533641043_StaticFields, ___OnAudioConfigurationChanged_0)); }
-	inline AudioConfigurationChangeHandler_t932913356 * get_OnAudioConfigurationChanged_0() const { return ___OnAudioConfigurationChanged_0; }
-	inline AudioConfigurationChangeHandler_t932913356 ** get_address_of_OnAudioConfigurationChanged_0() { return &___OnAudioConfigurationChanged_0; }
-	inline void set_OnAudioConfigurationChanged_0(AudioConfigurationChangeHandler_t932913356 * value)
+	inline static int32_t get_offset_of_OnAudioConfigurationChanged_0() { return static_cast<int32_t>(offsetof(AudioSettings_t4246639668_StaticFields, ___OnAudioConfigurationChanged_0)); }
+	inline AudioConfigurationChangeHandler_t2726240268 * get_OnAudioConfigurationChanged_0() const { return ___OnAudioConfigurationChanged_0; }
+	inline AudioConfigurationChangeHandler_t2726240268 ** get_address_of_OnAudioConfigurationChanged_0() { return &___OnAudioConfigurationChanged_0; }
+	inline void set_OnAudioConfigurationChanged_0(AudioConfigurationChangeHandler_t2726240268 * value)
 	{
 		___OnAudioConfigurationChanged_0 = value;
 		Il2CppCodeGenWriteBarrier((&___OnAudioConfigurationChanged_0), value);
@@ -261,9 +261,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOSETTINGS_T3533641043_H
-#ifndef LIST_1_T709797561_H
-#define LIST_1_T709797561_H
+#endif // AUDIOSETTINGS_T4246639668_H
+#ifndef LIST_1_T3527666201_H
+#define LIST_1_T3527666201_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -271,27 +271,27 @@ public:
 #endif
 
 // System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>
-struct  List_1_t709797561  : public RuntimeObject
+struct  List_1_t3527666201  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
-	AudioSourceExtensionU5BU5D_t2661985406* ____items_1;
+	AudioSourceExtensionU5BU5D_t2628330518* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
 	int32_t ____version_3;
 
 public:
-	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t709797561, ____items_1)); }
-	inline AudioSourceExtensionU5BU5D_t2661985406* get__items_1() const { return ____items_1; }
-	inline AudioSourceExtensionU5BU5D_t2661985406** get_address_of__items_1() { return &____items_1; }
-	inline void set__items_1(AudioSourceExtensionU5BU5D_t2661985406* value)
+	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t3527666201, ____items_1)); }
+	inline AudioSourceExtensionU5BU5D_t2628330518* get__items_1() const { return ____items_1; }
+	inline AudioSourceExtensionU5BU5D_t2628330518** get_address_of__items_1() { return &____items_1; }
+	inline void set__items_1(AudioSourceExtensionU5BU5D_t2628330518* value)
 	{
 		____items_1 = value;
 		Il2CppCodeGenWriteBarrier((&____items_1), value);
 	}
 
-	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t709797561, ____size_2)); }
+	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t3527666201, ____size_2)); }
 	inline int32_t get__size_2() const { return ____size_2; }
 	inline int32_t* get_address_of__size_2() { return &____size_2; }
 	inline void set__size_2(int32_t value)
@@ -299,7 +299,7 @@ public:
 		____size_2 = value;
 	}
 
-	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t709797561, ____version_3)); }
+	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t3527666201, ____version_3)); }
 	inline int32_t get__version_3() const { return ____version_3; }
 	inline int32_t* get_address_of__version_3() { return &____version_3; }
 	inline void set__version_3(int32_t value)
@@ -308,17 +308,17 @@ public:
 	}
 };
 
-struct List_1_t709797561_StaticFields
+struct List_1_t3527666201_StaticFields
 {
 public:
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	AudioSourceExtensionU5BU5D_t2661985406* ___EmptyArray_4;
+	AudioSourceExtensionU5BU5D_t2628330518* ___EmptyArray_4;
 
 public:
-	inline static int32_t get_offset_of_EmptyArray_4() { return static_cast<int32_t>(offsetof(List_1_t709797561_StaticFields, ___EmptyArray_4)); }
-	inline AudioSourceExtensionU5BU5D_t2661985406* get_EmptyArray_4() const { return ___EmptyArray_4; }
-	inline AudioSourceExtensionU5BU5D_t2661985406** get_address_of_EmptyArray_4() { return &___EmptyArray_4; }
-	inline void set_EmptyArray_4(AudioSourceExtensionU5BU5D_t2661985406* value)
+	inline static int32_t get_offset_of_EmptyArray_4() { return static_cast<int32_t>(offsetof(List_1_t3527666201_StaticFields, ___EmptyArray_4)); }
+	inline AudioSourceExtensionU5BU5D_t2628330518* get_EmptyArray_4() const { return ___EmptyArray_4; }
+	inline AudioSourceExtensionU5BU5D_t2628330518** get_address_of_EmptyArray_4() { return &___EmptyArray_4; }
+	inline void set_EmptyArray_4(AudioSourceExtensionU5BU5D_t2628330518* value)
 	{
 		___EmptyArray_4 = value;
 		Il2CppCodeGenWriteBarrier((&___EmptyArray_4), value);
@@ -328,9 +328,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // LIST_1_T709797561_H
-#ifndef LIST_1_T3223321231_H
-#define LIST_1_T3223321231_H
+#endif // LIST_1_T3527666201_H
+#ifndef LIST_1_T1950557518_H
+#define LIST_1_T1950557518_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -338,27 +338,27 @@ public:
 #endif
 
 // System.Collections.Generic.List`1<UnityEngine.AudioAmbisonicExtensionDefinition>
-struct  List_1_t3223321231  : public RuntimeObject
+struct  List_1_t1950557518  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
-	AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464* ____items_1;
+	AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
 	int32_t ____version_3;
 
 public:
-	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t3223321231, ____items_1)); }
-	inline AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464* get__items_1() const { return ____items_1; }
-	inline AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464** get_address_of__items_1() { return &____items_1; }
-	inline void set__items_1(AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464* value)
+	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t1950557518, ____items_1)); }
+	inline AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629* get__items_1() const { return ____items_1; }
+	inline AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629** get_address_of__items_1() { return &____items_1; }
+	inline void set__items_1(AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629* value)
 	{
 		____items_1 = value;
 		Il2CppCodeGenWriteBarrier((&____items_1), value);
 	}
 
-	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t3223321231, ____size_2)); }
+	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t1950557518, ____size_2)); }
 	inline int32_t get__size_2() const { return ____size_2; }
 	inline int32_t* get_address_of__size_2() { return &____size_2; }
 	inline void set__size_2(int32_t value)
@@ -366,7 +366,7 @@ public:
 		____size_2 = value;
 	}
 
-	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t3223321231, ____version_3)); }
+	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t1950557518, ____version_3)); }
 	inline int32_t get__version_3() const { return ____version_3; }
 	inline int32_t* get_address_of__version_3() { return &____version_3; }
 	inline void set__version_3(int32_t value)
@@ -375,17 +375,17 @@ public:
 	}
 };
 
-struct List_1_t3223321231_StaticFields
+struct List_1_t1950557518_StaticFields
 {
 public:
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464* ___EmptyArray_4;
+	AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629* ___EmptyArray_4;
 
 public:
-	inline static int32_t get_offset_of_EmptyArray_4() { return static_cast<int32_t>(offsetof(List_1_t3223321231_StaticFields, ___EmptyArray_4)); }
-	inline AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464* get_EmptyArray_4() const { return ___EmptyArray_4; }
-	inline AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464** get_address_of_EmptyArray_4() { return &___EmptyArray_4; }
-	inline void set_EmptyArray_4(AudioAmbisonicExtensionDefinitionU5BU5D_t2261176464* value)
+	inline static int32_t get_offset_of_EmptyArray_4() { return static_cast<int32_t>(offsetof(List_1_t1950557518_StaticFields, ___EmptyArray_4)); }
+	inline AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629* get_EmptyArray_4() const { return ___EmptyArray_4; }
+	inline AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629** get_address_of_EmptyArray_4() { return &___EmptyArray_4; }
+	inline void set_EmptyArray_4(AudioAmbisonicExtensionDefinitionU5BU5D_t1396331629* value)
 	{
 		___EmptyArray_4 = value;
 		Il2CppCodeGenWriteBarrier((&___EmptyArray_4), value);
@@ -395,7 +395,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // LIST_1_T3223321231_H
+#endif // LIST_1_T1950557518_H
 #ifndef MEMBERINFO_T_H
 #define MEMBERINFO_T_H
 #ifdef __clang__
@@ -416,8 +416,8 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // MEMBERINFO_T_H
-#ifndef LIST_1_T1192643089_H
-#define LIST_1_T1192643089_H
+#ifndef LIST_1_T305644031_H
+#define LIST_1_T305644031_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -425,27 +425,27 @@ public:
 #endif
 
 // System.Collections.Generic.List`1<UnityEngine.AudioSpatializerExtensionDefinition>
-struct  List_1_t1192643089  : public RuntimeObject
+struct  List_1_t305644031  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
-	AudioSpatializerExtensionDefinitionU5BU5D_t3066108102* ____items_1;
+	AudioSpatializerExtensionDefinitionU5BU5D_t2675859928* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
 	int32_t ____version_3;
 
 public:
-	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t1192643089, ____items_1)); }
-	inline AudioSpatializerExtensionDefinitionU5BU5D_t3066108102* get__items_1() const { return ____items_1; }
-	inline AudioSpatializerExtensionDefinitionU5BU5D_t3066108102** get_address_of__items_1() { return &____items_1; }
-	inline void set__items_1(AudioSpatializerExtensionDefinitionU5BU5D_t3066108102* value)
+	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t305644031, ____items_1)); }
+	inline AudioSpatializerExtensionDefinitionU5BU5D_t2675859928* get__items_1() const { return ____items_1; }
+	inline AudioSpatializerExtensionDefinitionU5BU5D_t2675859928** get_address_of__items_1() { return &____items_1; }
+	inline void set__items_1(AudioSpatializerExtensionDefinitionU5BU5D_t2675859928* value)
 	{
 		____items_1 = value;
 		Il2CppCodeGenWriteBarrier((&____items_1), value);
 	}
 
-	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t1192643089, ____size_2)); }
+	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t305644031, ____size_2)); }
 	inline int32_t get__size_2() const { return ____size_2; }
 	inline int32_t* get_address_of__size_2() { return &____size_2; }
 	inline void set__size_2(int32_t value)
@@ -453,7 +453,7 @@ public:
 		____size_2 = value;
 	}
 
-	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t1192643089, ____version_3)); }
+	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t305644031, ____version_3)); }
 	inline int32_t get__version_3() const { return ____version_3; }
 	inline int32_t* get_address_of__version_3() { return &____version_3; }
 	inline void set__version_3(int32_t value)
@@ -462,17 +462,17 @@ public:
 	}
 };
 
-struct List_1_t1192643089_StaticFields
+struct List_1_t305644031_StaticFields
 {
 public:
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	AudioSpatializerExtensionDefinitionU5BU5D_t3066108102* ___EmptyArray_4;
+	AudioSpatializerExtensionDefinitionU5BU5D_t2675859928* ___EmptyArray_4;
 
 public:
-	inline static int32_t get_offset_of_EmptyArray_4() { return static_cast<int32_t>(offsetof(List_1_t1192643089_StaticFields, ___EmptyArray_4)); }
-	inline AudioSpatializerExtensionDefinitionU5BU5D_t3066108102* get_EmptyArray_4() const { return ___EmptyArray_4; }
-	inline AudioSpatializerExtensionDefinitionU5BU5D_t3066108102** get_address_of_EmptyArray_4() { return &___EmptyArray_4; }
-	inline void set_EmptyArray_4(AudioSpatializerExtensionDefinitionU5BU5D_t3066108102* value)
+	inline static int32_t get_offset_of_EmptyArray_4() { return static_cast<int32_t>(offsetof(List_1_t305644031_StaticFields, ___EmptyArray_4)); }
+	inline AudioSpatializerExtensionDefinitionU5BU5D_t2675859928* get_EmptyArray_4() const { return ___EmptyArray_4; }
+	inline AudioSpatializerExtensionDefinitionU5BU5D_t2675859928** get_address_of_EmptyArray_4() { return &___EmptyArray_4; }
+	inline void set_EmptyArray_4(AudioSpatializerExtensionDefinitionU5BU5D_t2675859928* value)
 	{
 		___EmptyArray_4 = value;
 		Il2CppCodeGenWriteBarrier((&___EmptyArray_4), value);
@@ -482,7 +482,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // LIST_1_T1192643089_H
+#endif // LIST_1_T305644031_H
 #ifndef STRING_T_H
 #define STRING_T_H
 #ifdef __clang__
@@ -524,7 +524,7 @@ public:
 	// System.String System.String::Empty
 	String_t* ___Empty_2;
 	// System.Char[] System.String::WhiteChars
-	CharU5BU5D_t1514866300* ___WhiteChars_3;
+	CharU5BU5D_t715161023* ___WhiteChars_3;
 
 public:
 	inline static int32_t get_offset_of_Empty_2() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_2)); }
@@ -537,9 +537,9 @@ public:
 	}
 
 	inline static int32_t get_offset_of_WhiteChars_3() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___WhiteChars_3)); }
-	inline CharU5BU5D_t1514866300* get_WhiteChars_3() const { return ___WhiteChars_3; }
-	inline CharU5BU5D_t1514866300** get_address_of_WhiteChars_3() { return &___WhiteChars_3; }
-	inline void set_WhiteChars_3(CharU5BU5D_t1514866300* value)
+	inline CharU5BU5D_t715161023* get_WhiteChars_3() const { return ___WhiteChars_3; }
+	inline CharU5BU5D_t715161023** get_address_of_WhiteChars_3() { return &___WhiteChars_3; }
+	inline void set_WhiteChars_3(CharU5BU5D_t715161023* value)
 	{
 		___WhiteChars_3 = value;
 		Il2CppCodeGenWriteBarrier((&___WhiteChars_3), value);
@@ -550,8 +550,8 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // STRING_T_H
-#ifndef AUDIOEXTENSIONDEFINITION_T3397395452_H
-#define AUDIOEXTENSIONDEFINITION_T3397395452_H
+#ifndef AUDIOEXTENSIONDEFINITION_T192562823_H
+#define AUDIOEXTENSIONDEFINITION_T192562823_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -559,7 +559,7 @@ public:
 #endif
 
 // UnityEngine.AudioExtensionDefinition
-struct  AudioExtensionDefinition_t3397395452  : public RuntimeObject
+struct  AudioExtensionDefinition_t192562823  : public RuntimeObject
 {
 public:
 	// System.String UnityEngine.AudioExtensionDefinition::assemblyName
@@ -572,7 +572,7 @@ public:
 	Type_t * ___extensionType_3;
 
 public:
-	inline static int32_t get_offset_of_assemblyName_0() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t3397395452, ___assemblyName_0)); }
+	inline static int32_t get_offset_of_assemblyName_0() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t192562823, ___assemblyName_0)); }
 	inline String_t* get_assemblyName_0() const { return ___assemblyName_0; }
 	inline String_t** get_address_of_assemblyName_0() { return &___assemblyName_0; }
 	inline void set_assemblyName_0(String_t* value)
@@ -581,7 +581,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___assemblyName_0), value);
 	}
 
-	inline static int32_t get_offset_of_extensionNamespace_1() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t3397395452, ___extensionNamespace_1)); }
+	inline static int32_t get_offset_of_extensionNamespace_1() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t192562823, ___extensionNamespace_1)); }
 	inline String_t* get_extensionNamespace_1() const { return ___extensionNamespace_1; }
 	inline String_t** get_address_of_extensionNamespace_1() { return &___extensionNamespace_1; }
 	inline void set_extensionNamespace_1(String_t* value)
@@ -590,7 +590,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___extensionNamespace_1), value);
 	}
 
-	inline static int32_t get_offset_of_extensionTypeName_2() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t3397395452, ___extensionTypeName_2)); }
+	inline static int32_t get_offset_of_extensionTypeName_2() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t192562823, ___extensionTypeName_2)); }
 	inline String_t* get_extensionTypeName_2() const { return ___extensionTypeName_2; }
 	inline String_t** get_address_of_extensionTypeName_2() { return &___extensionTypeName_2; }
 	inline void set_extensionTypeName_2(String_t* value)
@@ -599,7 +599,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___extensionTypeName_2), value);
 	}
 
-	inline static int32_t get_offset_of_extensionType_3() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t3397395452, ___extensionType_3)); }
+	inline static int32_t get_offset_of_extensionType_3() { return static_cast<int32_t>(offsetof(AudioExtensionDefinition_t192562823, ___extensionType_3)); }
 	inline Type_t * get_extensionType_3() const { return ___extensionType_3; }
 	inline Type_t ** get_address_of_extensionType_3() { return &___extensionType_3; }
 	inline void set_extensionType_3(Type_t * value)
@@ -612,9 +612,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOEXTENSIONDEFINITION_T3397395452_H
-#ifndef UINT64_T3363105744_H
-#define UINT64_T3363105744_H
+#endif // AUDIOEXTENSIONDEFINITION_T192562823_H
+#ifndef UINT64_T4189530932_H
+#define UINT64_T4189530932_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -622,14 +622,14 @@ public:
 #endif
 
 // System.UInt64
-struct  UInt64_t3363105744 
+struct  UInt64_t4189530932 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
 	uint64_t ___m_value_2;
 
 public:
-	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(UInt64_t3363105744, ___m_value_2)); }
+	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(UInt64_t4189530932, ___m_value_2)); }
 	inline uint64_t get_m_value_2() const { return ___m_value_2; }
 	inline uint64_t* get_address_of_m_value_2() { return &___m_value_2; }
 	inline void set_m_value_2(uint64_t value)
@@ -641,9 +641,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // UINT64_T3363105744_H
-#ifndef ENUMERATOR_T1594794384_H
-#define ENUMERATOR_T1594794384_H
+#endif // UINT64_T4189530932_H
+#ifndef ENUMERATOR_T3715239076_H
+#define ENUMERATOR_T3715239076_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -651,29 +651,29 @@ public:
 #endif
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioAmbisonicExtensionDefinition>
-struct  Enumerator_t1594794384 
+struct  Enumerator_t3715239076 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::l
-	List_1_t3223321231 * ___l_0;
+	List_1_t1950557518 * ___l_0;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::next
 	int32_t ___next_1;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	AudioAmbisonicExtensionDefinition_t4052755805 * ___current_3;
+	AudioAmbisonicExtensionDefinition_t1265576708 * ___current_3;
 
 public:
-	inline static int32_t get_offset_of_l_0() { return static_cast<int32_t>(offsetof(Enumerator_t1594794384, ___l_0)); }
-	inline List_1_t3223321231 * get_l_0() const { return ___l_0; }
-	inline List_1_t3223321231 ** get_address_of_l_0() { return &___l_0; }
-	inline void set_l_0(List_1_t3223321231 * value)
+	inline static int32_t get_offset_of_l_0() { return static_cast<int32_t>(offsetof(Enumerator_t3715239076, ___l_0)); }
+	inline List_1_t1950557518 * get_l_0() const { return ___l_0; }
+	inline List_1_t1950557518 ** get_address_of_l_0() { return &___l_0; }
+	inline void set_l_0(List_1_t1950557518 * value)
 	{
 		___l_0 = value;
 		Il2CppCodeGenWriteBarrier((&___l_0), value);
 	}
 
-	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t1594794384, ___next_1)); }
+	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t3715239076, ___next_1)); }
 	inline int32_t get_next_1() const { return ___next_1; }
 	inline int32_t* get_address_of_next_1() { return &___next_1; }
 	inline void set_next_1(int32_t value)
@@ -681,7 +681,7 @@ public:
 		___next_1 = value;
 	}
 
-	inline static int32_t get_offset_of_ver_2() { return static_cast<int32_t>(offsetof(Enumerator_t1594794384, ___ver_2)); }
+	inline static int32_t get_offset_of_ver_2() { return static_cast<int32_t>(offsetof(Enumerator_t3715239076, ___ver_2)); }
 	inline int32_t get_ver_2() const { return ___ver_2; }
 	inline int32_t* get_address_of_ver_2() { return &___ver_2; }
 	inline void set_ver_2(int32_t value)
@@ -689,10 +689,10 @@ public:
 		___ver_2 = value;
 	}
 
-	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t1594794384, ___current_3)); }
-	inline AudioAmbisonicExtensionDefinition_t4052755805 * get_current_3() const { return ___current_3; }
-	inline AudioAmbisonicExtensionDefinition_t4052755805 ** get_address_of_current_3() { return &___current_3; }
-	inline void set_current_3(AudioAmbisonicExtensionDefinition_t4052755805 * value)
+	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t3715239076, ___current_3)); }
+	inline AudioAmbisonicExtensionDefinition_t1265576708 * get_current_3() const { return ___current_3; }
+	inline AudioAmbisonicExtensionDefinition_t1265576708 ** get_address_of_current_3() { return &___current_3; }
+	inline void set_current_3(AudioAmbisonicExtensionDefinition_t1265576708 * value)
 	{
 		___current_3 = value;
 		Il2CppCodeGenWriteBarrier((&___current_3), value);
@@ -702,9 +702,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // ENUMERATOR_T1594794384_H
-#ifndef PROPERTYNAME_T957933759_H
-#define PROPERTYNAME_T957933759_H
+#endif // ENUMERATOR_T3715239076_H
+#ifndef PROPERTYNAME_T629672075_H
+#define PROPERTYNAME_T629672075_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -712,14 +712,14 @@ public:
 #endif
 
 // UnityEngine.PropertyName
-struct  PropertyName_t957933759 
+struct  PropertyName_t629672075 
 {
 public:
 	// System.Int32 UnityEngine.PropertyName::id
 	int32_t ___id_0;
 
 public:
-	inline static int32_t get_offset_of_id_0() { return static_cast<int32_t>(offsetof(PropertyName_t957933759, ___id_0)); }
+	inline static int32_t get_offset_of_id_0() { return static_cast<int32_t>(offsetof(PropertyName_t629672075, ___id_0)); }
 	inline int32_t get_id_0() const { return ___id_0; }
 	inline int32_t* get_address_of_id_0() { return &___id_0; }
 	inline void set_id_0(int32_t value)
@@ -731,9 +731,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // PROPERTYNAME_T957933759_H
-#ifndef ENUMERATOR_T1063377625_H
-#define ENUMERATOR_T1063377625_H
+#endif // PROPERTYNAME_T629672075_H
+#ifndef ENUMERATOR_T4143642805_H
+#define ENUMERATOR_T4143642805_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -741,11 +741,11 @@ public:
 #endif
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
-struct  Enumerator_t1063377625 
+struct  Enumerator_t4143642805 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::l
-	List_1_t2691904472 * ___l_0;
+	List_1_t2378961247 * ___l_0;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::next
 	int32_t ___next_1;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
@@ -754,16 +754,16 @@ public:
 	RuntimeObject * ___current_3;
 
 public:
-	inline static int32_t get_offset_of_l_0() { return static_cast<int32_t>(offsetof(Enumerator_t1063377625, ___l_0)); }
-	inline List_1_t2691904472 * get_l_0() const { return ___l_0; }
-	inline List_1_t2691904472 ** get_address_of_l_0() { return &___l_0; }
-	inline void set_l_0(List_1_t2691904472 * value)
+	inline static int32_t get_offset_of_l_0() { return static_cast<int32_t>(offsetof(Enumerator_t4143642805, ___l_0)); }
+	inline List_1_t2378961247 * get_l_0() const { return ___l_0; }
+	inline List_1_t2378961247 ** get_address_of_l_0() { return &___l_0; }
+	inline void set_l_0(List_1_t2378961247 * value)
 	{
 		___l_0 = value;
 		Il2CppCodeGenWriteBarrier((&___l_0), value);
 	}
 
-	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t1063377625, ___next_1)); }
+	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t4143642805, ___next_1)); }
 	inline int32_t get_next_1() const { return ___next_1; }
 	inline int32_t* get_address_of_next_1() { return &___next_1; }
 	inline void set_next_1(int32_t value)
@@ -771,7 +771,7 @@ public:
 		___next_1 = value;
 	}
 
-	inline static int32_t get_offset_of_ver_2() { return static_cast<int32_t>(offsetof(Enumerator_t1063377625, ___ver_2)); }
+	inline static int32_t get_offset_of_ver_2() { return static_cast<int32_t>(offsetof(Enumerator_t4143642805, ___ver_2)); }
 	inline int32_t get_ver_2() const { return ___ver_2; }
 	inline int32_t* get_address_of_ver_2() { return &___ver_2; }
 	inline void set_ver_2(int32_t value)
@@ -779,7 +779,7 @@ public:
 		___ver_2 = value;
 	}
 
-	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t1063377625, ___current_3)); }
+	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t4143642805, ___current_3)); }
 	inline RuntimeObject * get_current_3() const { return ___current_3; }
 	inline RuntimeObject ** get_address_of_current_3() { return &___current_3; }
 	inline void set_current_3(RuntimeObject * value)
@@ -792,9 +792,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // ENUMERATOR_T1063377625_H
-#ifndef ENUMERATOR_T3859083538_H
-#define ENUMERATOR_T3859083538_H
+#endif // ENUMERATOR_T4143642805_H
+#ifndef ENUMERATOR_T2070325589_H
+#define ENUMERATOR_T2070325589_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -802,29 +802,29 @@ public:
 #endif
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioSpatializerExtensionDefinition>
-struct  Enumerator_t3859083538 
+struct  Enumerator_t2070325589 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::l
-	List_1_t1192643089 * ___l_0;
+	List_1_t305644031 * ___l_0;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::next
 	int32_t ___next_1;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	AudioSpatializerExtensionDefinition_t2022077663 * ___current_3;
+	AudioSpatializerExtensionDefinition_t3915630517 * ___current_3;
 
 public:
-	inline static int32_t get_offset_of_l_0() { return static_cast<int32_t>(offsetof(Enumerator_t3859083538, ___l_0)); }
-	inline List_1_t1192643089 * get_l_0() const { return ___l_0; }
-	inline List_1_t1192643089 ** get_address_of_l_0() { return &___l_0; }
-	inline void set_l_0(List_1_t1192643089 * value)
+	inline static int32_t get_offset_of_l_0() { return static_cast<int32_t>(offsetof(Enumerator_t2070325589, ___l_0)); }
+	inline List_1_t305644031 * get_l_0() const { return ___l_0; }
+	inline List_1_t305644031 ** get_address_of_l_0() { return &___l_0; }
+	inline void set_l_0(List_1_t305644031 * value)
 	{
 		___l_0 = value;
 		Il2CppCodeGenWriteBarrier((&___l_0), value);
 	}
 
-	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t3859083538, ___next_1)); }
+	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t2070325589, ___next_1)); }
 	inline int32_t get_next_1() const { return ___next_1; }
 	inline int32_t* get_address_of_next_1() { return &___next_1; }
 	inline void set_next_1(int32_t value)
@@ -832,7 +832,7 @@ public:
 		___next_1 = value;
 	}
 
-	inline static int32_t get_offset_of_ver_2() { return static_cast<int32_t>(offsetof(Enumerator_t3859083538, ___ver_2)); }
+	inline static int32_t get_offset_of_ver_2() { return static_cast<int32_t>(offsetof(Enumerator_t2070325589, ___ver_2)); }
 	inline int32_t get_ver_2() const { return ___ver_2; }
 	inline int32_t* get_address_of_ver_2() { return &___ver_2; }
 	inline void set_ver_2(int32_t value)
@@ -840,10 +840,10 @@ public:
 		___ver_2 = value;
 	}
 
-	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t3859083538, ___current_3)); }
-	inline AudioSpatializerExtensionDefinition_t2022077663 * get_current_3() const { return ___current_3; }
-	inline AudioSpatializerExtensionDefinition_t2022077663 ** get_address_of_current_3() { return &___current_3; }
-	inline void set_current_3(AudioSpatializerExtensionDefinition_t2022077663 * value)
+	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t2070325589, ___current_3)); }
+	inline AudioSpatializerExtensionDefinition_t3915630517 * get_current_3() const { return ___current_3; }
+	inline AudioSpatializerExtensionDefinition_t3915630517 ** get_address_of_current_3() { return &___current_3; }
+	inline void set_current_3(AudioSpatializerExtensionDefinition_t3915630517 * value)
 	{
 		___current_3 = value;
 		Il2CppCodeGenWriteBarrier((&___current_3), value);
@@ -853,9 +853,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // ENUMERATOR_T3859083538_H
-#ifndef ENUM_T3698764211_H
-#define ENUM_T3698764211_H
+#endif // ENUMERATOR_T2070325589_H
+#ifndef ENUM_T92515922_H
+#define ENUM_T92515922_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -863,24 +863,24 @@ public:
 #endif
 
 // System.Enum
-struct  Enum_t3698764211  : public ValueType_t4281574503
+struct  Enum_t92515922  : public ValueType_t1711964182
 {
 public:
 
 public:
 };
 
-struct Enum_t3698764211_StaticFields
+struct Enum_t92515922_StaticFields
 {
 public:
 	// System.Char[] System.Enum::split_char
-	CharU5BU5D_t1514866300* ___split_char_0;
+	CharU5BU5D_t715161023* ___split_char_0;
 
 public:
-	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t3698764211_StaticFields, ___split_char_0)); }
-	inline CharU5BU5D_t1514866300* get_split_char_0() const { return ___split_char_0; }
-	inline CharU5BU5D_t1514866300** get_address_of_split_char_0() { return &___split_char_0; }
-	inline void set_split_char_0(CharU5BU5D_t1514866300* value)
+	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t92515922_StaticFields, ___split_char_0)); }
+	inline CharU5BU5D_t715161023* get_split_char_0() const { return ___split_char_0; }
+	inline CharU5BU5D_t715161023** get_address_of_split_char_0() { return &___split_char_0; }
+	inline void set_split_char_0(CharU5BU5D_t715161023* value)
 	{
 		___split_char_0 = value;
 		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
@@ -891,16 +891,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.Enum
-struct Enum_t3698764211_marshaled_pinvoke
+struct Enum_t92515922_marshaled_pinvoke
 {
 };
 // Native definition for COM marshalling of System.Enum
-struct Enum_t3698764211_marshaled_com
+struct Enum_t92515922_marshaled_com
 {
 };
-#endif // ENUM_T3698764211_H
-#ifndef VOID_T175556975_H
-#define VOID_T175556975_H
+#endif // ENUM_T92515922_H
+#ifndef VOID_T3405838077_H
+#define VOID_T3405838077_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -908,7 +908,7 @@ struct Enum_t3698764211_marshaled_com
 #endif
 
 // System.Void
-struct  Void_t175556975 
+struct  Void_t3405838077 
 {
 public:
 
@@ -918,9 +918,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // VOID_T175556975_H
-#ifndef INT32_T2532088842_H
-#define INT32_T2532088842_H
+#endif // VOID_T3405838077_H
+#ifndef INT32_T1542953417_H
+#define INT32_T1542953417_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -928,14 +928,14 @@ public:
 #endif
 
 // System.Int32
-struct  Int32_t2532088842 
+struct  Int32_t1542953417 
 {
 public:
 	// System.Int32 System.Int32::m_value
 	int32_t ___m_value_2;
 
 public:
-	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Int32_t2532088842, ___m_value_2)); }
+	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Int32_t1542953417, ___m_value_2)); }
 	inline int32_t get_m_value_2() const { return ___m_value_2; }
 	inline int32_t* get_address_of_m_value_2() { return &___m_value_2; }
 	inline void set_m_value_2(int32_t value)
@@ -947,9 +947,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // INT32_T2532088842_H
-#ifndef BOOLEAN_T2016116572_H
-#define BOOLEAN_T2016116572_H
+#endif // INT32_T1542953417_H
+#ifndef BOOLEAN_T806962679_H
+#define BOOLEAN_T806962679_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -957,14 +957,14 @@ public:
 #endif
 
 // System.Boolean
-struct  Boolean_t2016116572 
+struct  Boolean_t806962679 
 {
 public:
 	// System.Boolean System.Boolean::m_value
 	bool ___m_value_2;
 
 public:
-	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Boolean_t2016116572, ___m_value_2)); }
+	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Boolean_t806962679, ___m_value_2)); }
 	inline bool get_m_value_2() const { return ___m_value_2; }
 	inline bool* get_address_of_m_value_2() { return &___m_value_2; }
 	inline void set_m_value_2(bool value)
@@ -973,7 +973,7 @@ public:
 	}
 };
 
-struct Boolean_t2016116572_StaticFields
+struct Boolean_t806962679_StaticFields
 {
 public:
 	// System.String System.Boolean::FalseString
@@ -982,7 +982,7 @@ public:
 	String_t* ___TrueString_1;
 
 public:
-	inline static int32_t get_offset_of_FalseString_0() { return static_cast<int32_t>(offsetof(Boolean_t2016116572_StaticFields, ___FalseString_0)); }
+	inline static int32_t get_offset_of_FalseString_0() { return static_cast<int32_t>(offsetof(Boolean_t806962679_StaticFields, ___FalseString_0)); }
 	inline String_t* get_FalseString_0() const { return ___FalseString_0; }
 	inline String_t** get_address_of_FalseString_0() { return &___FalseString_0; }
 	inline void set_FalseString_0(String_t* value)
@@ -991,7 +991,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___FalseString_0), value);
 	}
 
-	inline static int32_t get_offset_of_TrueString_1() { return static_cast<int32_t>(offsetof(Boolean_t2016116572_StaticFields, ___TrueString_1)); }
+	inline static int32_t get_offset_of_TrueString_1() { return static_cast<int32_t>(offsetof(Boolean_t806962679_StaticFields, ___TrueString_1)); }
 	inline String_t* get_TrueString_1() const { return ___TrueString_1; }
 	inline String_t** get_address_of_TrueString_1() { return &___TrueString_1; }
 	inline void set_TrueString_1(String_t* value)
@@ -1004,9 +1004,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // BOOLEAN_T2016116572_H
-#ifndef SINGLE_T2460141681_H
-#define SINGLE_T2460141681_H
+#endif // BOOLEAN_T806962679_H
+#ifndef SINGLE_T550205417_H
+#define SINGLE_T550205417_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1014,14 +1014,14 @@ public:
 #endif
 
 // System.Single
-struct  Single_t2460141681 
+struct  Single_t550205417 
 {
 public:
 	// System.Single System.Single::m_value
 	float ___m_value_7;
 
 public:
-	inline static int32_t get_offset_of_m_value_7() { return static_cast<int32_t>(offsetof(Single_t2460141681, ___m_value_7)); }
+	inline static int32_t get_offset_of_m_value_7() { return static_cast<int32_t>(offsetof(Single_t550205417, ___m_value_7)); }
 	inline float get_m_value_7() const { return ___m_value_7; }
 	inline float* get_address_of_m_value_7() { return &___m_value_7; }
 	inline void set_m_value_7(float value)
@@ -1033,7 +1033,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // SINGLE_T2460141681_H
+#endif // SINGLE_T550205417_H
 #ifndef INTPTR_T_H
 #define INTPTR_T_H
 #ifdef __clang__
@@ -1079,8 +1079,8 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // INTPTR_T_H
-#ifndef PLAYABLEOUTPUTHANDLE_T424525939_H
-#define PLAYABLEOUTPUTHANDLE_T424525939_H
+#ifndef PLAYABLEOUTPUTHANDLE_T429484177_H
+#define PLAYABLEOUTPUTHANDLE_T429484177_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1088,7 +1088,7 @@ public:
 #endif
 
 // UnityEngine.Playables.PlayableOutputHandle
-struct  PlayableOutputHandle_t424525939 
+struct  PlayableOutputHandle_t429484177 
 {
 public:
 	// System.IntPtr UnityEngine.Playables.PlayableOutputHandle::m_Handle
@@ -1097,7 +1097,7 @@ public:
 	int32_t ___m_Version_1;
 
 public:
-	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(PlayableOutputHandle_t424525939, ___m_Handle_0)); }
+	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(PlayableOutputHandle_t429484177, ___m_Handle_0)); }
 	inline intptr_t get_m_Handle_0() const { return ___m_Handle_0; }
 	inline intptr_t* get_address_of_m_Handle_0() { return &___m_Handle_0; }
 	inline void set_m_Handle_0(intptr_t value)
@@ -1105,7 +1105,7 @@ public:
 		___m_Handle_0 = value;
 	}
 
-	inline static int32_t get_offset_of_m_Version_1() { return static_cast<int32_t>(offsetof(PlayableOutputHandle_t424525939, ___m_Version_1)); }
+	inline static int32_t get_offset_of_m_Version_1() { return static_cast<int32_t>(offsetof(PlayableOutputHandle_t429484177, ___m_Version_1)); }
 	inline int32_t get_m_Version_1() const { return ___m_Version_1; }
 	inline int32_t* get_address_of_m_Version_1() { return &___m_Version_1; }
 	inline void set_m_Version_1(int32_t value)
@@ -1117,9 +1117,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // PLAYABLEOUTPUTHANDLE_T424525939_H
-#ifndef AUDIOAMBISONICEXTENSIONDEFINITION_T4052755805_H
-#define AUDIOAMBISONICEXTENSIONDEFINITION_T4052755805_H
+#endif // PLAYABLEOUTPUTHANDLE_T429484177_H
+#ifndef AUDIOAMBISONICEXTENSIONDEFINITION_T1265576708_H
+#define AUDIOAMBISONICEXTENSIONDEFINITION_T1265576708_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1127,27 +1127,27 @@ public:
 #endif
 
 // UnityEngine.AudioAmbisonicExtensionDefinition
-struct  AudioAmbisonicExtensionDefinition_t4052755805  : public RuntimeObject
+struct  AudioAmbisonicExtensionDefinition_t1265576708  : public RuntimeObject
 {
 public:
 	// UnityEngine.PropertyName UnityEngine.AudioAmbisonicExtensionDefinition::ambisonicPluginName
-	PropertyName_t957933759  ___ambisonicPluginName_0;
+	PropertyName_t629672075  ___ambisonicPluginName_0;
 	// UnityEngine.AudioExtensionDefinition UnityEngine.AudioAmbisonicExtensionDefinition::definition
-	AudioExtensionDefinition_t3397395452 * ___definition_1;
+	AudioExtensionDefinition_t192562823 * ___definition_1;
 
 public:
-	inline static int32_t get_offset_of_ambisonicPluginName_0() { return static_cast<int32_t>(offsetof(AudioAmbisonicExtensionDefinition_t4052755805, ___ambisonicPluginName_0)); }
-	inline PropertyName_t957933759  get_ambisonicPluginName_0() const { return ___ambisonicPluginName_0; }
-	inline PropertyName_t957933759 * get_address_of_ambisonicPluginName_0() { return &___ambisonicPluginName_0; }
-	inline void set_ambisonicPluginName_0(PropertyName_t957933759  value)
+	inline static int32_t get_offset_of_ambisonicPluginName_0() { return static_cast<int32_t>(offsetof(AudioAmbisonicExtensionDefinition_t1265576708, ___ambisonicPluginName_0)); }
+	inline PropertyName_t629672075  get_ambisonicPluginName_0() const { return ___ambisonicPluginName_0; }
+	inline PropertyName_t629672075 * get_address_of_ambisonicPluginName_0() { return &___ambisonicPluginName_0; }
+	inline void set_ambisonicPluginName_0(PropertyName_t629672075  value)
 	{
 		___ambisonicPluginName_0 = value;
 	}
 
-	inline static int32_t get_offset_of_definition_1() { return static_cast<int32_t>(offsetof(AudioAmbisonicExtensionDefinition_t4052755805, ___definition_1)); }
-	inline AudioExtensionDefinition_t3397395452 * get_definition_1() const { return ___definition_1; }
-	inline AudioExtensionDefinition_t3397395452 ** get_address_of_definition_1() { return &___definition_1; }
-	inline void set_definition_1(AudioExtensionDefinition_t3397395452 * value)
+	inline static int32_t get_offset_of_definition_1() { return static_cast<int32_t>(offsetof(AudioAmbisonicExtensionDefinition_t1265576708, ___definition_1)); }
+	inline AudioExtensionDefinition_t192562823 * get_definition_1() const { return ___definition_1; }
+	inline AudioExtensionDefinition_t192562823 ** get_address_of_definition_1() { return &___definition_1; }
+	inline void set_definition_1(AudioExtensionDefinition_t192562823 * value)
 	{
 		___definition_1 = value;
 		Il2CppCodeGenWriteBarrier((&___definition_1), value);
@@ -1157,9 +1157,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOAMBISONICEXTENSIONDEFINITION_T4052755805_H
-#ifndef AUDIOSPATIALIZEREXTENSIONDEFINITION_T2022077663_H
-#define AUDIOSPATIALIZEREXTENSIONDEFINITION_T2022077663_H
+#endif // AUDIOAMBISONICEXTENSIONDEFINITION_T1265576708_H
+#ifndef AUDIOSPATIALIZEREXTENSIONDEFINITION_T3915630517_H
+#define AUDIOSPATIALIZEREXTENSIONDEFINITION_T3915630517_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1167,38 +1167,38 @@ public:
 #endif
 
 // UnityEngine.AudioSpatializerExtensionDefinition
-struct  AudioSpatializerExtensionDefinition_t2022077663  : public RuntimeObject
+struct  AudioSpatializerExtensionDefinition_t3915630517  : public RuntimeObject
 {
 public:
 	// UnityEngine.PropertyName UnityEngine.AudioSpatializerExtensionDefinition::spatializerName
-	PropertyName_t957933759  ___spatializerName_0;
+	PropertyName_t629672075  ___spatializerName_0;
 	// UnityEngine.AudioExtensionDefinition UnityEngine.AudioSpatializerExtensionDefinition::definition
-	AudioExtensionDefinition_t3397395452 * ___definition_1;
+	AudioExtensionDefinition_t192562823 * ___definition_1;
 	// UnityEngine.AudioExtensionDefinition UnityEngine.AudioSpatializerExtensionDefinition::editorDefinition
-	AudioExtensionDefinition_t3397395452 * ___editorDefinition_2;
+	AudioExtensionDefinition_t192562823 * ___editorDefinition_2;
 
 public:
-	inline static int32_t get_offset_of_spatializerName_0() { return static_cast<int32_t>(offsetof(AudioSpatializerExtensionDefinition_t2022077663, ___spatializerName_0)); }
-	inline PropertyName_t957933759  get_spatializerName_0() const { return ___spatializerName_0; }
-	inline PropertyName_t957933759 * get_address_of_spatializerName_0() { return &___spatializerName_0; }
-	inline void set_spatializerName_0(PropertyName_t957933759  value)
+	inline static int32_t get_offset_of_spatializerName_0() { return static_cast<int32_t>(offsetof(AudioSpatializerExtensionDefinition_t3915630517, ___spatializerName_0)); }
+	inline PropertyName_t629672075  get_spatializerName_0() const { return ___spatializerName_0; }
+	inline PropertyName_t629672075 * get_address_of_spatializerName_0() { return &___spatializerName_0; }
+	inline void set_spatializerName_0(PropertyName_t629672075  value)
 	{
 		___spatializerName_0 = value;
 	}
 
-	inline static int32_t get_offset_of_definition_1() { return static_cast<int32_t>(offsetof(AudioSpatializerExtensionDefinition_t2022077663, ___definition_1)); }
-	inline AudioExtensionDefinition_t3397395452 * get_definition_1() const { return ___definition_1; }
-	inline AudioExtensionDefinition_t3397395452 ** get_address_of_definition_1() { return &___definition_1; }
-	inline void set_definition_1(AudioExtensionDefinition_t3397395452 * value)
+	inline static int32_t get_offset_of_definition_1() { return static_cast<int32_t>(offsetof(AudioSpatializerExtensionDefinition_t3915630517, ___definition_1)); }
+	inline AudioExtensionDefinition_t192562823 * get_definition_1() const { return ___definition_1; }
+	inline AudioExtensionDefinition_t192562823 ** get_address_of_definition_1() { return &___definition_1; }
+	inline void set_definition_1(AudioExtensionDefinition_t192562823 * value)
 	{
 		___definition_1 = value;
 		Il2CppCodeGenWriteBarrier((&___definition_1), value);
 	}
 
-	inline static int32_t get_offset_of_editorDefinition_2() { return static_cast<int32_t>(offsetof(AudioSpatializerExtensionDefinition_t2022077663, ___editorDefinition_2)); }
-	inline AudioExtensionDefinition_t3397395452 * get_editorDefinition_2() const { return ___editorDefinition_2; }
-	inline AudioExtensionDefinition_t3397395452 ** get_address_of_editorDefinition_2() { return &___editorDefinition_2; }
-	inline void set_editorDefinition_2(AudioExtensionDefinition_t3397395452 * value)
+	inline static int32_t get_offset_of_editorDefinition_2() { return static_cast<int32_t>(offsetof(AudioSpatializerExtensionDefinition_t3915630517, ___editorDefinition_2)); }
+	inline AudioExtensionDefinition_t192562823 * get_editorDefinition_2() const { return ___editorDefinition_2; }
+	inline AudioExtensionDefinition_t192562823 ** get_address_of_editorDefinition_2() { return &___editorDefinition_2; }
+	inline void set_editorDefinition_2(AudioExtensionDefinition_t192562823 * value)
 	{
 		___editorDefinition_2 = value;
 		Il2CppCodeGenWriteBarrier((&___editorDefinition_2), value);
@@ -1208,9 +1208,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOSPATIALIZEREXTENSIONDEFINITION_T2022077663_H
-#ifndef BINDINGFLAGS_T2917269122_H
-#define BINDINGFLAGS_T2917269122_H
+#endif // AUDIOSPATIALIZEREXTENSIONDEFINITION_T3915630517_H
+#ifndef BINDINGFLAGS_T2468458707_H
+#define BINDINGFLAGS_T2468458707_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1218,14 +1218,14 @@ public:
 #endif
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_t2917269122 
+struct  BindingFlags_t2468458707 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
 	int32_t ___value___1;
 
 public:
-	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(BindingFlags_t2917269122, ___value___1)); }
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(BindingFlags_t2468458707, ___value___1)); }
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -1237,9 +1237,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // BINDINGFLAGS_T2917269122_H
-#ifndef PLAYABLEHANDLE_T1621880712_H
-#define PLAYABLEHANDLE_T1621880712_H
+#endif // BINDINGFLAGS_T2468458707_H
+#ifndef PLAYABLEHANDLE_T1460998747_H
+#define PLAYABLEHANDLE_T1460998747_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1247,7 +1247,7 @@ public:
 #endif
 
 // UnityEngine.Playables.PlayableHandle
-struct  PlayableHandle_t1621880712 
+struct  PlayableHandle_t1460998747 
 {
 public:
 	// System.IntPtr UnityEngine.Playables.PlayableHandle::m_Handle
@@ -1256,7 +1256,7 @@ public:
 	int32_t ___m_Version_1;
 
 public:
-	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(PlayableHandle_t1621880712, ___m_Handle_0)); }
+	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(PlayableHandle_t1460998747, ___m_Handle_0)); }
 	inline intptr_t get_m_Handle_0() const { return ___m_Handle_0; }
 	inline intptr_t* get_address_of_m_Handle_0() { return &___m_Handle_0; }
 	inline void set_m_Handle_0(intptr_t value)
@@ -1264,7 +1264,7 @@ public:
 		___m_Handle_0 = value;
 	}
 
-	inline static int32_t get_offset_of_m_Version_1() { return static_cast<int32_t>(offsetof(PlayableHandle_t1621880712, ___m_Version_1)); }
+	inline static int32_t get_offset_of_m_Version_1() { return static_cast<int32_t>(offsetof(PlayableHandle_t1460998747, ___m_Version_1)); }
 	inline int32_t get_m_Version_1() const { return ___m_Version_1; }
 	inline int32_t* get_address_of_m_Version_1() { return &___m_Version_1; }
 	inline void set_m_Version_1(int32_t value)
@@ -1276,9 +1276,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // PLAYABLEHANDLE_T1621880712_H
-#ifndef OBJECT_T224960187_H
-#define OBJECT_T224960187_H
+#endif // PLAYABLEHANDLE_T1460998747_H
+#ifndef OBJECT_T2092332117_H
+#define OBJECT_T2092332117_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1286,14 +1286,14 @@ public:
 #endif
 
 // UnityEngine.Object
-struct  Object_t224960187  : public RuntimeObject
+struct  Object_t2092332117  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
 	intptr_t ___m_CachedPtr_0;
 
 public:
-	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t224960187, ___m_CachedPtr_0)); }
+	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t2092332117, ___m_CachedPtr_0)); }
 	inline intptr_t get_m_CachedPtr_0() const { return ___m_CachedPtr_0; }
 	inline intptr_t* get_address_of_m_CachedPtr_0() { return &___m_CachedPtr_0; }
 	inline void set_m_CachedPtr_0(intptr_t value)
@@ -1302,14 +1302,14 @@ public:
 	}
 };
 
-struct Object_t224960187_StaticFields
+struct Object_t2092332117_StaticFields
 {
 public:
 	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
 	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
 
 public:
-	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t224960187_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t2092332117_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
 	inline int32_t get_OffsetOfInstanceIDInCPlusPlusObject_1() const { return ___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline int32_t* get_address_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return &___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline void set_OffsetOfInstanceIDInCPlusPlusObject_1(int32_t value)
@@ -1322,18 +1322,18 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Object
-struct Object_t224960187_marshaled_pinvoke
+struct Object_t2092332117_marshaled_pinvoke
 {
 	intptr_t ___m_CachedPtr_0;
 };
 // Native definition for COM marshalling of UnityEngine.Object
-struct Object_t224960187_marshaled_com
+struct Object_t2092332117_marshaled_com
 {
 	intptr_t ___m_CachedPtr_0;
 };
-#endif // OBJECT_T224960187_H
-#ifndef DELEGATE_T187620943_H
-#define DELEGATE_T187620943_H
+#endif // OBJECT_T2092332117_H
+#ifndef DELEGATE_T2211621923_H
+#define DELEGATE_T2211621923_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1341,7 +1341,7 @@ struct Object_t224960187_marshaled_com
 #endif
 
 // System.Delegate
-struct  Delegate_t187620943  : public RuntimeObject
+struct  Delegate_t2211621923  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -1361,10 +1361,10 @@ public:
 	// System.Reflection.MethodInfo System.Delegate::original_method_info
 	MethodInfo_t * ___original_method_info_7;
 	// System.DelegateData System.Delegate::data
-	DelegateData_t166884503 * ___data_8;
+	DelegateData_t3096787616 * ___data_8;
 
 public:
-	inline static int32_t get_offset_of_method_ptr_0() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___method_ptr_0)); }
+	inline static int32_t get_offset_of_method_ptr_0() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___method_ptr_0)); }
 	inline Il2CppMethodPointer get_method_ptr_0() const { return ___method_ptr_0; }
 	inline Il2CppMethodPointer* get_address_of_method_ptr_0() { return &___method_ptr_0; }
 	inline void set_method_ptr_0(Il2CppMethodPointer value)
@@ -1372,7 +1372,7 @@ public:
 		___method_ptr_0 = value;
 	}
 
-	inline static int32_t get_offset_of_invoke_impl_1() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___invoke_impl_1)); }
+	inline static int32_t get_offset_of_invoke_impl_1() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___invoke_impl_1)); }
 	inline intptr_t get_invoke_impl_1() const { return ___invoke_impl_1; }
 	inline intptr_t* get_address_of_invoke_impl_1() { return &___invoke_impl_1; }
 	inline void set_invoke_impl_1(intptr_t value)
@@ -1380,7 +1380,7 @@ public:
 		___invoke_impl_1 = value;
 	}
 
-	inline static int32_t get_offset_of_m_target_2() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___m_target_2)); }
+	inline static int32_t get_offset_of_m_target_2() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___m_target_2)); }
 	inline RuntimeObject * get_m_target_2() const { return ___m_target_2; }
 	inline RuntimeObject ** get_address_of_m_target_2() { return &___m_target_2; }
 	inline void set_m_target_2(RuntimeObject * value)
@@ -1389,7 +1389,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___m_target_2), value);
 	}
 
-	inline static int32_t get_offset_of_method_3() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___method_3)); }
+	inline static int32_t get_offset_of_method_3() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___method_3)); }
 	inline intptr_t get_method_3() const { return ___method_3; }
 	inline intptr_t* get_address_of_method_3() { return &___method_3; }
 	inline void set_method_3(intptr_t value)
@@ -1397,7 +1397,7 @@ public:
 		___method_3 = value;
 	}
 
-	inline static int32_t get_offset_of_delegate_trampoline_4() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___delegate_trampoline_4)); }
+	inline static int32_t get_offset_of_delegate_trampoline_4() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___delegate_trampoline_4)); }
 	inline intptr_t get_delegate_trampoline_4() const { return ___delegate_trampoline_4; }
 	inline intptr_t* get_address_of_delegate_trampoline_4() { return &___delegate_trampoline_4; }
 	inline void set_delegate_trampoline_4(intptr_t value)
@@ -1405,7 +1405,7 @@ public:
 		___delegate_trampoline_4 = value;
 	}
 
-	inline static int32_t get_offset_of_method_code_5() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___method_code_5)); }
+	inline static int32_t get_offset_of_method_code_5() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___method_code_5)); }
 	inline intptr_t get_method_code_5() const { return ___method_code_5; }
 	inline intptr_t* get_address_of_method_code_5() { return &___method_code_5; }
 	inline void set_method_code_5(intptr_t value)
@@ -1413,7 +1413,7 @@ public:
 		___method_code_5 = value;
 	}
 
-	inline static int32_t get_offset_of_method_info_6() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___method_info_6)); }
+	inline static int32_t get_offset_of_method_info_6() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___method_info_6)); }
 	inline MethodInfo_t * get_method_info_6() const { return ___method_info_6; }
 	inline MethodInfo_t ** get_address_of_method_info_6() { return &___method_info_6; }
 	inline void set_method_info_6(MethodInfo_t * value)
@@ -1422,7 +1422,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___method_info_6), value);
 	}
 
-	inline static int32_t get_offset_of_original_method_info_7() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___original_method_info_7)); }
+	inline static int32_t get_offset_of_original_method_info_7() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___original_method_info_7)); }
 	inline MethodInfo_t * get_original_method_info_7() const { return ___original_method_info_7; }
 	inline MethodInfo_t ** get_address_of_original_method_info_7() { return &___original_method_info_7; }
 	inline void set_original_method_info_7(MethodInfo_t * value)
@@ -1431,10 +1431,10 @@ public:
 		Il2CppCodeGenWriteBarrier((&___original_method_info_7), value);
 	}
 
-	inline static int32_t get_offset_of_data_8() { return static_cast<int32_t>(offsetof(Delegate_t187620943, ___data_8)); }
-	inline DelegateData_t166884503 * get_data_8() const { return ___data_8; }
-	inline DelegateData_t166884503 ** get_address_of_data_8() { return &___data_8; }
-	inline void set_data_8(DelegateData_t166884503 * value)
+	inline static int32_t get_offset_of_data_8() { return static_cast<int32_t>(offsetof(Delegate_t2211621923, ___data_8)); }
+	inline DelegateData_t3096787616 * get_data_8() const { return ___data_8; }
+	inline DelegateData_t3096787616 ** get_address_of_data_8() { return &___data_8; }
+	inline void set_data_8(DelegateData_t3096787616 * value)
 	{
 		___data_8 = value;
 		Il2CppCodeGenWriteBarrier((&___data_8), value);
@@ -1444,9 +1444,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // DELEGATE_T187620943_H
-#ifndef AUDIOEXTENSIONMANAGER_T1647051116_H
-#define AUDIOEXTENSIONMANAGER_T1647051116_H
+#endif // DELEGATE_T2211621923_H
+#ifndef AUDIOEXTENSIONMANAGER_T406276441_H
+#define AUDIOEXTENSIONMANAGER_T406276441_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1454,73 +1454,73 @@ public:
 #endif
 
 // UnityEngine.AudioExtensionManager
-struct  AudioExtensionManager_t1647051116  : public RuntimeObject
+struct  AudioExtensionManager_t406276441  : public RuntimeObject
 {
 public:
 
 public:
 };
 
-struct AudioExtensionManager_t1647051116_StaticFields
+struct AudioExtensionManager_t406276441_StaticFields
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.AudioSpatializerExtensionDefinition> UnityEngine.AudioExtensionManager::m_ListenerSpatializerExtensionDefinitions
-	List_1_t1192643089 * ___m_ListenerSpatializerExtensionDefinitions_0;
+	List_1_t305644031 * ___m_ListenerSpatializerExtensionDefinitions_0;
 	// System.Collections.Generic.List`1<UnityEngine.AudioSpatializerExtensionDefinition> UnityEngine.AudioExtensionManager::m_SourceSpatializerExtensionDefinitions
-	List_1_t1192643089 * ___m_SourceSpatializerExtensionDefinitions_1;
+	List_1_t305644031 * ___m_SourceSpatializerExtensionDefinitions_1;
 	// System.Collections.Generic.List`1<UnityEngine.AudioAmbisonicExtensionDefinition> UnityEngine.AudioExtensionManager::m_SourceAmbisonicDecoderExtensionDefinitions
-	List_1_t3223321231 * ___m_SourceAmbisonicDecoderExtensionDefinitions_2;
+	List_1_t1950557518 * ___m_SourceAmbisonicDecoderExtensionDefinitions_2;
 	// System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension> UnityEngine.AudioExtensionManager::m_SourceExtensionsToUpdate
-	List_1_t709797561 * ___m_SourceExtensionsToUpdate_3;
+	List_1_t3527666201 * ___m_SourceExtensionsToUpdate_3;
 	// System.Int32 UnityEngine.AudioExtensionManager::m_NextStopIndex
 	int32_t ___m_NextStopIndex_4;
 	// System.Boolean UnityEngine.AudioExtensionManager::m_BuiltinDefinitionsRegistered
 	bool ___m_BuiltinDefinitionsRegistered_5;
 	// UnityEngine.PropertyName UnityEngine.AudioExtensionManager::m_SpatializerName
-	PropertyName_t957933759  ___m_SpatializerName_6;
+	PropertyName_t629672075  ___m_SpatializerName_6;
 	// UnityEngine.PropertyName UnityEngine.AudioExtensionManager::m_SpatializerExtensionName
-	PropertyName_t957933759  ___m_SpatializerExtensionName_7;
+	PropertyName_t629672075  ___m_SpatializerExtensionName_7;
 	// UnityEngine.PropertyName UnityEngine.AudioExtensionManager::m_ListenerSpatializerExtensionName
-	PropertyName_t957933759  ___m_ListenerSpatializerExtensionName_8;
+	PropertyName_t629672075  ___m_ListenerSpatializerExtensionName_8;
 
 public:
-	inline static int32_t get_offset_of_m_ListenerSpatializerExtensionDefinitions_0() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_ListenerSpatializerExtensionDefinitions_0)); }
-	inline List_1_t1192643089 * get_m_ListenerSpatializerExtensionDefinitions_0() const { return ___m_ListenerSpatializerExtensionDefinitions_0; }
-	inline List_1_t1192643089 ** get_address_of_m_ListenerSpatializerExtensionDefinitions_0() { return &___m_ListenerSpatializerExtensionDefinitions_0; }
-	inline void set_m_ListenerSpatializerExtensionDefinitions_0(List_1_t1192643089 * value)
+	inline static int32_t get_offset_of_m_ListenerSpatializerExtensionDefinitions_0() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_ListenerSpatializerExtensionDefinitions_0)); }
+	inline List_1_t305644031 * get_m_ListenerSpatializerExtensionDefinitions_0() const { return ___m_ListenerSpatializerExtensionDefinitions_0; }
+	inline List_1_t305644031 ** get_address_of_m_ListenerSpatializerExtensionDefinitions_0() { return &___m_ListenerSpatializerExtensionDefinitions_0; }
+	inline void set_m_ListenerSpatializerExtensionDefinitions_0(List_1_t305644031 * value)
 	{
 		___m_ListenerSpatializerExtensionDefinitions_0 = value;
 		Il2CppCodeGenWriteBarrier((&___m_ListenerSpatializerExtensionDefinitions_0), value);
 	}
 
-	inline static int32_t get_offset_of_m_SourceSpatializerExtensionDefinitions_1() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_SourceSpatializerExtensionDefinitions_1)); }
-	inline List_1_t1192643089 * get_m_SourceSpatializerExtensionDefinitions_1() const { return ___m_SourceSpatializerExtensionDefinitions_1; }
-	inline List_1_t1192643089 ** get_address_of_m_SourceSpatializerExtensionDefinitions_1() { return &___m_SourceSpatializerExtensionDefinitions_1; }
-	inline void set_m_SourceSpatializerExtensionDefinitions_1(List_1_t1192643089 * value)
+	inline static int32_t get_offset_of_m_SourceSpatializerExtensionDefinitions_1() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_SourceSpatializerExtensionDefinitions_1)); }
+	inline List_1_t305644031 * get_m_SourceSpatializerExtensionDefinitions_1() const { return ___m_SourceSpatializerExtensionDefinitions_1; }
+	inline List_1_t305644031 ** get_address_of_m_SourceSpatializerExtensionDefinitions_1() { return &___m_SourceSpatializerExtensionDefinitions_1; }
+	inline void set_m_SourceSpatializerExtensionDefinitions_1(List_1_t305644031 * value)
 	{
 		___m_SourceSpatializerExtensionDefinitions_1 = value;
 		Il2CppCodeGenWriteBarrier((&___m_SourceSpatializerExtensionDefinitions_1), value);
 	}
 
-	inline static int32_t get_offset_of_m_SourceAmbisonicDecoderExtensionDefinitions_2() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_SourceAmbisonicDecoderExtensionDefinitions_2)); }
-	inline List_1_t3223321231 * get_m_SourceAmbisonicDecoderExtensionDefinitions_2() const { return ___m_SourceAmbisonicDecoderExtensionDefinitions_2; }
-	inline List_1_t3223321231 ** get_address_of_m_SourceAmbisonicDecoderExtensionDefinitions_2() { return &___m_SourceAmbisonicDecoderExtensionDefinitions_2; }
-	inline void set_m_SourceAmbisonicDecoderExtensionDefinitions_2(List_1_t3223321231 * value)
+	inline static int32_t get_offset_of_m_SourceAmbisonicDecoderExtensionDefinitions_2() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_SourceAmbisonicDecoderExtensionDefinitions_2)); }
+	inline List_1_t1950557518 * get_m_SourceAmbisonicDecoderExtensionDefinitions_2() const { return ___m_SourceAmbisonicDecoderExtensionDefinitions_2; }
+	inline List_1_t1950557518 ** get_address_of_m_SourceAmbisonicDecoderExtensionDefinitions_2() { return &___m_SourceAmbisonicDecoderExtensionDefinitions_2; }
+	inline void set_m_SourceAmbisonicDecoderExtensionDefinitions_2(List_1_t1950557518 * value)
 	{
 		___m_SourceAmbisonicDecoderExtensionDefinitions_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_SourceAmbisonicDecoderExtensionDefinitions_2), value);
 	}
 
-	inline static int32_t get_offset_of_m_SourceExtensionsToUpdate_3() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_SourceExtensionsToUpdate_3)); }
-	inline List_1_t709797561 * get_m_SourceExtensionsToUpdate_3() const { return ___m_SourceExtensionsToUpdate_3; }
-	inline List_1_t709797561 ** get_address_of_m_SourceExtensionsToUpdate_3() { return &___m_SourceExtensionsToUpdate_3; }
-	inline void set_m_SourceExtensionsToUpdate_3(List_1_t709797561 * value)
+	inline static int32_t get_offset_of_m_SourceExtensionsToUpdate_3() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_SourceExtensionsToUpdate_3)); }
+	inline List_1_t3527666201 * get_m_SourceExtensionsToUpdate_3() const { return ___m_SourceExtensionsToUpdate_3; }
+	inline List_1_t3527666201 ** get_address_of_m_SourceExtensionsToUpdate_3() { return &___m_SourceExtensionsToUpdate_3; }
+	inline void set_m_SourceExtensionsToUpdate_3(List_1_t3527666201 * value)
 	{
 		___m_SourceExtensionsToUpdate_3 = value;
 		Il2CppCodeGenWriteBarrier((&___m_SourceExtensionsToUpdate_3), value);
 	}
 
-	inline static int32_t get_offset_of_m_NextStopIndex_4() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_NextStopIndex_4)); }
+	inline static int32_t get_offset_of_m_NextStopIndex_4() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_NextStopIndex_4)); }
 	inline int32_t get_m_NextStopIndex_4() const { return ___m_NextStopIndex_4; }
 	inline int32_t* get_address_of_m_NextStopIndex_4() { return &___m_NextStopIndex_4; }
 	inline void set_m_NextStopIndex_4(int32_t value)
@@ -1528,7 +1528,7 @@ public:
 		___m_NextStopIndex_4 = value;
 	}
 
-	inline static int32_t get_offset_of_m_BuiltinDefinitionsRegistered_5() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_BuiltinDefinitionsRegistered_5)); }
+	inline static int32_t get_offset_of_m_BuiltinDefinitionsRegistered_5() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_BuiltinDefinitionsRegistered_5)); }
 	inline bool get_m_BuiltinDefinitionsRegistered_5() const { return ___m_BuiltinDefinitionsRegistered_5; }
 	inline bool* get_address_of_m_BuiltinDefinitionsRegistered_5() { return &___m_BuiltinDefinitionsRegistered_5; }
 	inline void set_m_BuiltinDefinitionsRegistered_5(bool value)
@@ -1536,26 +1536,26 @@ public:
 		___m_BuiltinDefinitionsRegistered_5 = value;
 	}
 
-	inline static int32_t get_offset_of_m_SpatializerName_6() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_SpatializerName_6)); }
-	inline PropertyName_t957933759  get_m_SpatializerName_6() const { return ___m_SpatializerName_6; }
-	inline PropertyName_t957933759 * get_address_of_m_SpatializerName_6() { return &___m_SpatializerName_6; }
-	inline void set_m_SpatializerName_6(PropertyName_t957933759  value)
+	inline static int32_t get_offset_of_m_SpatializerName_6() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_SpatializerName_6)); }
+	inline PropertyName_t629672075  get_m_SpatializerName_6() const { return ___m_SpatializerName_6; }
+	inline PropertyName_t629672075 * get_address_of_m_SpatializerName_6() { return &___m_SpatializerName_6; }
+	inline void set_m_SpatializerName_6(PropertyName_t629672075  value)
 	{
 		___m_SpatializerName_6 = value;
 	}
 
-	inline static int32_t get_offset_of_m_SpatializerExtensionName_7() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_SpatializerExtensionName_7)); }
-	inline PropertyName_t957933759  get_m_SpatializerExtensionName_7() const { return ___m_SpatializerExtensionName_7; }
-	inline PropertyName_t957933759 * get_address_of_m_SpatializerExtensionName_7() { return &___m_SpatializerExtensionName_7; }
-	inline void set_m_SpatializerExtensionName_7(PropertyName_t957933759  value)
+	inline static int32_t get_offset_of_m_SpatializerExtensionName_7() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_SpatializerExtensionName_7)); }
+	inline PropertyName_t629672075  get_m_SpatializerExtensionName_7() const { return ___m_SpatializerExtensionName_7; }
+	inline PropertyName_t629672075 * get_address_of_m_SpatializerExtensionName_7() { return &___m_SpatializerExtensionName_7; }
+	inline void set_m_SpatializerExtensionName_7(PropertyName_t629672075  value)
 	{
 		___m_SpatializerExtensionName_7 = value;
 	}
 
-	inline static int32_t get_offset_of_m_ListenerSpatializerExtensionName_8() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t1647051116_StaticFields, ___m_ListenerSpatializerExtensionName_8)); }
-	inline PropertyName_t957933759  get_m_ListenerSpatializerExtensionName_8() const { return ___m_ListenerSpatializerExtensionName_8; }
-	inline PropertyName_t957933759 * get_address_of_m_ListenerSpatializerExtensionName_8() { return &___m_ListenerSpatializerExtensionName_8; }
-	inline void set_m_ListenerSpatializerExtensionName_8(PropertyName_t957933759  value)
+	inline static int32_t get_offset_of_m_ListenerSpatializerExtensionName_8() { return static_cast<int32_t>(offsetof(AudioExtensionManager_t406276441_StaticFields, ___m_ListenerSpatializerExtensionName_8)); }
+	inline PropertyName_t629672075  get_m_ListenerSpatializerExtensionName_8() const { return ___m_ListenerSpatializerExtensionName_8; }
+	inline PropertyName_t629672075 * get_address_of_m_ListenerSpatializerExtensionName_8() { return &___m_ListenerSpatializerExtensionName_8; }
+	inline void set_m_ListenerSpatializerExtensionName_8(PropertyName_t629672075  value)
 	{
 		___m_ListenerSpatializerExtensionName_8 = value;
 	}
@@ -1564,9 +1564,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOEXTENSIONMANAGER_T1647051116_H
-#ifndef RUNTIMETYPEHANDLE_T1039332875_H
-#define RUNTIMETYPEHANDLE_T1039332875_H
+#endif // AUDIOEXTENSIONMANAGER_T406276441_H
+#ifndef RUNTIMETYPEHANDLE_T3444464788_H
+#define RUNTIMETYPEHANDLE_T3444464788_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1574,14 +1574,14 @@ public:
 #endif
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t1039332875 
+struct  RuntimeTypeHandle_t3444464788 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
 	intptr_t ___value_0;
 
 public:
-	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(RuntimeTypeHandle_t1039332875, ___value_0)); }
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(RuntimeTypeHandle_t3444464788, ___value_0)); }
 	inline intptr_t get_value_0() const { return ___value_0; }
 	inline intptr_t* get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(intptr_t value)
@@ -1593,9 +1593,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // RUNTIMETYPEHANDLE_T1039332875_H
-#ifndef AUDIOCLIPPLAYABLE_T2927877131_H
-#define AUDIOCLIPPLAYABLE_T2927877131_H
+#endif // RUNTIMETYPEHANDLE_T3444464788_H
+#ifndef AUDIOCLIPPLAYABLE_T2533001844_H
+#define AUDIOCLIPPLAYABLE_T2533001844_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1603,17 +1603,17 @@ public:
 #endif
 
 // UnityEngine.Audio.AudioClipPlayable
-struct  AudioClipPlayable_t2927877131 
+struct  AudioClipPlayable_t2533001844 
 {
 public:
 	// UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioClipPlayable::m_Handle
-	PlayableHandle_t1621880712  ___m_Handle_0;
+	PlayableHandle_t1460998747  ___m_Handle_0;
 
 public:
-	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(AudioClipPlayable_t2927877131, ___m_Handle_0)); }
-	inline PlayableHandle_t1621880712  get_m_Handle_0() const { return ___m_Handle_0; }
-	inline PlayableHandle_t1621880712 * get_address_of_m_Handle_0() { return &___m_Handle_0; }
-	inline void set_m_Handle_0(PlayableHandle_t1621880712  value)
+	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(AudioClipPlayable_t2533001844, ___m_Handle_0)); }
+	inline PlayableHandle_t1460998747  get_m_Handle_0() const { return ___m_Handle_0; }
+	inline PlayableHandle_t1460998747 * get_address_of_m_Handle_0() { return &___m_Handle_0; }
+	inline void set_m_Handle_0(PlayableHandle_t1460998747  value)
 	{
 		___m_Handle_0 = value;
 	}
@@ -1622,9 +1622,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOCLIPPLAYABLE_T2927877131_H
-#ifndef AUDIOCLIP_T152874045_H
-#define AUDIOCLIP_T152874045_H
+#endif // AUDIOCLIPPLAYABLE_T2533001844_H
+#ifndef AUDIOCLIP_T303190502_H
+#define AUDIOCLIP_T303190502_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1632,28 +1632,28 @@ public:
 #endif
 
 // UnityEngine.AudioClip
-struct  AudioClip_t152874045  : public Object_t224960187
+struct  AudioClip_t303190502  : public Object_t2092332117
 {
 public:
 	// UnityEngine.AudioClip/PCMReaderCallback UnityEngine.AudioClip::m_PCMReaderCallback
-	PCMReaderCallback_t3351312833 * ___m_PCMReaderCallback_2;
+	PCMReaderCallback_t4099579993 * ___m_PCMReaderCallback_2;
 	// UnityEngine.AudioClip/PCMSetPositionCallback UnityEngine.AudioClip::m_PCMSetPositionCallback
-	PCMSetPositionCallback_t1935024535 * ___m_PCMSetPositionCallback_3;
+	PCMSetPositionCallback_t2517488568 * ___m_PCMSetPositionCallback_3;
 
 public:
-	inline static int32_t get_offset_of_m_PCMReaderCallback_2() { return static_cast<int32_t>(offsetof(AudioClip_t152874045, ___m_PCMReaderCallback_2)); }
-	inline PCMReaderCallback_t3351312833 * get_m_PCMReaderCallback_2() const { return ___m_PCMReaderCallback_2; }
-	inline PCMReaderCallback_t3351312833 ** get_address_of_m_PCMReaderCallback_2() { return &___m_PCMReaderCallback_2; }
-	inline void set_m_PCMReaderCallback_2(PCMReaderCallback_t3351312833 * value)
+	inline static int32_t get_offset_of_m_PCMReaderCallback_2() { return static_cast<int32_t>(offsetof(AudioClip_t303190502, ___m_PCMReaderCallback_2)); }
+	inline PCMReaderCallback_t4099579993 * get_m_PCMReaderCallback_2() const { return ___m_PCMReaderCallback_2; }
+	inline PCMReaderCallback_t4099579993 ** get_address_of_m_PCMReaderCallback_2() { return &___m_PCMReaderCallback_2; }
+	inline void set_m_PCMReaderCallback_2(PCMReaderCallback_t4099579993 * value)
 	{
 		___m_PCMReaderCallback_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_PCMReaderCallback_2), value);
 	}
 
-	inline static int32_t get_offset_of_m_PCMSetPositionCallback_3() { return static_cast<int32_t>(offsetof(AudioClip_t152874045, ___m_PCMSetPositionCallback_3)); }
-	inline PCMSetPositionCallback_t1935024535 * get_m_PCMSetPositionCallback_3() const { return ___m_PCMSetPositionCallback_3; }
-	inline PCMSetPositionCallback_t1935024535 ** get_address_of_m_PCMSetPositionCallback_3() { return &___m_PCMSetPositionCallback_3; }
-	inline void set_m_PCMSetPositionCallback_3(PCMSetPositionCallback_t1935024535 * value)
+	inline static int32_t get_offset_of_m_PCMSetPositionCallback_3() { return static_cast<int32_t>(offsetof(AudioClip_t303190502, ___m_PCMSetPositionCallback_3)); }
+	inline PCMSetPositionCallback_t2517488568 * get_m_PCMSetPositionCallback_3() const { return ___m_PCMSetPositionCallback_3; }
+	inline PCMSetPositionCallback_t2517488568 ** get_address_of_m_PCMSetPositionCallback_3() { return &___m_PCMSetPositionCallback_3; }
+	inline void set_m_PCMSetPositionCallback_3(PCMSetPositionCallback_t2517488568 * value)
 	{
 		___m_PCMSetPositionCallback_3 = value;
 		Il2CppCodeGenWriteBarrier((&___m_PCMSetPositionCallback_3), value);
@@ -1663,9 +1663,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOCLIP_T152874045_H
-#ifndef AUDIOPLAYABLEOUTPUT_T4159534232_H
-#define AUDIOPLAYABLEOUTPUT_T4159534232_H
+#endif // AUDIOCLIP_T303190502_H
+#ifndef AUDIOPLAYABLEOUTPUT_T346013151_H
+#define AUDIOPLAYABLEOUTPUT_T346013151_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1673,17 +1673,17 @@ public:
 #endif
 
 // UnityEngine.Audio.AudioPlayableOutput
-struct  AudioPlayableOutput_t4159534232 
+struct  AudioPlayableOutput_t346013151 
 {
 public:
 	// UnityEngine.Playables.PlayableOutputHandle UnityEngine.Audio.AudioPlayableOutput::m_Handle
-	PlayableOutputHandle_t424525939  ___m_Handle_0;
+	PlayableOutputHandle_t429484177  ___m_Handle_0;
 
 public:
-	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(AudioPlayableOutput_t4159534232, ___m_Handle_0)); }
-	inline PlayableOutputHandle_t424525939  get_m_Handle_0() const { return ___m_Handle_0; }
-	inline PlayableOutputHandle_t424525939 * get_address_of_m_Handle_0() { return &___m_Handle_0; }
-	inline void set_m_Handle_0(PlayableOutputHandle_t424525939  value)
+	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(AudioPlayableOutput_t346013151, ___m_Handle_0)); }
+	inline PlayableOutputHandle_t429484177  get_m_Handle_0() const { return ___m_Handle_0; }
+	inline PlayableOutputHandle_t429484177 * get_address_of_m_Handle_0() { return &___m_Handle_0; }
+	inline void set_m_Handle_0(PlayableOutputHandle_t429484177  value)
 	{
 		___m_Handle_0 = value;
 	}
@@ -1692,9 +1692,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOPLAYABLEOUTPUT_T4159534232_H
-#ifndef COMPONENT_T3228377826_H
-#define COMPONENT_T3228377826_H
+#endif // AUDIOPLAYABLEOUTPUT_T346013151_H
+#ifndef COMPONENT_T2882404791_H
+#define COMPONENT_T2882404791_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1702,7 +1702,7 @@ public:
 #endif
 
 // UnityEngine.Component
-struct  Component_t3228377826  : public Object_t224960187
+struct  Component_t2882404791  : public Object_t2092332117
 {
 public:
 
@@ -1712,9 +1712,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // COMPONENT_T3228377826_H
-#ifndef MULTICASTDELEGATE_T939306678_H
-#define MULTICASTDELEGATE_T939306678_H
+#endif // COMPONENT_T2882404791_H
+#ifndef MULTICASTDELEGATE_T3702750533_H
+#define MULTICASTDELEGATE_T3702750533_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1722,28 +1722,28 @@ public:
 #endif
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t939306678  : public Delegate_t187620943
+struct  MulticastDelegate_t3702750533  : public Delegate_t2211621923
 {
 public:
 	// System.MulticastDelegate System.MulticastDelegate::prev
-	MulticastDelegate_t939306678 * ___prev_9;
+	MulticastDelegate_t3702750533 * ___prev_9;
 	// System.MulticastDelegate System.MulticastDelegate::kpm_next
-	MulticastDelegate_t939306678 * ___kpm_next_10;
+	MulticastDelegate_t3702750533 * ___kpm_next_10;
 
 public:
-	inline static int32_t get_offset_of_prev_9() { return static_cast<int32_t>(offsetof(MulticastDelegate_t939306678, ___prev_9)); }
-	inline MulticastDelegate_t939306678 * get_prev_9() const { return ___prev_9; }
-	inline MulticastDelegate_t939306678 ** get_address_of_prev_9() { return &___prev_9; }
-	inline void set_prev_9(MulticastDelegate_t939306678 * value)
+	inline static int32_t get_offset_of_prev_9() { return static_cast<int32_t>(offsetof(MulticastDelegate_t3702750533, ___prev_9)); }
+	inline MulticastDelegate_t3702750533 * get_prev_9() const { return ___prev_9; }
+	inline MulticastDelegate_t3702750533 ** get_address_of_prev_9() { return &___prev_9; }
+	inline void set_prev_9(MulticastDelegate_t3702750533 * value)
 	{
 		___prev_9 = value;
 		Il2CppCodeGenWriteBarrier((&___prev_9), value);
 	}
 
-	inline static int32_t get_offset_of_kpm_next_10() { return static_cast<int32_t>(offsetof(MulticastDelegate_t939306678, ___kpm_next_10)); }
-	inline MulticastDelegate_t939306678 * get_kpm_next_10() const { return ___kpm_next_10; }
-	inline MulticastDelegate_t939306678 ** get_address_of_kpm_next_10() { return &___kpm_next_10; }
-	inline void set_kpm_next_10(MulticastDelegate_t939306678 * value)
+	inline static int32_t get_offset_of_kpm_next_10() { return static_cast<int32_t>(offsetof(MulticastDelegate_t3702750533, ___kpm_next_10)); }
+	inline MulticastDelegate_t3702750533 * get_kpm_next_10() const { return ___kpm_next_10; }
+	inline MulticastDelegate_t3702750533 ** get_address_of_kpm_next_10() { return &___kpm_next_10; }
+	inline void set_kpm_next_10(MulticastDelegate_t3702750533 * value)
 	{
 		___kpm_next_10 = value;
 		Il2CppCodeGenWriteBarrier((&___kpm_next_10), value);
@@ -1753,9 +1753,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // MULTICASTDELEGATE_T939306678_H
-#ifndef AUDIOMIXERPLAYABLE_T289834976_H
-#define AUDIOMIXERPLAYABLE_T289834976_H
+#endif // MULTICASTDELEGATE_T3702750533_H
+#ifndef AUDIOMIXERPLAYABLE_T1475614579_H
+#define AUDIOMIXERPLAYABLE_T1475614579_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1763,17 +1763,17 @@ public:
 #endif
 
 // UnityEngine.Audio.AudioMixerPlayable
-struct  AudioMixerPlayable_t289834976 
+struct  AudioMixerPlayable_t1475614579 
 {
 public:
 	// UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioMixerPlayable::m_Handle
-	PlayableHandle_t1621880712  ___m_Handle_0;
+	PlayableHandle_t1460998747  ___m_Handle_0;
 
 public:
-	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(AudioMixerPlayable_t289834976, ___m_Handle_0)); }
-	inline PlayableHandle_t1621880712  get_m_Handle_0() const { return ___m_Handle_0; }
-	inline PlayableHandle_t1621880712 * get_address_of_m_Handle_0() { return &___m_Handle_0; }
-	inline void set_m_Handle_0(PlayableHandle_t1621880712  value)
+	inline static int32_t get_offset_of_m_Handle_0() { return static_cast<int32_t>(offsetof(AudioMixerPlayable_t1475614579, ___m_Handle_0)); }
+	inline PlayableHandle_t1460998747  get_m_Handle_0() const { return ___m_Handle_0; }
+	inline PlayableHandle_t1460998747 * get_address_of_m_Handle_0() { return &___m_Handle_0; }
+	inline void set_m_Handle_0(PlayableHandle_t1460998747  value)
 	{
 		___m_Handle_0 = value;
 	}
@@ -1782,9 +1782,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOMIXERPLAYABLE_T289834976_H
-#ifndef SCRIPTABLEOBJECT_T1637412538_H
-#define SCRIPTABLEOBJECT_T1637412538_H
+#endif // AUDIOMIXERPLAYABLE_T1475614579_H
+#ifndef SCRIPTABLEOBJECT_T184210050_H
+#define SCRIPTABLEOBJECT_T184210050_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1792,7 +1792,7 @@ public:
 #endif
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_t1637412538  : public Object_t224960187
+struct  ScriptableObject_t184210050  : public Object_t2092332117
 {
 public:
 
@@ -1803,14 +1803,14 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.ScriptableObject
-struct ScriptableObject_t1637412538_marshaled_pinvoke : public Object_t224960187_marshaled_pinvoke
+struct ScriptableObject_t184210050_marshaled_pinvoke : public Object_t2092332117_marshaled_pinvoke
 {
 };
 // Native definition for COM marshalling of UnityEngine.ScriptableObject
-struct ScriptableObject_t1637412538_marshaled_com : public Object_t224960187_marshaled_com
+struct ScriptableObject_t184210050_marshaled_com : public Object_t2092332117_marshaled_com
 {
 };
-#endif // SCRIPTABLEOBJECT_T1637412538_H
+#endif // SCRIPTABLEOBJECT_T184210050_H
 #ifndef TYPE_T_H
 #define TYPE_T_H
 #ifdef __clang__
@@ -1824,13 +1824,13 @@ struct  Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
-	RuntimeTypeHandle_t1039332875  ____impl_1;
+	RuntimeTypeHandle_t3444464788  ____impl_1;
 
 public:
 	inline static int32_t get_offset_of__impl_1() { return static_cast<int32_t>(offsetof(Type_t, ____impl_1)); }
-	inline RuntimeTypeHandle_t1039332875  get__impl_1() const { return ____impl_1; }
-	inline RuntimeTypeHandle_t1039332875 * get_address_of__impl_1() { return &____impl_1; }
-	inline void set__impl_1(RuntimeTypeHandle_t1039332875  value)
+	inline RuntimeTypeHandle_t3444464788  get__impl_1() const { return ____impl_1; }
+	inline RuntimeTypeHandle_t3444464788 * get_address_of__impl_1() { return &____impl_1; }
+	inline void set__impl_1(RuntimeTypeHandle_t3444464788  value)
 	{
 		____impl_1 = value;
 	}
@@ -1842,13 +1842,13 @@ public:
 	// System.Char System.Type::Delimiter
 	Il2CppChar ___Delimiter_2;
 	// System.Type[] System.Type::EmptyTypes
-	TypeU5BU5D_t1241867390* ___EmptyTypes_3;
+	TypeU5BU5D_t807720159* ___EmptyTypes_3;
 	// System.Reflection.MemberFilter System.Type::FilterAttribute
-	MemberFilter_t2830463451 * ___FilterAttribute_4;
+	MemberFilter_t3414113354 * ___FilterAttribute_4;
 	// System.Reflection.MemberFilter System.Type::FilterName
-	MemberFilter_t2830463451 * ___FilterName_5;
+	MemberFilter_t3414113354 * ___FilterName_5;
 	// System.Reflection.MemberFilter System.Type::FilterNameIgnoreCase
-	MemberFilter_t2830463451 * ___FilterNameIgnoreCase_6;
+	MemberFilter_t3414113354 * ___FilterNameIgnoreCase_6;
 	// System.Object System.Type::Missing
 	RuntimeObject * ___Missing_7;
 
@@ -1862,36 +1862,36 @@ public:
 	}
 
 	inline static int32_t get_offset_of_EmptyTypes_3() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___EmptyTypes_3)); }
-	inline TypeU5BU5D_t1241867390* get_EmptyTypes_3() const { return ___EmptyTypes_3; }
-	inline TypeU5BU5D_t1241867390** get_address_of_EmptyTypes_3() { return &___EmptyTypes_3; }
-	inline void set_EmptyTypes_3(TypeU5BU5D_t1241867390* value)
+	inline TypeU5BU5D_t807720159* get_EmptyTypes_3() const { return ___EmptyTypes_3; }
+	inline TypeU5BU5D_t807720159** get_address_of_EmptyTypes_3() { return &___EmptyTypes_3; }
+	inline void set_EmptyTypes_3(TypeU5BU5D_t807720159* value)
 	{
 		___EmptyTypes_3 = value;
 		Il2CppCodeGenWriteBarrier((&___EmptyTypes_3), value);
 	}
 
 	inline static int32_t get_offset_of_FilterAttribute_4() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___FilterAttribute_4)); }
-	inline MemberFilter_t2830463451 * get_FilterAttribute_4() const { return ___FilterAttribute_4; }
-	inline MemberFilter_t2830463451 ** get_address_of_FilterAttribute_4() { return &___FilterAttribute_4; }
-	inline void set_FilterAttribute_4(MemberFilter_t2830463451 * value)
+	inline MemberFilter_t3414113354 * get_FilterAttribute_4() const { return ___FilterAttribute_4; }
+	inline MemberFilter_t3414113354 ** get_address_of_FilterAttribute_4() { return &___FilterAttribute_4; }
+	inline void set_FilterAttribute_4(MemberFilter_t3414113354 * value)
 	{
 		___FilterAttribute_4 = value;
 		Il2CppCodeGenWriteBarrier((&___FilterAttribute_4), value);
 	}
 
 	inline static int32_t get_offset_of_FilterName_5() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___FilterName_5)); }
-	inline MemberFilter_t2830463451 * get_FilterName_5() const { return ___FilterName_5; }
-	inline MemberFilter_t2830463451 ** get_address_of_FilterName_5() { return &___FilterName_5; }
-	inline void set_FilterName_5(MemberFilter_t2830463451 * value)
+	inline MemberFilter_t3414113354 * get_FilterName_5() const { return ___FilterName_5; }
+	inline MemberFilter_t3414113354 ** get_address_of_FilterName_5() { return &___FilterName_5; }
+	inline void set_FilterName_5(MemberFilter_t3414113354 * value)
 	{
 		___FilterName_5 = value;
 		Il2CppCodeGenWriteBarrier((&___FilterName_5), value);
 	}
 
 	inline static int32_t get_offset_of_FilterNameIgnoreCase_6() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___FilterNameIgnoreCase_6)); }
-	inline MemberFilter_t2830463451 * get_FilterNameIgnoreCase_6() const { return ___FilterNameIgnoreCase_6; }
-	inline MemberFilter_t2830463451 ** get_address_of_FilterNameIgnoreCase_6() { return &___FilterNameIgnoreCase_6; }
-	inline void set_FilterNameIgnoreCase_6(MemberFilter_t2830463451 * value)
+	inline MemberFilter_t3414113354 * get_FilterNameIgnoreCase_6() const { return ___FilterNameIgnoreCase_6; }
+	inline MemberFilter_t3414113354 ** get_address_of_FilterNameIgnoreCase_6() { return &___FilterNameIgnoreCase_6; }
+	inline void set_FilterNameIgnoreCase_6(MemberFilter_t3414113354 * value)
 	{
 		___FilterNameIgnoreCase_6 = value;
 		Il2CppCodeGenWriteBarrier((&___FilterNameIgnoreCase_6), value);
@@ -1911,8 +1911,8 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // TYPE_T_H
-#ifndef ASYNCCALLBACK_T1505771400_H
-#define ASYNCCALLBACK_T1505771400_H
+#ifndef ASYNCCALLBACK_T1433732315_H
+#define ASYNCCALLBACK_T1433732315_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1920,7 +1920,7 @@ public:
 #endif
 
 // System.AsyncCallback
-struct  AsyncCallback_t1505771400  : public MulticastDelegate_t939306678
+struct  AsyncCallback_t1433732315  : public MulticastDelegate_t3702750533
 {
 public:
 
@@ -1930,9 +1930,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // ASYNCCALLBACK_T1505771400_H
-#ifndef AUDIOSOURCEEXTENSION_T1539232135_H
-#define AUDIOSOURCEEXTENSION_T1539232135_H
+#endif // ASYNCCALLBACK_T1433732315_H
+#ifndef AUDIOSOURCEEXTENSION_T2842685391_H
+#define AUDIOSOURCEEXTENSION_T2842685391_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1940,25 +1940,25 @@ public:
 #endif
 
 // UnityEngine.AudioSourceExtension
-struct  AudioSourceExtension_t1539232135  : public ScriptableObject_t1637412538
+struct  AudioSourceExtension_t2842685391  : public ScriptableObject_t184210050
 {
 public:
 	// UnityEngine.AudioSource UnityEngine.AudioSourceExtension::m_audioSource
-	AudioSource_t2681891155 * ___m_audioSource_2;
+	AudioSource_t109427735 * ___m_audioSource_2;
 	// System.Int32 UnityEngine.AudioSourceExtension::m_ExtensionManagerUpdateIndex
 	int32_t ___m_ExtensionManagerUpdateIndex_3;
 
 public:
-	inline static int32_t get_offset_of_m_audioSource_2() { return static_cast<int32_t>(offsetof(AudioSourceExtension_t1539232135, ___m_audioSource_2)); }
-	inline AudioSource_t2681891155 * get_m_audioSource_2() const { return ___m_audioSource_2; }
-	inline AudioSource_t2681891155 ** get_address_of_m_audioSource_2() { return &___m_audioSource_2; }
-	inline void set_m_audioSource_2(AudioSource_t2681891155 * value)
+	inline static int32_t get_offset_of_m_audioSource_2() { return static_cast<int32_t>(offsetof(AudioSourceExtension_t2842685391, ___m_audioSource_2)); }
+	inline AudioSource_t109427735 * get_m_audioSource_2() const { return ___m_audioSource_2; }
+	inline AudioSource_t109427735 ** get_address_of_m_audioSource_2() { return &___m_audioSource_2; }
+	inline void set_m_audioSource_2(AudioSource_t109427735 * value)
 	{
 		___m_audioSource_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_audioSource_2), value);
 	}
 
-	inline static int32_t get_offset_of_m_ExtensionManagerUpdateIndex_3() { return static_cast<int32_t>(offsetof(AudioSourceExtension_t1539232135, ___m_ExtensionManagerUpdateIndex_3)); }
+	inline static int32_t get_offset_of_m_ExtensionManagerUpdateIndex_3() { return static_cast<int32_t>(offsetof(AudioSourceExtension_t2842685391, ___m_ExtensionManagerUpdateIndex_3)); }
 	inline int32_t get_m_ExtensionManagerUpdateIndex_3() const { return ___m_ExtensionManagerUpdateIndex_3; }
 	inline int32_t* get_address_of_m_ExtensionManagerUpdateIndex_3() { return &___m_ExtensionManagerUpdateIndex_3; }
 	inline void set_m_ExtensionManagerUpdateIndex_3(int32_t value)
@@ -1970,9 +1970,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOSOURCEEXTENSION_T1539232135_H
-#ifndef BEHAVIOUR_T142731593_H
-#define BEHAVIOUR_T142731593_H
+#endif // AUDIOSOURCEEXTENSION_T2842685391_H
+#ifndef BEHAVIOUR_T1994696285_H
+#define BEHAVIOUR_T1994696285_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1980,7 +1980,7 @@ public:
 #endif
 
 // UnityEngine.Behaviour
-struct  Behaviour_t142731593  : public Component_t3228377826
+struct  Behaviour_t1994696285  : public Component_t2882404791
 {
 public:
 
@@ -1990,9 +1990,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // BEHAVIOUR_T142731593_H
-#ifndef AUDIOLISTENEREXTENSION_T901597245_H
-#define AUDIOLISTENEREXTENSION_T901597245_H
+#endif // BEHAVIOUR_T1994696285_H
+#ifndef AUDIOLISTENEREXTENSION_T4241147580_H
+#define AUDIOLISTENEREXTENSION_T4241147580_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2000,17 +2000,17 @@ public:
 #endif
 
 // UnityEngine.AudioListenerExtension
-struct  AudioListenerExtension_t901597245  : public ScriptableObject_t1637412538
+struct  AudioListenerExtension_t4241147580  : public ScriptableObject_t184210050
 {
 public:
 	// UnityEngine.AudioListener UnityEngine.AudioListenerExtension::m_audioListener
-	AudioListener_t2335968177 * ___m_audioListener_2;
+	AudioListener_t2036345966 * ___m_audioListener_2;
 
 public:
-	inline static int32_t get_offset_of_m_audioListener_2() { return static_cast<int32_t>(offsetof(AudioListenerExtension_t901597245, ___m_audioListener_2)); }
-	inline AudioListener_t2335968177 * get_m_audioListener_2() const { return ___m_audioListener_2; }
-	inline AudioListener_t2335968177 ** get_address_of_m_audioListener_2() { return &___m_audioListener_2; }
-	inline void set_m_audioListener_2(AudioListener_t2335968177 * value)
+	inline static int32_t get_offset_of_m_audioListener_2() { return static_cast<int32_t>(offsetof(AudioListenerExtension_t4241147580, ___m_audioListener_2)); }
+	inline AudioListener_t2036345966 * get_m_audioListener_2() const { return ___m_audioListener_2; }
+	inline AudioListener_t2036345966 ** get_address_of_m_audioListener_2() { return &___m_audioListener_2; }
+	inline void set_m_audioListener_2(AudioListener_t2036345966 * value)
 	{
 		___m_audioListener_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_audioListener_2), value);
@@ -2020,9 +2020,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOLISTENEREXTENSION_T901597245_H
-#ifndef PCMREADERCALLBACK_T3351312833_H
-#define PCMREADERCALLBACK_T3351312833_H
+#endif // AUDIOLISTENEREXTENSION_T4241147580_H
+#ifndef PCMREADERCALLBACK_T4099579993_H
+#define PCMREADERCALLBACK_T4099579993_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2030,7 +2030,7 @@ public:
 #endif
 
 // UnityEngine.AudioClip/PCMReaderCallback
-struct  PCMReaderCallback_t3351312833  : public MulticastDelegate_t939306678
+struct  PCMReaderCallback_t4099579993  : public MulticastDelegate_t3702750533
 {
 public:
 
@@ -2040,9 +2040,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // PCMREADERCALLBACK_T3351312833_H
-#ifndef PCMSETPOSITIONCALLBACK_T1935024535_H
-#define PCMSETPOSITIONCALLBACK_T1935024535_H
+#endif // PCMREADERCALLBACK_T4099579993_H
+#ifndef PCMSETPOSITIONCALLBACK_T2517488568_H
+#define PCMSETPOSITIONCALLBACK_T2517488568_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2050,7 +2050,7 @@ public:
 #endif
 
 // UnityEngine.AudioClip/PCMSetPositionCallback
-struct  PCMSetPositionCallback_t1935024535  : public MulticastDelegate_t939306678
+struct  PCMSetPositionCallback_t2517488568  : public MulticastDelegate_t3702750533
 {
 public:
 
@@ -2060,9 +2060,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // PCMSETPOSITIONCALLBACK_T1935024535_H
-#ifndef AUDIOCONFIGURATIONCHANGEHANDLER_T932913356_H
-#define AUDIOCONFIGURATIONCHANGEHANDLER_T932913356_H
+#endif // PCMSETPOSITIONCALLBACK_T2517488568_H
+#ifndef AUDIOCONFIGURATIONCHANGEHANDLER_T2726240268_H
+#define AUDIOCONFIGURATIONCHANGEHANDLER_T2726240268_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2070,7 +2070,7 @@ public:
 #endif
 
 // UnityEngine.AudioSettings/AudioConfigurationChangeHandler
-struct  AudioConfigurationChangeHandler_t932913356  : public MulticastDelegate_t939306678
+struct  AudioConfigurationChangeHandler_t2726240268  : public MulticastDelegate_t3702750533
 {
 public:
 
@@ -2080,9 +2080,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOCONFIGURATIONCHANGEHANDLER_T932913356_H
-#ifndef AUDIOSOURCE_T2681891155_H
-#define AUDIOSOURCE_T2681891155_H
+#endif // AUDIOCONFIGURATIONCHANGEHANDLER_T2726240268_H
+#ifndef AUDIOSOURCE_T109427735_H
+#define AUDIOSOURCE_T109427735_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2090,28 +2090,28 @@ public:
 #endif
 
 // UnityEngine.AudioSource
-struct  AudioSource_t2681891155  : public Behaviour_t142731593
+struct  AudioSource_t109427735  : public Behaviour_t1994696285
 {
 public:
 	// UnityEngine.AudioSourceExtension UnityEngine.AudioSource::spatializerExtension
-	AudioSourceExtension_t1539232135 * ___spatializerExtension_2;
+	AudioSourceExtension_t2842685391 * ___spatializerExtension_2;
 	// UnityEngine.AudioSourceExtension UnityEngine.AudioSource::ambisonicExtension
-	AudioSourceExtension_t1539232135 * ___ambisonicExtension_3;
+	AudioSourceExtension_t2842685391 * ___ambisonicExtension_3;
 
 public:
-	inline static int32_t get_offset_of_spatializerExtension_2() { return static_cast<int32_t>(offsetof(AudioSource_t2681891155, ___spatializerExtension_2)); }
-	inline AudioSourceExtension_t1539232135 * get_spatializerExtension_2() const { return ___spatializerExtension_2; }
-	inline AudioSourceExtension_t1539232135 ** get_address_of_spatializerExtension_2() { return &___spatializerExtension_2; }
-	inline void set_spatializerExtension_2(AudioSourceExtension_t1539232135 * value)
+	inline static int32_t get_offset_of_spatializerExtension_2() { return static_cast<int32_t>(offsetof(AudioSource_t109427735, ___spatializerExtension_2)); }
+	inline AudioSourceExtension_t2842685391 * get_spatializerExtension_2() const { return ___spatializerExtension_2; }
+	inline AudioSourceExtension_t2842685391 ** get_address_of_spatializerExtension_2() { return &___spatializerExtension_2; }
+	inline void set_spatializerExtension_2(AudioSourceExtension_t2842685391 * value)
 	{
 		___spatializerExtension_2 = value;
 		Il2CppCodeGenWriteBarrier((&___spatializerExtension_2), value);
 	}
 
-	inline static int32_t get_offset_of_ambisonicExtension_3() { return static_cast<int32_t>(offsetof(AudioSource_t2681891155, ___ambisonicExtension_3)); }
-	inline AudioSourceExtension_t1539232135 * get_ambisonicExtension_3() const { return ___ambisonicExtension_3; }
-	inline AudioSourceExtension_t1539232135 ** get_address_of_ambisonicExtension_3() { return &___ambisonicExtension_3; }
-	inline void set_ambisonicExtension_3(AudioSourceExtension_t1539232135 * value)
+	inline static int32_t get_offset_of_ambisonicExtension_3() { return static_cast<int32_t>(offsetof(AudioSource_t109427735, ___ambisonicExtension_3)); }
+	inline AudioSourceExtension_t2842685391 * get_ambisonicExtension_3() const { return ___ambisonicExtension_3; }
+	inline AudioSourceExtension_t2842685391 ** get_address_of_ambisonicExtension_3() { return &___ambisonicExtension_3; }
+	inline void set_ambisonicExtension_3(AudioSourceExtension_t2842685391 * value)
 	{
 		___ambisonicExtension_3 = value;
 		Il2CppCodeGenWriteBarrier((&___ambisonicExtension_3), value);
@@ -2121,9 +2121,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOSOURCE_T2681891155_H
-#ifndef AUDIOLISTENER_T2335968177_H
-#define AUDIOLISTENER_T2335968177_H
+#endif // AUDIOSOURCE_T109427735_H
+#ifndef AUDIOLISTENER_T2036345966_H
+#define AUDIOLISTENER_T2036345966_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2131,17 +2131,17 @@ public:
 #endif
 
 // UnityEngine.AudioListener
-struct  AudioListener_t2335968177  : public Behaviour_t142731593
+struct  AudioListener_t2036345966  : public Behaviour_t1994696285
 {
 public:
 	// UnityEngine.AudioListenerExtension UnityEngine.AudioListener::spatializerExtension
-	AudioListenerExtension_t901597245 * ___spatializerExtension_2;
+	AudioListenerExtension_t4241147580 * ___spatializerExtension_2;
 
 public:
-	inline static int32_t get_offset_of_spatializerExtension_2() { return static_cast<int32_t>(offsetof(AudioListener_t2335968177, ___spatializerExtension_2)); }
-	inline AudioListenerExtension_t901597245 * get_spatializerExtension_2() const { return ___spatializerExtension_2; }
-	inline AudioListenerExtension_t901597245 ** get_address_of_spatializerExtension_2() { return &___spatializerExtension_2; }
-	inline void set_spatializerExtension_2(AudioListenerExtension_t901597245 * value)
+	inline static int32_t get_offset_of_spatializerExtension_2() { return static_cast<int32_t>(offsetof(AudioListener_t2036345966, ___spatializerExtension_2)); }
+	inline AudioListenerExtension_t4241147580 * get_spatializerExtension_2() const { return ___spatializerExtension_2; }
+	inline AudioListenerExtension_t4241147580 ** get_address_of_spatializerExtension_2() { return &___spatializerExtension_2; }
+	inline void set_spatializerExtension_2(AudioListenerExtension_t4241147580 * value)
 	{
 		___spatializerExtension_2 = value;
 		Il2CppCodeGenWriteBarrier((&___spatializerExtension_2), value);
@@ -2151,9 +2151,9 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // AUDIOLISTENER_T2335968177_H
+#endif // AUDIOLISTENER_T2036345966_H
 // System.Single[]
-struct SingleU5BU5D_t2389899948  : public RuntimeArray
+struct SingleU5BU5D_t1702561364  : public RuntimeArray
 {
 public:
 	ALIGN_FIELD (8) float m_Items[1];
@@ -2188,7 +2188,7 @@ public:
 	}
 };
 // System.String[]
-struct StringU5BU5D_t2095834596  : public RuntimeArray
+struct StringU5BU5D_t1799834177  : public RuntimeArray
 {
 public:
 	ALIGN_FIELD (8) String_t* m_Items[1];
@@ -2227,229 +2227,229 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<!0> System.Collections.Generic.List`1<System.Object>::GetEnumerator()
-extern "C"  Enumerator_t1063377625  List_1_GetEnumerator_m1724581387_gshared (List_1_t2691904472 * __this, const RuntimeMethod* method);
+extern "C"  Enumerator_t4143642805  List_1_GetEnumerator_m607337012_gshared (List_1_t2378961247 * __this, const RuntimeMethod* method);
 // !0 System.Collections.Generic.List`1/Enumerator<System.Object>::get_Current()
-extern "C"  RuntimeObject * Enumerator_get_Current_m3951853319_gshared (Enumerator_t1063377625 * __this, const RuntimeMethod* method);
+extern "C"  RuntimeObject * Enumerator_get_Current_m61678448_gshared (Enumerator_t4143642805 * __this, const RuntimeMethod* method);
 // System.Boolean System.Collections.Generic.List`1/Enumerator<System.Object>::MoveNext()
-extern "C"  bool Enumerator_MoveNext_m3970346361_gshared (Enumerator_t1063377625 * __this, const RuntimeMethod* method);
+extern "C"  bool Enumerator_MoveNext_m4030713973_gshared (Enumerator_t4143642805 * __this, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Object>::Dispose()
-extern "C"  void Enumerator_Dispose_m3363154650_gshared (Enumerator_t1063377625 * __this, const RuntimeMethod* method);
+extern "C"  void Enumerator_Dispose_m2226697843_gshared (Enumerator_t4143642805 * __this, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<System.Object>::Add(!0)
-extern "C"  void List_1_Add_m2908768650_gshared (List_1_t2691904472 * __this, RuntimeObject * p0, const RuntimeMethod* method);
+extern "C"  void List_1_Add_m1806559288_gshared (List_1_t2378961247 * __this, RuntimeObject * p0, const RuntimeMethod* method);
 // System.Int32 System.Collections.Generic.List`1<System.Object>::get_Count()
-extern "C"  int32_t List_1_get_Count_m382556366_gshared (List_1_t2691904472 * __this, const RuntimeMethod* method);
+extern "C"  int32_t List_1_get_Count_m1242946114_gshared (List_1_t2378961247 * __this, const RuntimeMethod* method);
 // !0 System.Collections.Generic.List`1<System.Object>::get_Item(System.Int32)
-extern "C"  RuntimeObject * List_1_get_Item_m162276220_gshared (List_1_t2691904472 * __this, int32_t p0, const RuntimeMethod* method);
+extern "C"  RuntimeObject * List_1_get_Item_m310607634_gshared (List_1_t2378961247 * __this, int32_t p0, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<System.Object>::set_Item(System.Int32,!0)
-extern "C"  void List_1_set_Item_m1561865892_gshared (List_1_t2691904472 * __this, int32_t p0, RuntimeObject * p1, const RuntimeMethod* method);
+extern "C"  void List_1_set_Item_m1533433062_gshared (List_1_t2378961247 * __this, int32_t p0, RuntimeObject * p1, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<System.Object>::RemoveAt(System.Int32)
-extern "C"  void List_1_RemoveAt_m728317966_gshared (List_1_t2691904472 * __this, int32_t p0, const RuntimeMethod* method);
+extern "C"  void List_1_RemoveAt_m4017766297_gshared (List_1_t2378961247 * __this, int32_t p0, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<System.Object>::.ctor()
-extern "C"  void List_1__ctor_m3310486016_gshared (List_1_t2691904472 * __this, const RuntimeMethod* method);
+extern "C"  void List_1__ctor_m3127259965_gshared (List_1_t2378961247 * __this, const RuntimeMethod* method);
 
 // UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioClipPlayable::GetHandle()
-extern "C"  PlayableHandle_t1621880712  AudioClipPlayable_GetHandle_m3791365795 (AudioClipPlayable_t2927877131 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PlayableHandle_t1460998747  AudioClipPlayable_GetHandle_m3150472794 (AudioClipPlayable_t2533001844 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Playables.PlayableHandle::op_Equality(UnityEngine.Playables.PlayableHandle,UnityEngine.Playables.PlayableHandle)
-extern "C"  bool PlayableHandle_op_Equality_m822441101 (RuntimeObject * __this /* static, unused */, PlayableHandle_t1621880712  p0, PlayableHandle_t1621880712  p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool PlayableHandle_op_Equality_m1169258468 (RuntimeObject * __this /* static, unused */, PlayableHandle_t1460998747  p0, PlayableHandle_t1460998747  p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Audio.AudioClipPlayable::Equals(UnityEngine.Audio.AudioClipPlayable)
-extern "C"  bool AudioClipPlayable_Equals_m324878111 (AudioClipPlayable_t2927877131 * __this, AudioClipPlayable_t2927877131  ___other0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool AudioClipPlayable_Equals_m3554617027 (AudioClipPlayable_t2533001844 * __this, AudioClipPlayable_t2533001844  ___other0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioMixerPlayable::GetHandle()
-extern "C"  PlayableHandle_t1621880712  AudioMixerPlayable_GetHandle_m2481276365 (AudioMixerPlayable_t289834976 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PlayableHandle_t1460998747  AudioMixerPlayable_GetHandle_m3164253409 (AudioMixerPlayable_t1475614579 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Audio.AudioMixerPlayable::Equals(UnityEngine.Audio.AudioMixerPlayable)
-extern "C"  bool AudioMixerPlayable_Equals_m2886122406 (AudioMixerPlayable_t289834976 * __this, AudioMixerPlayable_t289834976  ___other0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool AudioMixerPlayable_Equals_m3962385126 (AudioMixerPlayable_t1475614579 * __this, AudioMixerPlayable_t1475614579  ___other0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Object::.ctor()
-extern "C"  void Object__ctor_m1844125832 (Object_t224960187 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void Object__ctor_m874025821 (Object_t2092332117 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioClip/PCMReaderCallback::Invoke(System.Single[])
-extern "C"  void PCMReaderCallback_Invoke_m4105174541 (PCMReaderCallback_t3351312833 * __this, SingleU5BU5D_t2389899948* ___data0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void PCMReaderCallback_Invoke_m2254127396 (PCMReaderCallback_t4099579993 * __this, SingleU5BU5D_t1702561364* ___data0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioClip/PCMSetPositionCallback::Invoke(System.Int32)
-extern "C"  void PCMSetPositionCallback_Invoke_m1491323353 (PCMSetPositionCallback_t1935024535 * __this, int32_t ___position0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void PCMSetPositionCallback_Invoke_m3909294245 (PCMSetPositionCallback_t2517488568 * __this, int32_t ___position0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.String System.String::Concat(System.String[])
-extern "C"  String_t* String_Concat_m170331751 (RuntimeObject * __this /* static, unused */, StringU5BU5D_t2095834596* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  String_t* String_Concat_m884688771 (RuntimeObject * __this /* static, unused */, StringU5BU5D_t1799834177* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Type System.Type::GetType(System.String)
-extern "C"  Type_t * Type_GetType_m1617686351 (RuntimeObject * __this /* static, unused */, String_t* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  Type_t * Type_GetType_m3626062204 (RuntimeObject * __this /* static, unused */, String_t* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.AudioSource::get_spatialize()
-extern "C"  bool AudioSource_get_spatialize_m2662754792 (AudioSource_t2681891155 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool AudioSource_get_spatialize_m1146628736 (AudioSource_t109427735 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Object::op_Inequality(UnityEngine.Object,UnityEngine.Object)
-extern "C"  bool Object_op_Inequality_m1335257197 (RuntimeObject * __this /* static, unused */, Object_t224960187 * p0, Object_t224960187 * p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool Object_op_Inequality_m3753203157 (RuntimeObject * __this /* static, unused */, Object_t2092332117 * p0, Object_t2092332117 * p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::RegisterBuiltinDefinitions()
-extern "C"  void AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Collections.Generic.List`1/Enumerator<!0> System.Collections.Generic.List`1<UnityEngine.AudioSpatializerExtensionDefinition>::GetEnumerator()
-#define List_1_GetEnumerator_m3756085531(__this, method) ((  Enumerator_t3859083538  (*) (List_1_t1192643089 *, const RuntimeMethod*))List_1_GetEnumerator_m1724581387_gshared)(__this, method)
+#define List_1_GetEnumerator_m3629966127(__this, method) ((  Enumerator_t2070325589  (*) (List_1_t305644031 *, const RuntimeMethod*))List_1_GetEnumerator_m607337012_gshared)(__this, method)
 // !0 System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioSpatializerExtensionDefinition>::get_Current()
-#define Enumerator_get_Current_m216234719(__this, method) ((  AudioSpatializerExtensionDefinition_t2022077663 * (*) (Enumerator_t3859083538 *, const RuntimeMethod*))Enumerator_get_Current_m3951853319_gshared)(__this, method)
+#define Enumerator_get_Current_m3739187253(__this, method) ((  AudioSpatializerExtensionDefinition_t3915630517 * (*) (Enumerator_t2070325589 *, const RuntimeMethod*))Enumerator_get_Current_m61678448_gshared)(__this, method)
 // System.String UnityEngine.AudioSettings::GetSpatializerPluginName()
-extern "C"  String_t* AudioSettings_GetSpatializerPluginName_m2042247436 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  String_t* AudioSettings_GetSpatializerPluginName_m2076922044 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.PropertyName UnityEngine.PropertyName::op_Implicit(System.String)
-extern "C"  PropertyName_t957933759  PropertyName_op_Implicit_m2205448399 (RuntimeObject * __this /* static, unused */, String_t* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PropertyName_t629672075  PropertyName_op_Implicit_m2633684470 (RuntimeObject * __this /* static, unused */, String_t* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.PropertyName::op_Equality(UnityEngine.PropertyName,UnityEngine.PropertyName)
-extern "C"  bool PropertyName_op_Equality_m3133515106 (RuntimeObject * __this /* static, unused */, PropertyName_t957933759  p0, PropertyName_t957933759  p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool PropertyName_op_Equality_m2909419203 (RuntimeObject * __this /* static, unused */, PropertyName_t629672075  p0, PropertyName_t629672075  p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Type UnityEngine.AudioExtensionDefinition::GetExtensionType()
-extern "C"  Type_t * AudioExtensionDefinition_GetExtensionType_m2702929274 (AudioExtensionDefinition_t3397395452 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  Type_t * AudioExtensionDefinition_GetExtensionType_m692425019 (AudioExtensionDefinition_t192562823 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioSourceExtension UnityEngine.AudioSource::AddSpatializerExtension(System.Type)
-extern "C"  AudioSourceExtension_t1539232135 * AudioSource_AddSpatializerExtension_m694521801 (AudioSource_t2681891155 * __this, Type_t * ___extensionType0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioSourceExtension_t2842685391 * AudioSource_AddSpatializerExtension_m1274846644 (AudioSource_t109427735 * __this, Type_t * ___extensionType0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSourceExtension::set_audioSource(UnityEngine.AudioSource)
-extern "C"  void AudioSourceExtension_set_audioSource_m518350548 (AudioSourceExtension_t1539232135 * __this, AudioSource_t2681891155 * ___value0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSourceExtension_set_audioSource_m281014207 (AudioSourceExtension_t2842685391 * __this, AudioSource_t109427735 * ___value0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::WriteExtensionProperties(UnityEngine.AudioSourceExtension,System.String)
-extern "C"  void AudioExtensionManager_WriteExtensionProperties_m3800946984 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_WriteExtensionProperties_m3218885782 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioSpatializerExtensionDefinition>::MoveNext()
-#define Enumerator_MoveNext_m1770433219(__this, method) ((  bool (*) (Enumerator_t3859083538 *, const RuntimeMethod*))Enumerator_MoveNext_m3970346361_gshared)(__this, method)
+#define Enumerator_MoveNext_m342936855(__this, method) ((  bool (*) (Enumerator_t2070325589 *, const RuntimeMethod*))Enumerator_MoveNext_m4030713973_gshared)(__this, method)
 // System.Void System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioSpatializerExtensionDefinition>::Dispose()
-#define Enumerator_Dispose_m1789222286(__this, method) ((  void (*) (Enumerator_t3859083538 *, const RuntimeMethod*))Enumerator_Dispose_m3363154650_gshared)(__this, method)
+#define Enumerator_Dispose_m1433320748(__this, method) ((  void (*) (Enumerator_t2070325589 *, const RuntimeMethod*))Enumerator_Dispose_m2226697843_gshared)(__this, method)
 // System.Collections.Generic.List`1/Enumerator<!0> System.Collections.Generic.List`1<UnityEngine.AudioAmbisonicExtensionDefinition>::GetEnumerator()
-#define List_1_GetEnumerator_m96184421(__this, method) ((  Enumerator_t1594794384  (*) (List_1_t3223321231 *, const RuntimeMethod*))List_1_GetEnumerator_m1724581387_gshared)(__this, method)
+#define List_1_GetEnumerator_m3560737948(__this, method) ((  Enumerator_t3715239076  (*) (List_1_t1950557518 *, const RuntimeMethod*))List_1_GetEnumerator_m607337012_gshared)(__this, method)
 // !0 System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioAmbisonicExtensionDefinition>::get_Current()
-#define Enumerator_get_Current_m2922529038(__this, method) ((  AudioAmbisonicExtensionDefinition_t4052755805 * (*) (Enumerator_t1594794384 *, const RuntimeMethod*))Enumerator_get_Current_m3951853319_gshared)(__this, method)
+#define Enumerator_get_Current_m3709297553(__this, method) ((  AudioAmbisonicExtensionDefinition_t1265576708 * (*) (Enumerator_t3715239076 *, const RuntimeMethod*))Enumerator_get_Current_m61678448_gshared)(__this, method)
 // System.String UnityEngine.AudioSettings::GetAmbisonicDecoderPluginName()
-extern "C"  String_t* AudioSettings_GetAmbisonicDecoderPluginName_m2502477914 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  String_t* AudioSettings_GetAmbisonicDecoderPluginName_m3517816291 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioSourceExtension UnityEngine.AudioSource::AddAmbisonicExtension(System.Type)
-extern "C"  AudioSourceExtension_t1539232135 * AudioSource_AddAmbisonicExtension_m1544932888 (AudioSource_t2681891155 * __this, Type_t * ___extensionType0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioSourceExtension_t2842685391 * AudioSource_AddAmbisonicExtension_m2087215766 (AudioSource_t109427735 * __this, Type_t * ___extensionType0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioAmbisonicExtensionDefinition>::MoveNext()
-#define Enumerator_MoveNext_m575420844(__this, method) ((  bool (*) (Enumerator_t1594794384 *, const RuntimeMethod*))Enumerator_MoveNext_m3970346361_gshared)(__this, method)
+#define Enumerator_MoveNext_m88114248(__this, method) ((  bool (*) (Enumerator_t3715239076 *, const RuntimeMethod*))Enumerator_MoveNext_m4030713973_gshared)(__this, method)
 // System.Void System.Collections.Generic.List`1/Enumerator<UnityEngine.AudioAmbisonicExtensionDefinition>::Dispose()
-#define Enumerator_Dispose_m3136653832(__this, method) ((  void (*) (Enumerator_t1594794384 *, const RuntimeMethod*))Enumerator_Dispose_m3363154650_gshared)(__this, method)
+#define Enumerator_Dispose_m487311834(__this, method) ((  void (*) (Enumerator_t3715239076 *, const RuntimeMethod*))Enumerator_Dispose_m2226697843_gshared)(__this, method)
 // UnityEngine.PropertyName UnityEngine.PropertyName::op_Implicit(System.Int32)
-extern "C"  PropertyName_t957933759  PropertyName_op_Implicit_m3078975577 (RuntimeObject * __this /* static, unused */, int32_t p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PropertyName_t629672075  PropertyName_op_Implicit_m2368130854 (RuntimeObject * __this /* static, unused */, int32_t p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioSource UnityEngine.AudioSourceExtension::get_audioSource()
-extern "C"  AudioSource_t2681891155 * AudioSourceExtension_get_audioSource_m703059362 (AudioSourceExtension_t1539232135 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioSource_t109427735 * AudioSourceExtension_get_audioSource_m4281024043 (AudioSourceExtension_t2842685391 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.PropertyName UnityEngine.AudioSource::ReadExtensionName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioSource_ReadExtensionName_m3466424757 (AudioSource_t2681891155 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PropertyName_t629672075  AudioSource_ReadExtensionName_m995622072 (AudioSource_t109427735 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.PropertyName UnityEngine.AudioSource::ReadExtensionPropertyName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioSource_ReadExtensionPropertyName_m3420825702 (AudioSource_t2681891155 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PropertyName_t629672075  AudioSource_ReadExtensionPropertyName_m2205040185 (AudioSource_t109427735 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Single UnityEngine.AudioSource::ReadExtensionPropertyValue(System.Int32)
-extern "C"  float AudioSource_ReadExtensionPropertyValue_m964212812 (AudioSource_t2681891155 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  float AudioSource_ReadExtensionPropertyValue_m401465956 (AudioSource_t109427735 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.AudioSource::GetNumExtensionProperties()
-extern "C"  int32_t AudioSource_GetNumExtensionProperties_m2648564577 (AudioSource_t2681891155 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t AudioSource_GetNumExtensionProperties_m1431706114 (AudioSource_t109427735 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::ClearExtensionProperties(UnityEngine.PropertyName)
-extern "C"  void AudioSource_ClearExtensionProperties_m1925475405 (AudioSource_t2681891155 * __this, PropertyName_t957933759  ___extensionName0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_ClearExtensionProperties_m2007406658 (AudioSource_t109427735 * __this, PropertyName_t629672075  ___extensionName0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioListenerExtension UnityEngine.AudioListener::AddExtension(System.Type)
-extern "C"  AudioListenerExtension_t901597245 * AudioListener_AddExtension_m2570928421 (AudioListener_t2335968177 * __this, Type_t * ___extensionType0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioListenerExtension_t4241147580 * AudioListener_AddExtension_m398067144 (AudioListener_t2036345966 * __this, Type_t * ___extensionType0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioListenerExtension::set_audioListener(UnityEngine.AudioListener)
-extern "C"  void AudioListenerExtension_set_audioListener_m2612136475 (AudioListenerExtension_t901597245 * __this, AudioListener_t2335968177 * ___value0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioListenerExtension_set_audioListener_m61241941 (AudioListenerExtension_t4241147580 * __this, AudioListener_t2036345966 * ___value0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::WriteExtensionProperties(UnityEngine.AudioListenerExtension,System.String)
-extern "C"  void AudioExtensionManager_WriteExtensionProperties_m96107381 (RuntimeObject * __this /* static, unused */, AudioListenerExtension_t901597245 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_WriteExtensionProperties_m1226602203 (RuntimeObject * __this /* static, unused */, AudioListenerExtension_t4241147580 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioListener UnityEngine.AudioListenerExtension::get_audioListener()
-extern "C"  AudioListener_t2335968177 * AudioListenerExtension_get_audioListener_m4258963971 (AudioListenerExtension_t901597245 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioListener_t2036345966 * AudioListenerExtension_get_audioListener_m3701525754 (AudioListenerExtension_t4241147580 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.PropertyName UnityEngine.AudioListener::ReadExtensionName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioListener_ReadExtensionName_m2770437200 (AudioListener_t2335968177 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PropertyName_t629672075  AudioListener_ReadExtensionName_m1158292097 (AudioListener_t2036345966 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.PropertyName UnityEngine.AudioListener::ReadExtensionPropertyName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioListener_ReadExtensionPropertyName_m2413043922 (AudioListener_t2335968177 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  PropertyName_t629672075  AudioListener_ReadExtensionPropertyName_m1095590581 (AudioListener_t2036345966 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Single UnityEngine.AudioListener::ReadExtensionPropertyValue(System.Int32)
-extern "C"  float AudioListener_ReadExtensionPropertyValue_m435521561 (AudioListener_t2335968177 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  float AudioListener_ReadExtensionPropertyValue_m4041173881 (AudioListener_t2036345966 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.AudioListener::GetNumExtensionProperties()
-extern "C"  int32_t AudioListener_GetNumExtensionProperties_m2630730876 (AudioListener_t2335968177 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  int32_t AudioListener_GetNumExtensionProperties_m615317993 (AudioListener_t2036345966 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioListener::ClearExtensionProperties(UnityEngine.PropertyName)
-extern "C"  void AudioListener_ClearExtensionProperties_m2595679779 (AudioListener_t2335968177 * __this, PropertyName_t957933759  ___extensionName0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioListener_ClearExtensionProperties_m256849493 (AudioListener_t2036345966 * __this, PropertyName_t629672075  ___extensionName0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>::Add(!0)
-#define List_1_Add_m1053829(__this, p0, method) ((  void (*) (List_1_t709797561 *, AudioSourceExtension_t1539232135 *, const RuntimeMethod*))List_1_Add_m2908768650_gshared)(__this, p0, method)
+#define List_1_Add_m1345455169(__this, p0, method) ((  void (*) (List_1_t3527666201 *, AudioSourceExtension_t2842685391 *, const RuntimeMethod*))List_1_Add_m1806559288_gshared)(__this, p0, method)
 // System.Int32 System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>::get_Count()
-#define List_1_get_Count_m1402367815(__this, method) ((  int32_t (*) (List_1_t709797561 *, const RuntimeMethod*))List_1_get_Count_m382556366_gshared)(__this, method)
+#define List_1_get_Count_m205895629(__this, method) ((  int32_t (*) (List_1_t3527666201 *, const RuntimeMethod*))List_1_get_Count_m1242946114_gshared)(__this, method)
 // !0 System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>::get_Item(System.Int32)
-#define List_1_get_Item_m2534902725(__this, p0, method) ((  AudioSourceExtension_t1539232135 * (*) (List_1_t709797561 *, int32_t, const RuntimeMethod*))List_1_get_Item_m162276220_gshared)(__this, p0, method)
+#define List_1_get_Item_m381162371(__this, p0, method) ((  AudioSourceExtension_t2842685391 * (*) (List_1_t3527666201 *, int32_t, const RuntimeMethod*))List_1_get_Item_m310607634_gshared)(__this, p0, method)
 // System.Void System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>::set_Item(System.Int32,!0)
-#define List_1_set_Item_m2480814918(__this, p0, p1, method) ((  void (*) (List_1_t709797561 *, int32_t, AudioSourceExtension_t1539232135 *, const RuntimeMethod*))List_1_set_Item_m1561865892_gshared)(__this, p0, p1, method)
+#define List_1_set_Item_m2799211326(__this, p0, p1, method) ((  void (*) (List_1_t3527666201 *, int32_t, AudioSourceExtension_t2842685391 *, const RuntimeMethod*))List_1_set_Item_m1533433062_gshared)(__this, p0, p1, method)
 // System.Void System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>::RemoveAt(System.Int32)
-#define List_1_RemoveAt_m271836106(__this, p0, method) ((  void (*) (List_1_t709797561 *, int32_t, const RuntimeMethod*))List_1_RemoveAt_m728317966_gshared)(__this, p0, method)
+#define List_1_RemoveAt_m933238453(__this, p0, method) ((  void (*) (List_1_t3527666201 *, int32_t, const RuntimeMethod*))List_1_RemoveAt_m4017766297_gshared)(__this, p0, method)
 // System.Boolean UnityEngine.PropertyName::op_Inequality(UnityEngine.PropertyName,UnityEngine.PropertyName)
-extern "C"  bool PropertyName_op_Inequality_m2375796959 (RuntimeObject * __this /* static, unused */, PropertyName_t957933759  p0, PropertyName_t957933759  p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool PropertyName_op_Inequality_m2619522434 (RuntimeObject * __this /* static, unused */, PropertyName_t629672075  p0, PropertyName_t629672075  p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Type UnityEngine.AudioExtensionManager::GetSourceSpatializerExtensionType()
-extern "C"  Type_t * AudioExtensionManager_GetSourceSpatializerExtensionType_m771901715 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  Type_t * AudioExtensionManager_GetSourceSpatializerExtensionType_m214240226 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Type UnityEngine.AudioExtensionManager::GetListenerSpatializerExtensionEditorType()
-extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4157760074 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4004119794 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Type UnityEngine.AudioExtensionManager::GetListenerSpatializerExtensionType()
-extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionType_m731357134 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionType_m4255011715 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Object UnityEngine.AudioExtensionManager::GetAudioListener()
-extern "C"  Object_t224960187 * AudioExtensionManager_GetAudioListener_m2139076385 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  Object_t2092332117 * AudioExtensionManager_GetAudioListener_m2699920346 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioListenerExtension UnityEngine.AudioExtensionManager::AddSpatializerExtension(UnityEngine.AudioListener)
-extern "C"  AudioListenerExtension_t901597245 * AudioExtensionManager_AddSpatializerExtension_m1812492843 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___listener0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioListenerExtension_t4241147580 * AudioExtensionManager_AddSpatializerExtension_m398767448 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___listener0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
-extern "C"  bool Object_op_Equality_m699610968 (RuntimeObject * __this /* static, unused */, Object_t224960187 * p0, Object_t224960187 * p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool Object_op_Equality_m406301361 (RuntimeObject * __this /* static, unused */, Object_t2092332117 * p0, Object_t2092332117 * p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Behaviour::get_enabled()
-extern "C"  bool Behaviour_get_enabled_m3481921114 (Behaviour_t142731593 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool Behaviour_get_enabled_m3314038405 (Behaviour_t1994696285 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.AudioSource::get_isPlaying()
-extern "C"  bool AudioSource_get_isPlaying_m2112409085 (AudioSource_t2681891155 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool AudioSource_get_isPlaying_m2203777841 (AudioSource_t109427735 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::RemoveExtensionFromManager(UnityEngine.AudioSourceExtension)
-extern "C"  void AudioExtensionManager_RemoveExtensionFromManager_m1906670292 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_RemoveExtensionFromManager_m66721685 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::AddExtensionToManager(UnityEngine.AudioSourceExtension)
-extern "C"  void AudioExtensionManager_AddExtensionToManager_m863188417 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_AddExtensionToManager_m4109618171 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.String::op_Equality(System.String,System.String)
-extern "C"  bool String_op_Equality_m1877655767 (RuntimeObject * __this /* static, unused */, String_t* p0, String_t* p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool String_op_Equality_m3037841571 (RuntimeObject * __this /* static, unused */, String_t* p0, String_t* p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Collections.Generic.List`1<UnityEngine.AudioSpatializerExtensionDefinition>::.ctor()
-#define List_1__ctor_m2664792360(__this, method) ((  void (*) (List_1_t1192643089 *, const RuntimeMethod*))List_1__ctor_m3310486016_gshared)(__this, method)
+#define List_1__ctor_m4278654810(__this, method) ((  void (*) (List_1_t305644031 *, const RuntimeMethod*))List_1__ctor_m3127259965_gshared)(__this, method)
 // System.Void System.Collections.Generic.List`1<UnityEngine.AudioAmbisonicExtensionDefinition>::.ctor()
-#define List_1__ctor_m2191815930(__this, method) ((  void (*) (List_1_t3223321231 *, const RuntimeMethod*))List_1__ctor_m3310486016_gshared)(__this, method)
+#define List_1__ctor_m3799196528(__this, method) ((  void (*) (List_1_t1950557518 *, const RuntimeMethod*))List_1__ctor_m3127259965_gshared)(__this, method)
 // System.Void System.Collections.Generic.List`1<UnityEngine.AudioSourceExtension>::.ctor()
-#define List_1__ctor_m2478877522(__this, method) ((  void (*) (List_1_t709797561 *, const RuntimeMethod*))List_1__ctor_m3310486016_gshared)(__this, method)
+#define List_1__ctor_m1723826519(__this, method) ((  void (*) (List_1_t3527666201 *, const RuntimeMethod*))List_1__ctor_m3127259965_gshared)(__this, method)
 // System.Void UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionName_m825529672 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___self0, int32_t ___listenerIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionName_m3340519910 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___self0, int32_t ___listenerIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m3262097184 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___self0, int32_t ___listenerIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m655927206 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___self0, int32_t ___listenerIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioListener::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioListener,UnityEngine.PropertyName&)
-extern "C"  void AudioListener_INTERNAL_CALL_ClearExtensionProperties_m806282601 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___self0, PropertyName_t957933759 * ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioListener_INTERNAL_CALL_ClearExtensionProperties_m2089931764 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___self0, PropertyName_t629672075 * ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.ScriptableObject UnityEngine.ScriptableObject::CreateInstance(System.Type)
-extern "C"  ScriptableObject_t1637412538 * ScriptableObject_CreateInstance_m2777620213 (RuntimeObject * __this /* static, unused */, Type_t * p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  ScriptableObject_t184210050 * ScriptableObject_CreateInstance_m1931114408 (RuntimeObject * __this /* static, unused */, Type_t * p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSettings/AudioConfigurationChangeHandler::Invoke(System.Boolean)
-extern "C"  void AudioConfigurationChangeHandler_Invoke_m3848833283 (AudioConfigurationChangeHandler_t932913356 * __this, bool ___deviceWasChanged0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioConfigurationChangeHandler_Invoke_m3622358656 (AudioConfigurationChangeHandler_t2726240268 * __this, bool ___deviceWasChanged0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::Update()
-extern "C"  void AudioExtensionManager_Update_m73762593 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_Update_m1805526171 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioSourceExtension UnityEngine.AudioExtensionManager::AddSpatializerExtension(UnityEngine.AudioSource)
-extern "C"  AudioSourceExtension_t1539232135 * AudioExtensionManager_AddSpatializerExtension_m91879993 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___source0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioSourceExtension_t2842685391 * AudioExtensionManager_AddSpatializerExtension_m3116584675 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___source0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioExtensionManager::GetReadyToPlay(UnityEngine.AudioSourceExtension)
-extern "C"  void AudioExtensionManager_GetReadyToPlay_m254406875 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioExtensionManager_GetReadyToPlay_m1586308525 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioClip UnityEngine.AudioSource::get_clip()
-extern "C"  AudioClip_t152874045 * AudioSource_get_clip_m702259786 (AudioSource_t2681891155 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioClip_t303190502 * AudioSource_get_clip_m272993444 (AudioSource_t109427735 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.AudioClip::get_ambisonic()
-extern "C"  bool AudioClip_get_ambisonic_m3547836459 (AudioClip_t152874045 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool AudioClip_get_ambisonic_m1575967398 (AudioClip_t303190502 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AudioSourceExtension UnityEngine.AudioExtensionManager::AddAmbisonicDecoderExtension(UnityEngine.AudioSource)
-extern "C"  AudioSourceExtension_t1539232135 * AudioExtensionManager_AddAmbisonicDecoderExtension_m342453594 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___source0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  AudioSourceExtension_t2842685391 * AudioExtensionManager_AddAmbisonicDecoderExtension_m9332641 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___source0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::Play(System.UInt64)
-extern "C"  void AudioSource_Play_m1610476298 (AudioSource_t2681891155 * __this, uint64_t ___delay0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_Play_m1861803887 (AudioSource_t109427735 * __this, uint64_t ___delay0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::PlayOneShot(UnityEngine.AudioClip,System.Single)
-extern "C"  void AudioSource_PlayOneShot_m2254371663 (AudioSource_t2681891155 * __this, AudioClip_t152874045 * ___clip0, float ___volumeScale1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_PlayOneShot_m2326217846 (AudioSource_t109427735 * __this, AudioClip_t303190502 * ___clip0, float ___volumeScale1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::PlayOneShotHelper(UnityEngine.AudioClip,System.Single)
-extern "C"  void AudioSource_PlayOneShotHelper_m3998380383 (AudioSource_t2681891155 * __this, AudioClip_t152874045 * ___clip0, float ___volumeScale1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_PlayOneShotHelper_m1588849864 (AudioSource_t109427735 * __this, AudioClip_t303190502 * ___clip0, float ___volumeScale1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.AudioSource::get_spatializeInternal()
-extern "C"  bool AudioSource_get_spatializeInternal_m2120732809 (AudioSource_t2681891155 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  bool AudioSource_get_spatializeInternal_m3729747600 (AudioSource_t109427735 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionName_m2267956477 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___self0, int32_t ___sourceIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionName_m3287533836 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___self0, int32_t ___sourceIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m3114311239 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___self0, int32_t ___sourceIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m2006380507 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___self0, int32_t ___sourceIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioSource,UnityEngine.PropertyName&)
-extern "C"  void AudioSource_INTERNAL_CALL_ClearExtensionProperties_m3753371759 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___self0, PropertyName_t957933759 * ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+extern "C"  void AudioSource_INTERNAL_CALL_ClearExtensionProperties_m1884091979 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___self0, PropertyName_t629672075 * ___extensionName1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioClipPlayable::GetHandle()
-extern "C"  PlayableHandle_t1621880712  AudioClipPlayable_GetHandle_m3791365795 (AudioClipPlayable_t2927877131 * __this, const RuntimeMethod* method)
+extern "C"  PlayableHandle_t1460998747  AudioClipPlayable_GetHandle_m3150472794 (AudioClipPlayable_t2533001844 * __this, const RuntimeMethod* method)
 {
-	PlayableHandle_t1621880712  V_0;
+	PlayableHandle_t1460998747  V_0;
 	memset(&V_0, 0, sizeof(V_0));
 	{
-		PlayableHandle_t1621880712  L_0 = __this->get_m_Handle_0();
+		PlayableHandle_t1460998747  L_0 = __this->get_m_Handle_0();
 		V_0 = L_0;
 		goto IL_000d;
 	}
 
 IL_000d:
 	{
-		PlayableHandle_t1621880712  L_1 = V_0;
+		PlayableHandle_t1460998747  L_1 = V_0;
 		return L_1;
 	}
 }
-extern "C"  PlayableHandle_t1621880712  AudioClipPlayable_GetHandle_m3791365795_AdjustorThunk (RuntimeObject * __this, const RuntimeMethod* method)
+extern "C"  PlayableHandle_t1460998747  AudioClipPlayable_GetHandle_m3150472794_AdjustorThunk (RuntimeObject * __this, const RuntimeMethod* method)
 {
-	AudioClipPlayable_t2927877131 * _thisAdjusted = reinterpret_cast<AudioClipPlayable_t2927877131 *>(__this + 1);
-	return AudioClipPlayable_GetHandle_m3791365795(_thisAdjusted, method);
+	AudioClipPlayable_t2533001844 * _thisAdjusted = reinterpret_cast<AudioClipPlayable_t2533001844 *>(__this + 1);
+	return AudioClipPlayable_GetHandle_m3150472794(_thisAdjusted, method);
 }
 // System.Boolean UnityEngine.Audio.AudioClipPlayable::Equals(UnityEngine.Audio.AudioClipPlayable)
-extern "C"  bool AudioClipPlayable_Equals_m324878111 (AudioClipPlayable_t2927877131 * __this, AudioClipPlayable_t2927877131  ___other0, const RuntimeMethod* method)
+extern "C"  bool AudioClipPlayable_Equals_m3554617027 (AudioClipPlayable_t2533001844 * __this, AudioClipPlayable_t2533001844  ___other0, const RuntimeMethod* method)
 {
 	bool V_0 = false;
 	{
-		PlayableHandle_t1621880712  L_0 = AudioClipPlayable_GetHandle_m3791365795(__this, /*hidden argument*/NULL);
-		PlayableHandle_t1621880712  L_1 = AudioClipPlayable_GetHandle_m3791365795((&___other0), /*hidden argument*/NULL);
-		bool L_2 = PlayableHandle_op_Equality_m822441101(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		PlayableHandle_t1460998747  L_0 = AudioClipPlayable_GetHandle_m3150472794(__this, /*hidden argument*/NULL);
+		PlayableHandle_t1460998747  L_1 = AudioClipPlayable_GetHandle_m3150472794((&___other0), /*hidden argument*/NULL);
+		bool L_2 = PlayableHandle_op_Equality_m1169258468(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		V_0 = L_2;
 		goto IL_0019;
 	}
@@ -2460,41 +2460,41 @@ IL_0019:
 		return L_3;
 	}
 }
-extern "C"  bool AudioClipPlayable_Equals_m324878111_AdjustorThunk (RuntimeObject * __this, AudioClipPlayable_t2927877131  ___other0, const RuntimeMethod* method)
+extern "C"  bool AudioClipPlayable_Equals_m3554617027_AdjustorThunk (RuntimeObject * __this, AudioClipPlayable_t2533001844  ___other0, const RuntimeMethod* method)
 {
-	AudioClipPlayable_t2927877131 * _thisAdjusted = reinterpret_cast<AudioClipPlayable_t2927877131 *>(__this + 1);
-	return AudioClipPlayable_Equals_m324878111(_thisAdjusted, ___other0, method);
+	AudioClipPlayable_t2533001844 * _thisAdjusted = reinterpret_cast<AudioClipPlayable_t2533001844 *>(__this + 1);
+	return AudioClipPlayable_Equals_m3554617027(_thisAdjusted, ___other0, method);
 }
 // UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioMixerPlayable::GetHandle()
-extern "C"  PlayableHandle_t1621880712  AudioMixerPlayable_GetHandle_m2481276365 (AudioMixerPlayable_t289834976 * __this, const RuntimeMethod* method)
+extern "C"  PlayableHandle_t1460998747  AudioMixerPlayable_GetHandle_m3164253409 (AudioMixerPlayable_t1475614579 * __this, const RuntimeMethod* method)
 {
-	PlayableHandle_t1621880712  V_0;
+	PlayableHandle_t1460998747  V_0;
 	memset(&V_0, 0, sizeof(V_0));
 	{
-		PlayableHandle_t1621880712  L_0 = __this->get_m_Handle_0();
+		PlayableHandle_t1460998747  L_0 = __this->get_m_Handle_0();
 		V_0 = L_0;
 		goto IL_000d;
 	}
 
 IL_000d:
 	{
-		PlayableHandle_t1621880712  L_1 = V_0;
+		PlayableHandle_t1460998747  L_1 = V_0;
 		return L_1;
 	}
 }
-extern "C"  PlayableHandle_t1621880712  AudioMixerPlayable_GetHandle_m2481276365_AdjustorThunk (RuntimeObject * __this, const RuntimeMethod* method)
+extern "C"  PlayableHandle_t1460998747  AudioMixerPlayable_GetHandle_m3164253409_AdjustorThunk (RuntimeObject * __this, const RuntimeMethod* method)
 {
-	AudioMixerPlayable_t289834976 * _thisAdjusted = reinterpret_cast<AudioMixerPlayable_t289834976 *>(__this + 1);
-	return AudioMixerPlayable_GetHandle_m2481276365(_thisAdjusted, method);
+	AudioMixerPlayable_t1475614579 * _thisAdjusted = reinterpret_cast<AudioMixerPlayable_t1475614579 *>(__this + 1);
+	return AudioMixerPlayable_GetHandle_m3164253409(_thisAdjusted, method);
 }
 // System.Boolean UnityEngine.Audio.AudioMixerPlayable::Equals(UnityEngine.Audio.AudioMixerPlayable)
-extern "C"  bool AudioMixerPlayable_Equals_m2886122406 (AudioMixerPlayable_t289834976 * __this, AudioMixerPlayable_t289834976  ___other0, const RuntimeMethod* method)
+extern "C"  bool AudioMixerPlayable_Equals_m3962385126 (AudioMixerPlayable_t1475614579 * __this, AudioMixerPlayable_t1475614579  ___other0, const RuntimeMethod* method)
 {
 	bool V_0 = false;
 	{
-		PlayableHandle_t1621880712  L_0 = AudioMixerPlayable_GetHandle_m2481276365(__this, /*hidden argument*/NULL);
-		PlayableHandle_t1621880712  L_1 = AudioMixerPlayable_GetHandle_m2481276365((&___other0), /*hidden argument*/NULL);
-		bool L_2 = PlayableHandle_op_Equality_m822441101(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		PlayableHandle_t1460998747  L_0 = AudioMixerPlayable_GetHandle_m3164253409(__this, /*hidden argument*/NULL);
+		PlayableHandle_t1460998747  L_1 = AudioMixerPlayable_GetHandle_m3164253409((&___other0), /*hidden argument*/NULL);
+		bool L_2 = PlayableHandle_op_Equality_m1169258468(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		V_0 = L_2;
 		goto IL_0019;
 	}
@@ -2505,53 +2505,53 @@ IL_0019:
 		return L_3;
 	}
 }
-extern "C"  bool AudioMixerPlayable_Equals_m2886122406_AdjustorThunk (RuntimeObject * __this, AudioMixerPlayable_t289834976  ___other0, const RuntimeMethod* method)
+extern "C"  bool AudioMixerPlayable_Equals_m3962385126_AdjustorThunk (RuntimeObject * __this, AudioMixerPlayable_t1475614579  ___other0, const RuntimeMethod* method)
 {
-	AudioMixerPlayable_t289834976 * _thisAdjusted = reinterpret_cast<AudioMixerPlayable_t289834976 *>(__this + 1);
-	return AudioMixerPlayable_Equals_m2886122406(_thisAdjusted, ___other0, method);
+	AudioMixerPlayable_t1475614579 * _thisAdjusted = reinterpret_cast<AudioMixerPlayable_t1475614579 *>(__this + 1);
+	return AudioMixerPlayable_Equals_m3962385126(_thisAdjusted, ___other0, method);
 }
 // System.Void UnityEngine.AudioClip::.ctor()
-extern "C"  void AudioClip__ctor_m19692579 (AudioClip_t152874045 * __this, const RuntimeMethod* method)
+extern "C"  void AudioClip__ctor_m3347687127 (AudioClip_t303190502 * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioClip__ctor_m19692579_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioClip__ctor_m3347687127_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		__this->set_m_PCMReaderCallback_2((PCMReaderCallback_t3351312833 *)NULL);
-		__this->set_m_PCMSetPositionCallback_3((PCMSetPositionCallback_t1935024535 *)NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		Object__ctor_m1844125832(__this, /*hidden argument*/NULL);
+		__this->set_m_PCMReaderCallback_2((PCMReaderCallback_t4099579993 *)NULL);
+		__this->set_m_PCMSetPositionCallback_3((PCMSetPositionCallback_t2517488568 *)NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		Object__ctor_m874025821(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Boolean UnityEngine.AudioClip::get_ambisonic()
-extern "C"  bool AudioClip_get_ambisonic_m3547836459 (AudioClip_t152874045 * __this, const RuntimeMethod* method)
+extern "C"  bool AudioClip_get_ambisonic_m1575967398 (AudioClip_t303190502 * __this, const RuntimeMethod* method)
 {
-	typedef bool (*AudioClip_get_ambisonic_m3547836459_ftn) (AudioClip_t152874045 *);
-	static AudioClip_get_ambisonic_m3547836459_ftn _il2cpp_icall_func;
+	typedef bool (*AudioClip_get_ambisonic_m1575967398_ftn) (AudioClip_t303190502 *);
+	static AudioClip_get_ambisonic_m1575967398_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioClip_get_ambisonic_m3547836459_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioClip::get_ambisonic()");
+	_il2cpp_icall_func = (AudioClip_get_ambisonic_m1575967398_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioClip::get_ambisonic()");
 	bool retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
 // System.Void UnityEngine.AudioClip::InvokePCMReaderCallback_Internal(System.Single[])
-extern "C"  void AudioClip_InvokePCMReaderCallback_Internal_m4260276801 (AudioClip_t152874045 * __this, SingleU5BU5D_t2389899948* ___data0, const RuntimeMethod* method)
+extern "C"  void AudioClip_InvokePCMReaderCallback_Internal_m277949973 (AudioClip_t303190502 * __this, SingleU5BU5D_t1702561364* ___data0, const RuntimeMethod* method)
 {
 	{
-		PCMReaderCallback_t3351312833 * L_0 = __this->get_m_PCMReaderCallback_2();
+		PCMReaderCallback_t4099579993 * L_0 = __this->get_m_PCMReaderCallback_2();
 		if (!L_0)
 		{
 			goto IL_0018;
 		}
 	}
 	{
-		PCMReaderCallback_t3351312833 * L_1 = __this->get_m_PCMReaderCallback_2();
-		SingleU5BU5D_t2389899948* L_2 = ___data0;
+		PCMReaderCallback_t4099579993 * L_1 = __this->get_m_PCMReaderCallback_2();
+		SingleU5BU5D_t1702561364* L_2 = ___data0;
 		NullCheck(L_1);
-		PCMReaderCallback_Invoke_m4105174541(L_1, L_2, /*hidden argument*/NULL);
+		PCMReaderCallback_Invoke_m2254127396(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0018:
@@ -2560,20 +2560,20 @@ IL_0018:
 	}
 }
 // System.Void UnityEngine.AudioClip::InvokePCMSetPositionCallback_Internal(System.Int32)
-extern "C"  void AudioClip_InvokePCMSetPositionCallback_Internal_m4034324132 (AudioClip_t152874045 * __this, int32_t ___position0, const RuntimeMethod* method)
+extern "C"  void AudioClip_InvokePCMSetPositionCallback_Internal_m2472141368 (AudioClip_t303190502 * __this, int32_t ___position0, const RuntimeMethod* method)
 {
 	{
-		PCMSetPositionCallback_t1935024535 * L_0 = __this->get_m_PCMSetPositionCallback_3();
+		PCMSetPositionCallback_t2517488568 * L_0 = __this->get_m_PCMSetPositionCallback_3();
 		if (!L_0)
 		{
 			goto IL_0018;
 		}
 	}
 	{
-		PCMSetPositionCallback_t1935024535 * L_1 = __this->get_m_PCMSetPositionCallback_3();
+		PCMSetPositionCallback_t2517488568 * L_1 = __this->get_m_PCMSetPositionCallback_3();
 		int32_t L_2 = ___position0;
 		NullCheck(L_1);
-		PCMSetPositionCallback_Invoke_m1491323353(L_1, L_2, /*hidden argument*/NULL);
+		PCMSetPositionCallback_Invoke_m3909294245(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0018:
@@ -2581,7 +2581,7 @@ IL_0018:
 		return;
 	}
 }
-extern "C"  void DelegatePInvokeWrapper_PCMReaderCallback_t3351312833 (PCMReaderCallback_t3351312833 * __this, SingleU5BU5D_t2389899948* ___data0, const RuntimeMethod* method)
+extern "C"  void DelegatePInvokeWrapper_PCMReaderCallback_t4099579993 (PCMReaderCallback_t4099579993 * __this, SingleU5BU5D_t1702561364* ___data0, const RuntimeMethod* method)
 {
 	typedef void (STDCALL *PInvokeFunc)(float*);
 	PInvokeFunc il2cppPInvokeFunc = reinterpret_cast<PInvokeFunc>(il2cpp_codegen_get_method_pointer(((RuntimeDelegate*)__this)->method));
@@ -2598,29 +2598,29 @@ extern "C"  void DelegatePInvokeWrapper_PCMReaderCallback_t3351312833 (PCMReader
 
 }
 // System.Void UnityEngine.AudioClip/PCMReaderCallback::.ctor(System.Object,System.IntPtr)
-extern "C"  void PCMReaderCallback__ctor_m3654466897 (PCMReaderCallback_t3351312833 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
+extern "C"  void PCMReaderCallback__ctor_m2768371972 (PCMReaderCallback_t4099579993 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
 	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
 	__this->set_method_3(___method1);
 	__this->set_m_target_2(___object0);
 }
 // System.Void UnityEngine.AudioClip/PCMReaderCallback::Invoke(System.Single[])
-extern "C"  void PCMReaderCallback_Invoke_m4105174541 (PCMReaderCallback_t3351312833 * __this, SingleU5BU5D_t2389899948* ___data0, const RuntimeMethod* method)
+extern "C"  void PCMReaderCallback_Invoke_m2254127396 (PCMReaderCallback_t4099579993 * __this, SingleU5BU5D_t1702561364* ___data0, const RuntimeMethod* method)
 {
 	if(__this->get_prev_9() != NULL)
 	{
-		PCMReaderCallback_Invoke_m4105174541((PCMReaderCallback_t3351312833 *)__this->get_prev_9(),___data0, method);
+		PCMReaderCallback_Invoke_m2254127396((PCMReaderCallback_t4099579993 *)__this->get_prev_9(),___data0, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((RuntimeMethod*)(__this->get_method_3()));
 	bool ___methodIsStatic = MethodIsStatic((RuntimeMethod*)(__this->get_method_3()));
 	if (__this->get_m_target_2() != NULL && ___methodIsStatic)
 	{
-		typedef void (*FunctionPointerType) (RuntimeObject *, void* __this, SingleU5BU5D_t2389899948* ___data0, const RuntimeMethod* method);
+		typedef void (*FunctionPointerType) (RuntimeObject *, void* __this, SingleU5BU5D_t1702561364* ___data0, const RuntimeMethod* method);
 		((FunctionPointerType)__this->get_method_ptr_0())(NULL,__this->get_m_target_2(),___data0,(RuntimeMethod*)(__this->get_method_3()));
 	}
 	else if (__this->get_m_target_2() != NULL || ___methodIsStatic)
 	{
-		typedef void (*FunctionPointerType) (void* __this, SingleU5BU5D_t2389899948* ___data0, const RuntimeMethod* method);
+		typedef void (*FunctionPointerType) (void* __this, SingleU5BU5D_t1702561364* ___data0, const RuntimeMethod* method);
 		((FunctionPointerType)__this->get_method_ptr_0())(__this->get_m_target_2(),___data0,(RuntimeMethod*)(__this->get_method_3()));
 	}
 	else
@@ -2630,18 +2630,18 @@ extern "C"  void PCMReaderCallback_Invoke_m4105174541 (PCMReaderCallback_t335131
 	}
 }
 // System.IAsyncResult UnityEngine.AudioClip/PCMReaderCallback::BeginInvoke(System.Single[],System.AsyncCallback,System.Object)
-extern "C"  RuntimeObject* PCMReaderCallback_BeginInvoke_m59355305 (PCMReaderCallback_t3351312833 * __this, SingleU5BU5D_t2389899948* ___data0, AsyncCallback_t1505771400 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
+extern "C"  RuntimeObject* PCMReaderCallback_BeginInvoke_m276403363 (PCMReaderCallback_t4099579993 * __this, SingleU5BU5D_t1702561364* ___data0, AsyncCallback_t1433732315 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
 {
 	void *__d_args[2] = {0};
 	__d_args[0] = ___data0;
 	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
 }
 // System.Void UnityEngine.AudioClip/PCMReaderCallback::EndInvoke(System.IAsyncResult)
-extern "C"  void PCMReaderCallback_EndInvoke_m2836357783 (PCMReaderCallback_t3351312833 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
+extern "C"  void PCMReaderCallback_EndInvoke_m2301585443 (PCMReaderCallback_t4099579993 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
 {
 	il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
 }
-extern "C"  void DelegatePInvokeWrapper_PCMSetPositionCallback_t1935024535 (PCMSetPositionCallback_t1935024535 * __this, int32_t ___position0, const RuntimeMethod* method)
+extern "C"  void DelegatePInvokeWrapper_PCMSetPositionCallback_t2517488568 (PCMSetPositionCallback_t2517488568 * __this, int32_t ___position0, const RuntimeMethod* method)
 {
 	typedef void (STDCALL *PInvokeFunc)(int32_t);
 	PInvokeFunc il2cppPInvokeFunc = reinterpret_cast<PInvokeFunc>(il2cpp_codegen_get_method_pointer(((RuntimeDelegate*)__this)->method));
@@ -2651,18 +2651,18 @@ extern "C"  void DelegatePInvokeWrapper_PCMSetPositionCallback_t1935024535 (PCMS
 
 }
 // System.Void UnityEngine.AudioClip/PCMSetPositionCallback::.ctor(System.Object,System.IntPtr)
-extern "C"  void PCMSetPositionCallback__ctor_m2305726436 (PCMSetPositionCallback_t1935024535 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
+extern "C"  void PCMSetPositionCallback__ctor_m3957546732 (PCMSetPositionCallback_t2517488568 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
 	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
 	__this->set_method_3(___method1);
 	__this->set_m_target_2(___object0);
 }
 // System.Void UnityEngine.AudioClip/PCMSetPositionCallback::Invoke(System.Int32)
-extern "C"  void PCMSetPositionCallback_Invoke_m1491323353 (PCMSetPositionCallback_t1935024535 * __this, int32_t ___position0, const RuntimeMethod* method)
+extern "C"  void PCMSetPositionCallback_Invoke_m3909294245 (PCMSetPositionCallback_t2517488568 * __this, int32_t ___position0, const RuntimeMethod* method)
 {
 	if(__this->get_prev_9() != NULL)
 	{
-		PCMSetPositionCallback_Invoke_m1491323353((PCMSetPositionCallback_t1935024535 *)__this->get_prev_9(),___position0, method);
+		PCMSetPositionCallback_Invoke_m3909294245((PCMSetPositionCallback_t2517488568 *)__this->get_prev_9(),___position0, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((RuntimeMethod*)(__this->get_method_3()));
 	bool ___methodIsStatic = MethodIsStatic((RuntimeMethod*)(__this->get_method_3()));
@@ -2678,30 +2678,30 @@ extern "C"  void PCMSetPositionCallback_Invoke_m1491323353 (PCMSetPositionCallba
 	}
 }
 // System.IAsyncResult UnityEngine.AudioClip/PCMSetPositionCallback::BeginInvoke(System.Int32,System.AsyncCallback,System.Object)
-extern "C"  RuntimeObject* PCMSetPositionCallback_BeginInvoke_m2861733800 (PCMSetPositionCallback_t1935024535 * __this, int32_t ___position0, AsyncCallback_t1505771400 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
+extern "C"  RuntimeObject* PCMSetPositionCallback_BeginInvoke_m1370046046 (PCMSetPositionCallback_t2517488568 * __this, int32_t ___position0, AsyncCallback_t1433732315 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (PCMSetPositionCallback_BeginInvoke_m2861733800_MetadataUsageId);
+		il2cpp_codegen_initialize_method (PCMSetPositionCallback_BeginInvoke_m1370046046_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int32_t2532088842_il2cpp_TypeInfo_var, &___position0);
+	__d_args[0] = Box(Int32_t1542953417_il2cpp_TypeInfo_var, &___position0);
 	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
 }
 // System.Void UnityEngine.AudioClip/PCMSetPositionCallback::EndInvoke(System.IAsyncResult)
-extern "C"  void PCMSetPositionCallback_EndInvoke_m1289827043 (PCMSetPositionCallback_t1935024535 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
+extern "C"  void PCMSetPositionCallback_EndInvoke_m2238261109 (PCMSetPositionCallback_t2517488568 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
 {
 	il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
 }
 // System.Type UnityEngine.AudioExtensionDefinition::GetExtensionType()
-extern "C"  Type_t * AudioExtensionDefinition_GetExtensionType_m2702929274 (AudioExtensionDefinition_t3397395452 * __this, const RuntimeMethod* method)
+extern "C"  Type_t * AudioExtensionDefinition_GetExtensionType_m692425019 (AudioExtensionDefinition_t192562823 * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionDefinition_GetExtensionType_m2702929274_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionDefinition_GetExtensionType_m692425019_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	Type_t * V_0 = NULL;
@@ -2713,33 +2713,33 @@ extern "C"  Type_t * AudioExtensionDefinition_GetExtensionType_m2702929274 (Audi
 		}
 	}
 	{
-		StringU5BU5D_t2095834596* L_1 = ((StringU5BU5D_t2095834596*)SZArrayNew(StringU5BU5D_t2095834596_il2cpp_TypeInfo_var, (uint32_t)5));
+		StringU5BU5D_t1799834177* L_1 = ((StringU5BU5D_t1799834177*)SZArrayNew(StringU5BU5D_t1799834177_il2cpp_TypeInfo_var, (uint32_t)5));
 		String_t* L_2 = __this->get_extensionNamespace_1();
 		NullCheck(L_1);
 		ArrayElementTypeCheck (L_1, L_2);
 		(L_1)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)L_2);
-		StringU5BU5D_t2095834596* L_3 = L_1;
+		StringU5BU5D_t1799834177* L_3 = L_1;
 		NullCheck(L_3);
-		ArrayElementTypeCheck (L_3, _stringLiteral301637209);
-		(L_3)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)_stringLiteral301637209);
-		StringU5BU5D_t2095834596* L_4 = L_3;
+		ArrayElementTypeCheck (L_3, _stringLiteral3951408296);
+		(L_3)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)_stringLiteral3951408296);
+		StringU5BU5D_t1799834177* L_4 = L_3;
 		String_t* L_5 = __this->get_extensionTypeName_2();
 		NullCheck(L_4);
 		ArrayElementTypeCheck (L_4, L_5);
 		(L_4)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)L_5);
-		StringU5BU5D_t2095834596* L_6 = L_4;
+		StringU5BU5D_t1799834177* L_6 = L_4;
 		NullCheck(L_6);
-		ArrayElementTypeCheck (L_6, _stringLiteral2008683680);
-		(L_6)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)_stringLiteral2008683680);
-		StringU5BU5D_t2095834596* L_7 = L_6;
+		ArrayElementTypeCheck (L_6, _stringLiteral880287380);
+		(L_6)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)_stringLiteral880287380);
+		StringU5BU5D_t1799834177* L_7 = L_6;
 		String_t* L_8 = __this->get_assemblyName_0();
 		NullCheck(L_7);
 		ArrayElementTypeCheck (L_7, L_8);
 		(L_7)->SetAt(static_cast<il2cpp_array_size_t>(4), (String_t*)L_8);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_9 = String_Concat_m170331751(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		String_t* L_9 = String_Concat_m884688771(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
-		Type_t * L_10 = il2cpp_codegen_get_type((Il2CppMethodPointer)&Type_GetType_m1617686351, L_9, "UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null");
+		Type_t * L_10 = il2cpp_codegen_get_type((Il2CppMethodPointer)&Type_GetType_m3626062204, L_9, "UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null");
 		__this->set_extensionType_3(L_10);
 	}
 
@@ -2757,76 +2757,76 @@ IL_0059:
 	}
 }
 // UnityEngine.Object UnityEngine.AudioExtensionManager::GetAudioListener()
-extern "C"  Object_t224960187 * AudioExtensionManager_GetAudioListener_m2139076385 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  Object_t2092332117 * AudioExtensionManager_GetAudioListener_m2699920346 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
-	typedef Object_t224960187 * (*AudioExtensionManager_GetAudioListener_m2139076385_ftn) ();
-	static AudioExtensionManager_GetAudioListener_m2139076385_ftn _il2cpp_icall_func;
+	typedef Object_t2092332117 * (*AudioExtensionManager_GetAudioListener_m2699920346_ftn) ();
+	static AudioExtensionManager_GetAudioListener_m2699920346_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioExtensionManager_GetAudioListener_m2139076385_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioExtensionManager::GetAudioListener()");
-	Object_t224960187 * retVal = _il2cpp_icall_func();
+	_il2cpp_icall_func = (AudioExtensionManager_GetAudioListener_m2699920346_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioExtensionManager::GetAudioListener()");
+	Object_t2092332117 * retVal = _il2cpp_icall_func();
 	return retVal;
 }
 // UnityEngine.AudioSourceExtension UnityEngine.AudioExtensionManager::AddSpatializerExtension(UnityEngine.AudioSource)
-extern "C"  AudioSourceExtension_t1539232135 * AudioExtensionManager_AddSpatializerExtension_m91879993 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___source0, const RuntimeMethod* method)
+extern "C"  AudioSourceExtension_t2842685391 * AudioExtensionManager_AddSpatializerExtension_m3116584675 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___source0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_AddSpatializerExtension_m91879993_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_AddSpatializerExtension_m3116584675_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSourceExtension_t1539232135 * V_0 = NULL;
-	AudioSpatializerExtensionDefinition_t2022077663 * V_1 = NULL;
-	Enumerator_t3859083538  V_2;
+	AudioSourceExtension_t2842685391 * V_0 = NULL;
+	AudioSpatializerExtensionDefinition_t3915630517 * V_1 = NULL;
+	Enumerator_t2070325589  V_2;
 	memset(&V_2, 0, sizeof(V_2));
-	AudioSourceExtension_t1539232135 * V_3 = NULL;
-	Exception_t1179092599 * __last_unhandled_exception = 0;
+	AudioSourceExtension_t2842685391 * V_3 = NULL;
+	Exception_t2788055133 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
-	Exception_t1179092599 * __exception_local = 0;
+	Exception_t2788055133 * __exception_local = 0;
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	{
-		AudioSource_t2681891155 * L_0 = ___source0;
+		AudioSource_t109427735 * L_0 = ___source0;
 		NullCheck(L_0);
-		bool L_1 = AudioSource_get_spatialize_m2662754792(L_0, /*hidden argument*/NULL);
+		bool L_1 = AudioSource_get_spatialize_m1146628736(L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0013;
 		}
 	}
 	{
-		V_0 = (AudioSourceExtension_t1539232135 *)NULL;
+		V_0 = (AudioSourceExtension_t2842685391 *)NULL;
 		goto IL_00dc;
 	}
 
 IL_0013:
 	{
-		AudioSource_t2681891155 * L_2 = ___source0;
+		AudioSource_t109427735 * L_2 = ___source0;
 		NullCheck(L_2);
-		AudioSourceExtension_t1539232135 * L_3 = L_2->get_spatializerExtension_2();
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_4 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_3, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_3 = L_2->get_spatializerExtension_2();
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_4 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_3, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0030;
 		}
 	}
 	{
-		AudioSource_t2681891155 * L_5 = ___source0;
+		AudioSource_t109427735 * L_5 = ___source0;
 		NullCheck(L_5);
-		AudioSourceExtension_t1539232135 * L_6 = L_5->get_spatializerExtension_2();
+		AudioSourceExtension_t2842685391 * L_6 = L_5->get_spatializerExtension_2();
 		V_0 = L_6;
 		goto IL_00dc;
 	}
 
 IL_0030:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242(NULL /*static, unused*/, /*hidden argument*/NULL);
-		List_1_t1192643089 * L_7 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceSpatializerExtensionDefinitions_1();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727(NULL /*static, unused*/, /*hidden argument*/NULL);
+		List_1_t305644031 * L_7 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceSpatializerExtensionDefinitions_1();
 		NullCheck(L_7);
-		Enumerator_t3859083538  L_8 = List_1_GetEnumerator_m3756085531(L_7, /*hidden argument*/List_1_GetEnumerator_m3756085531_RuntimeMethod_var);
+		Enumerator_t2070325589  L_8 = List_1_GetEnumerator_m3629966127(L_7, /*hidden argument*/List_1_GetEnumerator_m3629966127_RuntimeMethod_var);
 		V_2 = L_8;
 	}
 
@@ -2839,14 +2839,14 @@ IL_0041:
 
 IL_0046:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_9 = Enumerator_get_Current_m216234719((&V_2), /*hidden argument*/Enumerator_get_Current_m216234719_RuntimeMethod_var);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_9 = Enumerator_get_Current_m3739187253((&V_2), /*hidden argument*/Enumerator_get_Current_m3739187253_RuntimeMethod_var);
 			V_1 = L_9;
-			String_t* L_10 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_11 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
-			AudioSpatializerExtensionDefinition_t2022077663 * L_12 = V_1;
+			String_t* L_10 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_11 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_12 = V_1;
 			NullCheck(L_12);
-			PropertyName_t957933759  L_13 = L_12->get_spatializerName_0();
-			bool L_14 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_11, L_13, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_13 = L_12->get_spatializerName_0();
+			bool L_14 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_11, L_13, /*hidden argument*/NULL);
 			if (!L_14)
 			{
 				goto IL_00b5;
@@ -2855,18 +2855,18 @@ IL_0046:
 
 IL_0069:
 		{
-			AudioSource_t2681891155 * L_15 = ___source0;
-			AudioSpatializerExtensionDefinition_t2022077663 * L_16 = V_1;
+			AudioSource_t109427735 * L_15 = ___source0;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_16 = V_1;
 			NullCheck(L_16);
-			AudioExtensionDefinition_t3397395452 * L_17 = L_16->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_17 = L_16->get_definition_1();
 			NullCheck(L_17);
-			Type_t * L_18 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_17, /*hidden argument*/NULL);
+			Type_t * L_18 = AudioExtensionDefinition_GetExtensionType_m692425019(L_17, /*hidden argument*/NULL);
 			NullCheck(L_15);
-			AudioSourceExtension_t1539232135 * L_19 = AudioSource_AddSpatializerExtension_m694521801(L_15, L_18, /*hidden argument*/NULL);
+			AudioSourceExtension_t2842685391 * L_19 = AudioSource_AddSpatializerExtension_m1274846644(L_15, L_18, /*hidden argument*/NULL);
 			V_3 = L_19;
-			AudioSourceExtension_t1539232135 * L_20 = V_3;
-			IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-			bool L_21 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_20, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+			AudioSourceExtension_t2842685391 * L_20 = V_3;
+			IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+			bool L_21 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_20, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 			if (!L_21)
 			{
 				goto IL_00b4;
@@ -2875,25 +2875,25 @@ IL_0069:
 
 IL_0088:
 		{
-			AudioSourceExtension_t1539232135 * L_22 = V_3;
-			AudioSource_t2681891155 * L_23 = ___source0;
+			AudioSourceExtension_t2842685391 * L_22 = V_3;
+			AudioSource_t109427735 * L_23 = ___source0;
 			NullCheck(L_22);
-			AudioSourceExtension_set_audioSource_m518350548(L_22, L_23, /*hidden argument*/NULL);
-			AudioSource_t2681891155 * L_24 = ___source0;
-			AudioSourceExtension_t1539232135 * L_25 = V_3;
+			AudioSourceExtension_set_audioSource_m281014207(L_22, L_23, /*hidden argument*/NULL);
+			AudioSource_t109427735 * L_24 = ___source0;
+			AudioSourceExtension_t2842685391 * L_25 = V_3;
 			NullCheck(L_24);
 			L_24->set_spatializerExtension_2(L_25);
-			AudioSourceExtension_t1539232135 * L_26 = V_3;
-			AudioSpatializerExtensionDefinition_t2022077663 * L_27 = V_1;
+			AudioSourceExtension_t2842685391 * L_26 = V_3;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_27 = V_1;
 			NullCheck(L_27);
-			AudioExtensionDefinition_t3397395452 * L_28 = L_27->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_28 = L_27->get_definition_1();
 			NullCheck(L_28);
-			Type_t * L_29 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_28, /*hidden argument*/NULL);
+			Type_t * L_29 = AudioExtensionDefinition_GetExtensionType_m692425019(L_28, /*hidden argument*/NULL);
 			NullCheck(L_29);
 			String_t* L_30 = VirtFuncInvoker0< String_t* >::Invoke(9 /* System.String System.Reflection.MemberInfo::get_Name() */, L_29);
-			IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-			AudioExtensionManager_WriteExtensionProperties_m3800946984(NULL /*static, unused*/, L_26, L_30, /*hidden argument*/NULL);
-			AudioSourceExtension_t1539232135 * L_31 = V_3;
+			IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+			AudioExtensionManager_WriteExtensionProperties_m3218885782(NULL /*static, unused*/, L_26, L_30, /*hidden argument*/NULL);
+			AudioSourceExtension_t2842685391 * L_31 = V_3;
 			V_0 = L_31;
 			IL2CPP_LEAVE(0xDC, FINALLY_00c7);
 		}
@@ -2908,7 +2908,7 @@ IL_00b5:
 
 IL_00b6:
 		{
-			bool L_32 = Enumerator_MoveNext_m1770433219((&V_2), /*hidden argument*/Enumerator_MoveNext_m1770433219_RuntimeMethod_var);
+			bool L_32 = Enumerator_MoveNext_m342936855((&V_2), /*hidden argument*/Enumerator_MoveNext_m342936855_RuntimeMethod_var);
 			if (L_32)
 			{
 				goto IL_0046;
@@ -2922,80 +2922,80 @@ IL_00c2:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
-		__last_unhandled_exception = (Exception_t1179092599 *)e.ex;
+		__last_unhandled_exception = (Exception_t2788055133 *)e.ex;
 		goto FINALLY_00c7;
 	}
 
 FINALLY_00c7:
 	{ // begin finally (depth: 1)
-		Enumerator_Dispose_m1789222286((&V_2), /*hidden argument*/Enumerator_Dispose_m1789222286_RuntimeMethod_var);
+		Enumerator_Dispose_m1433320748((&V_2), /*hidden argument*/Enumerator_Dispose_m1433320748_RuntimeMethod_var);
 		IL2CPP_END_FINALLY(199)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(199)
 	{
 		IL2CPP_JUMP_TBL(0xDC, IL_00dc)
 		IL2CPP_JUMP_TBL(0xD5, IL_00d5)
-		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1179092599 *)
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t2788055133 *)
 	}
 
 IL_00d5:
 	{
-		V_0 = (AudioSourceExtension_t1539232135 *)NULL;
+		V_0 = (AudioSourceExtension_t2842685391 *)NULL;
 		goto IL_00dc;
 	}
 
 IL_00dc:
 	{
-		AudioSourceExtension_t1539232135 * L_33 = V_0;
+		AudioSourceExtension_t2842685391 * L_33 = V_0;
 		return L_33;
 	}
 }
 // UnityEngine.AudioSourceExtension UnityEngine.AudioExtensionManager::AddAmbisonicDecoderExtension(UnityEngine.AudioSource)
-extern "C"  AudioSourceExtension_t1539232135 * AudioExtensionManager_AddAmbisonicDecoderExtension_m342453594 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___source0, const RuntimeMethod* method)
+extern "C"  AudioSourceExtension_t2842685391 * AudioExtensionManager_AddAmbisonicDecoderExtension_m9332641 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___source0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_AddAmbisonicDecoderExtension_m342453594_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_AddAmbisonicDecoderExtension_m9332641_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSourceExtension_t1539232135 * V_0 = NULL;
-	AudioAmbisonicExtensionDefinition_t4052755805 * V_1 = NULL;
-	Enumerator_t1594794384  V_2;
+	AudioSourceExtension_t2842685391 * V_0 = NULL;
+	AudioAmbisonicExtensionDefinition_t1265576708 * V_1 = NULL;
+	Enumerator_t3715239076  V_2;
 	memset(&V_2, 0, sizeof(V_2));
-	AudioSourceExtension_t1539232135 * V_3 = NULL;
-	Exception_t1179092599 * __last_unhandled_exception = 0;
+	AudioSourceExtension_t2842685391 * V_3 = NULL;
+	Exception_t2788055133 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
-	Exception_t1179092599 * __exception_local = 0;
+	Exception_t2788055133 * __exception_local = 0;
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	{
-		AudioSource_t2681891155 * L_0 = ___source0;
+		AudioSource_t109427735 * L_0 = ___source0;
 		NullCheck(L_0);
-		AudioSourceExtension_t1539232135 * L_1 = L_0->get_ambisonicExtension_3();
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_2 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_1, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_1 = L_0->get_ambisonicExtension_3();
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_2 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_1, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_001e;
 		}
 	}
 	{
-		AudioSource_t2681891155 * L_3 = ___source0;
+		AudioSource_t109427735 * L_3 = ___source0;
 		NullCheck(L_3);
-		AudioSourceExtension_t1539232135 * L_4 = L_3->get_ambisonicExtension_3();
+		AudioSourceExtension_t2842685391 * L_4 = L_3->get_ambisonicExtension_3();
 		V_0 = L_4;
 		goto IL_00b4;
 	}
 
 IL_001e:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242(NULL /*static, unused*/, /*hidden argument*/NULL);
-		List_1_t3223321231 * L_5 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceAmbisonicDecoderExtensionDefinitions_2();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727(NULL /*static, unused*/, /*hidden argument*/NULL);
+		List_1_t1950557518 * L_5 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceAmbisonicDecoderExtensionDefinitions_2();
 		NullCheck(L_5);
-		Enumerator_t1594794384  L_6 = List_1_GetEnumerator_m96184421(L_5, /*hidden argument*/List_1_GetEnumerator_m96184421_RuntimeMethod_var);
+		Enumerator_t3715239076  L_6 = List_1_GetEnumerator_m3560737948(L_5, /*hidden argument*/List_1_GetEnumerator_m3560737948_RuntimeMethod_var);
 		V_2 = L_6;
 	}
 
@@ -3008,14 +3008,14 @@ IL_002f:
 
 IL_0034:
 		{
-			AudioAmbisonicExtensionDefinition_t4052755805 * L_7 = Enumerator_get_Current_m2922529038((&V_2), /*hidden argument*/Enumerator_get_Current_m2922529038_RuntimeMethod_var);
+			AudioAmbisonicExtensionDefinition_t1265576708 * L_7 = Enumerator_get_Current_m3709297553((&V_2), /*hidden argument*/Enumerator_get_Current_m3709297553_RuntimeMethod_var);
 			V_1 = L_7;
-			String_t* L_8 = AudioSettings_GetAmbisonicDecoderPluginName_m2502477914(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_9 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
-			AudioAmbisonicExtensionDefinition_t4052755805 * L_10 = V_1;
+			String_t* L_8 = AudioSettings_GetAmbisonicDecoderPluginName_m3517816291(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_9 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+			AudioAmbisonicExtensionDefinition_t1265576708 * L_10 = V_1;
 			NullCheck(L_10);
-			PropertyName_t957933759  L_11 = L_10->get_ambisonicPluginName_0();
-			bool L_12 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_9, L_11, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_11 = L_10->get_ambisonicPluginName_0();
+			bool L_12 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_9, L_11, /*hidden argument*/NULL);
 			if (!L_12)
 			{
 				goto IL_008d;
@@ -3024,18 +3024,18 @@ IL_0034:
 
 IL_0057:
 		{
-			AudioSource_t2681891155 * L_13 = ___source0;
-			AudioAmbisonicExtensionDefinition_t4052755805 * L_14 = V_1;
+			AudioSource_t109427735 * L_13 = ___source0;
+			AudioAmbisonicExtensionDefinition_t1265576708 * L_14 = V_1;
 			NullCheck(L_14);
-			AudioExtensionDefinition_t3397395452 * L_15 = L_14->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_15 = L_14->get_definition_1();
 			NullCheck(L_15);
-			Type_t * L_16 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_15, /*hidden argument*/NULL);
+			Type_t * L_16 = AudioExtensionDefinition_GetExtensionType_m692425019(L_15, /*hidden argument*/NULL);
 			NullCheck(L_13);
-			AudioSourceExtension_t1539232135 * L_17 = AudioSource_AddAmbisonicExtension_m1544932888(L_13, L_16, /*hidden argument*/NULL);
+			AudioSourceExtension_t2842685391 * L_17 = AudioSource_AddAmbisonicExtension_m2087215766(L_13, L_16, /*hidden argument*/NULL);
 			V_3 = L_17;
-			AudioSourceExtension_t1539232135 * L_18 = V_3;
-			IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-			bool L_19 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_18, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+			AudioSourceExtension_t2842685391 * L_18 = V_3;
+			IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+			bool L_19 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_18, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 			if (!L_19)
 			{
 				goto IL_008c;
@@ -3044,15 +3044,15 @@ IL_0057:
 
 IL_0076:
 		{
-			AudioSourceExtension_t1539232135 * L_20 = V_3;
-			AudioSource_t2681891155 * L_21 = ___source0;
+			AudioSourceExtension_t2842685391 * L_20 = V_3;
+			AudioSource_t109427735 * L_21 = ___source0;
 			NullCheck(L_20);
-			AudioSourceExtension_set_audioSource_m518350548(L_20, L_21, /*hidden argument*/NULL);
-			AudioSource_t2681891155 * L_22 = ___source0;
-			AudioSourceExtension_t1539232135 * L_23 = V_3;
+			AudioSourceExtension_set_audioSource_m281014207(L_20, L_21, /*hidden argument*/NULL);
+			AudioSource_t109427735 * L_22 = ___source0;
+			AudioSourceExtension_t2842685391 * L_23 = V_3;
 			NullCheck(L_22);
 			L_22->set_ambisonicExtension_3(L_23);
-			AudioSourceExtension_t1539232135 * L_24 = V_3;
+			AudioSourceExtension_t2842685391 * L_24 = V_3;
 			V_0 = L_24;
 			IL2CPP_LEAVE(0xB4, FINALLY_009f);
 		}
@@ -3067,7 +3067,7 @@ IL_008d:
 
 IL_008e:
 		{
-			bool L_25 = Enumerator_MoveNext_m575420844((&V_2), /*hidden argument*/Enumerator_MoveNext_m575420844_RuntimeMethod_var);
+			bool L_25 = Enumerator_MoveNext_m88114248((&V_2), /*hidden argument*/Enumerator_MoveNext_m88114248_RuntimeMethod_var);
 			if (L_25)
 			{
 				goto IL_0034;
@@ -3081,52 +3081,52 @@ IL_009a:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
-		__last_unhandled_exception = (Exception_t1179092599 *)e.ex;
+		__last_unhandled_exception = (Exception_t2788055133 *)e.ex;
 		goto FINALLY_009f;
 	}
 
 FINALLY_009f:
 	{ // begin finally (depth: 1)
-		Enumerator_Dispose_m3136653832((&V_2), /*hidden argument*/Enumerator_Dispose_m3136653832_RuntimeMethod_var);
+		Enumerator_Dispose_m487311834((&V_2), /*hidden argument*/Enumerator_Dispose_m487311834_RuntimeMethod_var);
 		IL2CPP_END_FINALLY(159)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(159)
 	{
 		IL2CPP_JUMP_TBL(0xB4, IL_00b4)
 		IL2CPP_JUMP_TBL(0xAD, IL_00ad)
-		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1179092599 *)
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t2788055133 *)
 	}
 
 IL_00ad:
 	{
-		V_0 = (AudioSourceExtension_t1539232135 *)NULL;
+		V_0 = (AudioSourceExtension_t2842685391 *)NULL;
 		goto IL_00b4;
 	}
 
 IL_00b4:
 	{
-		AudioSourceExtension_t1539232135 * L_26 = V_0;
+		AudioSourceExtension_t2842685391 * L_26 = V_0;
 		return L_26;
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::WriteExtensionProperties(UnityEngine.AudioSourceExtension,System.String)
-extern "C"  void AudioExtensionManager_WriteExtensionProperties_m3800946984 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_WriteExtensionProperties_m3218885782 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_WriteExtensionProperties_m3800946984_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_WriteExtensionProperties_m3218885782_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	int32_t V_0 = 0;
-	PropertyName_t957933759  V_1;
+	PropertyName_t629672075  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	float V_2 = 0.0f;
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		PropertyName_t957933759  L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SpatializerExtensionName_7();
-		PropertyName_t957933759  L_1 = PropertyName_op_Implicit_m3078975577(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
-		bool L_2 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		PropertyName_t629672075  L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SpatializerExtensionName_7();
+		PropertyName_t629672075  L_1 = PropertyName_op_Implicit_m2368130854(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		bool L_2 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0021;
@@ -3134,9 +3134,9 @@ extern "C"  void AudioExtensionManager_WriteExtensionProperties_m3800946984 (Run
 	}
 	{
 		String_t* L_3 = ___extensionName1;
-		PropertyName_t957933759  L_4 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SpatializerExtensionName_7(L_4);
+		PropertyName_t629672075  L_4 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SpatializerExtensionName_7(L_4);
 	}
 
 IL_0021:
@@ -3147,40 +3147,40 @@ IL_0021:
 
 IL_0028:
 	{
-		AudioSourceExtension_t1539232135 * L_5 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_5 = ___extension0;
 		NullCheck(L_5);
-		AudioSource_t2681891155 * L_6 = AudioSourceExtension_get_audioSource_m703059362(L_5, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_6 = AudioSourceExtension_get_audioSource_m4281024043(L_5, /*hidden argument*/NULL);
 		int32_t L_7 = V_0;
 		NullCheck(L_6);
-		PropertyName_t957933759  L_8 = AudioSource_ReadExtensionName_m3466424757(L_6, L_7, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		PropertyName_t957933759  L_9 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SpatializerExtensionName_7();
-		bool L_10 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_8 = AudioSource_ReadExtensionName_m995622072(L_6, L_7, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		PropertyName_t629672075  L_9 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SpatializerExtensionName_7();
+		bool L_10 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0068;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_11 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_11 = ___extension0;
 		NullCheck(L_11);
-		AudioSource_t2681891155 * L_12 = AudioSourceExtension_get_audioSource_m703059362(L_11, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_12 = AudioSourceExtension_get_audioSource_m4281024043(L_11, /*hidden argument*/NULL);
 		int32_t L_13 = V_0;
 		NullCheck(L_12);
-		PropertyName_t957933759  L_14 = AudioSource_ReadExtensionPropertyName_m3420825702(L_12, L_13, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_14 = AudioSource_ReadExtensionPropertyName_m2205040185(L_12, L_13, /*hidden argument*/NULL);
 		V_1 = L_14;
-		AudioSourceExtension_t1539232135 * L_15 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_15 = ___extension0;
 		NullCheck(L_15);
-		AudioSource_t2681891155 * L_16 = AudioSourceExtension_get_audioSource_m703059362(L_15, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_16 = AudioSourceExtension_get_audioSource_m4281024043(L_15, /*hidden argument*/NULL);
 		int32_t L_17 = V_0;
 		NullCheck(L_16);
-		float L_18 = AudioSource_ReadExtensionPropertyValue_m964212812(L_16, L_17, /*hidden argument*/NULL);
+		float L_18 = AudioSource_ReadExtensionPropertyValue_m401465956(L_16, L_17, /*hidden argument*/NULL);
 		V_2 = L_18;
-		AudioSourceExtension_t1539232135 * L_19 = ___extension0;
-		PropertyName_t957933759  L_20 = V_1;
+		AudioSourceExtension_t2842685391 * L_19 = ___extension0;
+		PropertyName_t629672075  L_20 = V_1;
 		float L_21 = V_2;
 		NullCheck(L_19);
-		VirtActionInvoker2< PropertyName_t957933759 , float >::Invoke(4 /* System.Void UnityEngine.AudioSourceExtension::WriteExtensionProperty(UnityEngine.PropertyName,System.Single) */, L_19, L_20, L_21);
+		VirtActionInvoker2< PropertyName_t629672075 , float >::Invoke(4 /* System.Void UnityEngine.AudioSourceExtension::WriteExtensionProperty(UnityEngine.PropertyName,System.Single) */, L_19, L_20, L_21);
 	}
 
 IL_0068:
@@ -3192,73 +3192,73 @@ IL_0068:
 IL_006d:
 	{
 		int32_t L_23 = V_0;
-		AudioSourceExtension_t1539232135 * L_24 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_24 = ___extension0;
 		NullCheck(L_24);
-		AudioSource_t2681891155 * L_25 = AudioSourceExtension_get_audioSource_m703059362(L_24, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_25 = AudioSourceExtension_get_audioSource_m4281024043(L_24, /*hidden argument*/NULL);
 		NullCheck(L_25);
-		int32_t L_26 = AudioSource_GetNumExtensionProperties_m2648564577(L_25, /*hidden argument*/NULL);
+		int32_t L_26 = AudioSource_GetNumExtensionProperties_m1431706114(L_25, /*hidden argument*/NULL);
 		if ((((int32_t)L_23) < ((int32_t)L_26)))
 		{
 			goto IL_0028;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_27 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_27 = ___extension0;
 		NullCheck(L_27);
-		AudioSource_t2681891155 * L_28 = AudioSourceExtension_get_audioSource_m703059362(L_27, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		PropertyName_t957933759  L_29 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SpatializerExtensionName_7();
+		AudioSource_t109427735 * L_28 = AudioSourceExtension_get_audioSource_m4281024043(L_27, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		PropertyName_t629672075  L_29 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SpatializerExtensionName_7();
 		NullCheck(L_28);
-		AudioSource_ClearExtensionProperties_m1925475405(L_28, L_29, /*hidden argument*/NULL);
+		AudioSource_ClearExtensionProperties_m2007406658(L_28, L_29, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.AudioListenerExtension UnityEngine.AudioExtensionManager::AddSpatializerExtension(UnityEngine.AudioListener)
-extern "C"  AudioListenerExtension_t901597245 * AudioExtensionManager_AddSpatializerExtension_m1812492843 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___listener0, const RuntimeMethod* method)
+extern "C"  AudioListenerExtension_t4241147580 * AudioExtensionManager_AddSpatializerExtension_m398767448 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___listener0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_AddSpatializerExtension_m1812492843_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_AddSpatializerExtension_m398767448_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioListenerExtension_t901597245 * V_0 = NULL;
-	AudioSpatializerExtensionDefinition_t2022077663 * V_1 = NULL;
-	Enumerator_t3859083538  V_2;
+	AudioListenerExtension_t4241147580 * V_0 = NULL;
+	AudioSpatializerExtensionDefinition_t3915630517 * V_1 = NULL;
+	Enumerator_t2070325589  V_2;
 	memset(&V_2, 0, sizeof(V_2));
-	AudioListenerExtension_t901597245 * V_3 = NULL;
-	Exception_t1179092599 * __last_unhandled_exception = 0;
+	AudioListenerExtension_t4241147580 * V_3 = NULL;
+	Exception_t2788055133 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
-	Exception_t1179092599 * __exception_local = 0;
+	Exception_t2788055133 * __exception_local = 0;
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	{
-		AudioListener_t2335968177 * L_0 = ___listener0;
+		AudioListener_t2036345966 * L_0 = ___listener0;
 		NullCheck(L_0);
-		AudioListenerExtension_t901597245 * L_1 = L_0->get_spatializerExtension_2();
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_2 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_1, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioListenerExtension_t4241147580 * L_1 = L_0->get_spatializerExtension_2();
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_2 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_1, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_001e;
 		}
 	}
 	{
-		AudioListener_t2335968177 * L_3 = ___listener0;
+		AudioListener_t2036345966 * L_3 = ___listener0;
 		NullCheck(L_3);
-		AudioListenerExtension_t901597245 * L_4 = L_3->get_spatializerExtension_2();
+		AudioListenerExtension_t4241147580 * L_4 = L_3->get_spatializerExtension_2();
 		V_0 = L_4;
 		goto IL_00e4;
 	}
 
 IL_001e:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242(NULL /*static, unused*/, /*hidden argument*/NULL);
-		List_1_t1192643089 * L_5 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionDefinitions_0();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727(NULL /*static, unused*/, /*hidden argument*/NULL);
+		List_1_t305644031 * L_5 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionDefinitions_0();
 		NullCheck(L_5);
-		Enumerator_t3859083538  L_6 = List_1_GetEnumerator_m3756085531(L_5, /*hidden argument*/List_1_GetEnumerator_m3756085531_RuntimeMethod_var);
+		Enumerator_t2070325589  L_6 = List_1_GetEnumerator_m3629966127(L_5, /*hidden argument*/List_1_GetEnumerator_m3629966127_RuntimeMethod_var);
 		V_2 = L_6;
 	}
 
@@ -3271,14 +3271,14 @@ IL_002f:
 
 IL_0034:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_7 = Enumerator_get_Current_m216234719((&V_2), /*hidden argument*/Enumerator_get_Current_m216234719_RuntimeMethod_var);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_7 = Enumerator_get_Current_m3739187253((&V_2), /*hidden argument*/Enumerator_get_Current_m3739187253_RuntimeMethod_var);
 			V_1 = L_7;
-			String_t* L_8 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_9 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
-			AudioSpatializerExtensionDefinition_t2022077663 * L_10 = V_1;
+			String_t* L_8 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_9 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_10 = V_1;
 			NullCheck(L_10);
-			PropertyName_t957933759  L_11 = L_10->get_spatializerName_0();
-			bool L_12 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_9, L_11, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_11 = L_10->get_spatializerName_0();
+			bool L_12 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_9, L_11, /*hidden argument*/NULL);
 			if (L_12)
 			{
 				goto IL_0071;
@@ -3287,12 +3287,12 @@ IL_0034:
 
 IL_0057:
 		{
-			String_t* L_13 = AudioSettings_GetAmbisonicDecoderPluginName_m2502477914(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_14 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_13, /*hidden argument*/NULL);
-			AudioSpatializerExtensionDefinition_t2022077663 * L_15 = V_1;
+			String_t* L_13 = AudioSettings_GetAmbisonicDecoderPluginName_m3517816291(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_14 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_13, /*hidden argument*/NULL);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_15 = V_1;
 			NullCheck(L_15);
-			PropertyName_t957933759  L_16 = L_15->get_spatializerName_0();
-			bool L_17 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_14, L_16, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_16 = L_15->get_spatializerName_0();
+			bool L_17 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_14, L_16, /*hidden argument*/NULL);
 			if (!L_17)
 			{
 				goto IL_00bd;
@@ -3301,18 +3301,18 @@ IL_0057:
 
 IL_0071:
 		{
-			AudioListener_t2335968177 * L_18 = ___listener0;
-			AudioSpatializerExtensionDefinition_t2022077663 * L_19 = V_1;
+			AudioListener_t2036345966 * L_18 = ___listener0;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_19 = V_1;
 			NullCheck(L_19);
-			AudioExtensionDefinition_t3397395452 * L_20 = L_19->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_20 = L_19->get_definition_1();
 			NullCheck(L_20);
-			Type_t * L_21 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_20, /*hidden argument*/NULL);
+			Type_t * L_21 = AudioExtensionDefinition_GetExtensionType_m692425019(L_20, /*hidden argument*/NULL);
 			NullCheck(L_18);
-			AudioListenerExtension_t901597245 * L_22 = AudioListener_AddExtension_m2570928421(L_18, L_21, /*hidden argument*/NULL);
+			AudioListenerExtension_t4241147580 * L_22 = AudioListener_AddExtension_m398067144(L_18, L_21, /*hidden argument*/NULL);
 			V_3 = L_22;
-			AudioListenerExtension_t901597245 * L_23 = V_3;
-			IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-			bool L_24 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_23, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+			AudioListenerExtension_t4241147580 * L_23 = V_3;
+			IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+			bool L_24 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_23, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 			if (!L_24)
 			{
 				goto IL_00bc;
@@ -3321,25 +3321,25 @@ IL_0071:
 
 IL_0090:
 		{
-			AudioListenerExtension_t901597245 * L_25 = V_3;
-			AudioListener_t2335968177 * L_26 = ___listener0;
+			AudioListenerExtension_t4241147580 * L_25 = V_3;
+			AudioListener_t2036345966 * L_26 = ___listener0;
 			NullCheck(L_25);
-			AudioListenerExtension_set_audioListener_m2612136475(L_25, L_26, /*hidden argument*/NULL);
-			AudioListener_t2335968177 * L_27 = ___listener0;
-			AudioListenerExtension_t901597245 * L_28 = V_3;
+			AudioListenerExtension_set_audioListener_m61241941(L_25, L_26, /*hidden argument*/NULL);
+			AudioListener_t2036345966 * L_27 = ___listener0;
+			AudioListenerExtension_t4241147580 * L_28 = V_3;
 			NullCheck(L_27);
 			L_27->set_spatializerExtension_2(L_28);
-			AudioListenerExtension_t901597245 * L_29 = V_3;
-			AudioSpatializerExtensionDefinition_t2022077663 * L_30 = V_1;
+			AudioListenerExtension_t4241147580 * L_29 = V_3;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_30 = V_1;
 			NullCheck(L_30);
-			AudioExtensionDefinition_t3397395452 * L_31 = L_30->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_31 = L_30->get_definition_1();
 			NullCheck(L_31);
-			Type_t * L_32 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_31, /*hidden argument*/NULL);
+			Type_t * L_32 = AudioExtensionDefinition_GetExtensionType_m692425019(L_31, /*hidden argument*/NULL);
 			NullCheck(L_32);
 			String_t* L_33 = VirtFuncInvoker0< String_t* >::Invoke(9 /* System.String System.Reflection.MemberInfo::get_Name() */, L_32);
-			IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-			AudioExtensionManager_WriteExtensionProperties_m96107381(NULL /*static, unused*/, L_29, L_33, /*hidden argument*/NULL);
-			AudioListenerExtension_t901597245 * L_34 = V_3;
+			IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+			AudioExtensionManager_WriteExtensionProperties_m1226602203(NULL /*static, unused*/, L_29, L_33, /*hidden argument*/NULL);
+			AudioListenerExtension_t4241147580 * L_34 = V_3;
 			V_0 = L_34;
 			IL2CPP_LEAVE(0xE4, FINALLY_00cf);
 		}
@@ -3354,7 +3354,7 @@ IL_00bd:
 
 IL_00be:
 		{
-			bool L_35 = Enumerator_MoveNext_m1770433219((&V_2), /*hidden argument*/Enumerator_MoveNext_m1770433219_RuntimeMethod_var);
+			bool L_35 = Enumerator_MoveNext_m342936855((&V_2), /*hidden argument*/Enumerator_MoveNext_m342936855_RuntimeMethod_var);
 			if (L_35)
 			{
 				goto IL_0034;
@@ -3368,52 +3368,52 @@ IL_00ca:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
-		__last_unhandled_exception = (Exception_t1179092599 *)e.ex;
+		__last_unhandled_exception = (Exception_t2788055133 *)e.ex;
 		goto FINALLY_00cf;
 	}
 
 FINALLY_00cf:
 	{ // begin finally (depth: 1)
-		Enumerator_Dispose_m1789222286((&V_2), /*hidden argument*/Enumerator_Dispose_m1789222286_RuntimeMethod_var);
+		Enumerator_Dispose_m1433320748((&V_2), /*hidden argument*/Enumerator_Dispose_m1433320748_RuntimeMethod_var);
 		IL2CPP_END_FINALLY(207)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(207)
 	{
 		IL2CPP_JUMP_TBL(0xE4, IL_00e4)
 		IL2CPP_JUMP_TBL(0xDD, IL_00dd)
-		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1179092599 *)
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t2788055133 *)
 	}
 
 IL_00dd:
 	{
-		V_0 = (AudioListenerExtension_t901597245 *)NULL;
+		V_0 = (AudioListenerExtension_t4241147580 *)NULL;
 		goto IL_00e4;
 	}
 
 IL_00e4:
 	{
-		AudioListenerExtension_t901597245 * L_36 = V_0;
+		AudioListenerExtension_t4241147580 * L_36 = V_0;
 		return L_36;
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::WriteExtensionProperties(UnityEngine.AudioListenerExtension,System.String)
-extern "C"  void AudioExtensionManager_WriteExtensionProperties_m96107381 (RuntimeObject * __this /* static, unused */, AudioListenerExtension_t901597245 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_WriteExtensionProperties_m1226602203 (RuntimeObject * __this /* static, unused */, AudioListenerExtension_t4241147580 * ___extension0, String_t* ___extensionName1, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_WriteExtensionProperties_m96107381_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_WriteExtensionProperties_m1226602203_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	int32_t V_0 = 0;
-	PropertyName_t957933759  V_1;
+	PropertyName_t629672075  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	float V_2 = 0.0f;
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		PropertyName_t957933759  L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionName_8();
-		PropertyName_t957933759  L_1 = PropertyName_op_Implicit_m3078975577(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
-		bool L_2 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		PropertyName_t629672075  L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionName_8();
+		PropertyName_t629672075  L_1 = PropertyName_op_Implicit_m2368130854(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		bool L_2 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0021;
@@ -3421,9 +3421,9 @@ extern "C"  void AudioExtensionManager_WriteExtensionProperties_m96107381 (Runti
 	}
 	{
 		String_t* L_3 = ___extensionName1;
-		PropertyName_t957933759  L_4 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionName_8(L_4);
+		PropertyName_t629672075  L_4 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionName_8(L_4);
 	}
 
 IL_0021:
@@ -3434,40 +3434,40 @@ IL_0021:
 
 IL_0028:
 	{
-		AudioListenerExtension_t901597245 * L_5 = ___extension0;
+		AudioListenerExtension_t4241147580 * L_5 = ___extension0;
 		NullCheck(L_5);
-		AudioListener_t2335968177 * L_6 = AudioListenerExtension_get_audioListener_m4258963971(L_5, /*hidden argument*/NULL);
+		AudioListener_t2036345966 * L_6 = AudioListenerExtension_get_audioListener_m3701525754(L_5, /*hidden argument*/NULL);
 		int32_t L_7 = V_0;
 		NullCheck(L_6);
-		PropertyName_t957933759  L_8 = AudioListener_ReadExtensionName_m2770437200(L_6, L_7, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		PropertyName_t957933759  L_9 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionName_8();
-		bool L_10 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_8 = AudioListener_ReadExtensionName_m1158292097(L_6, L_7, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		PropertyName_t629672075  L_9 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionName_8();
+		bool L_10 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0068;
 		}
 	}
 	{
-		AudioListenerExtension_t901597245 * L_11 = ___extension0;
+		AudioListenerExtension_t4241147580 * L_11 = ___extension0;
 		NullCheck(L_11);
-		AudioListener_t2335968177 * L_12 = AudioListenerExtension_get_audioListener_m4258963971(L_11, /*hidden argument*/NULL);
+		AudioListener_t2036345966 * L_12 = AudioListenerExtension_get_audioListener_m3701525754(L_11, /*hidden argument*/NULL);
 		int32_t L_13 = V_0;
 		NullCheck(L_12);
-		PropertyName_t957933759  L_14 = AudioListener_ReadExtensionPropertyName_m2413043922(L_12, L_13, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_14 = AudioListener_ReadExtensionPropertyName_m1095590581(L_12, L_13, /*hidden argument*/NULL);
 		V_1 = L_14;
-		AudioListenerExtension_t901597245 * L_15 = ___extension0;
+		AudioListenerExtension_t4241147580 * L_15 = ___extension0;
 		NullCheck(L_15);
-		AudioListener_t2335968177 * L_16 = AudioListenerExtension_get_audioListener_m4258963971(L_15, /*hidden argument*/NULL);
+		AudioListener_t2036345966 * L_16 = AudioListenerExtension_get_audioListener_m3701525754(L_15, /*hidden argument*/NULL);
 		int32_t L_17 = V_0;
 		NullCheck(L_16);
-		float L_18 = AudioListener_ReadExtensionPropertyValue_m435521561(L_16, L_17, /*hidden argument*/NULL);
+		float L_18 = AudioListener_ReadExtensionPropertyValue_m4041173881(L_16, L_17, /*hidden argument*/NULL);
 		V_2 = L_18;
-		AudioListenerExtension_t901597245 * L_19 = ___extension0;
-		PropertyName_t957933759  L_20 = V_1;
+		AudioListenerExtension_t4241147580 * L_19 = ___extension0;
+		PropertyName_t629672075  L_20 = V_1;
 		float L_21 = V_2;
 		NullCheck(L_19);
-		VirtActionInvoker2< PropertyName_t957933759 , float >::Invoke(4 /* System.Void UnityEngine.AudioListenerExtension::WriteExtensionProperty(UnityEngine.PropertyName,System.Single) */, L_19, L_20, L_21);
+		VirtActionInvoker2< PropertyName_t629672075 , float >::Invoke(4 /* System.Void UnityEngine.AudioListenerExtension::WriteExtensionProperty(UnityEngine.PropertyName,System.Single) */, L_19, L_20, L_21);
 	}
 
 IL_0068:
@@ -3479,51 +3479,51 @@ IL_0068:
 IL_006d:
 	{
 		int32_t L_23 = V_0;
-		AudioListenerExtension_t901597245 * L_24 = ___extension0;
+		AudioListenerExtension_t4241147580 * L_24 = ___extension0;
 		NullCheck(L_24);
-		AudioListener_t2335968177 * L_25 = AudioListenerExtension_get_audioListener_m4258963971(L_24, /*hidden argument*/NULL);
+		AudioListener_t2036345966 * L_25 = AudioListenerExtension_get_audioListener_m3701525754(L_24, /*hidden argument*/NULL);
 		NullCheck(L_25);
-		int32_t L_26 = AudioListener_GetNumExtensionProperties_m2630730876(L_25, /*hidden argument*/NULL);
+		int32_t L_26 = AudioListener_GetNumExtensionProperties_m615317993(L_25, /*hidden argument*/NULL);
 		if ((((int32_t)L_23) < ((int32_t)L_26)))
 		{
 			goto IL_0028;
 		}
 	}
 	{
-		AudioListenerExtension_t901597245 * L_27 = ___extension0;
+		AudioListenerExtension_t4241147580 * L_27 = ___extension0;
 		NullCheck(L_27);
-		AudioListener_t2335968177 * L_28 = AudioListenerExtension_get_audioListener_m4258963971(L_27, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		PropertyName_t957933759  L_29 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionName_8();
+		AudioListener_t2036345966 * L_28 = AudioListenerExtension_get_audioListener_m3701525754(L_27, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		PropertyName_t629672075  L_29 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionName_8();
 		NullCheck(L_28);
-		AudioListener_ClearExtensionProperties_m2595679779(L_28, L_29, /*hidden argument*/NULL);
+		AudioListener_ClearExtensionProperties_m256849493(L_28, L_29, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Type UnityEngine.AudioExtensionManager::GetListenerSpatializerExtensionType()
-extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionType_m731357134 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionType_m4255011715 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_GetListenerSpatializerExtensionType_m731357134_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_GetListenerSpatializerExtensionType_m4255011715_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSpatializerExtensionDefinition_t2022077663 * V_0 = NULL;
-	Enumerator_t3859083538  V_1;
+	AudioSpatializerExtensionDefinition_t3915630517 * V_0 = NULL;
+	Enumerator_t2070325589  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	Type_t * V_2 = NULL;
-	Exception_t1179092599 * __last_unhandled_exception = 0;
+	Exception_t2788055133 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
-	Exception_t1179092599 * __exception_local = 0;
+	Exception_t2788055133 * __exception_local = 0;
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t1192643089 * L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionDefinitions_0();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t305644031 * L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionDefinitions_0();
 		NullCheck(L_0);
-		Enumerator_t3859083538  L_1 = List_1_GetEnumerator_m3756085531(L_0, /*hidden argument*/List_1_GetEnumerator_m3756085531_RuntimeMethod_var);
+		Enumerator_t2070325589  L_1 = List_1_GetEnumerator_m3629966127(L_0, /*hidden argument*/List_1_GetEnumerator_m3629966127_RuntimeMethod_var);
 		V_1 = L_1;
 	}
 
@@ -3536,14 +3536,14 @@ IL_000d:
 
 IL_0012:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_2 = Enumerator_get_Current_m216234719((&V_1), /*hidden argument*/Enumerator_get_Current_m216234719_RuntimeMethod_var);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_2 = Enumerator_get_Current_m3739187253((&V_1), /*hidden argument*/Enumerator_get_Current_m3739187253_RuntimeMethod_var);
 			V_0 = L_2;
-			String_t* L_3 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_4 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
-			AudioSpatializerExtensionDefinition_t2022077663 * L_5 = V_0;
+			String_t* L_3 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_4 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_5 = V_0;
 			NullCheck(L_5);
-			PropertyName_t957933759  L_6 = L_5->get_spatializerName_0();
-			bool L_7 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_6 = L_5->get_spatializerName_0();
+			bool L_7 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
 			if (!L_7)
 			{
 				goto IL_0046;
@@ -3552,11 +3552,11 @@ IL_0012:
 
 IL_0035:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_8 = V_0;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_8 = V_0;
 			NullCheck(L_8);
-			AudioExtensionDefinition_t3397395452 * L_9 = L_8->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_9 = L_8->get_definition_1();
 			NullCheck(L_9);
-			Type_t * L_10 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_9, /*hidden argument*/NULL);
+			Type_t * L_10 = AudioExtensionDefinition_GetExtensionType_m692425019(L_9, /*hidden argument*/NULL);
 			V_2 = L_10;
 			IL2CPP_LEAVE(0x6D, FINALLY_0058);
 		}
@@ -3567,7 +3567,7 @@ IL_0046:
 
 IL_0047:
 		{
-			bool L_11 = Enumerator_MoveNext_m1770433219((&V_1), /*hidden argument*/Enumerator_MoveNext_m1770433219_RuntimeMethod_var);
+			bool L_11 = Enumerator_MoveNext_m342936855((&V_1), /*hidden argument*/Enumerator_MoveNext_m342936855_RuntimeMethod_var);
 			if (L_11)
 			{
 				goto IL_0012;
@@ -3581,20 +3581,20 @@ IL_0053:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
-		__last_unhandled_exception = (Exception_t1179092599 *)e.ex;
+		__last_unhandled_exception = (Exception_t2788055133 *)e.ex;
 		goto FINALLY_0058;
 	}
 
 FINALLY_0058:
 	{ // begin finally (depth: 1)
-		Enumerator_Dispose_m1789222286((&V_1), /*hidden argument*/Enumerator_Dispose_m1789222286_RuntimeMethod_var);
+		Enumerator_Dispose_m1433320748((&V_1), /*hidden argument*/Enumerator_Dispose_m1433320748_RuntimeMethod_var);
 		IL2CPP_END_FINALLY(88)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(88)
 	{
 		IL2CPP_JUMP_TBL(0x6D, IL_006d)
 		IL2CPP_JUMP_TBL(0x66, IL_0066)
-		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1179092599 *)
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t2788055133 *)
 	}
 
 IL_0066:
@@ -3610,29 +3610,29 @@ IL_006d:
 	}
 }
 // System.Type UnityEngine.AudioExtensionManager::GetListenerSpatializerExtensionEditorType()
-extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4157760074 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  Type_t * AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4004119794 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4157760074_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4004119794_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSpatializerExtensionDefinition_t2022077663 * V_0 = NULL;
-	Enumerator_t3859083538  V_1;
+	AudioSpatializerExtensionDefinition_t3915630517 * V_0 = NULL;
+	Enumerator_t2070325589  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	Type_t * V_2 = NULL;
-	Exception_t1179092599 * __last_unhandled_exception = 0;
+	Exception_t2788055133 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
-	Exception_t1179092599 * __exception_local = 0;
+	Exception_t2788055133 * __exception_local = 0;
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t1192643089 * L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionDefinitions_0();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t305644031 * L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_ListenerSpatializerExtensionDefinitions_0();
 		NullCheck(L_0);
-		Enumerator_t3859083538  L_1 = List_1_GetEnumerator_m3756085531(L_0, /*hidden argument*/List_1_GetEnumerator_m3756085531_RuntimeMethod_var);
+		Enumerator_t2070325589  L_1 = List_1_GetEnumerator_m3629966127(L_0, /*hidden argument*/List_1_GetEnumerator_m3629966127_RuntimeMethod_var);
 		V_1 = L_1;
 	}
 
@@ -3645,14 +3645,14 @@ IL_000d:
 
 IL_0012:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_2 = Enumerator_get_Current_m216234719((&V_1), /*hidden argument*/Enumerator_get_Current_m216234719_RuntimeMethod_var);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_2 = Enumerator_get_Current_m3739187253((&V_1), /*hidden argument*/Enumerator_get_Current_m3739187253_RuntimeMethod_var);
 			V_0 = L_2;
-			String_t* L_3 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_4 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
-			AudioSpatializerExtensionDefinition_t2022077663 * L_5 = V_0;
+			String_t* L_3 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_4 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_5 = V_0;
 			NullCheck(L_5);
-			PropertyName_t957933759  L_6 = L_5->get_spatializerName_0();
-			bool L_7 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_6 = L_5->get_spatializerName_0();
+			bool L_7 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
 			if (!L_7)
 			{
 				goto IL_0046;
@@ -3661,11 +3661,11 @@ IL_0012:
 
 IL_0035:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_8 = V_0;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_8 = V_0;
 			NullCheck(L_8);
-			AudioExtensionDefinition_t3397395452 * L_9 = L_8->get_editorDefinition_2();
+			AudioExtensionDefinition_t192562823 * L_9 = L_8->get_editorDefinition_2();
 			NullCheck(L_9);
-			Type_t * L_10 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_9, /*hidden argument*/NULL);
+			Type_t * L_10 = AudioExtensionDefinition_GetExtensionType_m692425019(L_9, /*hidden argument*/NULL);
 			V_2 = L_10;
 			IL2CPP_LEAVE(0x6D, FINALLY_0058);
 		}
@@ -3676,7 +3676,7 @@ IL_0046:
 
 IL_0047:
 		{
-			bool L_11 = Enumerator_MoveNext_m1770433219((&V_1), /*hidden argument*/Enumerator_MoveNext_m1770433219_RuntimeMethod_var);
+			bool L_11 = Enumerator_MoveNext_m342936855((&V_1), /*hidden argument*/Enumerator_MoveNext_m342936855_RuntimeMethod_var);
 			if (L_11)
 			{
 				goto IL_0012;
@@ -3690,20 +3690,20 @@ IL_0053:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
-		__last_unhandled_exception = (Exception_t1179092599 *)e.ex;
+		__last_unhandled_exception = (Exception_t2788055133 *)e.ex;
 		goto FINALLY_0058;
 	}
 
 FINALLY_0058:
 	{ // begin finally (depth: 1)
-		Enumerator_Dispose_m1789222286((&V_1), /*hidden argument*/Enumerator_Dispose_m1789222286_RuntimeMethod_var);
+		Enumerator_Dispose_m1433320748((&V_1), /*hidden argument*/Enumerator_Dispose_m1433320748_RuntimeMethod_var);
 		IL2CPP_END_FINALLY(88)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(88)
 	{
 		IL2CPP_JUMP_TBL(0x6D, IL_006d)
 		IL2CPP_JUMP_TBL(0x66, IL_0066)
-		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1179092599 *)
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t2788055133 *)
 	}
 
 IL_0066:
@@ -3719,29 +3719,29 @@ IL_006d:
 	}
 }
 // System.Type UnityEngine.AudioExtensionManager::GetSourceSpatializerExtensionType()
-extern "C"  Type_t * AudioExtensionManager_GetSourceSpatializerExtensionType_m771901715 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  Type_t * AudioExtensionManager_GetSourceSpatializerExtensionType_m214240226 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_GetSourceSpatializerExtensionType_m771901715_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_GetSourceSpatializerExtensionType_m214240226_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSpatializerExtensionDefinition_t2022077663 * V_0 = NULL;
-	Enumerator_t3859083538  V_1;
+	AudioSpatializerExtensionDefinition_t3915630517 * V_0 = NULL;
+	Enumerator_t2070325589  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	Type_t * V_2 = NULL;
-	Exception_t1179092599 * __last_unhandled_exception = 0;
+	Exception_t2788055133 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
-	Exception_t1179092599 * __exception_local = 0;
+	Exception_t2788055133 * __exception_local = 0;
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t1192643089 * L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceSpatializerExtensionDefinitions_1();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t305644031 * L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceSpatializerExtensionDefinitions_1();
 		NullCheck(L_0);
-		Enumerator_t3859083538  L_1 = List_1_GetEnumerator_m3756085531(L_0, /*hidden argument*/List_1_GetEnumerator_m3756085531_RuntimeMethod_var);
+		Enumerator_t2070325589  L_1 = List_1_GetEnumerator_m3629966127(L_0, /*hidden argument*/List_1_GetEnumerator_m3629966127_RuntimeMethod_var);
 		V_1 = L_1;
 	}
 
@@ -3754,14 +3754,14 @@ IL_000d:
 
 IL_0012:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_2 = Enumerator_get_Current_m216234719((&V_1), /*hidden argument*/Enumerator_get_Current_m216234719_RuntimeMethod_var);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_2 = Enumerator_get_Current_m3739187253((&V_1), /*hidden argument*/Enumerator_get_Current_m3739187253_RuntimeMethod_var);
 			V_0 = L_2;
-			String_t* L_3 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-			PropertyName_t957933759  L_4 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
-			AudioSpatializerExtensionDefinition_t2022077663 * L_5 = V_0;
+			String_t* L_3 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_4 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+			AudioSpatializerExtensionDefinition_t3915630517 * L_5 = V_0;
 			NullCheck(L_5);
-			PropertyName_t957933759  L_6 = L_5->get_spatializerName_0();
-			bool L_7 = PropertyName_op_Equality_m3133515106(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
+			PropertyName_t629672075  L_6 = L_5->get_spatializerName_0();
+			bool L_7 = PropertyName_op_Equality_m2909419203(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
 			if (!L_7)
 			{
 				goto IL_0046;
@@ -3770,11 +3770,11 @@ IL_0012:
 
 IL_0035:
 		{
-			AudioSpatializerExtensionDefinition_t2022077663 * L_8 = V_0;
+			AudioSpatializerExtensionDefinition_t3915630517 * L_8 = V_0;
 			NullCheck(L_8);
-			AudioExtensionDefinition_t3397395452 * L_9 = L_8->get_definition_1();
+			AudioExtensionDefinition_t192562823 * L_9 = L_8->get_definition_1();
 			NullCheck(L_9);
-			Type_t * L_10 = AudioExtensionDefinition_GetExtensionType_m2702929274(L_9, /*hidden argument*/NULL);
+			Type_t * L_10 = AudioExtensionDefinition_GetExtensionType_m692425019(L_9, /*hidden argument*/NULL);
 			V_2 = L_10;
 			IL2CPP_LEAVE(0x6D, FINALLY_0058);
 		}
@@ -3785,7 +3785,7 @@ IL_0046:
 
 IL_0047:
 		{
-			bool L_11 = Enumerator_MoveNext_m1770433219((&V_1), /*hidden argument*/Enumerator_MoveNext_m1770433219_RuntimeMethod_var);
+			bool L_11 = Enumerator_MoveNext_m342936855((&V_1), /*hidden argument*/Enumerator_MoveNext_m342936855_RuntimeMethod_var);
 			if (L_11)
 			{
 				goto IL_0012;
@@ -3799,20 +3799,20 @@ IL_0053:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
-		__last_unhandled_exception = (Exception_t1179092599 *)e.ex;
+		__last_unhandled_exception = (Exception_t2788055133 *)e.ex;
 		goto FINALLY_0058;
 	}
 
 FINALLY_0058:
 	{ // begin finally (depth: 1)
-		Enumerator_Dispose_m1789222286((&V_1), /*hidden argument*/Enumerator_Dispose_m1789222286_RuntimeMethod_var);
+		Enumerator_Dispose_m1433320748((&V_1), /*hidden argument*/Enumerator_Dispose_m1433320748_RuntimeMethod_var);
 		IL2CPP_END_FINALLY(88)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(88)
 	{
 		IL2CPP_JUMP_TBL(0x6D, IL_006d)
 		IL2CPP_JUMP_TBL(0x66, IL_0066)
-		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1179092599 *)
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t2788055133 *)
 	}
 
 IL_0066:
@@ -3828,18 +3828,18 @@ IL_006d:
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::AddExtensionToManager(UnityEngine.AudioSourceExtension)
-extern "C"  void AudioExtensionManager_AddExtensionToManager_m863188417 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_AddExtensionToManager_m4109618171 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_AddExtensionToManager_m863188417_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_AddExtensionToManager_m4109618171_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242(NULL /*static, unused*/, /*hidden argument*/NULL);
-		AudioSourceExtension_t1539232135 * L_0 = ___extension0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727(NULL /*static, unused*/, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_0 = ___extension0;
 		NullCheck(L_0);
 		int32_t L_1 = L_0->get_m_ExtensionManagerUpdateIndex_3();
 		if ((!(((uint32_t)L_1) == ((uint32_t)(-1)))))
@@ -3848,15 +3848,15 @@ extern "C"  void AudioExtensionManager_AddExtensionToManager_m863188417 (Runtime
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_2 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
-		AudioSourceExtension_t1539232135 * L_3 = ___extension0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_2 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		AudioSourceExtension_t2842685391 * L_3 = ___extension0;
 		NullCheck(L_2);
-		List_1_Add_m1053829(L_2, L_3, /*hidden argument*/List_1_Add_m1053829_RuntimeMethod_var);
-		AudioSourceExtension_t1539232135 * L_4 = ___extension0;
-		List_1_t709797561 * L_5 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		List_1_Add_m1345455169(L_2, L_3, /*hidden argument*/List_1_Add_m1345455169_RuntimeMethod_var);
+		AudioSourceExtension_t2842685391 * L_4 = ___extension0;
+		List_1_t3527666201 * L_5 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_5);
-		int32_t L_6 = List_1_get_Count_m1402367815(L_5, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_6 = List_1_get_Count_m205895629(L_5, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		NullCheck(L_4);
 		L_4->set_m_ExtensionManagerUpdateIndex_3(((int32_t)((int32_t)L_6-(int32_t)1)));
 	}
@@ -3867,18 +3867,18 @@ IL_0031:
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::RemoveExtensionFromManager(UnityEngine.AudioSourceExtension)
-extern "C"  void AudioExtensionManager_RemoveExtensionFromManager_m1906670292 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_RemoveExtensionFromManager_m66721685 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_RemoveExtensionFromManager_m1906670292_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_RemoveExtensionFromManager_m66721685_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	int32_t V_0 = 0;
 	int32_t V_1 = 0;
 	{
-		AudioSourceExtension_t1539232135 * L_0 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_0 = ___extension0;
 		NullCheck(L_0);
 		int32_t L_1 = L_0->get_m_ExtensionManagerUpdateIndex_3();
 		V_0 = L_1;
@@ -3890,116 +3890,116 @@ extern "C"  void AudioExtensionManager_RemoveExtensionFromManager_m1906670292 (R
 	}
 	{
 		int32_t L_3 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_4 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_4 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_4);
-		int32_t L_5 = List_1_get_Count_m1402367815(L_4, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_5 = List_1_get_Count_m205895629(L_4, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		if ((((int32_t)L_3) >= ((int32_t)L_5)))
 		{
 			goto IL_0060;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_6 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_6 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_6);
-		int32_t L_7 = List_1_get_Count_m1402367815(L_6, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_7 = List_1_get_Count_m205895629(L_6, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		V_1 = ((int32_t)((int32_t)L_7-(int32_t)1));
-		List_1_t709797561 * L_8 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		List_1_t3527666201 * L_8 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		int32_t L_9 = V_0;
-		List_1_t709797561 * L_10 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		List_1_t3527666201 * L_10 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		int32_t L_11 = V_1;
 		NullCheck(L_10);
-		AudioSourceExtension_t1539232135 * L_12 = List_1_get_Item_m2534902725(L_10, L_11, /*hidden argument*/List_1_get_Item_m2534902725_RuntimeMethod_var);
+		AudioSourceExtension_t2842685391 * L_12 = List_1_get_Item_m381162371(L_10, L_11, /*hidden argument*/List_1_get_Item_m381162371_RuntimeMethod_var);
 		NullCheck(L_8);
-		List_1_set_Item_m2480814918(L_8, L_9, L_12, /*hidden argument*/List_1_set_Item_m2480814918_RuntimeMethod_var);
-		List_1_t709797561 * L_13 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		List_1_set_Item_m2799211326(L_8, L_9, L_12, /*hidden argument*/List_1_set_Item_m2799211326_RuntimeMethod_var);
+		List_1_t3527666201 * L_13 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		int32_t L_14 = V_0;
 		NullCheck(L_13);
-		AudioSourceExtension_t1539232135 * L_15 = List_1_get_Item_m2534902725(L_13, L_14, /*hidden argument*/List_1_get_Item_m2534902725_RuntimeMethod_var);
+		AudioSourceExtension_t2842685391 * L_15 = List_1_get_Item_m381162371(L_13, L_14, /*hidden argument*/List_1_get_Item_m381162371_RuntimeMethod_var);
 		int32_t L_16 = V_0;
 		NullCheck(L_15);
 		L_15->set_m_ExtensionManagerUpdateIndex_3(L_16);
-		List_1_t709797561 * L_17 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		List_1_t3527666201 * L_17 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		int32_t L_18 = V_1;
 		NullCheck(L_17);
-		List_1_RemoveAt_m271836106(L_17, L_18, /*hidden argument*/List_1_RemoveAt_m271836106_RuntimeMethod_var);
+		List_1_RemoveAt_m933238453(L_17, L_18, /*hidden argument*/List_1_RemoveAt_m933238453_RuntimeMethod_var);
 	}
 
 IL_0060:
 	{
-		AudioSourceExtension_t1539232135 * L_19 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_19 = ___extension0;
 		NullCheck(L_19);
 		L_19->set_m_ExtensionManagerUpdateIndex_3((-1));
 		return;
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::Update()
-extern "C"  void AudioExtensionManager_Update_m73762593 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_Update_m1805526171 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_Update_m73762593_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_Update_m1805526171_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioListener_t2335968177 * V_0 = NULL;
-	AudioListenerExtension_t901597245 * V_1 = NULL;
+	AudioListener_t2036345966 * V_0 = NULL;
+	AudioListenerExtension_t4241147580 * V_1 = NULL;
 	int32_t V_2 = 0;
 	int32_t V_3 = 0;
 	int32_t V_4 = 0;
-	AudioSourceExtension_t1539232135 * V_5 = NULL;
+	AudioSourceExtension_t2842685391 * V_5 = NULL;
 	int32_t G_B16_0 = 0;
 	int32_t G_B19_0 = 0;
 	int32_t G_B27_0 = 0;
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242(NULL /*static, unused*/, /*hidden argument*/NULL);
-		PropertyName_t957933759  L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SpatializerName_6();
-		String_t* L_1 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-		PropertyName_t957933759  L_2 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
-		bool L_3 = PropertyName_op_Inequality_m2375796959(NULL /*static, unused*/, L_0, L_2, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727(NULL /*static, unused*/, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SpatializerName_6();
+		String_t* L_1 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_2 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		bool L_3 = PropertyName_op_Inequality_m2619522434(NULL /*static, unused*/, L_0, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_006c;
 		}
 	}
 	{
-		String_t* L_4 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
-		PropertyName_t957933759  L_5 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SpatializerName_6(L_5);
-		Type_t * L_6 = AudioExtensionManager_GetSourceSpatializerExtensionType_m771901715(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_4 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
+		PropertyName_t629672075  L_5 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SpatializerName_6(L_5);
+		Type_t * L_6 = AudioExtensionManager_GetSourceSpatializerExtensionType_m214240226(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_004d;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		Type_t * L_7 = AudioExtensionManager_GetSourceSpatializerExtensionType_m771901715(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		Type_t * L_7 = AudioExtensionManager_GetSourceSpatializerExtensionType_m214240226(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_7);
 		String_t* L_8 = VirtFuncInvoker0< String_t* >::Invoke(9 /* System.String System.Reflection.MemberInfo::get_Name() */, L_7);
-		PropertyName_t957933759  L_9 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SpatializerExtensionName_7(L_9);
+		PropertyName_t629672075  L_9 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SpatializerExtensionName_7(L_9);
 	}
 
 IL_004d:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		Type_t * L_10 = AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4157760074(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		Type_t * L_10 = AudioExtensionManager_GetListenerSpatializerExtensionEditorType_m4004119794(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_006b;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		Type_t * L_11 = AudioExtensionManager_GetListenerSpatializerExtensionType_m731357134(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		Type_t * L_11 = AudioExtensionManager_GetListenerSpatializerExtensionType_m4255011715(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_11);
 		String_t* L_12 = VirtFuncInvoker0< String_t* >::Invoke(9 /* System.String System.Reflection.MemberInfo::get_Name() */, L_11);
-		PropertyName_t957933759  L_13 = PropertyName_op_Implicit_m2205448399(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionName_8(L_13);
+		PropertyName_t629672075  L_13 = PropertyName_op_Implicit_m2633684470(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionName_8(L_13);
 	}
 
 IL_006b:
@@ -4008,32 +4008,32 @@ IL_006b:
 
 IL_006c:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		Object_t224960187 * L_14 = AudioExtensionManager_GetAudioListener_m2139076385(NULL /*static, unused*/, /*hidden argument*/NULL);
-		V_0 = ((AudioListener_t2335968177 *)IsInstSealed((RuntimeObject*)L_14, AudioListener_t2335968177_il2cpp_TypeInfo_var));
-		AudioListener_t2335968177 * L_15 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_16 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_15, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		Object_t2092332117 * L_14 = AudioExtensionManager_GetAudioListener_m2699920346(NULL /*static, unused*/, /*hidden argument*/NULL);
+		V_0 = ((AudioListener_t2036345966 *)IsInstSealed((RuntimeObject*)L_14, AudioListener_t2036345966_il2cpp_TypeInfo_var));
+		AudioListener_t2036345966 * L_15 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_16 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_15, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_16)
 		{
 			goto IL_009e;
 		}
 	}
 	{
-		AudioListener_t2335968177 * L_17 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioListenerExtension_t901597245 * L_18 = AudioExtensionManager_AddSpatializerExtension_m1812492843(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
+		AudioListener_t2036345966 * L_17 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioListenerExtension_t4241147580 * L_18 = AudioExtensionManager_AddSpatializerExtension_m398767448(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
 		V_1 = L_18;
-		AudioListenerExtension_t901597245 * L_19 = V_1;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_20 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_19, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioListenerExtension_t4241147580 * L_19 = V_1;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_20 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_19, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_20)
 		{
 			goto IL_009d;
 		}
 	}
 	{
-		AudioListenerExtension_t901597245 * L_21 = V_1;
+		AudioListenerExtension_t4241147580 * L_21 = V_1;
 		NullCheck(L_21);
 		VirtActionInvoker0::Invoke(5 /* System.Void UnityEngine.AudioListenerExtension::ExtensionUpdate() */, L_21);
 	}
@@ -4050,11 +4050,11 @@ IL_009e:
 
 IL_00a5:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_22 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_22 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		int32_t L_23 = V_2;
 		NullCheck(L_22);
-		AudioSourceExtension_t1539232135 * L_24 = List_1_get_Item_m2534902725(L_22, L_23, /*hidden argument*/List_1_get_Item_m2534902725_RuntimeMethod_var);
+		AudioSourceExtension_t2842685391 * L_24 = List_1_get_Item_m381162371(L_22, L_23, /*hidden argument*/List_1_get_Item_m381162371_RuntimeMethod_var);
 		NullCheck(L_24);
 		VirtActionInvoker0::Invoke(7 /* System.Void UnityEngine.AudioSourceExtension::ExtensionUpdate() */, L_24);
 		int32_t L_25 = V_2;
@@ -4064,21 +4064,21 @@ IL_00a5:
 IL_00b9:
 	{
 		int32_t L_26 = V_2;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_27 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_27 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_27);
-		int32_t L_28 = List_1_get_Count_m1402367815(L_27, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_28 = List_1_get_Count_m205895629(L_27, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		if ((((int32_t)L_26) < ((int32_t)L_28)))
 		{
 			goto IL_00a5;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		int32_t L_29 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
-		List_1_t709797561 * L_30 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		int32_t L_29 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
+		List_1_t3527666201 * L_30 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_30);
-		int32_t L_31 = List_1_get_Count_m1402367815(L_30, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_31 = List_1_get_Count_m205895629(L_30, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		if ((((int32_t)L_29) < ((int32_t)L_31)))
 		{
 			goto IL_00e3;
@@ -4091,28 +4091,28 @@ IL_00b9:
 
 IL_00e3:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		int32_t L_32 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		int32_t L_32 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
 		G_B16_0 = L_32;
 	}
 
 IL_00e8:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(G_B16_0);
-		List_1_t709797561 * L_33 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(G_B16_0);
+		List_1_t3527666201 * L_33 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_33);
-		int32_t L_34 = List_1_get_Count_m1402367815(L_33, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_34 = List_1_get_Count_m205895629(L_33, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		if ((((int32_t)L_34) <= ((int32_t)0)))
 		{
 			goto IL_0110;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_35 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_35 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_35);
-		int32_t L_36 = List_1_get_Count_m1402367815(L_35, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_36 = List_1_get_Count_m205895629(L_35, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		G_B19_0 = ((int32_t)((int32_t)1+(int32_t)((int32_t)((int32_t)L_36/(int32_t)8))));
 		goto IL_0111;
 	}
@@ -4131,39 +4131,39 @@ IL_0111:
 
 IL_011a:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		List_1_t709797561 * L_37 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
-		int32_t L_38 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		List_1_t3527666201 * L_37 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		int32_t L_38 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
 		NullCheck(L_37);
-		AudioSourceExtension_t1539232135 * L_39 = List_1_get_Item_m2534902725(L_37, L_38, /*hidden argument*/List_1_get_Item_m2534902725_RuntimeMethod_var);
+		AudioSourceExtension_t2842685391 * L_39 = List_1_get_Item_m381162371(L_37, L_38, /*hidden argument*/List_1_get_Item_m381162371_RuntimeMethod_var);
 		V_5 = L_39;
-		AudioSourceExtension_t1539232135 * L_40 = V_5;
+		AudioSourceExtension_t2842685391 * L_40 = V_5;
 		NullCheck(L_40);
-		AudioSource_t2681891155 * L_41 = AudioSourceExtension_get_audioSource_m703059362(L_40, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_42 = Object_op_Equality_m699610968(NULL /*static, unused*/, L_41, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_41 = AudioSourceExtension_get_audioSource_m4281024043(L_40, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_42 = Object_op_Equality_m406301361(NULL /*static, unused*/, L_41, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (L_42)
 		{
 			goto IL_0160;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_43 = V_5;
+		AudioSourceExtension_t2842685391 * L_43 = V_5;
 		NullCheck(L_43);
-		AudioSource_t2681891155 * L_44 = AudioSourceExtension_get_audioSource_m703059362(L_43, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_44 = AudioSourceExtension_get_audioSource_m4281024043(L_43, /*hidden argument*/NULL);
 		NullCheck(L_44);
-		bool L_45 = Behaviour_get_enabled_m3481921114(L_44, /*hidden argument*/NULL);
+		bool L_45 = Behaviour_get_enabled_m3314038405(L_44, /*hidden argument*/NULL);
 		if (!L_45)
 		{
 			goto IL_0160;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_46 = V_5;
+		AudioSourceExtension_t2842685391 * L_46 = V_5;
 		NullCheck(L_46);
-		AudioSource_t2681891155 * L_47 = AudioSourceExtension_get_audioSource_m703059362(L_46, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_47 = AudioSourceExtension_get_audioSource_m4281024043(L_46, /*hidden argument*/NULL);
 		NullCheck(L_47);
-		bool L_48 = AudioSource_get_isPlaying_m2112409085(L_47, /*hidden argument*/NULL);
+		bool L_48 = AudioSource_get_isPlaying_m2203777841(L_47, /*hidden argument*/NULL);
 		if (L_48)
 		{
 			goto IL_0175;
@@ -4172,24 +4172,24 @@ IL_011a:
 
 IL_0160:
 	{
-		AudioSourceExtension_t1539232135 * L_49 = V_5;
+		AudioSourceExtension_t2842685391 * L_49 = V_5;
 		NullCheck(L_49);
 		VirtActionInvoker0::Invoke(6 /* System.Void UnityEngine.AudioSourceExtension::Stop() */, L_49);
-		AudioSourceExtension_t1539232135 * L_50 = V_5;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_RemoveExtensionFromManager_m1906670292(NULL /*static, unused*/, L_50, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_50 = V_5;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_RemoveExtensionFromManager_m66721685(NULL /*static, unused*/, L_50, /*hidden argument*/NULL);
 		goto IL_01a7;
 	}
 
 IL_0175:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		int32_t L_51 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(((int32_t)((int32_t)L_51+(int32_t)1)));
-		int32_t L_52 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
-		List_1_t709797561 * L_53 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		int32_t L_51 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(((int32_t)((int32_t)L_51+(int32_t)1)));
+		int32_t L_52 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
+		List_1_t3527666201 * L_53 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_SourceExtensionsToUpdate_3();
 		NullCheck(L_53);
-		int32_t L_54 = List_1_get_Count_m1402367815(L_53, /*hidden argument*/List_1_get_Count_m1402367815_RuntimeMethod_var);
+		int32_t L_54 = List_1_get_Count_m205895629(L_53, /*hidden argument*/List_1_get_Count_m205895629_RuntimeMethod_var);
 		if ((((int32_t)L_52) < ((int32_t)L_54)))
 		{
 			goto IL_019c;
@@ -4202,15 +4202,15 @@ IL_0175:
 
 IL_019c:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		int32_t L_55 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		int32_t L_55 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_NextStopIndex_4();
 		G_B27_0 = L_55;
 	}
 
 IL_01a1:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(G_B27_0);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(G_B27_0);
 	}
 
 IL_01a7:
@@ -4233,30 +4233,30 @@ IL_01ae:
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::GetReadyToPlay(UnityEngine.AudioSourceExtension)
-extern "C"  void AudioExtensionManager_GetReadyToPlay_m254406875 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t1539232135 * ___extension0, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_GetReadyToPlay_m1586308525 (RuntimeObject * __this /* static, unused */, AudioSourceExtension_t2842685391 * ___extension0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_GetReadyToPlay_m254406875_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_GetReadyToPlay_m1586308525_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_0 = ___extension0;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_1 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_0, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_0 = ___extension0;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_1 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_0, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001b;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_2 = ___extension0;
+		AudioSourceExtension_t2842685391 * L_2 = ___extension0;
 		NullCheck(L_2);
 		VirtActionInvoker0::Invoke(5 /* System.Void UnityEngine.AudioSourceExtension::Play() */, L_2);
-		AudioSourceExtension_t1539232135 * L_3 = ___extension0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_AddExtensionToManager_m863188417(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_3 = ___extension0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_AddExtensionToManager_m4109618171(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
 	}
 
 IL_001b:
@@ -4265,19 +4265,19 @@ IL_001b:
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::RegisterBuiltinDefinitions()
-extern "C"  void AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager_RegisterBuiltinDefinitions_m1423537727_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	bool V_0 = false;
 	{
 		V_0 = (bool)0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		bool L_0 = ((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->get_m_BuiltinDefinitionsRegistered_5();
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		bool L_0 = ((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->get_m_BuiltinDefinitionsRegistered_5();
 		if (L_0)
 		{
 			goto IL_004d;
@@ -4291,9 +4291,9 @@ extern "C"  void AudioExtensionManager_RegisterBuiltinDefinitions_m2707940242 (R
 		}
 	}
 	{
-		String_t* L_2 = AudioSettings_GetSpatializerPluginName_m2042247436(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_2 = AudioSettings_GetSpatializerPluginName_m2076922044(NULL /*static, unused*/, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_3 = String_op_Equality_m1877655767(NULL /*static, unused*/, L_2, _stringLiteral655663447, /*hidden argument*/NULL);
+		bool L_3 = String_op_Equality_m3037841571(NULL /*static, unused*/, L_2, _stringLiteral105097484, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_002a;
@@ -4313,9 +4313,9 @@ IL_002a:
 		}
 	}
 	{
-		String_t* L_5 = AudioSettings_GetAmbisonicDecoderPluginName_m2502477914(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_5 = AudioSettings_GetAmbisonicDecoderPluginName_m3517816291(NULL /*static, unused*/, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_6 = String_op_Equality_m1877655767(NULL /*static, unused*/, L_5, _stringLiteral655663447, /*hidden argument*/NULL);
+		bool L_6 = String_op_Equality_m3037841571(NULL /*static, unused*/, L_5, _stringLiteral105097484, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0046;
@@ -4328,8 +4328,8 @@ IL_0044:
 
 IL_0046:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_BuiltinDefinitionsRegistered_5((bool)1);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_BuiltinDefinitionsRegistered_5((bool)1);
 	}
 
 IL_004d:
@@ -4338,149 +4338,149 @@ IL_004d:
 	}
 }
 // System.Void UnityEngine.AudioExtensionManager::.cctor()
-extern "C"  void AudioExtensionManager__cctor_m1956508522 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  void AudioExtensionManager__cctor_m815812195 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioExtensionManager__cctor_m1956508522_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioExtensionManager__cctor_m815812195_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		List_1_t1192643089 * L_0 = (List_1_t1192643089 *)il2cpp_codegen_object_new(List_1_t1192643089_il2cpp_TypeInfo_var);
-		List_1__ctor_m2664792360(L_0, /*hidden argument*/List_1__ctor_m2664792360_RuntimeMethod_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionDefinitions_0(L_0);
-		List_1_t1192643089 * L_1 = (List_1_t1192643089 *)il2cpp_codegen_object_new(List_1_t1192643089_il2cpp_TypeInfo_var);
-		List_1__ctor_m2664792360(L_1, /*hidden argument*/List_1__ctor_m2664792360_RuntimeMethod_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SourceSpatializerExtensionDefinitions_1(L_1);
-		List_1_t3223321231 * L_2 = (List_1_t3223321231 *)il2cpp_codegen_object_new(List_1_t3223321231_il2cpp_TypeInfo_var);
-		List_1__ctor_m2191815930(L_2, /*hidden argument*/List_1__ctor_m2191815930_RuntimeMethod_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SourceAmbisonicDecoderExtensionDefinitions_2(L_2);
-		List_1_t709797561 * L_3 = (List_1_t709797561 *)il2cpp_codegen_object_new(List_1_t709797561_il2cpp_TypeInfo_var);
-		List_1__ctor_m2478877522(L_3, /*hidden argument*/List_1__ctor_m2478877522_RuntimeMethod_var);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SourceExtensionsToUpdate_3(L_3);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(0);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_BuiltinDefinitionsRegistered_5((bool)0);
-		PropertyName_t957933759  L_4 = PropertyName_op_Implicit_m3078975577(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SpatializerName_6(L_4);
-		PropertyName_t957933759  L_5 = PropertyName_op_Implicit_m3078975577(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_SpatializerExtensionName_7(L_5);
-		PropertyName_t957933759  L_6 = PropertyName_op_Implicit_m3078975577(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
-		((AudioExtensionManager_t1647051116_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionName_8(L_6);
+		List_1_t305644031 * L_0 = (List_1_t305644031 *)il2cpp_codegen_object_new(List_1_t305644031_il2cpp_TypeInfo_var);
+		List_1__ctor_m4278654810(L_0, /*hidden argument*/List_1__ctor_m4278654810_RuntimeMethod_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionDefinitions_0(L_0);
+		List_1_t305644031 * L_1 = (List_1_t305644031 *)il2cpp_codegen_object_new(List_1_t305644031_il2cpp_TypeInfo_var);
+		List_1__ctor_m4278654810(L_1, /*hidden argument*/List_1__ctor_m4278654810_RuntimeMethod_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SourceSpatializerExtensionDefinitions_1(L_1);
+		List_1_t1950557518 * L_2 = (List_1_t1950557518 *)il2cpp_codegen_object_new(List_1_t1950557518_il2cpp_TypeInfo_var);
+		List_1__ctor_m3799196528(L_2, /*hidden argument*/List_1__ctor_m3799196528_RuntimeMethod_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SourceAmbisonicDecoderExtensionDefinitions_2(L_2);
+		List_1_t3527666201 * L_3 = (List_1_t3527666201 *)il2cpp_codegen_object_new(List_1_t3527666201_il2cpp_TypeInfo_var);
+		List_1__ctor_m1723826519(L_3, /*hidden argument*/List_1__ctor_m1723826519_RuntimeMethod_var);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SourceExtensionsToUpdate_3(L_3);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_NextStopIndex_4(0);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_BuiltinDefinitionsRegistered_5((bool)0);
+		PropertyName_t629672075  L_4 = PropertyName_op_Implicit_m2368130854(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SpatializerName_6(L_4);
+		PropertyName_t629672075  L_5 = PropertyName_op_Implicit_m2368130854(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_SpatializerExtensionName_7(L_5);
+		PropertyName_t629672075  L_6 = PropertyName_op_Implicit_m2368130854(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		((AudioExtensionManager_t406276441_StaticFields*)il2cpp_codegen_static_fields_for(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var))->set_m_ListenerSpatializerExtensionName_8(L_6);
 		return;
 	}
 }
 // System.Int32 UnityEngine.AudioListener::GetNumExtensionProperties()
-extern "C"  int32_t AudioListener_GetNumExtensionProperties_m2630730876 (AudioListener_t2335968177 * __this, const RuntimeMethod* method)
+extern "C"  int32_t AudioListener_GetNumExtensionProperties_m615317993 (AudioListener_t2036345966 * __this, const RuntimeMethod* method)
 {
-	typedef int32_t (*AudioListener_GetNumExtensionProperties_m2630730876_ftn) (AudioListener_t2335968177 *);
-	static AudioListener_GetNumExtensionProperties_m2630730876_ftn _il2cpp_icall_func;
+	typedef int32_t (*AudioListener_GetNumExtensionProperties_m615317993_ftn) (AudioListener_t2036345966 *);
+	static AudioListener_GetNumExtensionProperties_m615317993_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioListener_GetNumExtensionProperties_m2630730876_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::GetNumExtensionProperties()");
+	_il2cpp_icall_func = (AudioListener_GetNumExtensionProperties_m615317993_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::GetNumExtensionProperties()");
 	int32_t retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
 // UnityEngine.PropertyName UnityEngine.AudioListener::ReadExtensionName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioListener_ReadExtensionName_m2770437200 (AudioListener_t2335968177 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method)
+extern "C"  PropertyName_t629672075  AudioListener_ReadExtensionName_m1158292097 (AudioListener_t2036345966 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method)
 {
-	PropertyName_t957933759  V_0;
+	PropertyName_t629672075  V_0;
 	memset(&V_0, 0, sizeof(V_0));
-	PropertyName_t957933759  V_1;
+	PropertyName_t629672075  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	{
 		int32_t L_0 = ___listenerIndex0;
-		AudioListener_INTERNAL_CALL_ReadExtensionName_m825529672(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
-		PropertyName_t957933759  L_1 = V_0;
+		AudioListener_INTERNAL_CALL_ReadExtensionName_m3340519910(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
+		PropertyName_t629672075  L_1 = V_0;
 		V_1 = L_1;
 		goto IL_0011;
 	}
 
 IL_0011:
 	{
-		PropertyName_t957933759  L_2 = V_1;
+		PropertyName_t629672075  L_2 = V_1;
 		return L_2;
 	}
 }
 // System.Void UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionName_m825529672 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___self0, int32_t ___listenerIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method)
+extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionName_m3340519910 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___self0, int32_t ___listenerIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method)
 {
-	typedef void (*AudioListener_INTERNAL_CALL_ReadExtensionName_m825529672_ftn) (AudioListener_t2335968177 *, int32_t, PropertyName_t957933759 *);
-	static AudioListener_INTERNAL_CALL_ReadExtensionName_m825529672_ftn _il2cpp_icall_func;
+	typedef void (*AudioListener_INTERNAL_CALL_ReadExtensionName_m3340519910_ftn) (AudioListener_t2036345966 *, int32_t, PropertyName_t629672075 *);
+	static AudioListener_INTERNAL_CALL_ReadExtensionName_m3340519910_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioListener_INTERNAL_CALL_ReadExtensionName_m825529672_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)");
+	_il2cpp_icall_func = (AudioListener_INTERNAL_CALL_ReadExtensionName_m3340519910_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)");
 	_il2cpp_icall_func(___self0, ___listenerIndex1, ___value2);
 }
 // UnityEngine.PropertyName UnityEngine.AudioListener::ReadExtensionPropertyName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioListener_ReadExtensionPropertyName_m2413043922 (AudioListener_t2335968177 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method)
+extern "C"  PropertyName_t629672075  AudioListener_ReadExtensionPropertyName_m1095590581 (AudioListener_t2036345966 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method)
 {
-	PropertyName_t957933759  V_0;
+	PropertyName_t629672075  V_0;
 	memset(&V_0, 0, sizeof(V_0));
-	PropertyName_t957933759  V_1;
+	PropertyName_t629672075  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	{
 		int32_t L_0 = ___listenerIndex0;
-		AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m3262097184(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
-		PropertyName_t957933759  L_1 = V_0;
+		AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m655927206(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
+		PropertyName_t629672075  L_1 = V_0;
 		V_1 = L_1;
 		goto IL_0011;
 	}
 
 IL_0011:
 	{
-		PropertyName_t957933759  L_2 = V_1;
+		PropertyName_t629672075  L_2 = V_1;
 		return L_2;
 	}
 }
 // System.Void UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m3262097184 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___self0, int32_t ___listenerIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method)
+extern "C"  void AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m655927206 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___self0, int32_t ___listenerIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method)
 {
-	typedef void (*AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m3262097184_ftn) (AudioListener_t2335968177 *, int32_t, PropertyName_t957933759 *);
-	static AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m3262097184_ftn _il2cpp_icall_func;
+	typedef void (*AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m655927206_ftn) (AudioListener_t2036345966 *, int32_t, PropertyName_t629672075 *);
+	static AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m655927206_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m3262097184_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)");
+	_il2cpp_icall_func = (AudioListener_INTERNAL_CALL_ReadExtensionPropertyName_m655927206_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioListener,System.Int32,UnityEngine.PropertyName&)");
 	_il2cpp_icall_func(___self0, ___listenerIndex1, ___value2);
 }
 // System.Single UnityEngine.AudioListener::ReadExtensionPropertyValue(System.Int32)
-extern "C"  float AudioListener_ReadExtensionPropertyValue_m435521561 (AudioListener_t2335968177 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method)
+extern "C"  float AudioListener_ReadExtensionPropertyValue_m4041173881 (AudioListener_t2036345966 * __this, int32_t ___listenerIndex0, const RuntimeMethod* method)
 {
-	typedef float (*AudioListener_ReadExtensionPropertyValue_m435521561_ftn) (AudioListener_t2335968177 *, int32_t);
-	static AudioListener_ReadExtensionPropertyValue_m435521561_ftn _il2cpp_icall_func;
+	typedef float (*AudioListener_ReadExtensionPropertyValue_m4041173881_ftn) (AudioListener_t2036345966 *, int32_t);
+	static AudioListener_ReadExtensionPropertyValue_m4041173881_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioListener_ReadExtensionPropertyValue_m435521561_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::ReadExtensionPropertyValue(System.Int32)");
+	_il2cpp_icall_func = (AudioListener_ReadExtensionPropertyValue_m4041173881_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::ReadExtensionPropertyValue(System.Int32)");
 	float retVal = _il2cpp_icall_func(__this, ___listenerIndex0);
 	return retVal;
 }
 // System.Void UnityEngine.AudioListener::ClearExtensionProperties(UnityEngine.PropertyName)
-extern "C"  void AudioListener_ClearExtensionProperties_m2595679779 (AudioListener_t2335968177 * __this, PropertyName_t957933759  ___extensionName0, const RuntimeMethod* method)
+extern "C"  void AudioListener_ClearExtensionProperties_m256849493 (AudioListener_t2036345966 * __this, PropertyName_t629672075  ___extensionName0, const RuntimeMethod* method)
 {
 	{
-		AudioListener_INTERNAL_CALL_ClearExtensionProperties_m806282601(NULL /*static, unused*/, __this, (&___extensionName0), /*hidden argument*/NULL);
+		AudioListener_INTERNAL_CALL_ClearExtensionProperties_m2089931764(NULL /*static, unused*/, __this, (&___extensionName0), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioListener::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioListener,UnityEngine.PropertyName&)
-extern "C"  void AudioListener_INTERNAL_CALL_ClearExtensionProperties_m806282601 (RuntimeObject * __this /* static, unused */, AudioListener_t2335968177 * ___self0, PropertyName_t957933759 * ___extensionName1, const RuntimeMethod* method)
+extern "C"  void AudioListener_INTERNAL_CALL_ClearExtensionProperties_m2089931764 (RuntimeObject * __this /* static, unused */, AudioListener_t2036345966 * ___self0, PropertyName_t629672075 * ___extensionName1, const RuntimeMethod* method)
 {
-	typedef void (*AudioListener_INTERNAL_CALL_ClearExtensionProperties_m806282601_ftn) (AudioListener_t2335968177 *, PropertyName_t957933759 *);
-	static AudioListener_INTERNAL_CALL_ClearExtensionProperties_m806282601_ftn _il2cpp_icall_func;
+	typedef void (*AudioListener_INTERNAL_CALL_ClearExtensionProperties_m2089931764_ftn) (AudioListener_t2036345966 *, PropertyName_t629672075 *);
+	static AudioListener_INTERNAL_CALL_ClearExtensionProperties_m2089931764_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioListener_INTERNAL_CALL_ClearExtensionProperties_m806282601_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioListener,UnityEngine.PropertyName&)");
+	_il2cpp_icall_func = (AudioListener_INTERNAL_CALL_ClearExtensionProperties_m2089931764_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioListener::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioListener,UnityEngine.PropertyName&)");
 	_il2cpp_icall_func(___self0, ___extensionName1);
 }
 // UnityEngine.AudioListenerExtension UnityEngine.AudioListener::AddExtension(System.Type)
-extern "C"  AudioListenerExtension_t901597245 * AudioListener_AddExtension_m2570928421 (AudioListener_t2335968177 * __this, Type_t * ___extensionType0, const RuntimeMethod* method)
+extern "C"  AudioListenerExtension_t4241147580 * AudioListener_AddExtension_m398067144 (AudioListener_t2036345966 * __this, Type_t * ___extensionType0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioListener_AddExtension_m2570928421_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioListener_AddExtension_m398067144_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioListenerExtension_t901597245 * V_0 = NULL;
+	AudioListenerExtension_t4241147580 * V_0 = NULL;
 	{
-		AudioListenerExtension_t901597245 * L_0 = __this->get_spatializerExtension_2();
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_1 = Object_op_Equality_m699610968(NULL /*static, unused*/, L_0, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioListenerExtension_t4241147580 * L_0 = __this->get_spatializerExtension_2();
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_1 = Object_op_Equality_m406301361(NULL /*static, unused*/, L_0, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0025;
@@ -4488,93 +4488,93 @@ extern "C"  AudioListenerExtension_t901597245 * AudioListener_AddExtension_m2570
 	}
 	{
 		Type_t * L_2 = ___extensionType0;
-		ScriptableObject_t1637412538 * L_3 = ScriptableObject_CreateInstance_m2777620213(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
-		__this->set_spatializerExtension_2(((AudioListenerExtension_t901597245 *)IsInstClass((RuntimeObject*)L_3, AudioListenerExtension_t901597245_il2cpp_TypeInfo_var)));
+		ScriptableObject_t184210050 * L_3 = ScriptableObject_CreateInstance_m1931114408(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		__this->set_spatializerExtension_2(((AudioListenerExtension_t4241147580 *)IsInstClass((RuntimeObject*)L_3, AudioListenerExtension_t4241147580_il2cpp_TypeInfo_var)));
 	}
 
 IL_0025:
 	{
-		AudioListenerExtension_t901597245 * L_4 = __this->get_spatializerExtension_2();
+		AudioListenerExtension_t4241147580 * L_4 = __this->get_spatializerExtension_2();
 		V_0 = L_4;
 		goto IL_0031;
 	}
 
 IL_0031:
 	{
-		AudioListenerExtension_t901597245 * L_5 = V_0;
+		AudioListenerExtension_t4241147580 * L_5 = V_0;
 		return L_5;
 	}
 }
 // UnityEngine.AudioListener UnityEngine.AudioListenerExtension::get_audioListener()
-extern "C"  AudioListener_t2335968177 * AudioListenerExtension_get_audioListener_m4258963971 (AudioListenerExtension_t901597245 * __this, const RuntimeMethod* method)
+extern "C"  AudioListener_t2036345966 * AudioListenerExtension_get_audioListener_m3701525754 (AudioListenerExtension_t4241147580 * __this, const RuntimeMethod* method)
 {
-	AudioListener_t2335968177 * V_0 = NULL;
+	AudioListener_t2036345966 * V_0 = NULL;
 	{
-		AudioListener_t2335968177 * L_0 = __this->get_m_audioListener_2();
+		AudioListener_t2036345966 * L_0 = __this->get_m_audioListener_2();
 		V_0 = L_0;
 		goto IL_000d;
 	}
 
 IL_000d:
 	{
-		AudioListener_t2335968177 * L_1 = V_0;
+		AudioListener_t2036345966 * L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.AudioListenerExtension::set_audioListener(UnityEngine.AudioListener)
-extern "C"  void AudioListenerExtension_set_audioListener_m2612136475 (AudioListenerExtension_t901597245 * __this, AudioListener_t2335968177 * ___value0, const RuntimeMethod* method)
+extern "C"  void AudioListenerExtension_set_audioListener_m61241941 (AudioListenerExtension_t4241147580 * __this, AudioListener_t2036345966 * ___value0, const RuntimeMethod* method)
 {
 	{
-		AudioListener_t2335968177 * L_0 = ___value0;
+		AudioListener_t2036345966 * L_0 = ___value0;
 		__this->set_m_audioListener_2(L_0);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioListenerExtension::WriteExtensionProperty(UnityEngine.PropertyName,System.Single)
-extern "C"  void AudioListenerExtension_WriteExtensionProperty_m1996203331 (AudioListenerExtension_t901597245 * __this, PropertyName_t957933759  ___propertyName0, float ___propertyValue1, const RuntimeMethod* method)
+extern "C"  void AudioListenerExtension_WriteExtensionProperty_m2923972063 (AudioListenerExtension_t4241147580 * __this, PropertyName_t629672075  ___propertyName0, float ___propertyValue1, const RuntimeMethod* method)
 {
 	{
 		return;
 	}
 }
 // System.Void UnityEngine.AudioListenerExtension::ExtensionUpdate()
-extern "C"  void AudioListenerExtension_ExtensionUpdate_m682100010 (AudioListenerExtension_t901597245 * __this, const RuntimeMethod* method)
+extern "C"  void AudioListenerExtension_ExtensionUpdate_m875317771 (AudioListenerExtension_t4241147580 * __this, const RuntimeMethod* method)
 {
 	{
 		return;
 	}
 }
 // System.String UnityEngine.AudioSettings::GetSpatializerPluginName()
-extern "C"  String_t* AudioSettings_GetSpatializerPluginName_m2042247436 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  String_t* AudioSettings_GetSpatializerPluginName_m2076922044 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
-	typedef String_t* (*AudioSettings_GetSpatializerPluginName_m2042247436_ftn) ();
-	static AudioSettings_GetSpatializerPluginName_m2042247436_ftn _il2cpp_icall_func;
+	typedef String_t* (*AudioSettings_GetSpatializerPluginName_m2076922044_ftn) ();
+	static AudioSettings_GetSpatializerPluginName_m2076922044_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSettings_GetSpatializerPluginName_m2042247436_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSettings::GetSpatializerPluginName()");
+	_il2cpp_icall_func = (AudioSettings_GetSpatializerPluginName_m2076922044_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSettings::GetSpatializerPluginName()");
 	String_t* retVal = _il2cpp_icall_func();
 	return retVal;
 }
 // System.Void UnityEngine.AudioSettings::InvokeOnAudioConfigurationChanged(System.Boolean)
-extern "C"  void AudioSettings_InvokeOnAudioConfigurationChanged_m2003890111 (RuntimeObject * __this /* static, unused */, bool ___deviceWasChanged0, const RuntimeMethod* method)
+extern "C"  void AudioSettings_InvokeOnAudioConfigurationChanged_m4086318332 (RuntimeObject * __this /* static, unused */, bool ___deviceWasChanged0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioSettings_InvokeOnAudioConfigurationChanged_m2003890111_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioSettings_InvokeOnAudioConfigurationChanged_m4086318332_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		AudioConfigurationChangeHandler_t932913356 * L_0 = ((AudioSettings_t3533641043_StaticFields*)il2cpp_codegen_static_fields_for(AudioSettings_t3533641043_il2cpp_TypeInfo_var))->get_OnAudioConfigurationChanged_0();
+		AudioConfigurationChangeHandler_t2726240268 * L_0 = ((AudioSettings_t4246639668_StaticFields*)il2cpp_codegen_static_fields_for(AudioSettings_t4246639668_il2cpp_TypeInfo_var))->get_OnAudioConfigurationChanged_0();
 		if (!L_0)
 		{
 			goto IL_0016;
 		}
 	}
 	{
-		AudioConfigurationChangeHandler_t932913356 * L_1 = ((AudioSettings_t3533641043_StaticFields*)il2cpp_codegen_static_fields_for(AudioSettings_t3533641043_il2cpp_TypeInfo_var))->get_OnAudioConfigurationChanged_0();
+		AudioConfigurationChangeHandler_t2726240268 * L_1 = ((AudioSettings_t4246639668_StaticFields*)il2cpp_codegen_static_fields_for(AudioSettings_t4246639668_il2cpp_TypeInfo_var))->get_OnAudioConfigurationChanged_0();
 		bool L_2 = ___deviceWasChanged0;
 		NullCheck(L_1);
-		AudioConfigurationChangeHandler_Invoke_m3848833283(L_1, L_2, /*hidden argument*/NULL);
+		AudioConfigurationChangeHandler_Invoke_m3622358656(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0016:
@@ -4583,90 +4583,90 @@ IL_0016:
 	}
 }
 // System.Void UnityEngine.AudioSettings::InvokeOnAudioManagerUpdate()
-extern "C"  void AudioSettings_InvokeOnAudioManagerUpdate_m3321870624 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  void AudioSettings_InvokeOnAudioManagerUpdate_m1734027323 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioSettings_InvokeOnAudioManagerUpdate_m3321870624_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioSettings_InvokeOnAudioManagerUpdate_m1734027323_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_Update_m73762593(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_Update_m1805526171(NULL /*static, unused*/, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSettings::InvokeOnAudioSourcePlay(UnityEngine.AudioSource)
-extern "C"  void AudioSettings_InvokeOnAudioSourcePlay_m2192450994 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___source0, const RuntimeMethod* method)
+extern "C"  void AudioSettings_InvokeOnAudioSourcePlay_m392845342 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___source0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioSettings_InvokeOnAudioSourcePlay_m2192450994_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioSettings_InvokeOnAudioSourcePlay_m392845342_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSourceExtension_t1539232135 * V_0 = NULL;
-	AudioSourceExtension_t1539232135 * V_1 = NULL;
+	AudioSourceExtension_t2842685391 * V_0 = NULL;
+	AudioSourceExtension_t2842685391 * V_1 = NULL;
 	{
-		AudioSource_t2681891155 * L_0 = ___source0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioSourceExtension_t1539232135 * L_1 = AudioExtensionManager_AddSpatializerExtension_m91879993(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_0 = ___source0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioSourceExtension_t2842685391 * L_1 = AudioExtensionManager_AddSpatializerExtension_m3116584675(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
-		AudioSourceExtension_t1539232135 * L_2 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_3 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_2, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_2 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_3 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_2, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_001a;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_4 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_GetReadyToPlay_m254406875(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_4 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_GetReadyToPlay_m1586308525(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
 	}
 
 IL_001a:
 	{
-		AudioSource_t2681891155 * L_5 = ___source0;
+		AudioSource_t109427735 * L_5 = ___source0;
 		NullCheck(L_5);
-		AudioClip_t152874045 * L_6 = AudioSource_get_clip_m702259786(L_5, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_7 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_6, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioClip_t303190502 * L_6 = AudioSource_get_clip_m272993444(L_5, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_7 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_6, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0056;
 		}
 	}
 	{
-		AudioSource_t2681891155 * L_8 = ___source0;
+		AudioSource_t109427735 * L_8 = ___source0;
 		NullCheck(L_8);
-		AudioClip_t152874045 * L_9 = AudioSource_get_clip_m702259786(L_8, /*hidden argument*/NULL);
+		AudioClip_t303190502 * L_9 = AudioSource_get_clip_m272993444(L_8, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		bool L_10 = AudioClip_get_ambisonic_m3547836459(L_9, /*hidden argument*/NULL);
+		bool L_10 = AudioClip_get_ambisonic_m1575967398(L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0056;
 		}
 	}
 	{
-		AudioSource_t2681891155 * L_11 = ___source0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioSourceExtension_t1539232135 * L_12 = AudioExtensionManager_AddAmbisonicDecoderExtension_m342453594(NULL /*static, unused*/, L_11, /*hidden argument*/NULL);
+		AudioSource_t109427735 * L_11 = ___source0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioSourceExtension_t2842685391 * L_12 = AudioExtensionManager_AddAmbisonicDecoderExtension_m9332641(NULL /*static, unused*/, L_11, /*hidden argument*/NULL);
 		V_1 = L_12;
-		AudioSourceExtension_t1539232135 * L_13 = V_1;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_14 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_13, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_13 = V_1;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_14 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_13, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_14)
 		{
 			goto IL_0055;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_15 = V_1;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_GetReadyToPlay_m254406875(NULL /*static, unused*/, L_15, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_15 = V_1;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_GetReadyToPlay_m1586308525(NULL /*static, unused*/, L_15, /*hidden argument*/NULL);
 	}
 
 IL_0055:
@@ -4679,16 +4679,16 @@ IL_0056:
 	}
 }
 // System.String UnityEngine.AudioSettings::GetAmbisonicDecoderPluginName()
-extern "C"  String_t* AudioSettings_GetAmbisonicDecoderPluginName_m2502477914 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
+extern "C"  String_t* AudioSettings_GetAmbisonicDecoderPluginName_m3517816291 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method)
 {
-	typedef String_t* (*AudioSettings_GetAmbisonicDecoderPluginName_m2502477914_ftn) ();
-	static AudioSettings_GetAmbisonicDecoderPluginName_m2502477914_ftn _il2cpp_icall_func;
+	typedef String_t* (*AudioSettings_GetAmbisonicDecoderPluginName_m3517816291_ftn) ();
+	static AudioSettings_GetAmbisonicDecoderPluginName_m3517816291_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSettings_GetAmbisonicDecoderPluginName_m2502477914_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSettings::GetAmbisonicDecoderPluginName()");
+	_il2cpp_icall_func = (AudioSettings_GetAmbisonicDecoderPluginName_m3517816291_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSettings::GetAmbisonicDecoderPluginName()");
 	String_t* retVal = _il2cpp_icall_func();
 	return retVal;
 }
-extern "C"  void DelegatePInvokeWrapper_AudioConfigurationChangeHandler_t932913356 (AudioConfigurationChangeHandler_t932913356 * __this, bool ___deviceWasChanged0, const RuntimeMethod* method)
+extern "C"  void DelegatePInvokeWrapper_AudioConfigurationChangeHandler_t2726240268 (AudioConfigurationChangeHandler_t2726240268 * __this, bool ___deviceWasChanged0, const RuntimeMethod* method)
 {
 	typedef void (STDCALL *PInvokeFunc)(int32_t);
 	PInvokeFunc il2cppPInvokeFunc = reinterpret_cast<PInvokeFunc>(il2cpp_codegen_get_method_pointer(((RuntimeDelegate*)__this)->method));
@@ -4698,18 +4698,18 @@ extern "C"  void DelegatePInvokeWrapper_AudioConfigurationChangeHandler_t9329133
 
 }
 // System.Void UnityEngine.AudioSettings/AudioConfigurationChangeHandler::.ctor(System.Object,System.IntPtr)
-extern "C"  void AudioConfigurationChangeHandler__ctor_m486178974 (AudioConfigurationChangeHandler_t932913356 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
+extern "C"  void AudioConfigurationChangeHandler__ctor_m3504321611 (AudioConfigurationChangeHandler_t2726240268 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
 	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
 	__this->set_method_3(___method1);
 	__this->set_m_target_2(___object0);
 }
 // System.Void UnityEngine.AudioSettings/AudioConfigurationChangeHandler::Invoke(System.Boolean)
-extern "C"  void AudioConfigurationChangeHandler_Invoke_m3848833283 (AudioConfigurationChangeHandler_t932913356 * __this, bool ___deviceWasChanged0, const RuntimeMethod* method)
+extern "C"  void AudioConfigurationChangeHandler_Invoke_m3622358656 (AudioConfigurationChangeHandler_t2726240268 * __this, bool ___deviceWasChanged0, const RuntimeMethod* method)
 {
 	if(__this->get_prev_9() != NULL)
 	{
-		AudioConfigurationChangeHandler_Invoke_m3848833283((AudioConfigurationChangeHandler_t932913356 *)__this->get_prev_9(),___deviceWasChanged0, method);
+		AudioConfigurationChangeHandler_Invoke_m3622358656((AudioConfigurationChangeHandler_t2726240268 *)__this->get_prev_9(),___deviceWasChanged0, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((RuntimeMethod*)(__this->get_method_3()));
 	bool ___methodIsStatic = MethodIsStatic((RuntimeMethod*)(__this->get_method_3()));
@@ -4725,128 +4725,128 @@ extern "C"  void AudioConfigurationChangeHandler_Invoke_m3848833283 (AudioConfig
 	}
 }
 // System.IAsyncResult UnityEngine.AudioSettings/AudioConfigurationChangeHandler::BeginInvoke(System.Boolean,System.AsyncCallback,System.Object)
-extern "C"  RuntimeObject* AudioConfigurationChangeHandler_BeginInvoke_m3966684641 (AudioConfigurationChangeHandler_t932913356 * __this, bool ___deviceWasChanged0, AsyncCallback_t1505771400 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
+extern "C"  RuntimeObject* AudioConfigurationChangeHandler_BeginInvoke_m1298908602 (AudioConfigurationChangeHandler_t2726240268 * __this, bool ___deviceWasChanged0, AsyncCallback_t1433732315 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioConfigurationChangeHandler_BeginInvoke_m3966684641_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioConfigurationChangeHandler_BeginInvoke_m1298908602_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	void *__d_args[2] = {0};
-	__d_args[0] = Box(Boolean_t2016116572_il2cpp_TypeInfo_var, &___deviceWasChanged0);
+	__d_args[0] = Box(Boolean_t806962679_il2cpp_TypeInfo_var, &___deviceWasChanged0);
 	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
 }
 // System.Void UnityEngine.AudioSettings/AudioConfigurationChangeHandler::EndInvoke(System.IAsyncResult)
-extern "C"  void AudioConfigurationChangeHandler_EndInvoke_m1808484619 (AudioConfigurationChangeHandler_t932913356 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
+extern "C"  void AudioConfigurationChangeHandler_EndInvoke_m498389222 (AudioConfigurationChangeHandler_t2726240268 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
 {
 	il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
 }
 // UnityEngine.AudioClip UnityEngine.AudioSource::get_clip()
-extern "C"  AudioClip_t152874045 * AudioSource_get_clip_m702259786 (AudioSource_t2681891155 * __this, const RuntimeMethod* method)
+extern "C"  AudioClip_t303190502 * AudioSource_get_clip_m272993444 (AudioSource_t109427735 * __this, const RuntimeMethod* method)
 {
-	typedef AudioClip_t152874045 * (*AudioSource_get_clip_m702259786_ftn) (AudioSource_t2681891155 *);
-	static AudioSource_get_clip_m702259786_ftn _il2cpp_icall_func;
+	typedef AudioClip_t303190502 * (*AudioSource_get_clip_m272993444_ftn) (AudioSource_t109427735 *);
+	static AudioSource_get_clip_m272993444_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_get_clip_m702259786_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::get_clip()");
-	AudioClip_t152874045 * retVal = _il2cpp_icall_func(__this);
+	_il2cpp_icall_func = (AudioSource_get_clip_m272993444_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::get_clip()");
+	AudioClip_t303190502 * retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
 // System.Void UnityEngine.AudioSource::set_clip(UnityEngine.AudioClip)
-extern "C"  void AudioSource_set_clip_m1313336799 (AudioSource_t2681891155 * __this, AudioClip_t152874045 * ___value0, const RuntimeMethod* method)
+extern "C"  void AudioSource_set_clip_m3721783409 (AudioSource_t109427735 * __this, AudioClip_t303190502 * ___value0, const RuntimeMethod* method)
 {
-	typedef void (*AudioSource_set_clip_m1313336799_ftn) (AudioSource_t2681891155 *, AudioClip_t152874045 *);
-	static AudioSource_set_clip_m1313336799_ftn _il2cpp_icall_func;
+	typedef void (*AudioSource_set_clip_m3721783409_ftn) (AudioSource_t109427735 *, AudioClip_t303190502 *);
+	static AudioSource_set_clip_m3721783409_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_set_clip_m1313336799_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::set_clip(UnityEngine.AudioClip)");
+	_il2cpp_icall_func = (AudioSource_set_clip_m3721783409_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::set_clip(UnityEngine.AudioClip)");
 	_il2cpp_icall_func(__this, ___value0);
 }
 // System.Void UnityEngine.AudioSource::Play(System.UInt64)
-extern "C"  void AudioSource_Play_m1610476298 (AudioSource_t2681891155 * __this, uint64_t ___delay0, const RuntimeMethod* method)
+extern "C"  void AudioSource_Play_m1861803887 (AudioSource_t109427735 * __this, uint64_t ___delay0, const RuntimeMethod* method)
 {
-	typedef void (*AudioSource_Play_m1610476298_ftn) (AudioSource_t2681891155 *, uint64_t);
-	static AudioSource_Play_m1610476298_ftn _il2cpp_icall_func;
+	typedef void (*AudioSource_Play_m1861803887_ftn) (AudioSource_t109427735 *, uint64_t);
+	static AudioSource_Play_m1861803887_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_Play_m1610476298_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::Play(System.UInt64)");
+	_il2cpp_icall_func = (AudioSource_Play_m1861803887_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::Play(System.UInt64)");
 	_il2cpp_icall_func(__this, ___delay0);
 }
 // System.Void UnityEngine.AudioSource::Play()
-extern "C"  void AudioSource_Play_m3930903986 (AudioSource_t2681891155 * __this, const RuntimeMethod* method)
+extern "C"  void AudioSource_Play_m2809959810 (AudioSource_t109427735 * __this, const RuntimeMethod* method)
 {
 	uint64_t V_0 = 0;
 	{
 		V_0 = (((int64_t)((int64_t)0)));
 		uint64_t L_0 = V_0;
-		AudioSource_Play_m1610476298(__this, L_0, /*hidden argument*/NULL);
+		AudioSource_Play_m1861803887(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Boolean UnityEngine.AudioSource::get_isPlaying()
-extern "C"  bool AudioSource_get_isPlaying_m2112409085 (AudioSource_t2681891155 * __this, const RuntimeMethod* method)
+extern "C"  bool AudioSource_get_isPlaying_m2203777841 (AudioSource_t109427735 * __this, const RuntimeMethod* method)
 {
-	typedef bool (*AudioSource_get_isPlaying_m2112409085_ftn) (AudioSource_t2681891155 *);
-	static AudioSource_get_isPlaying_m2112409085_ftn _il2cpp_icall_func;
+	typedef bool (*AudioSource_get_isPlaying_m2203777841_ftn) (AudioSource_t109427735 *);
+	static AudioSource_get_isPlaying_m2203777841_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_get_isPlaying_m2112409085_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::get_isPlaying()");
+	_il2cpp_icall_func = (AudioSource_get_isPlaying_m2203777841_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::get_isPlaying()");
 	bool retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
 // System.Void UnityEngine.AudioSource::PlayOneShot(UnityEngine.AudioClip)
-extern "C"  void AudioSource_PlayOneShot_m3153513712 (AudioSource_t2681891155 * __this, AudioClip_t152874045 * ___clip0, const RuntimeMethod* method)
+extern "C"  void AudioSource_PlayOneShot_m1051988947 (AudioSource_t109427735 * __this, AudioClip_t303190502 * ___clip0, const RuntimeMethod* method)
 {
 	float V_0 = 0.0f;
 	{
 		V_0 = (1.0f);
-		AudioClip_t152874045 * L_0 = ___clip0;
+		AudioClip_t303190502 * L_0 = ___clip0;
 		float L_1 = V_0;
-		AudioSource_PlayOneShot_m2254371663(__this, L_0, L_1, /*hidden argument*/NULL);
+		AudioSource_PlayOneShot_m2326217846(__this, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSource::PlayOneShot(UnityEngine.AudioClip,System.Single)
-extern "C"  void AudioSource_PlayOneShot_m2254371663 (AudioSource_t2681891155 * __this, AudioClip_t152874045 * ___clip0, float ___volumeScale1, const RuntimeMethod* method)
+extern "C"  void AudioSource_PlayOneShot_m2326217846 (AudioSource_t109427735 * __this, AudioClip_t303190502 * ___clip0, float ___volumeScale1, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioSource_PlayOneShot_m2254371663_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioSource_PlayOneShot_m2326217846_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSourceExtension_t1539232135 * V_0 = NULL;
+	AudioSourceExtension_t2842685391 * V_0 = NULL;
 	{
-		AudioClip_t152874045 * L_0 = ___clip0;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_1 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_0, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioClip_t303190502 * L_0 = ___clip0;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_1 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_0, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0033;
 		}
 	}
 	{
-		AudioClip_t152874045 * L_2 = ___clip0;
+		AudioClip_t303190502 * L_2 = ___clip0;
 		NullCheck(L_2);
-		bool L_3 = AudioClip_get_ambisonic_m3547836459(L_2, /*hidden argument*/NULL);
+		bool L_3 = AudioClip_get_ambisonic_m1575967398(L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0033;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioSourceExtension_t1539232135 * L_4 = AudioExtensionManager_AddAmbisonicDecoderExtension_m342453594(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioSourceExtension_t2842685391 * L_4 = AudioExtensionManager_AddAmbisonicDecoderExtension_m9332641(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		V_0 = L_4;
-		AudioSourceExtension_t1539232135 * L_5 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_6 = Object_op_Inequality_m1335257197(NULL /*static, unused*/, L_5, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_5 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_6 = Object_op_Inequality_m3753203157(NULL /*static, unused*/, L_5, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0032;
 		}
 	}
 	{
-		AudioSourceExtension_t1539232135 * L_7 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t1647051116_il2cpp_TypeInfo_var);
-		AudioExtensionManager_GetReadyToPlay_m254406875(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_7 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(AudioExtensionManager_t406276441_il2cpp_TypeInfo_var);
+		AudioExtensionManager_GetReadyToPlay_m1586308525(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 	}
 
 IL_0032:
@@ -4855,37 +4855,37 @@ IL_0032:
 
 IL_0033:
 	{
-		AudioClip_t152874045 * L_8 = ___clip0;
+		AudioClip_t303190502 * L_8 = ___clip0;
 		float L_9 = ___volumeScale1;
-		AudioSource_PlayOneShotHelper_m3998380383(__this, L_8, L_9, /*hidden argument*/NULL);
+		AudioSource_PlayOneShotHelper_m1588849864(__this, L_8, L_9, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSource::PlayOneShotHelper(UnityEngine.AudioClip,System.Single)
-extern "C"  void AudioSource_PlayOneShotHelper_m3998380383 (AudioSource_t2681891155 * __this, AudioClip_t152874045 * ___clip0, float ___volumeScale1, const RuntimeMethod* method)
+extern "C"  void AudioSource_PlayOneShotHelper_m1588849864 (AudioSource_t109427735 * __this, AudioClip_t303190502 * ___clip0, float ___volumeScale1, const RuntimeMethod* method)
 {
-	typedef void (*AudioSource_PlayOneShotHelper_m3998380383_ftn) (AudioSource_t2681891155 *, AudioClip_t152874045 *, float);
-	static AudioSource_PlayOneShotHelper_m3998380383_ftn _il2cpp_icall_func;
+	typedef void (*AudioSource_PlayOneShotHelper_m1588849864_ftn) (AudioSource_t109427735 *, AudioClip_t303190502 *, float);
+	static AudioSource_PlayOneShotHelper_m1588849864_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_PlayOneShotHelper_m3998380383_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::PlayOneShotHelper(UnityEngine.AudioClip,System.Single)");
+	_il2cpp_icall_func = (AudioSource_PlayOneShotHelper_m1588849864_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::PlayOneShotHelper(UnityEngine.AudioClip,System.Single)");
 	_il2cpp_icall_func(__this, ___clip0, ___volumeScale1);
 }
 // System.Boolean UnityEngine.AudioSource::get_spatializeInternal()
-extern "C"  bool AudioSource_get_spatializeInternal_m2120732809 (AudioSource_t2681891155 * __this, const RuntimeMethod* method)
+extern "C"  bool AudioSource_get_spatializeInternal_m3729747600 (AudioSource_t109427735 * __this, const RuntimeMethod* method)
 {
-	typedef bool (*AudioSource_get_spatializeInternal_m2120732809_ftn) (AudioSource_t2681891155 *);
-	static AudioSource_get_spatializeInternal_m2120732809_ftn _il2cpp_icall_func;
+	typedef bool (*AudioSource_get_spatializeInternal_m3729747600_ftn) (AudioSource_t109427735 *);
+	static AudioSource_get_spatializeInternal_m3729747600_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_get_spatializeInternal_m2120732809_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::get_spatializeInternal()");
+	_il2cpp_icall_func = (AudioSource_get_spatializeInternal_m3729747600_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::get_spatializeInternal()");
 	bool retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
 // System.Boolean UnityEngine.AudioSource::get_spatialize()
-extern "C"  bool AudioSource_get_spatialize_m2662754792 (AudioSource_t2681891155 * __this, const RuntimeMethod* method)
+extern "C"  bool AudioSource_get_spatialize_m1146628736 (AudioSource_t109427735 * __this, const RuntimeMethod* method)
 {
 	bool V_0 = false;
 	{
-		bool L_0 = AudioSource_get_spatializeInternal_m2120732809(__this, /*hidden argument*/NULL);
+		bool L_0 = AudioSource_get_spatializeInternal_m3729747600(__this, /*hidden argument*/NULL);
 		V_0 = L_0;
 		goto IL_000d;
 	}
@@ -4897,116 +4897,116 @@ IL_000d:
 	}
 }
 // System.Int32 UnityEngine.AudioSource::GetNumExtensionProperties()
-extern "C"  int32_t AudioSource_GetNumExtensionProperties_m2648564577 (AudioSource_t2681891155 * __this, const RuntimeMethod* method)
+extern "C"  int32_t AudioSource_GetNumExtensionProperties_m1431706114 (AudioSource_t109427735 * __this, const RuntimeMethod* method)
 {
-	typedef int32_t (*AudioSource_GetNumExtensionProperties_m2648564577_ftn) (AudioSource_t2681891155 *);
-	static AudioSource_GetNumExtensionProperties_m2648564577_ftn _il2cpp_icall_func;
+	typedef int32_t (*AudioSource_GetNumExtensionProperties_m1431706114_ftn) (AudioSource_t109427735 *);
+	static AudioSource_GetNumExtensionProperties_m1431706114_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_GetNumExtensionProperties_m2648564577_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::GetNumExtensionProperties()");
+	_il2cpp_icall_func = (AudioSource_GetNumExtensionProperties_m1431706114_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::GetNumExtensionProperties()");
 	int32_t retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
 // UnityEngine.PropertyName UnityEngine.AudioSource::ReadExtensionName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioSource_ReadExtensionName_m3466424757 (AudioSource_t2681891155 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method)
+extern "C"  PropertyName_t629672075  AudioSource_ReadExtensionName_m995622072 (AudioSource_t109427735 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method)
 {
-	PropertyName_t957933759  V_0;
+	PropertyName_t629672075  V_0;
 	memset(&V_0, 0, sizeof(V_0));
-	PropertyName_t957933759  V_1;
+	PropertyName_t629672075  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	{
 		int32_t L_0 = ___sourceIndex0;
-		AudioSource_INTERNAL_CALL_ReadExtensionName_m2267956477(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
-		PropertyName_t957933759  L_1 = V_0;
+		AudioSource_INTERNAL_CALL_ReadExtensionName_m3287533836(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
+		PropertyName_t629672075  L_1 = V_0;
 		V_1 = L_1;
 		goto IL_0011;
 	}
 
 IL_0011:
 	{
-		PropertyName_t957933759  L_2 = V_1;
+		PropertyName_t629672075  L_2 = V_1;
 		return L_2;
 	}
 }
 // System.Void UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionName_m2267956477 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___self0, int32_t ___sourceIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method)
+extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionName_m3287533836 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___self0, int32_t ___sourceIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method)
 {
-	typedef void (*AudioSource_INTERNAL_CALL_ReadExtensionName_m2267956477_ftn) (AudioSource_t2681891155 *, int32_t, PropertyName_t957933759 *);
-	static AudioSource_INTERNAL_CALL_ReadExtensionName_m2267956477_ftn _il2cpp_icall_func;
+	typedef void (*AudioSource_INTERNAL_CALL_ReadExtensionName_m3287533836_ftn) (AudioSource_t109427735 *, int32_t, PropertyName_t629672075 *);
+	static AudioSource_INTERNAL_CALL_ReadExtensionName_m3287533836_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_INTERNAL_CALL_ReadExtensionName_m2267956477_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)");
+	_il2cpp_icall_func = (AudioSource_INTERNAL_CALL_ReadExtensionName_m3287533836_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)");
 	_il2cpp_icall_func(___self0, ___sourceIndex1, ___value2);
 }
 // UnityEngine.PropertyName UnityEngine.AudioSource::ReadExtensionPropertyName(System.Int32)
-extern "C"  PropertyName_t957933759  AudioSource_ReadExtensionPropertyName_m3420825702 (AudioSource_t2681891155 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method)
+extern "C"  PropertyName_t629672075  AudioSource_ReadExtensionPropertyName_m2205040185 (AudioSource_t109427735 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method)
 {
-	PropertyName_t957933759  V_0;
+	PropertyName_t629672075  V_0;
 	memset(&V_0, 0, sizeof(V_0));
-	PropertyName_t957933759  V_1;
+	PropertyName_t629672075  V_1;
 	memset(&V_1, 0, sizeof(V_1));
 	{
 		int32_t L_0 = ___sourceIndex0;
-		AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m3114311239(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
-		PropertyName_t957933759  L_1 = V_0;
+		AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m2006380507(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
+		PropertyName_t629672075  L_1 = V_0;
 		V_1 = L_1;
 		goto IL_0011;
 	}
 
 IL_0011:
 	{
-		PropertyName_t957933759  L_2 = V_1;
+		PropertyName_t629672075  L_2 = V_1;
 		return L_2;
 	}
 }
 // System.Void UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)
-extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m3114311239 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___self0, int32_t ___sourceIndex1, PropertyName_t957933759 * ___value2, const RuntimeMethod* method)
+extern "C"  void AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m2006380507 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___self0, int32_t ___sourceIndex1, PropertyName_t629672075 * ___value2, const RuntimeMethod* method)
 {
-	typedef void (*AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m3114311239_ftn) (AudioSource_t2681891155 *, int32_t, PropertyName_t957933759 *);
-	static AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m3114311239_ftn _il2cpp_icall_func;
+	typedef void (*AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m2006380507_ftn) (AudioSource_t109427735 *, int32_t, PropertyName_t629672075 *);
+	static AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m2006380507_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m3114311239_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)");
+	_il2cpp_icall_func = (AudioSource_INTERNAL_CALL_ReadExtensionPropertyName_m2006380507_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::INTERNAL_CALL_ReadExtensionPropertyName(UnityEngine.AudioSource,System.Int32,UnityEngine.PropertyName&)");
 	_il2cpp_icall_func(___self0, ___sourceIndex1, ___value2);
 }
 // System.Single UnityEngine.AudioSource::ReadExtensionPropertyValue(System.Int32)
-extern "C"  float AudioSource_ReadExtensionPropertyValue_m964212812 (AudioSource_t2681891155 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method)
+extern "C"  float AudioSource_ReadExtensionPropertyValue_m401465956 (AudioSource_t109427735 * __this, int32_t ___sourceIndex0, const RuntimeMethod* method)
 {
-	typedef float (*AudioSource_ReadExtensionPropertyValue_m964212812_ftn) (AudioSource_t2681891155 *, int32_t);
-	static AudioSource_ReadExtensionPropertyValue_m964212812_ftn _il2cpp_icall_func;
+	typedef float (*AudioSource_ReadExtensionPropertyValue_m401465956_ftn) (AudioSource_t109427735 *, int32_t);
+	static AudioSource_ReadExtensionPropertyValue_m401465956_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_ReadExtensionPropertyValue_m964212812_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::ReadExtensionPropertyValue(System.Int32)");
+	_il2cpp_icall_func = (AudioSource_ReadExtensionPropertyValue_m401465956_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::ReadExtensionPropertyValue(System.Int32)");
 	float retVal = _il2cpp_icall_func(__this, ___sourceIndex0);
 	return retVal;
 }
 // System.Void UnityEngine.AudioSource::ClearExtensionProperties(UnityEngine.PropertyName)
-extern "C"  void AudioSource_ClearExtensionProperties_m1925475405 (AudioSource_t2681891155 * __this, PropertyName_t957933759  ___extensionName0, const RuntimeMethod* method)
+extern "C"  void AudioSource_ClearExtensionProperties_m2007406658 (AudioSource_t109427735 * __this, PropertyName_t629672075  ___extensionName0, const RuntimeMethod* method)
 {
 	{
-		AudioSource_INTERNAL_CALL_ClearExtensionProperties_m3753371759(NULL /*static, unused*/, __this, (&___extensionName0), /*hidden argument*/NULL);
+		AudioSource_INTERNAL_CALL_ClearExtensionProperties_m1884091979(NULL /*static, unused*/, __this, (&___extensionName0), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSource::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioSource,UnityEngine.PropertyName&)
-extern "C"  void AudioSource_INTERNAL_CALL_ClearExtensionProperties_m3753371759 (RuntimeObject * __this /* static, unused */, AudioSource_t2681891155 * ___self0, PropertyName_t957933759 * ___extensionName1, const RuntimeMethod* method)
+extern "C"  void AudioSource_INTERNAL_CALL_ClearExtensionProperties_m1884091979 (RuntimeObject * __this /* static, unused */, AudioSource_t109427735 * ___self0, PropertyName_t629672075 * ___extensionName1, const RuntimeMethod* method)
 {
-	typedef void (*AudioSource_INTERNAL_CALL_ClearExtensionProperties_m3753371759_ftn) (AudioSource_t2681891155 *, PropertyName_t957933759 *);
-	static AudioSource_INTERNAL_CALL_ClearExtensionProperties_m3753371759_ftn _il2cpp_icall_func;
+	typedef void (*AudioSource_INTERNAL_CALL_ClearExtensionProperties_m1884091979_ftn) (AudioSource_t109427735 *, PropertyName_t629672075 *);
+	static AudioSource_INTERNAL_CALL_ClearExtensionProperties_m1884091979_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AudioSource_INTERNAL_CALL_ClearExtensionProperties_m3753371759_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioSource,UnityEngine.PropertyName&)");
+	_il2cpp_icall_func = (AudioSource_INTERNAL_CALL_ClearExtensionProperties_m1884091979_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AudioSource::INTERNAL_CALL_ClearExtensionProperties(UnityEngine.AudioSource,UnityEngine.PropertyName&)");
 	_il2cpp_icall_func(___self0, ___extensionName1);
 }
 // UnityEngine.AudioSourceExtension UnityEngine.AudioSource::AddSpatializerExtension(System.Type)
-extern "C"  AudioSourceExtension_t1539232135 * AudioSource_AddSpatializerExtension_m694521801 (AudioSource_t2681891155 * __this, Type_t * ___extensionType0, const RuntimeMethod* method)
+extern "C"  AudioSourceExtension_t2842685391 * AudioSource_AddSpatializerExtension_m1274846644 (AudioSource_t109427735 * __this, Type_t * ___extensionType0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioSource_AddSpatializerExtension_m694521801_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioSource_AddSpatializerExtension_m1274846644_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSourceExtension_t1539232135 * V_0 = NULL;
+	AudioSourceExtension_t2842685391 * V_0 = NULL;
 	{
-		AudioSourceExtension_t1539232135 * L_0 = __this->get_spatializerExtension_2();
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_1 = Object_op_Equality_m699610968(NULL /*static, unused*/, L_0, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_0 = __this->get_spatializerExtension_2();
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_1 = Object_op_Equality_m406301361(NULL /*static, unused*/, L_0, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0025;
@@ -5014,37 +5014,37 @@ extern "C"  AudioSourceExtension_t1539232135 * AudioSource_AddSpatializerExtensi
 	}
 	{
 		Type_t * L_2 = ___extensionType0;
-		ScriptableObject_t1637412538 * L_3 = ScriptableObject_CreateInstance_m2777620213(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
-		__this->set_spatializerExtension_2(((AudioSourceExtension_t1539232135 *)IsInstClass((RuntimeObject*)L_3, AudioSourceExtension_t1539232135_il2cpp_TypeInfo_var)));
+		ScriptableObject_t184210050 * L_3 = ScriptableObject_CreateInstance_m1931114408(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		__this->set_spatializerExtension_2(((AudioSourceExtension_t2842685391 *)IsInstClass((RuntimeObject*)L_3, AudioSourceExtension_t2842685391_il2cpp_TypeInfo_var)));
 	}
 
 IL_0025:
 	{
-		AudioSourceExtension_t1539232135 * L_4 = __this->get_spatializerExtension_2();
+		AudioSourceExtension_t2842685391 * L_4 = __this->get_spatializerExtension_2();
 		V_0 = L_4;
 		goto IL_0031;
 	}
 
 IL_0031:
 	{
-		AudioSourceExtension_t1539232135 * L_5 = V_0;
+		AudioSourceExtension_t2842685391 * L_5 = V_0;
 		return L_5;
 	}
 }
 // UnityEngine.AudioSourceExtension UnityEngine.AudioSource::AddAmbisonicExtension(System.Type)
-extern "C"  AudioSourceExtension_t1539232135 * AudioSource_AddAmbisonicExtension_m1544932888 (AudioSource_t2681891155 * __this, Type_t * ___extensionType0, const RuntimeMethod* method)
+extern "C"  AudioSourceExtension_t2842685391 * AudioSource_AddAmbisonicExtension_m2087215766 (AudioSource_t109427735 * __this, Type_t * ___extensionType0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (AudioSource_AddAmbisonicExtension_m1544932888_MetadataUsageId);
+		il2cpp_codegen_initialize_method (AudioSource_AddAmbisonicExtension_m2087215766_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
-	AudioSourceExtension_t1539232135 * V_0 = NULL;
+	AudioSourceExtension_t2842685391 * V_0 = NULL;
 	{
-		AudioSourceExtension_t1539232135 * L_0 = __this->get_ambisonicExtension_3();
-		IL2CPP_RUNTIME_CLASS_INIT(Object_t224960187_il2cpp_TypeInfo_var);
-		bool L_1 = Object_op_Equality_m699610968(NULL /*static, unused*/, L_0, (Object_t224960187 *)NULL, /*hidden argument*/NULL);
+		AudioSourceExtension_t2842685391 * L_0 = __this->get_ambisonicExtension_3();
+		IL2CPP_RUNTIME_CLASS_INIT(Object_t2092332117_il2cpp_TypeInfo_var);
+		bool L_1 = Object_op_Equality_m406301361(NULL /*static, unused*/, L_0, (Object_t2092332117 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0025;
@@ -5052,71 +5052,71 @@ extern "C"  AudioSourceExtension_t1539232135 * AudioSource_AddAmbisonicExtension
 	}
 	{
 		Type_t * L_2 = ___extensionType0;
-		ScriptableObject_t1637412538 * L_3 = ScriptableObject_CreateInstance_m2777620213(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
-		__this->set_ambisonicExtension_3(((AudioSourceExtension_t1539232135 *)IsInstClass((RuntimeObject*)L_3, AudioSourceExtension_t1539232135_il2cpp_TypeInfo_var)));
+		ScriptableObject_t184210050 * L_3 = ScriptableObject_CreateInstance_m1931114408(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		__this->set_ambisonicExtension_3(((AudioSourceExtension_t2842685391 *)IsInstClass((RuntimeObject*)L_3, AudioSourceExtension_t2842685391_il2cpp_TypeInfo_var)));
 	}
 
 IL_0025:
 	{
-		AudioSourceExtension_t1539232135 * L_4 = __this->get_ambisonicExtension_3();
+		AudioSourceExtension_t2842685391 * L_4 = __this->get_ambisonicExtension_3();
 		V_0 = L_4;
 		goto IL_0031;
 	}
 
 IL_0031:
 	{
-		AudioSourceExtension_t1539232135 * L_5 = V_0;
+		AudioSourceExtension_t2842685391 * L_5 = V_0;
 		return L_5;
 	}
 }
 // UnityEngine.AudioSource UnityEngine.AudioSourceExtension::get_audioSource()
-extern "C"  AudioSource_t2681891155 * AudioSourceExtension_get_audioSource_m703059362 (AudioSourceExtension_t1539232135 * __this, const RuntimeMethod* method)
+extern "C"  AudioSource_t109427735 * AudioSourceExtension_get_audioSource_m4281024043 (AudioSourceExtension_t2842685391 * __this, const RuntimeMethod* method)
 {
-	AudioSource_t2681891155 * V_0 = NULL;
+	AudioSource_t109427735 * V_0 = NULL;
 	{
-		AudioSource_t2681891155 * L_0 = __this->get_m_audioSource_2();
+		AudioSource_t109427735 * L_0 = __this->get_m_audioSource_2();
 		V_0 = L_0;
 		goto IL_000d;
 	}
 
 IL_000d:
 	{
-		AudioSource_t2681891155 * L_1 = V_0;
+		AudioSource_t109427735 * L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.AudioSourceExtension::set_audioSource(UnityEngine.AudioSource)
-extern "C"  void AudioSourceExtension_set_audioSource_m518350548 (AudioSourceExtension_t1539232135 * __this, AudioSource_t2681891155 * ___value0, const RuntimeMethod* method)
+extern "C"  void AudioSourceExtension_set_audioSource_m281014207 (AudioSourceExtension_t2842685391 * __this, AudioSource_t109427735 * ___value0, const RuntimeMethod* method)
 {
 	{
-		AudioSource_t2681891155 * L_0 = ___value0;
+		AudioSource_t109427735 * L_0 = ___value0;
 		__this->set_m_audioSource_2(L_0);
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSourceExtension::WriteExtensionProperty(UnityEngine.PropertyName,System.Single)
-extern "C"  void AudioSourceExtension_WriteExtensionProperty_m3968557511 (AudioSourceExtension_t1539232135 * __this, PropertyName_t957933759  ___propertyName0, float ___propertyValue1, const RuntimeMethod* method)
+extern "C"  void AudioSourceExtension_WriteExtensionProperty_m2976433767 (AudioSourceExtension_t2842685391 * __this, PropertyName_t629672075  ___propertyName0, float ___propertyValue1, const RuntimeMethod* method)
 {
 	{
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSourceExtension::Play()
-extern "C"  void AudioSourceExtension_Play_m311535858 (AudioSourceExtension_t1539232135 * __this, const RuntimeMethod* method)
+extern "C"  void AudioSourceExtension_Play_m2769649640 (AudioSourceExtension_t2842685391 * __this, const RuntimeMethod* method)
 {
 	{
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSourceExtension::Stop()
-extern "C"  void AudioSourceExtension_Stop_m3541578894 (AudioSourceExtension_t1539232135 * __this, const RuntimeMethod* method)
+extern "C"  void AudioSourceExtension_Stop_m1823807518 (AudioSourceExtension_t2842685391 * __this, const RuntimeMethod* method)
 {
 	{
 		return;
 	}
 }
 // System.Void UnityEngine.AudioSourceExtension::ExtensionUpdate()
-extern "C"  void AudioSourceExtension_ExtensionUpdate_m3643498004 (AudioSourceExtension_t1539232135 * __this, const RuntimeMethod* method)
+extern "C"  void AudioSourceExtension_ExtensionUpdate_m2867548641 (AudioSourceExtension_t2842685391 * __this, const RuntimeMethod* method)
 {
 	{
 		return;

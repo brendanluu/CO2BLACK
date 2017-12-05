@@ -11,7 +11,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 201
   Total Field Removals = 1113
-  Total Method Removals = 15583
+  Total Method Removals = 15578
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mapbox.Json
@@ -14302,7 +14302,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 0
   Total Field Removals = 0
-  Total Method Removals = 630
+  Total Method Removals = 624
   References Removed = 0
 ---------------------------------------------------
     UnityEngine.Animation
@@ -14814,12 +14814,6 @@ Summary:
         IsParameterControlledByCurveString(System.String)
         MatchTarget(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.AvatarTarget,UnityEngine.MatchTargetWeightMask,System.Single)
         MatchTarget(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.AvatarTarget,UnityEngine.MatchTargetWeightMask,System.Single,System.Single)
-        Play(System.Int32)
-        Play(System.Int32,System.Int32)
-        Play(System.Int32,System.Int32,System.Single)
-        Play(System.String)
-        Play(System.String,System.Int32)
-        Play(System.String,System.Int32,System.Single)
         PlayInFixedTime(System.Int32)
         PlayInFixedTime(System.Int32,System.Int32)
         PlayInFixedTime(System.Int32,System.Int32,System.Single)
@@ -15295,7 +15289,7 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 44
   Total Field Removals = 27
-  Total Method Removals = 2710
+  Total Method Removals = 2711
   References Removed = 0
 ---------------------------------------------------
     JetBrains.Annotations.AssertionMethodAttribute
@@ -16146,6 +16140,7 @@ Summary:
         FindGameObjectsWithTag(System.String)
         FindGameObjectWithTag(System.String)
         FindWithTag(System.String)
+        get_active()
         get_gameObject()
         get_isStatic()
         get_isStaticBatchable()

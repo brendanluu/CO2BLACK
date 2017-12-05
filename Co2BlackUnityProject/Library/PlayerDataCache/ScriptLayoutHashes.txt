@@ -196,7 +196,7 @@ e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.BasicMap
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelay
 149e538468c9a609cf26b23682c996c7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
-03c6ea994ea7621a3a80b01683141c7b Assembly-CSharp.dll:.LampHit
+1c66c75f07f76f191c756a5bf8200de6 Assembly-CSharp.dll:.LampHit
 37bf4d6a6d424731cb4a9b998783e5c6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.ConnectToEditor
 f1b23fe75ecc41128314759a327579e2 Assembly-CSharp.dll:Mapbox.Unity.Utilities.TelemetryConfigurationButton
@@ -317,6 +317,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 076e35b09a1b5a014e21d57d28756f33 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.StyleOptimizedVectorTileFactory
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.ColorImage
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelayOutro
 ad1b43a81bd79dbc7a8f346c979794d8 Assembly-CSharp.dll:Mapbox.Examples.RotateWithLocationProvider
 ab232dc3d94359ca42eabb9c72cbbb82 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.WaterHoseParticles
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.PolygonMeshModifier
@@ -357,7 +358,6 @@ f4322fc0f64b38fe7809a75cfdc78866 Assembly-CSharp.dll:Mapbox.Examples.Voxels.Voxe
 fd1441f74fdb9cec10ac22c943c596cd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.LayerModifier
 cc6daa889055c078f49a0307580860bb Assembly-CSharp.dll:.exampleSceneScript
 a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Filters.TypeFilter
-5a1d827c95efbcf20ddfe8b9ec199725 Assembly-CSharp.dll:.appear
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.MeshModifier
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FactHit4
 391d84b859f3b155fe38f54bfce79162 Assembly-CSharp.dll:.UnityPointCloudExample
