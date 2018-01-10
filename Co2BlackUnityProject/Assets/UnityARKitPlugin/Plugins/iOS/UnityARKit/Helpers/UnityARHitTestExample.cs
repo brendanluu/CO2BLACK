@@ -14,6 +14,16 @@ namespace UnityEngine.XR.iOS
 		public GameObject WholeLamp;
 
 
+
+
+		public GameObject lampNewCollider;
+
+		public Material lampShade;
+
+
+		Collider m_Collider;
+
+
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
 			List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
@@ -22,22 +32,28 @@ namespace UnityEngine.XR.iOS
 				FocusedSquare.SetActive (false);
 				Destroy (TapToText);
 
+//				lampShade.DisableKeyword ("_EMISSION");
+
+
 				foreach (var hitResult in hitResults) {
 					Debug.Log ("Got hit!");
 					m_HitTransform.position = UnityARMatrixOps.GetPosition (hitResult.worldTransform);
 					m_HitTransform.rotation = UnityARMatrixOps.GetRotation (hitResult.worldTransform);
 					Debug.Log (string.Format ("x:{0:0.######} y:{1:0.######} z:{2:0.######}", m_HitTransform.position.x, m_HitTransform.position.y, m_HitTransform.position.z));
 					return true;
+
 				}
 
-				WholeLamp.transform.SetParent (null);
-				Debug.Log ("REMOVED FROM PARENT");
 			}
+			WholeLamp.transform.DetachChildren ();
+			lampNewCollider.GetComponent<Collider>().enabled = true;
 			return false;
 		}
 
 		// Update is called once per frame
 		void Update () {
+
+			m_Collider = GetComponent<Collider>();
 			Vector3 center = new Vector3(Screen.width/2, Screen.height/2, findingSquareDist);
 			if (Input.touchCount > 0 && m_HitTransform != null)
 			{
@@ -66,6 +82,8 @@ namespace UnityEngine.XR.iOS
 						if (HitTestWithResultType (point, resultType))
 						{
 							return;
+					
+
 						}
 					}
 				}

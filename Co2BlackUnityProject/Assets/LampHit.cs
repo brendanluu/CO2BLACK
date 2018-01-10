@@ -4,9 +4,16 @@ using UnityEngine;
 
 public class LampHit : MonoBehaviour {
 
-	public GameObject lampObject;
-
+	public GameObject lampSpotlight;
 	public Material lampShade;
+	public GameObject BuildingFact;
+	public Material smokeHigh;
+
+//	public GameObject smokeHigh;
+//
+//	public Material smokeLow;
+
+
 
 
 
@@ -14,9 +21,14 @@ public class LampHit : MonoBehaviour {
 		Debug.Log ("I was hit by a Ray");
 
 		lampShade.DisableKeyword ("_EMISSION");
+		lampSpotlight.SetActive (false);
+		BuildingFact.SetActive (true);
 
-		Destroy (lampObject);
+//		MeshRenderer smokeHighMesh = smokeHigh.GetComponent<MeshRenderer>();
+//
+//		smokeLow = smokeHighMesh.material; 
 
+		smokeHigh.SetFloat ("_Alpha", 0.15f);
 
 	}
 }
