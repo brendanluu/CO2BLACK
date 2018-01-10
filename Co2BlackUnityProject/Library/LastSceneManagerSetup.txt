@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-sceneSetups: []
-=======
-<<<<<<< HEAD
-sceneSetups: []
-=======
->>>>>>> 787c860d318acf7d36e798625d1003d2497939bf
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/_Scenes/lampSceneRedux 3.unity
+=======
 - path: Assets/_Scenes/lampSceneRedux 1.unity
+>>>>>>> 0c1d17bf77d2a3f699b6585a9763553c1276b9b0
   isLoaded: 1
   isActive: 1
-<<<<<<< HEAD
-=======
->>>>>>> bdd1e2a8784a966511202d6f6c3595f1af7efc7f
->>>>>>> b27790d52dd837e5e7bdd7facaf6ba9bd5452f41
->>>>>>> 787c860d318acf7d36e798625d1003d2497939bf

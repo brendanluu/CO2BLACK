@@ -4,15 +4,15 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: a317e0037d15249ca988dd53a9b780ff
+  productGUID: c77dc3e03d0c549a48ea65a16768e72f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: MidFidelity
+  companyName: JacobCulp
+  productName: lampSceneMid
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -148,7 +148,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    iOS: com.martinacalluori.co2black
+    iOS: com.jacobculp.lampSceneMid
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -272,7 +272,7 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: ar bby
+  cameraUsageDescription: Please
   locationUsageDescription: 
   microphoneUsageDescription: 
   switchNetLibKey: 
@@ -421,7 +421,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-  ps4Passcode: RK5RhRXdCdG5nG5azdNMK66MuCV6GXi5
+  ps4Passcode: oesnB4mh19PM6Dph2Nh722AggBfUKJEd
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -467,7 +467,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: xr84P2R391UXaLHbavJvFZGfO47XWS2q
+  psp2PackagePassword: mm09Z1uFII2PNfTdMjJFB59lvpzORCPO
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
