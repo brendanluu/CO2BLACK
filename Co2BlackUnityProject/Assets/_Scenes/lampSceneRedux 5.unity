@@ -3889,7 +3889,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 138297576}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 860, y: 407, z: 0}
+  m_LocalPosition: {x: 710, y: 377, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1815411312}
@@ -4252,7 +4252,7 @@ GameObject:
   - component: {fileID: 580936838}
   - component: {fileID: 580936841}
   m_Layer: 5
-  m_Name: SkipToOutro
+  m_Name: SeeYourImpact
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4265,7 +4265,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 580936836}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 660, y: -207, z: 0}
+  m_LocalPosition: {x: 213, y: -304, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1527976239}
@@ -4274,8 +4274,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -200, y: 200}
-  m_SizeDelta: {x: 320, y: 60}
+  m_AnchoredPosition: {x: -497, y: 73}
+  m_SizeDelta: {x: 375, y: 100}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &580936838
 MonoBehaviour:
@@ -4565,7 +4565,6 @@ MonoBehaviour:
   tapToPlaceText: {fileID: 727606664}
   findFlatSurface: {fileID: 1635677934}
   Explore: {fileID: 911393673}
-  BuildingFact: {fileID: 525913758}
   maxRayDistance: 30
   collisionLayerMask:
     serializedVersion: 2
@@ -4921,7 +4920,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1527976238}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -160, y: 30, z: 0}
+  m_LocalPosition: {x: -187.5, y: 50, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 580936837}
@@ -4964,7 +4963,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SKIP TO OUTRO
+  m_Text: SEE YOUR IMPACT
 --- !u!222 &1527976241
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5053,7 +5052,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1635677934}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -40, y: -195, z: 0}
+  m_LocalPosition: {x: -40, y: 218, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 138297580}
@@ -5061,8 +5060,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -40, y: -195}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -40, y: 218}
+  m_SizeDelta: {x: 500, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1635677936
 MonoBehaviour:
@@ -5083,7 +5082,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Find a flat surface
+  m_text: Point at floor to find flat surface
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5d0c7208780b941778fe2e0e09902f22, type: 2}
   m_sharedMaterial: {fileID: 21439053817977586, guid: 5d0c7208780b941778fe2e0e09902f22,
@@ -5111,8 +5110,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 72
-  m_fontSizeBase: 72
+  m_fontSize: 60
+  m_fontSizeBase: 60
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5151,10 +5150,10 @@ MonoBehaviour:
   m_margin: {x: -140.15503, y: 0, z: -199.21228, w: 0}
   m_textInfo:
     textComponent: {fileID: 1635677936}
-    characterCount: 19
+    characterCount: 35
     spriteCount: 0
-    spaceCount: 3
-    wordCount: 4
+    spaceCount: 6
+    wordCount: 7
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -5250,7 +5249,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1815411312
 RectTransform:
   m_ObjectHideFlags: 0
