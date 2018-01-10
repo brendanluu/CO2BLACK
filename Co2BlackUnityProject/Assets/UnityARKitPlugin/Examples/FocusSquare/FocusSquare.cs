@@ -17,7 +17,6 @@ public class FocusSquare : MonoBehaviour {
 	public GameObject tapToPlaceText;
 	public GameObject findFlatSurface;
 	public GameObject Explore;
-	public GameObject BuildingFact;
 
 	//for editor version
 	public float maxRayDistance = 30.0f;
