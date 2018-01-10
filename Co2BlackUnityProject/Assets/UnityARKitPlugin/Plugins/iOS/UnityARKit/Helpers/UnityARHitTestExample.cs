@@ -43,7 +43,6 @@ namespace UnityEngine.XR.iOS
 
 				}
 
-				Debug.Log ("REMOVED FROM PARENT");
 			}
 			WholeLamp.transform.DetachChildren ();
 			lampNewCollider.GetComponent<Collider>().enabled = true;
@@ -82,6 +81,7 @@ namespace UnityEngine.XR.iOS
 						if (HitTestWithResultType (point, resultType))
 						{
 							return;
+					
 
 						}
 					}
