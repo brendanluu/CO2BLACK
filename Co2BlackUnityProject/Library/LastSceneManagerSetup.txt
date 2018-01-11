@@ -1,12 +1,4 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-- path: Assets/_Scenes/lampSceneRedux 3.unity
-=======
-- path: Assets/_Scenes/lampSceneRedux 1.unity
->>>>>>> 0c1d17bf77d2a3f699b6585a9763553c1276b9b0
-=======
-- path: Assets/_Scenes/Outro2.unity
->>>>>>> Stashed changes
+- path: Assets/_Scenes/lampSceneRedux 5.unity
   isLoaded: 1
   isActive: 1
