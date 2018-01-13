@@ -27,7 +27,9 @@ namespace UnityEngine.XR.iOS
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
 			List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
-			if (hitResults.Count > 0) {
+
+			if (hitResults.Count > 0 ) {
+
 				BlueFocusSquare.SetActive (false);
 				FocusedSquare.SetActive (false);
 				Destroy (TapToText);
@@ -55,7 +57,7 @@ namespace UnityEngine.XR.iOS
 
 			m_Collider = GetComponent<Collider>();
 			Vector3 center = new Vector3(Screen.width/2, Screen.height/2, findingSquareDist);
-			if (Input.touchCount > 0 && m_HitTransform != null)
+			if (Input.touchCount > 0 && m_HitTransform != null )
 			{
 				var touch = Input.GetTouch(0);
 				if (touch.phase == TouchPhase.Began || touch.phase == TouchPhase.Moved)

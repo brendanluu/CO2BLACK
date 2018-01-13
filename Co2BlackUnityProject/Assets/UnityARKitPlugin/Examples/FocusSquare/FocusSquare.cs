@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.iOS;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class FocusSquare : MonoBehaviour {
 
@@ -17,11 +19,13 @@ public class FocusSquare : MonoBehaviour {
 	public GameObject tapToPlaceText;
 	public GameObject findFlatSurface;
 	public GameObject Explore;
+	public GameObject canvasGameObject;
 
 	//for editor version
 	public float maxRayDistance = 30.0f;
 	public LayerMask collisionLayerMask;
 	public float findingSquareDist = 0.5f;
+
 
 	private FocusState squareState;
 	public FocusState SquareState { 
@@ -46,6 +50,7 @@ public class FocusSquare : MonoBehaviour {
 	void Start () {
 		SquareState = FocusState.Initializing;
 		trackingInitialized = true;
+
 	}
 
 
@@ -116,6 +121,9 @@ public class FocusSquare : MonoBehaviour {
 
 		//if you got here, we have not found a plane, so if camera is facing below horizon, display the focus "finding" square
 		if (trackingInitialized) {
+
+//			canvasGameObject.GetComponent<UnityEngine.EventSystems.StandaloneInputModule> ().enabled = false;
+//			canvasGameObject.GetComponent<UnityEngine.EventSystems.BaseRaycaster> ().enabled = false;
 			SquareState = FocusState.Finding;
 
 			//check camera forward is facing downward
