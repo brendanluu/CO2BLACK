@@ -12,6 +12,7 @@ namespace UnityEngine.XR.iOS
 		public GameObject FocusedSquare;
 		public GameObject TapToText;
 		public GameObject WholeLamp;
+		public GameObject TurnOff;
 
 
 
@@ -49,6 +50,7 @@ namespace UnityEngine.XR.iOS
 			}
 			WholeLamp.transform.DetachChildren ();
 			lampNewCollider.GetComponent<Collider>().enabled = true;
+			TurnOff.SetActive (true);
 			return false;
 		}
 
