@@ -14,9 +14,6 @@ namespace UnityEngine.XR.iOS
 		public GameObject WholeLamp;
 		public GameObject TurnOff;
 
-
-
-
 		public GameObject lampNewCollider;
 
 		public Material lampShade;
@@ -25,12 +22,12 @@ namespace UnityEngine.XR.iOS
 		Collider m_Collider;
 
 
+
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
 			List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
 
 			if (hitResults.Count > 0 ) {
-
 				BlueFocusSquare.SetActive (false);
 				FocusedSquare.SetActive (false);
 				Destroy (TapToText);

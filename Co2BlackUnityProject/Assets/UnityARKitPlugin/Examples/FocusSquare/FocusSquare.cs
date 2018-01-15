@@ -20,6 +20,7 @@ public class FocusSquare : MonoBehaviour {
 	public GameObject findFlatSurface;
 	public GameObject Explore;
 	public GameObject canvasGameObject;
+	public GameObject eventSystemComponent;
 
 	//for editor version
 	public float maxRayDistance = 30.0f;
@@ -38,6 +39,7 @@ public class FocusSquare : MonoBehaviour {
 			focusImageIcon.SetActive (squareState != FocusState.Found);
 			Explore.SetActive (squareState != FocusState.Found);
 			tapToPlaceText.SetActive (squareState == FocusState.Found);
+			eventSystemComponent.SetActive (squareState == FocusState.Found);
 			findFlatSurface.SetActive (squareState != FocusState.Found);
 //			BuildingFact.SetActive (squareState == FocusState.Found);
 

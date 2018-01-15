@@ -181,7 +181,11 @@ d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 602017ac837ce39de79e6b98478ee720 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.SimpleActivatorMenu
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScene
 bf09ee2e5fc51800c24bc9ad47088efd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.AddMonoBehavioursModifier
+<<<<<<< Updated upstream
 5b0205d926c8f821905f30e0bbd2f41f Assembly-CSharp.dll:.FocusSquare
+=======
+94d132009a9721cc4f46ab3f03de59f4 Assembly-CSharp.dll:.FocusSquare
+>>>>>>> Stashed changes
 076e35b09a1b5a014e21d57d28756f33 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.StyleOptimizedVectorTileFactory
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.ColorImage
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelayOutro

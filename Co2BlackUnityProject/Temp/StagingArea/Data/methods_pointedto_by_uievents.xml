@@ -1,0 +1,25 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="newScreen">
+			<method name="visualize"/>
+		</type>
+		<type fullname="loadDelay">
+			<method name="ModeSelect"/>
+			<method name="ModeSelect"/>
+		</type>
+		<type fullname="Screen3">
+			<method name="deActivate"/>
+		</type>
+		<type fullname="loadDelayOutro">
+			<method name="ModeSelect"/>
+		</type>
+		<type fullname="replay">
+			<method name="ModeSelect"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>
