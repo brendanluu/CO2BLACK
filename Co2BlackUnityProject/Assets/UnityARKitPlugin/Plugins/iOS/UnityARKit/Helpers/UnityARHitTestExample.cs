@@ -47,7 +47,6 @@ namespace UnityEngine.XR.iOS
 			}
 			WholeLamp.transform.DetachChildren ();
 			lampNewCollider.GetComponent<Collider>().enabled = true;
-			TurnOff.SetActive (true);
 			return false;
 		}
 
