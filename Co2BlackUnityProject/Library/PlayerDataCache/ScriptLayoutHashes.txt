@@ -91,7 +91,7 @@ e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.BasicMap
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelay
 149e538468c9a609cf26b23682c996c7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
-4687c2ddb78a918ed485688adac78794 Assembly-CSharp.dll:.LampHit
+c46d72dbde1ffc445c73db0b86895c0c Assembly-CSharp.dll:.LampHit
 37bf4d6a6d424731cb4a9b998783e5c6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.ConnectToEditor
 f1b23fe75ecc41128314759a327579e2 Assembly-CSharp.dll:Mapbox.Unity.Utilities.TelemetryConfigurationButton
@@ -190,6 +190,7 @@ bf09ee2e5fc51800c24bc9ad47088efd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.ColorImage
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelayOutro
 ad1b43a81bd79dbc7a8f346c979794d8 Assembly-CSharp.dll:Mapbox.Examples.RotateWithLocationProvider
+04c041d92d244f2460e44b213d2e4c03 Assembly-CSharp.dll:.flicker
 ab232dc3d94359ca42eabb9c72cbbb82 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.WaterHoseParticles
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.PolygonMeshModifier
 aa4813d9e2a247785fb223838ed21c87 Assembly-CSharp.dll:Mapbox.Examples.Playground.DirectionsExample
@@ -369,4 +370,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
-04c041d92d244f2460e44b213d2e4c03 Assembly-CSharp.dll:.flicker

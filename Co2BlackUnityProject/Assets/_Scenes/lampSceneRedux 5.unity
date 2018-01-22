@@ -5469,7 +5469,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1880585744
 Transform:
   m_ObjectHideFlags: 0
@@ -5520,7 +5520,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lampSpotlight: {fileID: 67093273}
   lampShade: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
-  BuildingFact: {fileID: 525913758}
+  BuildingFactTop: {fileID: 0}
+  BuildingFactBot: {fileID: 0}
   smokeHigh: {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
   impactButton: {fileID: 580936836}
 --- !u!114 &1880585747
