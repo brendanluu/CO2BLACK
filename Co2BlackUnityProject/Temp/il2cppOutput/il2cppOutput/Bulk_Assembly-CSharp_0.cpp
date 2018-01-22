@@ -30828,6 +30828,7 @@ extern "C"  void FocusSquare_set_SquareState_m3460670398 (FocusSquare_t356380266
 		NullCheck(L_7);
 		GameObject_SetActive_m2693135142(L_7, (bool)((((int32_t)L_8) == ((int32_t)2))? 1 : 0), /*hidden argument*/NULL);
 <<<<<<< HEAD
+<<<<<<< HEAD
 		GameObject_t1756533147 * L_9 = __this->get_lampComponent_8();
 		int32_t L_10 = __this->get_squareState_12();
 		NullCheck(L_9);
@@ -30837,10 +30838,15 @@ extern "C"  void FocusSquare_set_SquareState_m3460670398 (FocusSquare_t356380266
 		NullCheck(L_11);
 		GameObject_SetActive_m2693135142(L_11, (bool)((((int32_t)((((int32_t)L_12) == ((int32_t)2))? 1 : 0)) == ((int32_t)0))? 1 : 0), /*hidden argument*/NULL);
 =======
+=======
+>>>>>>> 01a31a079658a750cac51929c57060fc9c7df8fc
 		GameObject_t1756533147 * L_9 = __this->get_findFlatSurface_6();
 		int32_t L_10 = __this->get_squareState_12();
 		NullCheck(L_9);
 		GameObject_SetActive_m2693135142(L_9, (bool)((((int32_t)((((int32_t)L_10) == ((int32_t)2))? 1 : 0)) == ((int32_t)0))? 1 : 0), /*hidden argument*/NULL);
+<<<<<<< HEAD
+>>>>>>> 01a31a079658a750cac51929c57060fc9c7df8fc
+=======
 >>>>>>> 01a31a079658a750cac51929c57060fc9c7df8fc
 		return;
 	}

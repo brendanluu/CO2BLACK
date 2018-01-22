@@ -371,6 +371,9 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 <<<<<<< HEAD
+<<<<<<< HEAD
 04c041d92d244f2460e44b213d2e4c03 Assembly-CSharp.dll:.flicker
+=======
+>>>>>>> 01a31a079658a750cac51929c57060fc9c7df8fc
 =======
 >>>>>>> 01a31a079658a750cac51929c57060fc9c7df8fc
