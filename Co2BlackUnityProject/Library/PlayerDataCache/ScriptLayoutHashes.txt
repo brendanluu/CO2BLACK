@@ -195,6 +195,7 @@ e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DragRigidbody
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.PoiMarkerHelper
 78ebae5ed9b3edeb216da437b99754a4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.Joystick
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Move
 2bf9e2f85a3f364c4ba1674e818b2094 Assembly-CSharp.dll:.IfAnchorAddedScript
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.BasicMap
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelay
