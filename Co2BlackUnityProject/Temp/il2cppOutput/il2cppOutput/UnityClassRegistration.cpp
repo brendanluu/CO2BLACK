@@ -159,7 +159,7 @@ class BillboardRenderer;
 class LineRenderer; 
 class MeshRenderer; template <> void RegisterClass<MeshRenderer>();
 class ParticleRenderer; 
-class ParticleSystemRenderer; 
+class ParticleSystemRenderer; template <> void RegisterClass<ParticleSystemRenderer>();
 class SkinnedMeshRenderer; 
 class SpriteMask; 
 class SpriteRenderer; 
@@ -184,14 +184,14 @@ class AudioMixerGroup;
 class AudioMixerGroupController; 
 class AudioMixerSnapshot; 
 class AudioMixerSnapshotController; 
-class Avatar; 
+class Avatar; template <> void RegisterClass<Avatar>();
 class AvatarMask; 
 class BillboardAsset; 
 class ComputeShader; 
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
-class LightProbes; 
+class LightProbes; template <> void RegisterClass<LightProbes>();
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -270,7 +270,7 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
-	//Total: 84 non stripped classes
+	//Total: 87 non stripped classes
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -435,9 +435,15 @@ RegisterBuiltinTypes();
 	RegisterClass<AnimatorController>();
 	//81. RuntimeAnimatorController
 	RegisterClass<RuntimeAnimatorController>();
-	//82. AnimationClip
+	//82. ParticleSystemRenderer
+	RegisterClass<ParticleSystemRenderer>();
+	//83. Avatar
+	RegisterClass<Avatar>();
+	//84. LightProbes
+	RegisterClass<LightProbes>();
+	//85. AnimationClip
 	RegisterClass<AnimationClip>();
-	//83. NavMeshSettings
+	//86. NavMeshSettings
 	RegisterClass<NavMeshSettings>();
 
 }

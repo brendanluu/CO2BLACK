@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.iOS;
-using UnityEngine.EventSystems;
-using UnityEngine.UI;
 
 public class FocusSquare : MonoBehaviour {
 
@@ -15,17 +13,15 @@ public class FocusSquare : MonoBehaviour {
 
 	public GameObject findingSquare;
 	public GameObject foundSquare;
-	public GameObject focusImageIcon;
-	public GameObject tapToPlaceText;
-	public GameObject findFlatSurface;
-	public GameObject Explore;
-	public GameObject lampComponent;
 
 	//for editor version
 	public float maxRayDistance = 30.0f;
 	public LayerMask collisionLayerMask;
 	public float findingSquareDist = 0.5f;
 
+	public GameObject lampComponent;
+	public GameObject tapToPlaceText;
+	public GameObject findFlatSurface;
 
 	private FocusState squareState;
 	public FocusState SquareState { 
@@ -33,17 +29,14 @@ public class FocusSquare : MonoBehaviour {
 			return squareState;
 		}
 		set {
-
 			Debug.Log ("Intialize");
 			squareState = value;
 			foundSquare.SetActive (squareState == FocusState.Found);
-			focusImageIcon.SetActive (squareState != FocusState.Found);
-			Explore.SetActive (squareState != FocusState.Found);
-			tapToPlaceText.SetActive (squareState == FocusState.Found);
+			findingSquare.SetActive (squareState != FocusState.Found);
 			lampComponent.SetActive (squareState == FocusState.Found);
+			tapToPlaceText.SetActive (squareState == FocusState.Found);
 			findFlatSurface.SetActive (squareState != FocusState.Found);
-
-		}  
+		} 
 	}
 
 	bool trackingInitialized;
@@ -52,20 +45,17 @@ public class FocusSquare : MonoBehaviour {
 	void Start () {
 		SquareState = FocusState.Initializing;
 		trackingInitialized = true;
-
 	}
 
 
 	bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 	{
 		List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
-
-
 		if (hitResults.Count > 0) {
 			foreach (var hitResult in hitResults) {
 				foundSquare.transform.position = UnityARMatrixOps.GetPosition (hitResult.worldTransform);
 				foundSquare.transform.rotation = UnityARMatrixOps.GetRotation (hitResult.worldTransform);
-				Debug.Log (string.Format ("x:{ 0:0.######} y:{ 1:0.######} z:{ 2:0.######}", foundSquare.transform.position.x, foundSquare.transform.position.y, foundSquare.transform.position.z));
+				Debug.Log (string.Format ("x:{0:0.######} y:{1:0.######} z:{2:0.######}", foundSquare.transform.position.x, foundSquare.transform.position.y, foundSquare.transform.position.z));
 				return true;
 			}
 		}
@@ -77,11 +67,11 @@ public class FocusSquare : MonoBehaviour {
 
 		if (squareState == FocusState.Found) {
 			Debug.Log ("Focus State is Found");
-		}  else {
+		}   else {
 			Debug.Log ("No Focus State is Found");
 		}
 
-		lampComponent.SetActive (squareState == FocusState.Found);
+//		lampComponent.SetActive (squareState == FocusState.Found);
 
 		//use center of screen for focusing
 		Vector3 center = new Vector3(Screen.width/2, Screen.height/2, findingSquareDist);
@@ -95,7 +85,7 @@ public class FocusSquare : MonoBehaviour {
 		if (Physics.Raycast (ray, out hit, maxRayDistance, collisionLayerMask)) {
 			//we're going to get the position from the contact point
 			foundSquare.transform.position = hit.point;
-			Debug.Log (string.Format ("x:{ 0:0.######} y:{ 1:0.######} z:{ 2:0.######}", foundSquare.transform.position.x, foundSquare.transform.position.y, foundSquare.transform.position.z));
+			Debug.Log (string.Format ("x:{0:0.######} y:{1:0.######} z:{2:0.######}", foundSquare.transform.position.x, foundSquare.transform.position.y, foundSquare.transform.position.z));
 
 			//and the rotation from the transform of the plane collider
 			SquareState = FocusState.Found;
@@ -109,7 +99,7 @@ public class FocusSquare : MonoBehaviour {
 		ARPoint point = new ARPoint {
 		x = screenPosition.x,
 		y = screenPosition.y
-		} ;
+		};
 
 		// prioritize reults types
 		ARHitTestResultType[] resultTypes = {
@@ -118,7 +108,7 @@ public class FocusSquare : MonoBehaviour {
 		//ARHitTestResultType.ARHitTestResultTypeExistingPlane,
 		//ARHitTestResultType.ARHitTestResultTypeHorizontalPlane, 
 		//ARHitTestResultType.ARHitTestResultTypeFeaturePoint
-		} ; 
+		}; 
 
 		foreach (ARHitTestResultType resultType in resultTypes)
 		{
@@ -133,7 +123,6 @@ public class FocusSquare : MonoBehaviour {
 
 		//if you got here, we have not found a plane, so if camera is facing below horizon, display the focus "finding" square
 		if (trackingInitialized) {
-
 			SquareState = FocusState.Finding;
 
 			//check camera forward is facing downward
@@ -168,4 +157,3 @@ public class FocusSquare : MonoBehaviour {
 
 
 }
-

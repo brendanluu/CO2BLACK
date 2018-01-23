@@ -64,6 +64,7 @@
 <type fullname="HitByRay" preserve="all"/>
 <type fullname="HitByRaycast" preserve="all"/>
 <type fullname="IfAnchorAddedScript" preserve="all"/>
+<type fullname="ignoreCollision" preserve="all"/>
 <type fullname="LampHit" preserve="all"/>
 <type fullname="exampleSceneScript" preserve="all"/>
 <type fullname="loadDelayIntro" preserve="all"/>
