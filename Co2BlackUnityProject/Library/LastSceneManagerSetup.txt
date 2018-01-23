@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/lampSceneRedux 5.unity
+- path: Assets/_Scenes/lampSceneRedux 6.unity
   isLoaded: 1
   isActive: 1
