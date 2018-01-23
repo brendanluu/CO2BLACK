@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Ghost-UI.unity
+- path: Assets/_Scenes/artestscene.unity
   isLoaded: 1
   isActive: 1
