@@ -168,6 +168,7 @@
 <type fullname="loadDelayIntro2" preserve="all"/>
 <type fullname="loadDelay" preserve="all"/>
 <type fullname="mapBuildScript" preserve="all"/>
+<type fullname="Move" preserve="all"/>
 <type fullname="MoveScene" preserve="all"/>
 <type fullname="newScreen" preserve="all"/>
 <type fullname="Screen3" preserve="all"/>
