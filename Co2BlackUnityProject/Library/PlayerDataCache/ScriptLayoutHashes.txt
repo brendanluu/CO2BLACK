@@ -67,7 +67,7 @@ f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 0724c48624eed14613582f082e23eec0 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.VertexDebuggerGizmo
-18640f85b5406ef9f025980866da810e Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARHitTestExample
+715a3a5e1e928ce77514d4e84e265356 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARHitTestExample
 8e9f5b922979e9356a11d2ee2b32ee60 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TiltInput
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.GameObjectModifier
 1f65ccebe9029df134fa6e801252c398 Assembly-CSharp.dll:.CameraScript
@@ -199,7 +199,7 @@ e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.BasicMap
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelay
 149e538468c9a609cf26b23682c996c7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
-4687c2ddb78a918ed485688adac78794 Assembly-CSharp.dll:.LampHit
+c46d72dbde1ffc445c73db0b86895c0c Assembly-CSharp.dll:.LampHit
 37bf4d6a6d424731cb4a9b998783e5c6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.ConnectToEditor
 f1b23fe75ecc41128314759a327579e2 Assembly-CSharp.dll:Mapbox.Unity.Utilities.TelemetryConfigurationButton
@@ -322,6 +322,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.ColorImage
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelayOutro
 ad1b43a81bd79dbc7a8f346c979794d8 Assembly-CSharp.dll:Mapbox.Examples.RotateWithLocationProvider
+04c041d92d244f2460e44b213d2e4c03 Assembly-CSharp.dll:.flicker
 ab232dc3d94359ca42eabb9c72cbbb82 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.WaterHoseParticles
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.PolygonMeshModifier
 aa4813d9e2a247785fb223838ed21c87 Assembly-CSharp.dll:Mapbox.Examples.Playground.DirectionsExample

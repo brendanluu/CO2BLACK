@@ -507,7 +507,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: -1258634990
+  randomSeed: 1266926912
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4043,8 +4043,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 138297576}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 667, y: 375, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1532, y: 773, z: 0}
+  m_LocalScale: {x: 2.2968516, y: 2.2968516, z: 2.2968516}
   m_Children:
   - {fileID: 727606667}
   - {fileID: 911393674}
@@ -4418,7 +4418,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 580936836}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 509, y: -250, z: 0}
+  m_LocalPosition: {x: 509, y: -211.54764, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1527976239}
@@ -5520,7 +5520,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lampSpotlight: {fileID: 67093273}
   lampShade: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
-  BuildingFact: {fileID: 525913758}
+  BuildingFactTop: {fileID: 0}
+  BuildingFactBot: {fileID: 0}
   smokeHigh: {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
   impactButton: {fileID: 580936836}
 --- !u!114 &1880585747

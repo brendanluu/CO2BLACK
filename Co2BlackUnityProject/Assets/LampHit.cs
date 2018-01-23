@@ -6,7 +6,8 @@ public class LampHit : MonoBehaviour {
 
 	public GameObject lampSpotlight;
 	public Material lampShade;
-	public GameObject BuildingFact;
+	public GameObject BuildingFactTop;
+	public GameObject BuildingFactBot;
 	public Material smokeHigh;
 	public GameObject impactButton;
 
@@ -23,7 +24,8 @@ public class LampHit : MonoBehaviour {
 
 		lampShade.DisableKeyword ("_EMISSION");
 		lampSpotlight.SetActive (false);
-		BuildingFact.SetActive (true);
+		BuildingFactTop.SetActive (true);
+		BuildingFactBot.SetActive (true);
 		impactButton.SetActive (true);
 
 //		MeshRenderer smokeHighMesh = smokeHigh.GetComponent<MeshRenderer>();
