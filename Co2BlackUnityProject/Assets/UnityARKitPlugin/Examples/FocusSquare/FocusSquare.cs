@@ -40,7 +40,7 @@ public class FocusSquare : MonoBehaviour {
 			focusImageIcon.SetActive (squareState != FocusState.Found);
 			Explore.SetActive (squareState != FocusState.Found);
 			tapToPlaceText.SetActive (squareState == FocusState.Found);
-//			lampComponent.SetActive (squareState == FocusState.Found);
+			lampComponent.SetActive (squareState == FocusState.Found);
 			findFlatSurface.SetActive (squareState != FocusState.Found);
 
 		}  
@@ -59,6 +59,8 @@ public class FocusSquare : MonoBehaviour {
 	bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 	{
 		List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
+
+
 		if (hitResults.Count > 0) {
 			foreach (var hitResult in hitResults) {
 				foundSquare.transform.position = UnityARMatrixOps.GetPosition (hitResult.worldTransform);
