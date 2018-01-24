@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ignoreCollision : MonoBehaviour {
-	public GameObject theobjectToNotIgnore;
-	void OnCollisionEnter(Collision collision)
-	{
-		if (collision.gameObject.tag == "badTrash") {
-			Physics.IgnoreCollision (theobjectToNotIgnore.GetComponent<Collider>(), GetComponent<Collider>());
-		}
+	
+	public Transform goodTrash;
+	void Start() {
+//		Transform bullet = Instantiate(bulletPrefab) as Transform;
+		Physics.IgnoreCollision(goodTrash.GetComponent<Collider>(), GetComponent<Collider>());
 	}
 
 }
