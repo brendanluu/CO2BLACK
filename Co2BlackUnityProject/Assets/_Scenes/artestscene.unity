@@ -1370,6 +1370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1019435493}
   - component: {fileID: 1019435498}
+  - component: {fileID: 1019435499}
   - component: {fileID: 1019435497}
   - component: {fileID: 1019435496}
   - component: {fileID: 1019435495}
@@ -1468,13 +1469,35 @@ MonoBehaviour:
   maxRayDistance: 30
   collisionLayer:
     serializedVersion: 2
-    m_Bits: 1024
+    m_Bits: 4294967295
   BlueFocusSquare: {fileID: 576481480}
   FocusedSquare: {fileID: 157753746}
   WholeLamp: {fileID: 1019435492}
   TapToText: {fileID: 898357941}
   lampNewCollider: {fileID: 1019435492}
   lampShade: {fileID: 2100000, guid: dc1597777e1ce499d99ce51b2d48ab5b, type: 2}
+--- !u!114 &1019435499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1019435492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc2a3b2db2064e1b9bddbc6fea688ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HitTransform: {fileID: 0}
+  maxRayDistance: 30
+  collisionLayer:
+    serializedVersion: 2
+    m_Bits: 1024
+  BlueFocusSquare: {fileID: 0}
+  FocusedSquare: {fileID: 0}
+  WholeLamp: {fileID: 0}
+  TapToText: {fileID: 0}
+  lampNewCollider: {fileID: 0}
+  lampShade: {fileID: 0}
 --- !u!1 &1123351383
 GameObject:
   m_ObjectHideFlags: 0
@@ -1713,7 +1736,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: 1753277948
+  randomSeed: 550962264
   InitialModule:
     serializedVersion: 3
     enabled: 1
