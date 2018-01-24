@@ -176,7 +176,10 @@
 <type fullname="newScreen" preserve="all"/>
 <type fullname="Screen3" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.TeamARHitTest" preserve="all"/>
+<<<<<<< HEAD
+=======
 <type fullname="UnityEngine.XR.iOS.TrashARHitTest" preserve="all"/>
+>>>>>>> 68f0c28e13e04d0558dc3c19888fe2476488331f
 <type fullname="Fader" preserve="all"/>
 <type fullname="start" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.ConnectToEditor" preserve="all"/>
