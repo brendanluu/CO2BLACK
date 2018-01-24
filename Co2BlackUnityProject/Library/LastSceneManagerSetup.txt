@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/_Scenes/artestscene.unity
-=======
-- path: Assets/_Scenes/lampScene1.unity
->>>>>>> d40f59c58b4f4d20b0f62d8df2c1224b037d5c4c
   isLoaded: 1
   isActive: 1
