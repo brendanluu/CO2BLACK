@@ -4,11 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-  m_Scenes:
-  - enabled: 1
-    path: Assets/_Scenes/artestscene.unity
-    guid: b7b8abf19af8440b2926b5288734c4bb
-=======
   m_Scenes: []
->>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
