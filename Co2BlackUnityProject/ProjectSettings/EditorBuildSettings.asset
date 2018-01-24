@@ -4,18 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-  m_Scenes: []
-=======
-<<<<<<< HEAD
   m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/test Trash.unity
-    guid: 363848f0313ea48ed8a4e8f5bcef4180
   - enabled: 1
-    path: Assets/_Scenes/Grabbing.unity
-    guid: c74776bbd7c9d4587a99ee3aab43e920
-=======
-  m_Scenes: []
->>>>>>> 0141a54b9abb3a4ff92b917f567f0e768f37c5e5
->>>>>>> b3df0e18609442ac9d714120c01fe38683deeff9
+    path: Assets/_Scenes/artestscene.unity
+    guid: b7b8abf19af8440b2926b5288734c4bb
