@@ -9,10 +9,33 @@ namespace UnityEngine.XR.iOS
 		public float maxRayDistance = 30.0f;
 		public LayerMask collisionLayer = 1 << 10;  //ARKitPlane layer
 
+		public GameObject BlueFocusSquare;
+		public GameObject FocusedSquare;
+		public GameObject WholeLamp;
+		public GameObject TapToText;
+
+		public GameObject lampNewCollider;
+
+		public Material lampShade;
+
+
+		Collider m_Collider;
+
+
 		bool HitTestWithResultType (ARPoint point, ARHitTestResultType resultTypes)
 		{
 			List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface ().HitTest (point, resultTypes);
+
 			if (hitResults.Count > 0) {
+
+
+				BlueFocusSquare.SetActive (false);
+					
+				FocusedSquare.SetActive (false);
+				Destroy (FocusedSquare);
+				Destroy (TapToText);
+
+
 				foreach (var hitResult in hitResults) {
 					Debug.Log ("Got hit!");
 					m_HitTransform.position = UnityARMatrixOps.GetPosition (hitResult.worldTransform);
@@ -21,11 +44,15 @@ namespace UnityEngine.XR.iOS
 					return true;
 				}
 			}
+
+			WholeLamp.transform.DetachChildren ();
+			lampNewCollider.GetComponent<Collider>().enabled = true;
 			return false;
 		}
 
 		// Update is called once per frame
 		void Update () {
+			
 			#if UNITY_EDITOR   //we will only use this script on the editor side, though there is nothing that would prevent it from working on device
 			if (Input.GetMouseButtonDown (0)) {
 			Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
