@@ -324,8 +324,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 70803800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 860, y: 407, z: 0}
-  m_LocalScale: {x: 1.2893553, y: 1.2893553, z: 1.2893553}
+  m_LocalPosition: {x: 1532, y: 773, z: 0}
+  m_LocalScale: {x: 2.2968516, y: 2.2968516, z: 2.2968516}
   m_Children:
   - {fileID: 898357944}
   - {fileID: 806436619}
@@ -1439,10 +1439,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lampSpotlight: {fileID: 589855476}
   lampShade: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
-  BuildingFactTop: {fileID: 0}
+  BuildingFactTop: {fileID: 1458015975}
   BuildingFactBot: {fileID: 0}
   smokeHigh: {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
-  impactButton: {fileID: 0}
+  impactButton: {fileID: 1903706800}
 --- !u!114 &1019435497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1460,7 +1460,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1019435492}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6941ec02ead994c9b848d640887441f1, type: 3}
   m_Name: 
@@ -1470,6 +1470,7 @@ MonoBehaviour:
   collisionLayer:
     serializedVersion: 2
     m_Bits: 4294967295
+  findingSquareDist: 0.5
   BlueFocusSquare: {fileID: 576481480}
   FocusedSquare: {fileID: 157753746}
   WholeLamp: {fileID: 1019435492}
@@ -1487,17 +1488,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecc2a3b2db2064e1b9bddbc6fea688ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HitTransform: {fileID: 0}
+  m_HitTransform: {fileID: 1149822707}
   maxRayDistance: 30
   collisionLayer:
     serializedVersion: 2
     m_Bits: 1024
-  BlueFocusSquare: {fileID: 0}
-  FocusedSquare: {fileID: 0}
-  WholeLamp: {fileID: 0}
-  TapToText: {fileID: 0}
-  lampNewCollider: {fileID: 0}
-  lampShade: {fileID: 0}
+  findingSquareDist: 0.5
+  BlueFocusSquare: {fileID: 576481480}
+  FocusedSquare: {fileID: 157753746}
+  WholeLamp: {fileID: 1019435492}
+  TapToText: {fileID: 898357941}
+  lampNewCollider: {fileID: 1019435492}
+  lampShade: {fileID: 2100000, guid: dc1597777e1ce499d99ce51b2d48ab5b, type: 2}
 --- !u!1 &1123351383
 GameObject:
   m_ObjectHideFlags: 0
@@ -5539,7 +5541,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1903706800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 509, y: -190.66165, z: 0}
+  m_LocalPosition: {x: 509, y: -211.54764, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1219026387}

@@ -67,7 +67,11 @@ f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 0724c48624eed14613582f082e23eec0 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.VertexDebuggerGizmo
+<<<<<<< HEAD
+dbf9c7a59b90699266170c4ac7eac0c3 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARHitTestExample
+=======
 715a3a5e1e928ce77514d4e84e265356 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARHitTestExample
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
 8e9f5b922979e9356a11d2ee2b32ee60 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TiltInput
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.GameObjectModifier
 1f65ccebe9029df134fa6e801252c398 Assembly-CSharp.dll:.CameraScript
@@ -111,7 +115,11 @@ c8786fa39097a1fd03ada84ffda1ed3b Assembly-CSharp.dll:.fallController
 ab06b6058fcbbcaa74a328639dc7d3e3 Assembly-CSharp.dll:Mapbox.Unity.Map.InitializeMapWithLocationProvider
 e81238197aa643d93e3d903c06302a67 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ColliderModifier
 f4386a940b0c945b42ba5098c696420b Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Filters.HeightFilter
+<<<<<<< HEAD
+dbf9c7a59b90699266170c4ac7eac0c3 Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
+=======
 3d8d801a1d10219d7db99c142a91cd0b Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
 e3614d77c024e8379444f971096aaac4 Assembly-CSharp.dll:.UnityARCameraManager
 6c156248975c65e334daa4cbfba64bd1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectActivator
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Unity.Map.GlobeTileProvider
@@ -266,7 +274,7 @@ e97ff9540a49b92b779792c195839d33 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 5511a49b5104d2e14b66af50a17125f0 Assembly-CSharp.dll:.ParticlePainter
 e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.TerrainFactory
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
-1fc075caacd194467b79c3ca19430cca Assembly-CSharp.dll:.ignoreCollision
+bd6f4741393d668934f1de8493711b6d Assembly-CSharp.dll:.ignoreCollision
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.FireLight
 f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.FlatTerrainFactory
@@ -374,6 +382,8 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 =======
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
@@ -511,5 +521,10 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.flickeringLight
 3d8d801a1d10219d7db99c142a91cd0b Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
+<<<<<<< HEAD
+715a3a5e1e928ce77514d4e84e265356 Assembly-CSharp.dll:UnityEngine.XR.iOS.TrashARHitTest
+=======
 3d8d801a1d10219d7db99c142a91cd0b Assembly-CSharp.dll:UnityEngine.XR.iOS.TrashARHitTest
 >>>>>>> 68f0c28e13e04d0558dc3c19888fe2476488331f
+>>>>>>> 2d99588e503a47cbe8688dd82d86bf37bf91be99
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
