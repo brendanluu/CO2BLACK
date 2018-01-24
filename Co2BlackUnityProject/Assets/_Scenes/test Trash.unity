@@ -124,7 +124,6 @@ GameObject:
   - component: {fileID: 16642054}
   - component: {fileID: 16642053}
   - component: {fileID: 16642057}
-  - component: {fileID: 16642058}
   m_Layer: 0
   m_Name: white sphere
   m_TagString: badTrash
@@ -213,18 +212,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 2
---- !u!114 &16642058
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 16642052}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa16f09819e0242048d4657331fc600b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  theobjectToNotIgnore: {fileID: 724546143}
 --- !u!1 &225750036
 GameObject:
   m_ObjectHideFlags: 0
@@ -438,6 +425,7 @@ GameObject:
   - component: {fileID: 724546148}
   - component: {fileID: 724546147}
   - component: {fileID: 724546146}
+  - component: {fileID: 724546145}
   m_Layer: 0
   m_Name: Cube (5)
   m_TagString: badTrash
@@ -458,6 +446,18 @@ Transform:
   m_Father: {fileID: 437965424}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &724546145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 724546143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa16f09819e0242048d4657331fc600b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goodTrash: {fileID: 1562801948}
 --- !u!23 &724546146
 MeshRenderer:
   m_ObjectHideFlags: 0
