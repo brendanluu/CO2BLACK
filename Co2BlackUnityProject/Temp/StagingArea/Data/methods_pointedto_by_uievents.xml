@@ -1,7 +1,10 @@
 <linker>
+<<<<<<< HEAD
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="loadDelayOutro">
 			<method name="ModeSelect"/>
 		</type>
 	</assembly>
+=======
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
 </linker>

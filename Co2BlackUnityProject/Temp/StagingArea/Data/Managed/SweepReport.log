@@ -11,7 +11,11 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 201
   Total Field Removals = 1113
+<<<<<<< HEAD
   Total Method Removals = 15544
+=======
+  Total Method Removals = 15545
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mapbox.Json
@@ -15297,7 +15301,11 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 44
   Total Field Removals = 27
+<<<<<<< HEAD
   Total Method Removals = 2701
+=======
+  Total Method Removals = 2702
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
   References Removed = 0
 ---------------------------------------------------
     JetBrains.Annotations.AssertionMethodAttribute
@@ -16154,6 +16162,10 @@ Summary:
         get_isStatic()
         get_isStaticBatchable()
         get_scene()
+<<<<<<< HEAD
+=======
+        get_tag()
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
         GetComponent(System.String)
         GetComponentByName(System.String)
         GetComponentInChildren(System.Type)

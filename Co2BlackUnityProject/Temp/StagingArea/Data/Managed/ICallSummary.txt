@@ -196,7 +196,10 @@ UnityEngine.GameObject::GetComponentsInternal
 UnityEngine.GameObject::get_activeInHierarchy
 UnityEngine.GameObject::get_activeSelf
 UnityEngine.GameObject::get_layer
+<<<<<<< HEAD
 UnityEngine.GameObject::get_tag
+=======
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
 UnityEngine.GameObject::BroadcastMessage
 UnityEngine.GameObject::GetComponentFastPath
 UnityEngine.GameObject::Internal_CreateGameObject

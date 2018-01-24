@@ -914,10 +914,13 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_GameObject_get_layer();
 		Register_UnityEngine_GameObject_get_layer();
 
+<<<<<<< HEAD
 		//System.String UnityEngine.GameObject::get_tag()
 		void Register_UnityEngine_GameObject_get_tag();
 		Register_UnityEngine_GameObject_get_tag();
 
+=======
+>>>>>>> 2d34e42db757bb21161635fedc34a48c68223083
 		//System.Void UnityEngine.GameObject::BroadcastMessage(System.String,System.Object,UnityEngine.SendMessageOptions)
 		void Register_UnityEngine_GameObject_BroadcastMessage();
 		Register_UnityEngine_GameObject_BroadcastMessage();
