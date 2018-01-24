@@ -1,12 +1,4 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-- path: Assets/_Scenes/lampSceneRedux 6.unity
-=======
-- path: Assets/_Scenes/Ghost-UI.unity
->>>>>>> a32d884e7acf5d3b6f150d200e4dd0350359bb96
-=======
-- path: Assets/_Scenes/WiegmanRussoContrast.unity
->>>>>>> Stashed changes
+- path: Assets/_Scenes/Grabbing.unity
   isLoaded: 1
   isActive: 1
