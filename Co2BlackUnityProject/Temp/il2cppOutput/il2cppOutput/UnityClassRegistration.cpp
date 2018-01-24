@@ -191,7 +191,7 @@ class ComputeShader;
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
-class LightProbes; template <> void RegisterClass<LightProbes>();
+class LightProbes; 
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -270,7 +270,7 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
-	//Total: 87 non stripped classes
+	//Total: 86 non stripped classes
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -439,11 +439,9 @@ RegisterBuiltinTypes();
 	RegisterClass<ParticleSystemRenderer>();
 	//83. Avatar
 	RegisterClass<Avatar>();
-	//84. LightProbes
-	RegisterClass<LightProbes>();
-	//85. AnimationClip
+	//84. AnimationClip
 	RegisterClass<AnimationClip>();
-	//86. NavMeshSettings
+	//85. NavMeshSettings
 	RegisterClass<NavMeshSettings>();
 
 }
