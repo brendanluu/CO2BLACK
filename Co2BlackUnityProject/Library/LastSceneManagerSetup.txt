@@ -1,12 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/_Scenes/artestscene.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/Grabbing.unity
-=======
-- path: Assets/_Scenes/test Trash.unity
->>>>>>> 0141a54b9abb3a4ff92b917f567f0e768f37c5e5
->>>>>>> b3df0e18609442ac9d714120c01fe38683deeff9
+- path: Assets/_Scenes/test.unity
   isLoaded: 1
   isActive: 1
