@@ -4,33 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  m_Scenes:
-  - enabled: 1
-    path: Assets/_Scenes/Ghost-UI.unity
-    guid: cd6ca3ffe91164adfb7690f65ee693a2
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
   m_Scenes: []
-=======
-<<<<<<< HEAD
->>>>>>> d3d7abf3d2c89669b8c401dc5d7316d8e59a2011
->>>>>>> 2d99588e503a47cbe8688dd82d86bf37bf91be99
-  m_Scenes:
-  - enabled: 1
-    path: Assets/_Scenes/Grabbing02.unity
-    guid: f23c8c56f536c4a28901b9f48cae7995
-<<<<<<< HEAD
-=======
-=======
-=======
-  m_Scenes: []
->>>>>>> 0141a54b9abb3a4ff92b917f567f0e768f37c5e5
->>>>>>> b3df0e18609442ac9d714120c01fe38683deeff9
->>>>>>> d3d7abf3d2c89669b8c401dc5d7316d8e59a2011
->>>>>>> 68f0c28e13e04d0558dc3c19888fe2476488331f
->>>>>>> 2d99588e503a47cbe8688dd82d86bf37bf91be99
