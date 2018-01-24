@@ -184,7 +184,7 @@ class AudioMixerGroup;
 class AudioMixerGroupController; 
 class AudioMixerSnapshot; 
 class AudioMixerSnapshotController; 
-class Avatar; template <> void RegisterClass<Avatar>();
+class Avatar; 
 class AvatarMask; 
 class BillboardAsset; 
 class ComputeShader; 
@@ -270,7 +270,11 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
+<<<<<<< HEAD
 	//Total: 86 non stripped classes
+=======
+	//Total: 85 non stripped classes
+>>>>>>> 68f0c28e13e04d0558dc3c19888fe2476488331f
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -437,11 +441,17 @@ RegisterBuiltinTypes();
 	RegisterClass<RuntimeAnimatorController>();
 	//82. ParticleSystemRenderer
 	RegisterClass<ParticleSystemRenderer>();
+<<<<<<< HEAD
 	//83. Avatar
 	RegisterClass<Avatar>();
 	//84. AnimationClip
 	RegisterClass<AnimationClip>();
 	//85. NavMeshSettings
+=======
+	//83. AnimationClip
+	RegisterClass<AnimationClip>();
+	//84. NavMeshSettings
+>>>>>>> 68f0c28e13e04d0558dc3c19888fe2476488331f
 	RegisterClass<NavMeshSettings>();
 
 }
