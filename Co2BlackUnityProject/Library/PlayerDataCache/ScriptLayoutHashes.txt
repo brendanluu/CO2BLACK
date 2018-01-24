@@ -156,7 +156,7 @@ e97ff9540a49b92b779792c195839d33 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 5511a49b5104d2e14b66af50a17125f0 Assembly-CSharp.dll:.ParticlePainter
 e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.TerrainFactory
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
-1fc075caacd194467b79c3ca19430cca Assembly-CSharp.dll:.ignoreCollision
+bd6f4741393d668934f1de8493711b6d Assembly-CSharp.dll:.ignoreCollision
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.FireLight
 f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.FlatTerrainFactory
@@ -374,4 +374,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.flickeringLight
 3d8d801a1d10219d7db99c142a91cd0b Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
-3d8d801a1d10219d7db99c142a91cd0b Assembly-CSharp.dll:UnityEngine.XR.iOS.TrashARHitTest
+715a3a5e1e928ce77514d4e84e265356 Assembly-CSharp.dll:UnityEngine.XR.iOS.TrashARHitTest
