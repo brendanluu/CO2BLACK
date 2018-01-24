@@ -8,6 +8,7 @@ namespace UnityEngine.XR.iOS
 		public Transform m_HitTransform;
 		public float maxRayDistance = 30.0f;
 		public LayerMask collisionLayer = 1 << 10;  //ARKitPlane layer
+		public float findingSquareDist = 0.5f;
 
 		public GameObject BlueFocusSquare;
 		public GameObject FocusedSquare;
@@ -52,6 +53,9 @@ namespace UnityEngine.XR.iOS
 
 		// Update is called once per frame
 		void Update () {
+
+			m_Collider = GetComponent<Collider>();
+			Vector3 center = new Vector3(Screen.width/2, Screen.height/2, findingSquareDist);
 			
 			#if UNITY_EDITOR   //we will only use this script on the editor side, though there is nothing that would prevent it from working on device
 			if (Input.GetMouseButtonDown (0)) {
