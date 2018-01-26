@@ -1,4 +1,5 @@
 sceneSetups:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/_Scenes/erinMarty.unity
 =======
@@ -8,5 +9,12 @@ sceneSetups:
 - path: Assets/_Scenes/Ghost-UI.unity
 >>>>>>> fceee5b6c2649b4ab85b6db9eae05db1fb0860c1
 >>>>>>> 61c5963460dc90d13a1c65c238131a05241228a7
+=======
+<<<<<<< Updated upstream
+- path: Assets/_Scenes/Ghost-UI.unity
+=======
+- path: Assets/_Scenes/test Trash.unity
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
