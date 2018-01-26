@@ -16,6 +16,7 @@ public class LampHit : MonoBehaviour {
 	public GameObject cflBulb;
 	public GameObject badBulb;
 	public GameObject replaceBulb;
+	public GameObject cflTrans;
 
 	//second half
 	public GameObject dontForget;
@@ -28,31 +29,43 @@ public class LampHit : MonoBehaviour {
 //	public Material smokeLow;
 
 	void HitByRay () {
+		//first screen
 		Debug.Log ("I was hit by a Ray");
 
-		lampShade.DisableKeyword ("_EMISSION");
+		if (badBulb.activeInHierarchy) {
+//		lampShade.DisableKeyword ("_EMISSION");
 //		lampSpotlight.SetActive (false);
-		BuildingFactTop.SetActive (true);
-		BuildingFactBot.SetActive (true);
-		badBulb.SetActive (false);
-		cflBulb.SetActive (true);
-		nextButton.SetActive (true);
-		replaceBulb.SetActive (false);
+			BuildingFactTop.SetActive (true);
+			BuildingFactBot.SetActive (true);
+			badBulb.SetActive (false);
+			cflBulb.SetActive (true);
+			cflTrans.SetActive (false);
+			nextButton.SetActive (true);
+			replaceBulb.SetActive (false);
 
 //		MeshRenderer smokeHighMesh = smokeHigh.GetComponent<MeshRenderer>();
 //
 //		smokeLow = smokeHighMesh.material; 
 
-		smokeHigh.SetFloat ("_Alpha", 0.15f);
+			smokeHigh.SetFloat ("_Alpha", 0.15f);
+		}
 
+		if (dontForget.activeInHierarchy) {
+			lampSpotlight.SetActive (false);
+		}
 	}
 
 	public void nextBtn () {
+		//hide old text
 		BuildingFactTop.SetActive (false);
 		BuildingFactBot.SetActive (false);
+
+		//show text
 		dontForget.SetActive (true);
-		nextButton.SetActive (false);
 		turnOff.SetActive (true);
+
+		//hide btn
+		nextButton.SetActive (false);
 
 	}
 }
