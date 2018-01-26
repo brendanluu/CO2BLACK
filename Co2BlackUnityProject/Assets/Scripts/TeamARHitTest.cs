@@ -15,6 +15,8 @@ namespace UnityEngine.XR.iOS
 		public GameObject WholeLamp;
 		public GameObject TapToText;
 
+		public GameObject replaceBulb;
+
 		public GameObject lampNewCollider;
 
 		public Material lampShade;
@@ -29,7 +31,7 @@ namespace UnityEngine.XR.iOS
 
 			if (hitResults.Count > 0) {
 
-
+				replaceBulb.SetActive (true);
 				BlueFocusSquare.SetActive (false);
 
 				FocusedSquare.SetActive (false);
