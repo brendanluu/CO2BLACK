@@ -204,6 +204,7 @@
 <type fullname="AR3DOFCameraManager" preserve="all"/>
 <type fullname="DontDestroyOnLoad" preserve="all"/>
 <type fullname="PointCloudParticleExample" preserve="all"/>
+<type fullname="UnityEngine.XR.iOS.TrashARHitTestExample" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.UnityARAmbient" preserve="all"/>
 <type fullname="UnityARCameraManager" preserve="all"/>
 <type fullname="UnityARCameraNearFar" preserve="all"/>
