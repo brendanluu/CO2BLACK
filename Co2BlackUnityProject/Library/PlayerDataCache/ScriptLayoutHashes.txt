@@ -55,6 +55,7 @@ b78b41b80d730d4593aaf83225c3f062 Assembly-CSharp.dll:.mapBuildScript
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.TextureSelector
 27acdffc7a8f7930267dca6612c43cee Assembly-CSharp.dll:.fact1_script
 e1734f63576cd8ea370eede4efae656b Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.MapImageFactory
+95a35eb5ed652f5a398d20da70558cd3 Assembly-CSharp.dll:.fixedpos
 f0bdc1041dee6504f25216b38b2bb3cb TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.InlineGraphic
 cd5f66d713a060bf891e329290b64cc4 TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.InlineGraphicManager
 f4bd1aee67eeef7953cce6c44588b3d7 TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TextContainer
@@ -93,7 +94,7 @@ e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.BasicMap
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelay
 149e538468c9a609cf26b23682c996c7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
-c618afabe35d1739892d1c8f285c31bc Assembly-CSharp.dll:.LampHit
+362c2c9ccb5d6e2a6fc013a01d273e6a Assembly-CSharp.dll:.LampHit
 37bf4d6a6d424731cb4a9b998783e5c6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.ConnectToEditor
 f1b23fe75ecc41128314759a327579e2 Assembly-CSharp.dll:Mapbox.Unity.Utilities.TelemetryConfigurationButton
@@ -188,7 +189,11 @@ d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 602017ac837ce39de79e6b98478ee720 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.SimpleActivatorMenu
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScene
 bf09ee2e5fc51800c24bc9ad47088efd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.AddMonoBehavioursModifier
+<<<<<<< HEAD
 4db0663f9c228f9276322045ee5037d5 Assembly-CSharp.dll:.FocusSquare
+=======
+882ed8668c5a0f692972a33b26886699 Assembly-CSharp.dll:.FocusSquare
+>>>>>>> 745b2cab88f8d302cc07ae5244a9e439994bd067
 076e35b09a1b5a014e21d57d28756f33 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.StyleOptimizedVectorTileFactory
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.RotateSample
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.ColorImage
@@ -375,4 +380,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
+<<<<<<< HEAD
 95a35eb5ed652f5a398d20da70558cd3 Assembly-CSharp.dll:.fixedpos
+=======
+>>>>>>> 745b2cab88f8d302cc07ae5244a9e439994bd067

@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/_Scenes/Grabbing02.unity
-=======
-- path: Assets/_Scenes/Ghost-UI.unity
->>>>>>> fceee5b6c2649b4ab85b6db9eae05db1fb0860c1
+- path: Assets/_Scenes/erinMarty.unity
   isLoaded: 1
   isActive: 1
