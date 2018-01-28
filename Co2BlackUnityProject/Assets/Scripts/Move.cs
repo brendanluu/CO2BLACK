@@ -21,7 +21,9 @@ public class Move : MonoBehaviour {
 				RaycastHit hit;
 
 				if (Physics.Raycast (ray, out hit, 100)) {
-					objectSelect = hit.transform.gameObject;
+					if(gameObject.tag == "goodTrash" || gameObject.tag == "badTrash"){
+						objectSelect = hit.transform.gameObject;
+					}
 				}
 			}
 
