@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/Grabbing02.unity
     guid: f23c8c56f536c4a28901b9f48cae7995
+  - enabled: 1
+    path: Assets/_Scenes/erinMarty.unity
+    guid: 44bffca040cb74ee2a442236428c5ba0
