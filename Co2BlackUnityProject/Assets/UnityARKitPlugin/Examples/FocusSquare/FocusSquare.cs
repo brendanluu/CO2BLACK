@@ -14,8 +14,6 @@ public class FocusSquare : MonoBehaviour {
 	public GameObject findingSquare;
 	public GameObject foundSquare;
 
-	public GameObject cflTrans;
-
 	//for editor version
 	public float maxRayDistance = 30.0f;
 	public LayerMask collisionLayerMask;
@@ -38,7 +36,6 @@ public class FocusSquare : MonoBehaviour {
 			lampComponent.SetActive (squareState == FocusState.Found);
 			tapToPlaceText.SetActive (squareState == FocusState.Found);
 			findFlatSurface.SetActive (squareState != FocusState.Found);
-			cflTrans.SetActive (squareState == FocusState.Found);
 		} 
 	}
 

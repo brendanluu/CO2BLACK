@@ -28,6 +28,16 @@ public class LampHit : MonoBehaviour {
 //
 //	public Material smokeLow;
 
+	void Update () {
+		if (replaceBulb.activeInHierarchy) {
+			cflTrans.SetActive (true);
+		}
+		if (cflBulb.activeInHierarchy) {
+			cflTrans.SetActive (false);
+		}
+
+	}
+
 	void HitByRay () {
 		//first screen
 		Debug.Log ("I was hit by a Ray");
@@ -39,7 +49,6 @@ public class LampHit : MonoBehaviour {
 			BuildingFactBot.SetActive (true);
 			badBulb.SetActive (false);
 			cflBulb.SetActive (true);
-			cflTrans.SetActive (false);
 			nextButton.SetActive (true);
 			replaceBulb.SetActive (false);
 
