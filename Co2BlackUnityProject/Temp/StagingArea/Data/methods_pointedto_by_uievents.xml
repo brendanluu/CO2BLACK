@@ -1,6 +1,4 @@
 <linker>
-<<<<<<< HEAD
-=======
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="lampBtns">
 			<method name="BuildingFactTopBtn"/>
@@ -8,5 +6,4 @@
 			<method name="dontForgetBtn"/>
 		</type>
 	</assembly>
->>>>>>> 32f40a0427d03e7b22541c9a7cf2abe6843614c8
 </linker>

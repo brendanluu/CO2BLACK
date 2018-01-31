@@ -6,19 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/_Scenes/Grabbing02.unity
-    guid: f23c8c56f536c4a28901b9f48cae7995
-  - enabled: 0
-<<<<<<< HEAD
-    path: Assets/_Scenes/brendans.unity
-    guid: e08bd4a87437649fc8a8758dce35a26c
-  - enabled: 1
-    path: Assets/_Scenes/Grabbing03.unity
-    guid: 657c7d4b3c72a4a6ab95eaf62622b407
-=======
     path: Assets/_Scenes/erinMarty.unity
     guid: 44bffca040cb74ee2a442236428c5ba0
   - enabled: 1
     path: Assets/_Scenes/erinLampUI.unity
     guid: 443a32f16f5884760a60aab0208a4f31
->>>>>>> 32f40a0427d03e7b22541c9a7cf2abe6843614c8

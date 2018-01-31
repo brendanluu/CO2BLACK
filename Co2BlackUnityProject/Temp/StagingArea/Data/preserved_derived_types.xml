@@ -68,13 +68,9 @@
 <type fullname="HitByRaycast" preserve="all"/>
 <type fullname="IfAnchorAddedScript" preserve="all"/>
 <type fullname="ignoreCollision" preserve="all"/>
-<<<<<<< HEAD
-<type fullname="LampHit" preserve="all"/>
-=======
 <type fullname="lampBtns" preserve="all"/>
 <type fullname="LampHit" preserve="all"/>
 <type fullname="LampHit2" preserve="all"/>
->>>>>>> 32f40a0427d03e7b22541c9a7cf2abe6843614c8
 <type fullname="exampleSceneScript" preserve="all"/>
 <type fullname="loadDelayIntro" preserve="all"/>
 <type fullname="loadDelayOutro" preserve="all"/>
@@ -188,10 +184,7 @@
 <type fullname="UnityEngine.XR.iOS.TrashARHitTest" preserve="all"/>
 <type fullname="Fader" preserve="all"/>
 <type fullname="start" preserve="all"/>
-<<<<<<< HEAD
 <type fullname="toggleTrash" preserve="all"/>
-=======
->>>>>>> 32f40a0427d03e7b22541c9a7cf2abe6843614c8
 <type fullname="UnityEngine.XR.iOS.ConnectToEditor" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.EditorHitTest" preserve="all"/>
 <type fullname="UnityEngine.XR.iOS.UnityRemoteVideo" preserve="all"/>

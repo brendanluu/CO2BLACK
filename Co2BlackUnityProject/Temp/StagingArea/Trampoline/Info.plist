@@ -4,7 +4,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>
-    <string>co2-test</string>
+    <string>co2move</string>
     <key>CFBundleExecutable</key>
     <string>${EXECUTABLE_NAME}</string>
     <key>CFBundleIconFiles</key>
@@ -72,6 +72,6 @@
     <key>UnityCloudProjectID</key>
     <string></string>
     <key>UnityCrashSubmissionURL</key>
-    <string>https://a:b@perf-events.cloud.unity3d.com/symbolicate</string>
+    <string>https://perf-events.cloud.unity3d.com/symbolicate</string>
   </dict>
 </plist>
