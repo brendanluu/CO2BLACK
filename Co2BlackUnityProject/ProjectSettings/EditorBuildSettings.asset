@@ -4,11 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-  m_Scenes:
-  - enabled: 1
-    path: Assets/_Scenes/erinMarty_duplicate.unity
-    guid: 55b069369e63c480083cf64291fed30c
-=======
   m_Scenes: []
->>>>>>> 0967c26cdee795f564503f537372ec3c108b15cd
