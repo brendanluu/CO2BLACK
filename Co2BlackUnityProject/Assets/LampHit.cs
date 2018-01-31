@@ -23,6 +23,10 @@ public class LampHit : MonoBehaviour {
 	public GameObject turnOff;
 
 
+	//example Cube for beginning to combine scenes
+	public GameObject exampleCube;
+	public GameObject wholeLampObject;
+
 
 //	public GameObject smokeHigh;
 //
@@ -75,6 +79,9 @@ public class LampHit : MonoBehaviour {
 
 		//hide btn
 		nextButton.SetActive (false);
+		wholeLampObject.SetActive (false);
+
+		exampleCube.SetActive (true);
 
 	}
 }
