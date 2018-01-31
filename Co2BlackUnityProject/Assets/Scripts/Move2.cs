@@ -25,8 +25,12 @@ public class Move2 : MonoBehaviour {
 				RaycastHit hit;
 
 				if (Physics.Raycast (ray, out hit, 100)) {
-					objectSelect = hit.transform.gameObject;
-					rb = objectSelect.GetComponent<Rigidbody>();
+
+                    if (hit.transform.gameObject.tag == "goodTrash" || hit.transform.gameObject.tag == "badTrash"){
+						objectSelect = hit.transform.gameObject;
+						rb = objectSelect.GetComponent<Rigidbody>();
+                    }
+					
 				}
 			}
 
