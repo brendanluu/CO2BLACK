@@ -1,6 +1,10 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
+- path: Assets/_Scenes/erinLampUI.unity
+=======
 - path: Assets/_Scenes/Grabbing03.unity
+>>>>>>> 270b1733a549908821d9bf8c68771c10558d4a7d
 =======
 - path: Assets/_Scenes/erinMarty_duplicate.unity
 >>>>>>> 2847e90143fef96e277023dc635f2720ea74ae79
