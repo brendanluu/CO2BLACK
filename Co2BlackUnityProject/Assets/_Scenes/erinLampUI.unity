@@ -401,7 +401,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 0
   m_Colors:
     m_NormalColor: {r: 0.27450982, g: 0.20784314, b: 0.2627451, a: 1}
     m_HighlightedColor: {r: 0.27450982, g: 0.20784314, b: 0.2627451, a: 1}
@@ -6280,7 +6280,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 0
   m_Colors:
     m_NormalColor: {r: 0.27450982, g: 0.20784314, b: 0.2627451, a: 1}
     m_HighlightedColor: {r: 0.27450982, g: 0.20784314, b: 0.2627451, a: 1}
