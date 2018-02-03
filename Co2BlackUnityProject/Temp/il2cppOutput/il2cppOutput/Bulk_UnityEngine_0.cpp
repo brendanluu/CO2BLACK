@@ -22,8 +22,18 @@
 
 
 
+<<<<<<< HEAD
 #ifndef U3CMODULEU3E_T3783534239_H
 #define U3CMODULEU3E_T3783534239_H
+=======
+<<<<<<< HEAD
+#ifndef U3CMODULEU3E_T3289413131_H
+#define U3CMODULEU3E_T3289413131_H
+=======
+#ifndef U3CMODULEU3E_T4164872556_H
+#define U3CMODULEU3E_T4164872556_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+>>>>>>> 78f496ba93fe497d18748d9592933400e6eb4b21
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -31,7 +41,15 @@
 #endif
 
 // <Module>
+<<<<<<< HEAD
 struct  U3CModuleU3E_t3783534239 
+=======
+<<<<<<< HEAD
+struct  U3CModuleU3E_t3289413131 
+=======
+struct  U3CModuleU3E_t4164872556 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+>>>>>>> 78f496ba93fe497d18748d9592933400e6eb4b21
 {
 public:
 
@@ -41,7 +59,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // U3CMODULEU3E_T3783534239_H
+=======
+<<<<<<< HEAD
+#endif // U3CMODULEU3E_T3289413131_H
+=======
+#endif // U3CMODULEU3E_T4164872556_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+>>>>>>> 78f496ba93fe497d18748d9592933400e6eb4b21
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__

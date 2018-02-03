@@ -1,4 +1,5 @@
 <linker>
+<<<<<<< HEAD
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="lampBtns">
 			<method name="BuildingFactTopBtn"/>
@@ -6,4 +7,17 @@
 			<method name="BuildingFactBotBtn"/>
 		</type>
 	</assembly>
+=======
+<<<<<<< HEAD
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LampHit">
+			<method name="nextBtn"/>
+		</type>
+		<type fullname="loadDelayOutro">
+			<method name="ModeSelect"/>
+		</type>
+	</assembly>
+=======
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+>>>>>>> 78f496ba93fe497d18748d9592933400e6eb4b21
 </linker>

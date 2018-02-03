@@ -26,7 +26,7 @@ public class LampHit : MonoBehaviour {
 
 	//example Cube for beginning to combine scenes
 	public GameObject exampleCube;
-	public GameObject wholeLampObject;
+	public GameObject newPlacedLamp;
 
 
 //	public GameObject smokeHigh;
@@ -71,6 +71,7 @@ public class LampHit : MonoBehaviour {
 	}
 
 	public void nextBtn () {
+		Debug.Log ("Next Button Tapped");
 		//hide old text
 		BuildingFactTop.SetActive (false);
 		BuildingFactBot.SetActive (false);
@@ -82,7 +83,13 @@ public class LampHit : MonoBehaviour {
 
 		//hide btn
 		nextButton.SetActive (false);
-		wholeLampObject.SetActive (false);
+
+		newPlacedLamp.SetActive (false);
+		if (newPlacedLamp.activeInHierarchy) {
+			Debug.Log ("didn't work");
+		} else {
+			Debug.Log ("Worked");
+		}
 
 		exampleCube.SetActive (true);
 
