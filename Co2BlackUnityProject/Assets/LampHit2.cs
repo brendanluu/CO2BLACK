@@ -12,6 +12,8 @@ public class LampHit2 : MonoBehaviour {
 	//second screen (bulb was switched)
 	public GameObject cflBulb;
 	public GameObject BuildingFactTop;
+	public GameObject pointer;
+
 
 	//third screen 
 	public GameObject BuildingFactBot;
@@ -43,9 +45,12 @@ public class LampHit2 : MonoBehaviour {
 		if (badBulb.activeInHierarchy) {
 			
 			BuildingFactTop.SetActive (true);
+			pointer.SetActive (true);
 			badBulb.SetActive (false);
 			cflBulb.SetActive (true);
 			replaceBulb.SetActive (false);
+			pointer.SetActive (false);
+
 
 			smokeHigh.SetFloat ("_Alpha", 0.15f);
 		}

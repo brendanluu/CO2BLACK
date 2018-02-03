@@ -9,6 +9,8 @@ namespace UnityEngine.XR.iOS
 		public float maxRayDistance = 30.0f;
 		public LayerMask collisionLayer = 1 << 10;  //ARKitPlane layer
 
+		public GameObject bigDickHit;
+
 		bool HitTestWithResultType(ARPoint point, ARHitTestResultType resultTypes)
 		{
 			List<ARHitTestResult> hitResults = UnityARSessionNativeInterface.GetARSessionNativeInterface().HitTest(point, resultTypes);
@@ -23,6 +25,8 @@ namespace UnityEngine.XR.iOS
 					return true;
 				}
 			}
+			bigDickHit.transform.DetachChildren ();
+
 			return false;
 		}
 
