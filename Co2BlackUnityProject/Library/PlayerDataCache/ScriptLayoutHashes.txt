@@ -45,7 +45,7 @@ e3614d77c024e8379444f971096aaac4 Assembly-CSharp.dll:.UnityARCameraManager
 77644474df6c5b551a248f4f83812e84 Assembly-CSharp.dll:Mapbox.Examples.LoadingPanelController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RayHit
 c1465577256149eb2fdaaf3754ab7da9 Assembly-CSharp.dll:.TiltWindow
-5051a9225dde59f27c5f489425b1f63c Assembly-CSharp.dll:.lampBtns
+9638d107df613ea3e7d13424e6db1393 Assembly-CSharp.dll:.lampBtns
 7d5b8986d788d51c21bcecec760e0129 Assembly-CSharp.dll:.Screen3
 1de2e2cbb104e97d6c51bb8790db321c Assembly-CSharp.dll:Mapbox.Examples.Voxels.VoxelFetcher
 78a2a366a0a3b585e1178d2dd9d006ab Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointProgressTracker
@@ -168,11 +168,7 @@ f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 0ab1bbed85b44e2f039b237552baefdc Assembly-CSharp.dll:.rejectionBadTrash
 bb2c736a6bf82df1138b83fbd7e29067 Assembly-CSharp.dll:Mapbox.Examples.PositionWithLocationProvider
 f6dccfc611980e48234f29ac86dfc6a1 Assembly-CSharp.dll:Mapbox.Examples.Scripts.Utilities.DragRotate
-<<<<<<< HEAD
-abd89a8b136959a4fd4d685a93fc1cf5 Assembly-CSharp.dll:.LampHit2
-=======
 37cf3d900d5933924f948556e133b203 Assembly-CSharp.dll:.LampHit2
->>>>>>> 0fc015598a16168b61e70ff93d2476e0b3705654
 c3bbced3b920c972296954f059b11c2e Assembly-CSharp.dll:UnityEngine.UI.BoxSlider
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 7317d05fdc27591726053b234b9ea5ee Assembly-CSharp.dll:.ColorSliderImage
@@ -384,7 +380,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
-<<<<<<< HEAD
-=======
 0054132f992dda1ad6f69ccca280b007 Assembly-CSharp.dll:.toggleTrash
->>>>>>> 0fc015598a16168b61e70ff93d2476e0b3705654
