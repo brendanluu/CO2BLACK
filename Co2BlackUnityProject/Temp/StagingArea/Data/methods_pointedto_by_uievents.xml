@@ -1,9 +1,0 @@
-<linker>
-	<assembly fullname="Assembly-CSharp">
-		<type fullname="lampBtns">
-			<method name="BuildingFactTopBtn"/>
-			<method name="BuildingFactBotBtn"/>
-			<method name="dontForgetBtn"/>
-		</type>
-	</assembly>
-</linker>
