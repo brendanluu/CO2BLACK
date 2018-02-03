@@ -4,12 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-<<<<<<< HEAD
-    path: Assets/_Scenes/erinMarty_duplicate.unity
-    guid: 55b069369e63c480083cf64291fed30c
-=======
-    path: Assets/_Scenes/erinLampUI.unity
-    guid: 443a32f16f5884760a60aab0208a4f31
->>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+  m_Scenes: []
