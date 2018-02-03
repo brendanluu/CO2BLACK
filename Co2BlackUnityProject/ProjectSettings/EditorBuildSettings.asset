@@ -5,14 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/erinLampUI.unity
-    guid: 443a32f16f5884760a60aab0208a4f31
   - enabled: 1
-<<<<<<< HEAD
-    path: Assets/_Scenes/Grabbing03.unity
-    guid: 657c7d4b3c72a4a6ab95eaf62622b407
-=======
     path: Assets/_Scenes/erinLampUI.unity
     guid: 443a32f16f5884760a60aab0208a4f31
->>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
