@@ -1,4 +1,5 @@
 <linker>
+<<<<<<< HEAD
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="LampHit">
 			<method name="nextBtn"/>
@@ -7,4 +8,6 @@
 			<method name="ModeSelect"/>
 		</type>
 	</assembly>
+=======
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 </linker>

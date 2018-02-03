@@ -19,6 +19,7 @@
 #include "object-internals.h"
 
 // UnityEngine.Tilemaps.Tile
+<<<<<<< HEAD
 struct Tile_t3151439873;
 // UnityEngine.Tilemaps.TileBase
 struct TileBase_t1628437576;
@@ -36,6 +37,25 @@ extern const uint32_t Tile__ctor_m158049940_MetadataUsageId;
 
 #ifndef U3CMODULEU3E_T3289413124_H
 #define U3CMODULEU3E_T3289413124_H
+=======
+struct Tile_t3864510666;
+// UnityEngine.Tilemaps.TileBase
+struct TileBase_t4086322131;
+// UnityEngine.ScriptableObject
+struct ScriptableObject_t577319853;
+// System.Char[]
+struct CharU5BU5D_t3825954526;
+// System.Void
+struct Void_t1752747391;
+
+extern RuntimeClass* Matrix4x4_t2365415230_il2cpp_TypeInfo_var;
+extern const uint32_t Tile__ctor_m819309984_MetadataUsageId;
+
+
+
+#ifndef U3CMODULEU3E_T4164872549_H
+#define U3CMODULEU3E_T4164872549_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -43,7 +63,11 @@ extern const uint32_t Tile__ctor_m158049940_MetadataUsageId;
 #endif
 
 // <Module>
+<<<<<<< HEAD
 struct  U3CModuleU3E_t3289413124 
+=======
+struct  U3CModuleU3E_t4164872549 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 
@@ -53,7 +77,11 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // U3CMODULEU3E_T3289413124_H
+=======
+#endif // U3CMODULEU3E_T4164872549_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__
@@ -83,8 +111,13 @@ struct Il2CppArrayBounds;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEARRAY_H
+<<<<<<< HEAD
 #ifndef VALUETYPE_T3249919482_H
 #define VALUETYPE_T3249919482_H
+=======
+#ifndef VALUETYPE_T2609464153_H
+#define VALUETYPE_T2609464153_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -92,7 +125,11 @@ struct Il2CppArrayBounds;
 #endif
 
 // System.ValueType
+<<<<<<< HEAD
 struct  ValueType_t3249919482  : public RuntimeObject
+=======
+struct  ValueType_t2609464153  : public RuntimeObject
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 
@@ -103,6 +140,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.ValueType
+<<<<<<< HEAD
 struct ValueType_t3249919482_marshaled_pinvoke
 {
 };
@@ -113,6 +151,18 @@ struct ValueType_t3249919482_marshaled_com
 #endif // VALUETYPE_T3249919482_H
 #ifndef VOID_T3213303575_H
 #define VOID_T3213303575_H
+=======
+struct ValueType_t2609464153_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.ValueType
+struct ValueType_t2609464153_marshaled_com
+{
+};
+#endif // VALUETYPE_T2609464153_H
+#ifndef VOID_T1752747391_H
+#define VOID_T1752747391_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -120,7 +170,11 @@ struct ValueType_t3249919482_marshaled_com
 #endif
 
 // System.Void
+<<<<<<< HEAD
 struct  Void_t3213303575 
+=======
+struct  Void_t1752747391 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 
@@ -130,9 +184,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // VOID_T3213303575_H
 #ifndef COLOR_T3132430186_H
 #define COLOR_T3132430186_H
+=======
+#endif // VOID_T1752747391_H
+#ifndef COLOR_T4119541476_H
+#define COLOR_T4119541476_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -140,7 +200,11 @@ public:
 #endif
 
 // UnityEngine.Color
+<<<<<<< HEAD
 struct  Color_t3132430186 
+=======
+struct  Color_t4119541476 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -153,7 +217,11 @@ public:
 	float ___a_3;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color_t3132430186, ___r_0)); }
+=======
+	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color_t4119541476, ___r_0)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_r_0() const { return ___r_0; }
 	inline float* get_address_of_r_0() { return &___r_0; }
 	inline void set_r_0(float value)
@@ -161,7 +229,11 @@ public:
 		___r_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color_t3132430186, ___g_1)); }
+=======
+	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color_t4119541476, ___g_1)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_g_1() const { return ___g_1; }
 	inline float* get_address_of_g_1() { return &___g_1; }
 	inline void set_g_1(float value)
@@ -169,7 +241,11 @@ public:
 		___g_1 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color_t3132430186, ___b_2)); }
+=======
+	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color_t4119541476, ___b_2)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_b_2() const { return ___b_2; }
 	inline float* get_address_of_b_2() { return &___b_2; }
 	inline void set_b_2(float value)
@@ -177,7 +253,11 @@ public:
 		___b_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color_t3132430186, ___a_3)); }
+=======
+	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color_t4119541476, ___a_3)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_a_3() const { return ___a_3; }
 	inline float* get_address_of_a_3() { return &___a_3; }
 	inline void set_a_3(float value)
@@ -189,9 +269,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // COLOR_T3132430186_H
 #ifndef MATRIX4X4_T3602824574_H
 #define MATRIX4X4_T3602824574_H
+=======
+#endif // COLOR_T4119541476_H
+#ifndef MATRIX4X4_T2365415230_H
+#define MATRIX4X4_T2365415230_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -199,7 +285,11 @@ public:
 #endif
 
 // UnityEngine.Matrix4x4
+<<<<<<< HEAD
 struct  Matrix4x4_t3602824574 
+=======
+struct  Matrix4x4_t2365415230 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 	// System.Single UnityEngine.Matrix4x4::m00
@@ -236,7 +326,11 @@ public:
 	float ___m33_15;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m00_0() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m00_0)); }
+=======
+	inline static int32_t get_offset_of_m00_0() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m00_0)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m00_0() const { return ___m00_0; }
 	inline float* get_address_of_m00_0() { return &___m00_0; }
 	inline void set_m00_0(float value)
@@ -244,7 +338,11 @@ public:
 		___m00_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m10_1() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m10_1)); }
+=======
+	inline static int32_t get_offset_of_m10_1() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m10_1)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m10_1() const { return ___m10_1; }
 	inline float* get_address_of_m10_1() { return &___m10_1; }
 	inline void set_m10_1(float value)
@@ -252,7 +350,11 @@ public:
 		___m10_1 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m20_2() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m20_2)); }
+=======
+	inline static int32_t get_offset_of_m20_2() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m20_2)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m20_2() const { return ___m20_2; }
 	inline float* get_address_of_m20_2() { return &___m20_2; }
 	inline void set_m20_2(float value)
@@ -260,7 +362,11 @@ public:
 		___m20_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m30_3() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m30_3)); }
+=======
+	inline static int32_t get_offset_of_m30_3() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m30_3)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m30_3() const { return ___m30_3; }
 	inline float* get_address_of_m30_3() { return &___m30_3; }
 	inline void set_m30_3(float value)
@@ -268,7 +374,11 @@ public:
 		___m30_3 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m01_4() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m01_4)); }
+=======
+	inline static int32_t get_offset_of_m01_4() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m01_4)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m01_4() const { return ___m01_4; }
 	inline float* get_address_of_m01_4() { return &___m01_4; }
 	inline void set_m01_4(float value)
@@ -276,7 +386,11 @@ public:
 		___m01_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m11_5() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m11_5)); }
+=======
+	inline static int32_t get_offset_of_m11_5() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m11_5)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m11_5() const { return ___m11_5; }
 	inline float* get_address_of_m11_5() { return &___m11_5; }
 	inline void set_m11_5(float value)
@@ -284,7 +398,11 @@ public:
 		___m11_5 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m21_6() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m21_6)); }
+=======
+	inline static int32_t get_offset_of_m21_6() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m21_6)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m21_6() const { return ___m21_6; }
 	inline float* get_address_of_m21_6() { return &___m21_6; }
 	inline void set_m21_6(float value)
@@ -292,7 +410,11 @@ public:
 		___m21_6 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m31_7() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m31_7)); }
+=======
+	inline static int32_t get_offset_of_m31_7() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m31_7)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m31_7() const { return ___m31_7; }
 	inline float* get_address_of_m31_7() { return &___m31_7; }
 	inline void set_m31_7(float value)
@@ -300,7 +422,11 @@ public:
 		___m31_7 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m02_8() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m02_8)); }
+=======
+	inline static int32_t get_offset_of_m02_8() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m02_8)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m02_8() const { return ___m02_8; }
 	inline float* get_address_of_m02_8() { return &___m02_8; }
 	inline void set_m02_8(float value)
@@ -308,7 +434,11 @@ public:
 		___m02_8 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m12_9() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m12_9)); }
+=======
+	inline static int32_t get_offset_of_m12_9() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m12_9)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m12_9() const { return ___m12_9; }
 	inline float* get_address_of_m12_9() { return &___m12_9; }
 	inline void set_m12_9(float value)
@@ -316,7 +446,11 @@ public:
 		___m12_9 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m22_10() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m22_10)); }
+=======
+	inline static int32_t get_offset_of_m22_10() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m22_10)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m22_10() const { return ___m22_10; }
 	inline float* get_address_of_m22_10() { return &___m22_10; }
 	inline void set_m22_10(float value)
@@ -324,7 +458,11 @@ public:
 		___m22_10 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m32_11() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m32_11)); }
+=======
+	inline static int32_t get_offset_of_m32_11() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m32_11)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m32_11() const { return ___m32_11; }
 	inline float* get_address_of_m32_11() { return &___m32_11; }
 	inline void set_m32_11(float value)
@@ -332,7 +470,11 @@ public:
 		___m32_11 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m03_12() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m03_12)); }
+=======
+	inline static int32_t get_offset_of_m03_12() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m03_12)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m03_12() const { return ___m03_12; }
 	inline float* get_address_of_m03_12() { return &___m03_12; }
 	inline void set_m03_12(float value)
@@ -340,7 +482,11 @@ public:
 		___m03_12 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m13_13() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m13_13)); }
+=======
+	inline static int32_t get_offset_of_m13_13() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m13_13)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m13_13() const { return ___m13_13; }
 	inline float* get_address_of_m13_13() { return &___m13_13; }
 	inline void set_m13_13(float value)
@@ -348,7 +494,11 @@ public:
 		___m13_13 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m23_14() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m23_14)); }
+=======
+	inline static int32_t get_offset_of_m23_14() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m23_14)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m23_14() const { return ___m23_14; }
 	inline float* get_address_of_m23_14() { return &___m23_14; }
 	inline void set_m23_14(float value)
@@ -356,7 +506,11 @@ public:
 		___m23_14 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m33_15() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574, ___m33_15)); }
+=======
+	inline static int32_t get_offset_of_m33_15() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230, ___m33_15)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline float get_m33_15() const { return ___m33_15; }
 	inline float* get_address_of_m33_15() { return &___m33_15; }
 	inline void set_m33_15(float value)
@@ -365,6 +519,7 @@ public:
 	}
 };
 
+<<<<<<< HEAD
 struct Matrix4x4_t3602824574_StaticFields
 {
 public:
@@ -378,14 +533,36 @@ public:
 	inline Matrix4x4_t3602824574  get_zeroMatrix_16() const { return ___zeroMatrix_16; }
 	inline Matrix4x4_t3602824574 * get_address_of_zeroMatrix_16() { return &___zeroMatrix_16; }
 	inline void set_zeroMatrix_16(Matrix4x4_t3602824574  value)
+=======
+struct Matrix4x4_t2365415230_StaticFields
+{
+public:
+	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::zeroMatrix
+	Matrix4x4_t2365415230  ___zeroMatrix_16;
+	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::identityMatrix
+	Matrix4x4_t2365415230  ___identityMatrix_17;
+
+public:
+	inline static int32_t get_offset_of_zeroMatrix_16() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230_StaticFields, ___zeroMatrix_16)); }
+	inline Matrix4x4_t2365415230  get_zeroMatrix_16() const { return ___zeroMatrix_16; }
+	inline Matrix4x4_t2365415230 * get_address_of_zeroMatrix_16() { return &___zeroMatrix_16; }
+	inline void set_zeroMatrix_16(Matrix4x4_t2365415230  value)
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	{
 		___zeroMatrix_16 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_identityMatrix_17() { return static_cast<int32_t>(offsetof(Matrix4x4_t3602824574_StaticFields, ___identityMatrix_17)); }
 	inline Matrix4x4_t3602824574  get_identityMatrix_17() const { return ___identityMatrix_17; }
 	inline Matrix4x4_t3602824574 * get_address_of_identityMatrix_17() { return &___identityMatrix_17; }
 	inline void set_identityMatrix_17(Matrix4x4_t3602824574  value)
+=======
+	inline static int32_t get_offset_of_identityMatrix_17() { return static_cast<int32_t>(offsetof(Matrix4x4_t2365415230_StaticFields, ___identityMatrix_17)); }
+	inline Matrix4x4_t2365415230  get_identityMatrix_17() const { return ___identityMatrix_17; }
+	inline Matrix4x4_t2365415230 * get_address_of_identityMatrix_17() { return &___identityMatrix_17; }
+	inline void set_identityMatrix_17(Matrix4x4_t2365415230  value)
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	{
 		___identityMatrix_17 = value;
 	}
@@ -394,9 +571,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // MATRIX4X4_T3602824574_H
 #ifndef ENUM_T1341287663_H
 #define ENUM_T1341287663_H
+=======
+#endif // MATRIX4X4_T2365415230_H
+#ifndef ENUM_T2414767330_H
+#define ENUM_T2414767330_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -404,13 +587,18 @@ public:
 #endif
 
 // System.Enum
+<<<<<<< HEAD
 struct  Enum_t1341287663  : public ValueType_t3249919482
+=======
+struct  Enum_t2414767330  : public ValueType_t2609464153
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 
 public:
 };
 
+<<<<<<< HEAD
 struct Enum_t1341287663_StaticFields
 {
 public:
@@ -422,6 +610,19 @@ public:
 	inline CharU5BU5D_t2080128531* get_split_char_0() const { return ___split_char_0; }
 	inline CharU5BU5D_t2080128531** get_address_of_split_char_0() { return &___split_char_0; }
 	inline void set_split_char_0(CharU5BU5D_t2080128531* value)
+=======
+struct Enum_t2414767330_StaticFields
+{
+public:
+	// System.Char[] System.Enum::split_char
+	CharU5BU5D_t3825954526* ___split_char_0;
+
+public:
+	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t2414767330_StaticFields, ___split_char_0)); }
+	inline CharU5BU5D_t3825954526* get_split_char_0() const { return ___split_char_0; }
+	inline CharU5BU5D_t3825954526** get_address_of_split_char_0() { return &___split_char_0; }
+	inline void set_split_char_0(CharU5BU5D_t3825954526* value)
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	{
 		___split_char_0 = value;
 		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
@@ -432,6 +633,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.Enum
+<<<<<<< HEAD
 struct Enum_t1341287663_marshaled_pinvoke
 {
 };
@@ -440,6 +642,16 @@ struct Enum_t1341287663_marshaled_com
 {
 };
 #endif // ENUM_T1341287663_H
+=======
+struct Enum_t2414767330_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.Enum
+struct Enum_t2414767330_marshaled_com
+{
+};
+#endif // ENUM_T2414767330_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifndef INTPTR_T_H
 #define INTPTR_T_H
 #ifdef __clang__
@@ -485,8 +697,13 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // INTPTR_T_H
+<<<<<<< HEAD
 #ifndef TILEFLAGS_T4188621507_H
 #define TILEFLAGS_T4188621507_H
+=======
+#ifndef TILEFLAGS_T3310606591_H
+#define TILEFLAGS_T3310606591_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -494,14 +711,22 @@ public:
 #endif
 
 // UnityEngine.Tilemaps.TileFlags
+<<<<<<< HEAD
 struct  TileFlags_t4188621507 
+=======
+struct  TileFlags_t3310606591 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 	// System.Int32 UnityEngine.Tilemaps.TileFlags::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TileFlags_t4188621507, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TileFlags_t3310606591, ___value___1)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -513,9 +738,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // TILEFLAGS_T4188621507_H
 #ifndef COLLIDERTYPE_T4227782442_H
 #define COLLIDERTYPE_T4227782442_H
+=======
+#endif // TILEFLAGS_T3310606591_H
+#ifndef COLLIDERTYPE_T170782679_H
+#define COLLIDERTYPE_T170782679_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -523,14 +754,22 @@ public:
 #endif
 
 // UnityEngine.Tilemaps.Tile/ColliderType
+<<<<<<< HEAD
 struct  ColliderType_t4227782442 
+=======
+struct  ColliderType_t170782679 
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 	// System.Int32 UnityEngine.Tilemaps.Tile/ColliderType::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(ColliderType_t4227782442, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(ColliderType_t170782679, ___value___1)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -542,9 +781,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // COLLIDERTYPE_T4227782442_H
 #ifndef OBJECT_T1864536722_H
 #define OBJECT_T1864536722_H
+=======
+#endif // COLLIDERTYPE_T170782679_H
+#ifndef OBJECT_T2593815939_H
+#define OBJECT_T2593815939_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -552,14 +797,22 @@ public:
 #endif
 
 // UnityEngine.Object
+<<<<<<< HEAD
 struct  Object_t1864536722  : public RuntimeObject
+=======
+struct  Object_t2593815939  : public RuntimeObject
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
 	intptr_t ___m_CachedPtr_0;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t1864536722, ___m_CachedPtr_0)); }
+=======
+	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t2593815939, ___m_CachedPtr_0)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline intptr_t get_m_CachedPtr_0() const { return ___m_CachedPtr_0; }
 	inline intptr_t* get_address_of_m_CachedPtr_0() { return &___m_CachedPtr_0; }
 	inline void set_m_CachedPtr_0(intptr_t value)
@@ -568,14 +821,22 @@ public:
 	}
 };
 
+<<<<<<< HEAD
 struct Object_t1864536722_StaticFields
+=======
+struct Object_t2593815939_StaticFields
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
 	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t1864536722_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+=======
+	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t2593815939_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline int32_t get_OffsetOfInstanceIDInCPlusPlusObject_1() const { return ___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline int32_t* get_address_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return &___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline void set_OffsetOfInstanceIDInCPlusPlusObject_1(int32_t value)
@@ -588,11 +849,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Object
+<<<<<<< HEAD
 struct Object_t1864536722_marshaled_pinvoke
+=======
+struct Object_t2593815939_marshaled_pinvoke
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 	intptr_t ___m_CachedPtr_0;
 };
 // Native definition for COM marshalling of UnityEngine.Object
+<<<<<<< HEAD
 struct Object_t1864536722_marshaled_com
 {
 	intptr_t ___m_CachedPtr_0;
@@ -600,6 +866,15 @@ struct Object_t1864536722_marshaled_com
 #endif // OBJECT_T1864536722_H
 #ifndef SCRIPTABLEOBJECT_T283341146_H
 #define SCRIPTABLEOBJECT_T283341146_H
+=======
+struct Object_t2593815939_marshaled_com
+{
+	intptr_t ___m_CachedPtr_0;
+};
+#endif // OBJECT_T2593815939_H
+#ifndef SCRIPTABLEOBJECT_T577319853_H
+#define SCRIPTABLEOBJECT_T577319853_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -607,7 +882,11 @@ struct Object_t1864536722_marshaled_com
 #endif
 
 // UnityEngine.ScriptableObject
+<<<<<<< HEAD
 struct  ScriptableObject_t283341146  : public Object_t1864536722
+=======
+struct  ScriptableObject_t577319853  : public Object_t2593815939
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 
@@ -618,6 +897,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.ScriptableObject
+<<<<<<< HEAD
 struct ScriptableObject_t283341146_marshaled_pinvoke : public Object_t1864536722_marshaled_pinvoke
 {
 };
@@ -628,6 +908,18 @@ struct ScriptableObject_t283341146_marshaled_com : public Object_t1864536722_mar
 #endif // SCRIPTABLEOBJECT_T283341146_H
 #ifndef TILEBASE_T1628437576_H
 #define TILEBASE_T1628437576_H
+=======
+struct ScriptableObject_t577319853_marshaled_pinvoke : public Object_t2593815939_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.ScriptableObject
+struct ScriptableObject_t577319853_marshaled_com : public Object_t2593815939_marshaled_com
+{
+};
+#endif // SCRIPTABLEOBJECT_T577319853_H
+#ifndef TILEBASE_T4086322131_H
+#define TILEBASE_T4086322131_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -635,7 +927,11 @@ struct ScriptableObject_t283341146_marshaled_com : public Object_t1864536722_mar
 #endif
 
 // UnityEngine.Tilemaps.TileBase
+<<<<<<< HEAD
 struct  TileBase_t1628437576  : public ScriptableObject_t283341146
+=======
+struct  TileBase_t4086322131  : public ScriptableObject_t577319853
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 public:
 
@@ -645,9 +941,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // TILEBASE_T1628437576_H
 #ifndef TILE_T3151439873_H
 #define TILE_T3151439873_H
+=======
+#endif // TILEBASE_T4086322131_H
+#ifndef TILE_T3864510666_H
+#define TILE_T3864510666_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -655,6 +957,7 @@ public:
 #endif
 
 // UnityEngine.Tilemaps.Tile
+<<<<<<< HEAD
 struct  Tile_t3151439873  : public TileBase_t1628437576
 {
 public:
@@ -662,29 +965,56 @@ public:
 	Color_t3132430186  ___m_Color_2;
 	// UnityEngine.Matrix4x4 UnityEngine.Tilemaps.Tile::m_Transform
 	Matrix4x4_t3602824574  ___m_Transform_3;
+=======
+struct  Tile_t3864510666  : public TileBase_t4086322131
+{
+public:
+	// UnityEngine.Color UnityEngine.Tilemaps.Tile::m_Color
+	Color_t4119541476  ___m_Color_2;
+	// UnityEngine.Matrix4x4 UnityEngine.Tilemaps.Tile::m_Transform
+	Matrix4x4_t2365415230  ___m_Transform_3;
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	// UnityEngine.Tilemaps.TileFlags UnityEngine.Tilemaps.Tile::m_Flags
 	int32_t ___m_Flags_4;
 	// UnityEngine.Tilemaps.Tile/ColliderType UnityEngine.Tilemaps.Tile::m_ColliderType
 	int32_t ___m_ColliderType_5;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Color_2() { return static_cast<int32_t>(offsetof(Tile_t3151439873, ___m_Color_2)); }
 	inline Color_t3132430186  get_m_Color_2() const { return ___m_Color_2; }
 	inline Color_t3132430186 * get_address_of_m_Color_2() { return &___m_Color_2; }
 	inline void set_m_Color_2(Color_t3132430186  value)
+=======
+	inline static int32_t get_offset_of_m_Color_2() { return static_cast<int32_t>(offsetof(Tile_t3864510666, ___m_Color_2)); }
+	inline Color_t4119541476  get_m_Color_2() const { return ___m_Color_2; }
+	inline Color_t4119541476 * get_address_of_m_Color_2() { return &___m_Color_2; }
+	inline void set_m_Color_2(Color_t4119541476  value)
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	{
 		___m_Color_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Transform_3() { return static_cast<int32_t>(offsetof(Tile_t3151439873, ___m_Transform_3)); }
 	inline Matrix4x4_t3602824574  get_m_Transform_3() const { return ___m_Transform_3; }
 	inline Matrix4x4_t3602824574 * get_address_of_m_Transform_3() { return &___m_Transform_3; }
 	inline void set_m_Transform_3(Matrix4x4_t3602824574  value)
+=======
+	inline static int32_t get_offset_of_m_Transform_3() { return static_cast<int32_t>(offsetof(Tile_t3864510666, ___m_Transform_3)); }
+	inline Matrix4x4_t2365415230  get_m_Transform_3() const { return ___m_Transform_3; }
+	inline Matrix4x4_t2365415230 * get_address_of_m_Transform_3() { return &___m_Transform_3; }
+	inline void set_m_Transform_3(Matrix4x4_t2365415230  value)
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	{
 		___m_Transform_3 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Flags_4() { return static_cast<int32_t>(offsetof(Tile_t3151439873, ___m_Flags_4)); }
+=======
+	inline static int32_t get_offset_of_m_Flags_4() { return static_cast<int32_t>(offsetof(Tile_t3864510666, ___m_Flags_4)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline int32_t get_m_Flags_4() const { return ___m_Flags_4; }
 	inline int32_t* get_address_of_m_Flags_4() { return &___m_Flags_4; }
 	inline void set_m_Flags_4(int32_t value)
@@ -692,7 +1022,11 @@ public:
 		___m_Flags_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_ColliderType_5() { return static_cast<int32_t>(offsetof(Tile_t3151439873, ___m_ColliderType_5)); }
+=======
+	inline static int32_t get_offset_of_m_ColliderType_5() { return static_cast<int32_t>(offsetof(Tile_t3864510666, ___m_ColliderType_5)); }
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 	inline int32_t get_m_ColliderType_5() const { return ___m_ColliderType_5; }
 	inline int32_t* get_address_of_m_ColliderType_5() { return &___m_ColliderType_5; }
 	inline void set_m_ColliderType_5(int32_t value)
@@ -704,11 +1038,16 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // TILE_T3151439873_H
+=======
+#endif // TILE_T3864510666_H
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 
 
 
 // UnityEngine.Color UnityEngine.Color::get_white()
+<<<<<<< HEAD
 extern "C"  Color_t3132430186  Color_get_white_m3474535529 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::get_identity()
 extern "C"  Matrix4x4_t3602824574  Matrix4x4_get_identity_m20323767 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
@@ -716,17 +1055,31 @@ extern "C"  Matrix4x4_t3602824574  Matrix4x4_get_identity_m20323767 (RuntimeObje
 extern "C"  void TileBase__ctor_m2872915609 (TileBase_t1628437576 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.ScriptableObject::.ctor()
 extern "C"  void ScriptableObject__ctor_m3663089533 (ScriptableObject_t283341146 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+=======
+extern "C"  Color_t4119541476  Color_get_white_m1248802807 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::get_identity()
+extern "C"  Matrix4x4_t2365415230  Matrix4x4_get_identity_m4170077340 (RuntimeObject * __this /* static, unused */, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Tilemaps.TileBase::.ctor()
+extern "C"  void TileBase__ctor_m2755294492 (TileBase_t4086322131 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.ScriptableObject::.ctor()
+extern "C"  void ScriptableObject__ctor_m3784949335 (ScriptableObject_t577319853 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // System.Void UnityEngine.Tilemaps.Tile::.ctor()
+<<<<<<< HEAD
 extern "C"  void Tile__ctor_m158049940 (Tile_t3151439873 * __this, const RuntimeMethod* method)
+=======
+extern "C"  void Tile__ctor_m819309984 (Tile_t3864510666 * __this, const RuntimeMethod* method)
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
+<<<<<<< HEAD
 		il2cpp_codegen_initialize_method (Tile__ctor_m158049940_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -739,14 +1092,35 @@ extern "C"  void Tile__ctor_m158049940 (Tile_t3151439873 * __this, const Runtime
 		__this->set_m_Flags_4(1);
 		__this->set_m_ColliderType_5(1);
 		TileBase__ctor_m2872915609(__this, /*hidden argument*/NULL);
+=======
+		il2cpp_codegen_initialize_method (Tile__ctor_m819309984_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		Color_t4119541476  L_0 = Color_get_white_m1248802807(NULL /*static, unused*/, /*hidden argument*/NULL);
+		__this->set_m_Color_2(L_0);
+		IL2CPP_RUNTIME_CLASS_INIT(Matrix4x4_t2365415230_il2cpp_TypeInfo_var);
+		Matrix4x4_t2365415230  L_1 = Matrix4x4_get_identity_m4170077340(NULL /*static, unused*/, /*hidden argument*/NULL);
+		__this->set_m_Transform_3(L_1);
+		__this->set_m_Flags_4(1);
+		__this->set_m_ColliderType_5(1);
+		TileBase__ctor_m2755294492(__this, /*hidden argument*/NULL);
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 		return;
 	}
 }
 // System.Void UnityEngine.Tilemaps.TileBase::.ctor()
+<<<<<<< HEAD
 extern "C"  void TileBase__ctor_m2872915609 (TileBase_t1628437576 * __this, const RuntimeMethod* method)
 {
 	{
 		ScriptableObject__ctor_m3663089533(__this, /*hidden argument*/NULL);
+=======
+extern "C"  void TileBase__ctor_m2755294492 (TileBase_t4086322131 * __this, const RuntimeMethod* method)
+{
+	{
+		ScriptableObject__ctor_m3784949335(__this, /*hidden argument*/NULL);
+>>>>>>> cf60945cbc5617ca689f7500106263bf99990762
 		return;
 	}
 }
