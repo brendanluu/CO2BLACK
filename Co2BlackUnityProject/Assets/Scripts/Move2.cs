@@ -29,6 +29,7 @@ public class Move2 : MonoBehaviour {
                     if (hit.transform.gameObject.tag == "goodTrash" || hit.transform.gameObject.tag == "badTrash"){
 						objectSelect = hit.transform.gameObject;
 						rb = objectSelect.GetComponent<Rigidbody>();
+						rb.isKinematic = false;
                     }
 					
 				}
@@ -46,9 +47,9 @@ public class Move2 : MonoBehaviour {
    //             rb.isKinematic = false;
 			//}
 
-    //        if (touch.phase == TouchPhase.Ended) {
-				//rb.isKinematic = true;
-            //}
+            if (touch.phase == TouchPhase.Ended) {
+				rb.isKinematic = true;
+            }
 
 		}
 	}
