@@ -5,15 +5,16 @@ using UnityEngine;
 public class LampHit2 : MonoBehaviour {
 
 	//first screen (after tap to place)
+	public GameObject directionTextBox;
 	public GameObject replaceBulb;
 	public GameObject badBulb;
 	public GameObject cflTrans;
 
 	//second screen (bulb was switched)
 	public GameObject cflBulb;
+	public GameObject infoTextBox;
 	public GameObject BuildingFactTop;
 	public GameObject pointer;
-
 
 	//third screen 
 	public GameObject BuildingFactBot;
@@ -44,13 +45,13 @@ public class LampHit2 : MonoBehaviour {
 
 		if (badBulb.activeInHierarchy) {
 			
+			infoTextBox.SetActive (true);
 			BuildingFactTop.SetActive (true);
 			pointer.SetActive (true);
 			badBulb.SetActive (false);
 			cflBulb.SetActive (true);
+			directionTextBox.SetActive (false);
 			replaceBulb.SetActive (false);
-			pointer.SetActive (false);
-
 
 			smokeHigh.SetFloat ("_Alpha", 0.15f);
 		}
