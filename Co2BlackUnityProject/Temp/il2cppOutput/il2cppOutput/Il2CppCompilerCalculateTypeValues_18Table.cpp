@@ -19,6 +19,7 @@
 #include "object-internals.h"
 
 // System.Text.RegularExpressions.Regex
+<<<<<<< HEAD
 struct Regex_t2377283064;
 // System.Byte[]
 struct ByteU5BU5D_t1557752011;
@@ -202,6 +203,191 @@ struct XsdWildcard_t3786618776;
 struct XmlSchema_t146853671;
 
 struct UnityWebRequest_t743659161_marshaled_com;
+=======
+struct Regex_t1803876613;
+// System.Byte[]
+struct ByteU5BU5D_t3397334013;
+// System.String
+struct String_t;
+// System.Uri/UriScheme[]
+struct UriSchemeU5BU5D_t2962278982;
+// System.UriParser
+struct UriParser_t1012511323;
+// System.Collections.Generic.Dictionary`2<System.String,System.Int32>
+struct Dictionary_2_t3986656710;
+// Mono.Xml.Schema.XsdIdentityStep[]
+struct XsdIdentityStepU5BU5D_t1247465330;
+// Mono.Xml.Schema.XsdIdentityPath[]
+struct XsdIdentityPathU5BU5D_t526781831;
+// System.Collections.ArrayList
+struct ArrayList_t4252133567;
+// Mono.Xml.Schema.XsdIdentityField[]
+struct XsdIdentityFieldU5BU5D_t3429900132;
+// System.Void
+struct Void_t1841601450;
+// System.String[]
+struct StringU5BU5D_t1642385972;
+// Mono.Xml.Schema.XmlSchemaUri
+struct XmlSchemaUri_t1295878664;
+// System.Xml.XmlQualifiedName
+struct XmlQualifiedName_t1944712516;
+// System.Security.Cryptography.RandomNumberGenerator
+struct RandomNumberGenerator_t2510243513;
+// System.Char[]
+struct CharU5BU5D_t1328083999;
+// System.Action`1<UnityEngine.AsyncOperation>
+struct Action_1_t3616431661;
+// System.Xml.Serialization.XmlSerializerNamespaces
+struct XmlSerializerNamespaces_t3063656491;
+// System.Reflection.MethodInfo
+struct MethodInfo_t;
+// System.DelegateData
+struct DelegateData_t1572802995;
+// UnityEngine.Collider2D
+struct Collider2D_t646061738;
+// System.Xml.Schema.XmlSchemaAnnotation
+struct XmlSchemaAnnotation_t2400301303;
+// System.Xml.XmlAttribute[]
+struct XmlAttributeU5BU5D_t287209776;
+// System.Xml.Schema.XmlSchemaObjectTable
+struct XmlSchemaObjectTable_t3364835593;
+// System.Xml.Schema.XmlSchemaObjectCollection
+struct XmlSchemaObjectCollection_t395083109;
+// System.Xml.Schema.XmlSchemaSet
+struct XmlSchemaSet_t313318308;
+// System.Xml.XmlNameTable
+struct XmlNameTable_t1345805268;
+// System.Action`1<UnityEngine.Font>
+struct Action_1_t4041298073;
+// UnityEngine.Font/FontTextureRebuildCallback
+struct FontTextureRebuildCallback_t1272078033;
+// System.Xml.Schema.XmlSchemaException
+struct XmlSchemaException_t4082200141;
+// System.Text.StringBuilder
+struct StringBuilder_t1221177846;
+// Mono.Xml.Schema.XsdAnySimpleType
+struct XsdAnySimpleType_t1096449895;
+// Mono.Xml.Schema.XsdString
+struct XsdString_t263933896;
+// Mono.Xml.Schema.XsdNormalizedString
+struct XsdNormalizedString_t2132216291;
+// Mono.Xml.Schema.XsdToken
+struct XsdToken_t2902215462;
+// Mono.Xml.Schema.XsdLanguage
+struct XsdLanguage_t3897851897;
+// Mono.Xml.Schema.XsdNMToken
+struct XsdNMToken_t547135877;
+// Mono.Xml.Schema.XsdNMTokens
+struct XsdNMTokens_t1753890866;
+// Mono.Xml.Schema.XsdName
+struct XsdName_t1409945702;
+// Mono.Xml.Schema.XsdNCName
+struct XsdNCName_t414304927;
+// Mono.Xml.Schema.XsdID
+struct XsdID_t1067193160;
+// Mono.Xml.Schema.XsdIDRef
+struct XsdIDRef_t1377311049;
+// Mono.Xml.Schema.XsdIDRefs
+struct XsdIDRefs_t763119546;
+// Mono.Xml.Schema.XsdEntity
+struct XsdEntity_t2664305022;
+// Mono.Xml.Schema.XsdEntities
+struct XsdEntities_t1103053540;
+// Mono.Xml.Schema.XsdNotation
+struct XsdNotation_t720379093;
+// Mono.Xml.Schema.XsdDecimal
+struct XsdDecimal_t2932251550;
+// Mono.Xml.Schema.XsdInteger
+struct XsdInteger_t1330502157;
+// Mono.Xml.Schema.XsdLong
+struct XsdLong_t4179235589;
+// Mono.Xml.Schema.XsdInt
+struct XsdInt_t1488443894;
+// Mono.Xml.Schema.XsdShort
+struct XsdShort_t1778530041;
+// Mono.Xml.Schema.XsdByte
+struct XsdByte_t1120972221;
+// Mono.Xml.Schema.XsdNonNegativeInteger
+struct XsdNonNegativeInteger_t3587933853;
+// Mono.Xml.Schema.XsdPositiveInteger
+struct XsdPositiveInteger_t1896481288;
+// Mono.Xml.Schema.XsdUnsignedLong
+struct XsdUnsignedLong_t137890294;
+// Mono.Xml.Schema.XsdUnsignedInt
+struct XsdUnsignedInt_t2956447959;
+// Mono.Xml.Schema.XsdUnsignedShort
+struct XsdUnsignedShort_t3693774826;
+// Mono.Xml.Schema.XsdUnsignedByte
+struct XsdUnsignedByte_t3216355454;
+// Mono.Xml.Schema.XsdNonPositiveInteger
+struct XsdNonPositiveInteger_t409343009;
+// Mono.Xml.Schema.XsdNegativeInteger
+struct XsdNegativeInteger_t399444136;
+// Mono.Xml.Schema.XsdFloat
+struct XsdFloat_t386143221;
+// Mono.Xml.Schema.XsdDouble
+struct XsdDouble_t2510112208;
+// Mono.Xml.Schema.XsdBase64Binary
+struct XsdBase64Binary_t1094704629;
+// Mono.Xml.Schema.XsdBoolean
+struct XsdBoolean_t4126353587;
+// Mono.Xml.Schema.XsdAnyURI
+struct XsdAnyURI_t2527983239;
+// Mono.Xml.Schema.XsdDuration
+struct XsdDuration_t1605638443;
+// Mono.Xml.Schema.XsdDateTime
+struct XsdDateTime_t1344468684;
+// Mono.Xml.Schema.XsdDate
+struct XsdDate_t919459387;
+// Mono.Xml.Schema.XsdTime
+struct XsdTime_t4165680512;
+// Mono.Xml.Schema.XsdHexBinary
+struct XsdHexBinary_t3496718151;
+// Mono.Xml.Schema.XsdQName
+struct XsdQName_t930779123;
+// Mono.Xml.Schema.XsdGYearMonth
+struct XsdGYearMonth_t1363357165;
+// Mono.Xml.Schema.XsdGMonthDay
+struct XsdGMonthDay_t3859978294;
+// Mono.Xml.Schema.XsdGYear
+struct XsdGYear_t3810382607;
+// Mono.Xml.Schema.XsdGMonth
+struct XsdGMonth_t4076673358;
+// Mono.Xml.Schema.XsdGDay
+struct XsdGDay_t1914244270;
+// Mono.Xml.Schema.XdtAnyAtomicType
+struct XdtAnyAtomicType_t3359210273;
+// Mono.Xml.Schema.XdtUntypedAtomic
+struct XdtUntypedAtomic_t2904699188;
+// Mono.Xml.Schema.XdtDayTimeDuration
+struct XdtDayTimeDuration_t2797717973;
+// Mono.Xml.Schema.XdtYearMonthDuration
+struct XdtYearMonthDuration_t1764328599;
+// System.Xml.Schema.XmlSchemaObject
+struct XmlSchemaObject_t2050913741;
+// System.Collections.Specialized.StringCollection
+struct StringCollection_t352985975;
+// UnityEngine.Networking.UnityWebRequest
+struct UnityWebRequest_t254341728;
+// UnityEngine.Font
+struct Font_t4239498691;
+// System.IAsyncResult
+struct IAsyncResult_t1999651008;
+// System.AsyncCallback
+struct AsyncCallback_t163412349;
+// System.Collections.Generic.List`1<UnityEngine.UIVertex>
+struct List_1_t573379950;
+// System.Collections.Generic.List`1<UnityEngine.UICharInfo>
+struct List_1_t2425757932;
+// System.Collections.Generic.List`1<UnityEngine.UILineInfo>
+struct List_1_t2990399006;
+// Mono.Xml.Schema.XsdWildcard
+struct XsdWildcard_t625524157;
+// System.Xml.Schema.XmlSchema
+struct XmlSchema_t880472818;
+
+struct UnityWebRequest_t254341728_marshaled_com;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 
 
 
@@ -219,8 +405,13 @@ struct UnityWebRequest_t743659161_marshaled_com;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEOBJECT_H
+<<<<<<< HEAD
 #ifndef U3CMODULEU3E_T1731053013_H
 #define U3CMODULEU3E_T1731053013_H
+=======
+#ifndef U3CMODULEU3E_T3783534223_H
+#define U3CMODULEU3E_T3783534223_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -228,7 +419,11 @@ struct UnityWebRequest_t743659161_marshaled_com;
 #endif
 
 // <Module>
+<<<<<<< HEAD
 struct  U3CModuleU3E_t1731053013 
+=======
+struct  U3CModuleU3E_t3783534223 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -238,9 +433,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // U3CMODULEU3E_T1731053013_H
 #ifndef U3CMODULEU3E_T1731053011_H
 #define U3CMODULEU3E_T1731053011_H
+=======
+#endif // U3CMODULEU3E_T3783534223_H
+#ifndef U3CMODULEU3E_T3783534222_H
+#define U3CMODULEU3E_T3783534222_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -248,7 +449,11 @@ public:
 #endif
 
 // <Module>
+<<<<<<< HEAD
 struct  U3CModuleU3E_t1731053011 
+=======
+struct  U3CModuleU3E_t3783534222 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -258,9 +463,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // U3CMODULEU3E_T1731053011_H
 #ifndef U3CMODULEU3E_T1731053012_H
 #define U3CMODULEU3E_T1731053012_H
+=======
+#endif // U3CMODULEU3E_T3783534222_H
+#ifndef U3CMODULEU3E_T3783534224_H
+#define U3CMODULEU3E_T3783534224_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -268,7 +479,10 @@ public:
 #endif
 
 // <Module>
+<<<<<<< HEAD
 struct  U3CModuleU3E_t1731053012 
+=======
+struct  U3CModuleU3E_t3783534224 
 {
 public:
 
@@ -278,9 +492,44 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+#endif // U3CMODULEU3E_T3783534224_H
+#ifndef VALUETYPE_T3507792607_H
+#define VALUETYPE_T3507792607_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.ValueType
+struct  ValueType_t3507792607  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
 #endif // U3CMODULEU3E_T1731053012_H
 #ifndef WEBREQUESTUTILS_T4042826979_H
 #define WEBREQUESTUTILS_T4042826979_H
+=======
+// Native definition for P/Invoke marshalling of System.ValueType
+struct ValueType_t3507792607_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.ValueType
+struct ValueType_t3507792607_marshaled_com
+{
+};
+#endif // VALUETYPE_T3507792607_H
+#ifndef WEBREQUESTUTILS_T4100941042_H
+#define WEBREQUESTUTILS_T4100941042_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -288,24 +537,39 @@ public:
 #endif
 
 // UnityEngineInternal.WebRequestUtils
+<<<<<<< HEAD
 struct  WebRequestUtils_t4042826979  : public RuntimeObject
+=======
+struct  WebRequestUtils_t4100941042  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
 };
 
+<<<<<<< HEAD
 struct WebRequestUtils_t4042826979_StaticFields
+=======
+struct WebRequestUtils_t4100941042_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Text.RegularExpressions.Regex UnityEngineInternal.WebRequestUtils::domainRegex
 	Regex_t2377283064 * ___domainRegex_0;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_domainRegex_0() { return static_cast<int32_t>(offsetof(WebRequestUtils_t4042826979_StaticFields, ___domainRegex_0)); }
 	inline Regex_t2377283064 * get_domainRegex_0() const { return ___domainRegex_0; }
 	inline Regex_t2377283064 ** get_address_of_domainRegex_0() { return &___domainRegex_0; }
 	inline void set_domainRegex_0(Regex_t2377283064 * value)
+=======
+	inline static int32_t get_offset_of_domainRegex_0() { return static_cast<int32_t>(offsetof(WebRequestUtils_t4100941042_StaticFields, ___domainRegex_0)); }
+	inline Regex_t1803876613 * get_domainRegex_0() const { return ___domainRegex_0; }
+	inline Regex_t1803876613 ** get_address_of_domainRegex_0() { return &___domainRegex_0; }
+	inline void set_domainRegex_0(Regex_t1803876613 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___domainRegex_0 = value;
 		Il2CppCodeGenWriteBarrier((&___domainRegex_0), value);
@@ -315,9 +579,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // WEBREQUESTUTILS_T4042826979_H
 #ifndef WWWTRANSCODER_T2044518399_H
 #define WWWTRANSCODER_T2044518399_H
+=======
+#endif // WEBREQUESTUTILS_T4100941042_H
+#ifndef WWWTRANSCODER_T1124214756_H
+#define WWWTRANSCODER_T1124214756_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -325,13 +595,18 @@ public:
 #endif
 
 // UnityEngine.WWWTranscoder
+<<<<<<< HEAD
 struct  WWWTranscoder_t2044518399  : public RuntimeObject
+=======
+struct  WWWTranscoder_t1124214756  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
 };
 
+<<<<<<< HEAD
 struct WWWTranscoder_t2044518399_StaticFields
 {
 public:
@@ -339,17 +614,31 @@ public:
 	ByteU5BU5D_t1557752011* ___ucHexChars_0;
 	// System.Byte[] UnityEngine.WWWTranscoder::lcHexChars
 	ByteU5BU5D_t1557752011* ___lcHexChars_1;
+=======
+struct WWWTranscoder_t1124214756_StaticFields
+{
+public:
+	// System.Byte[] UnityEngine.WWWTranscoder::ucHexChars
+	ByteU5BU5D_t3397334013* ___ucHexChars_0;
+	// System.Byte[] UnityEngine.WWWTranscoder::lcHexChars
+	ByteU5BU5D_t3397334013* ___lcHexChars_1;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Byte UnityEngine.WWWTranscoder::urlEscapeChar
 	uint8_t ___urlEscapeChar_2;
 	// System.Byte UnityEngine.WWWTranscoder::urlSpace
 	uint8_t ___urlSpace_3;
 	// System.Byte[] UnityEngine.WWWTranscoder::urlForbidden
+<<<<<<< HEAD
 	ByteU5BU5D_t1557752011* ___urlForbidden_4;
+=======
+	ByteU5BU5D_t3397334013* ___urlForbidden_4;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Byte UnityEngine.WWWTranscoder::qpEscapeChar
 	uint8_t ___qpEscapeChar_5;
 	// System.Byte UnityEngine.WWWTranscoder::qpSpace
 	uint8_t ___qpSpace_6;
 	// System.Byte[] UnityEngine.WWWTranscoder::qpForbidden
+<<<<<<< HEAD
 	ByteU5BU5D_t1557752011* ___qpForbidden_7;
 
 public:
@@ -357,21 +646,41 @@ public:
 	inline ByteU5BU5D_t1557752011* get_ucHexChars_0() const { return ___ucHexChars_0; }
 	inline ByteU5BU5D_t1557752011** get_address_of_ucHexChars_0() { return &___ucHexChars_0; }
 	inline void set_ucHexChars_0(ByteU5BU5D_t1557752011* value)
+=======
+	ByteU5BU5D_t3397334013* ___qpForbidden_7;
+
+public:
+	inline static int32_t get_offset_of_ucHexChars_0() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___ucHexChars_0)); }
+	inline ByteU5BU5D_t3397334013* get_ucHexChars_0() const { return ___ucHexChars_0; }
+	inline ByteU5BU5D_t3397334013** get_address_of_ucHexChars_0() { return &___ucHexChars_0; }
+	inline void set_ucHexChars_0(ByteU5BU5D_t3397334013* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___ucHexChars_0 = value;
 		Il2CppCodeGenWriteBarrier((&___ucHexChars_0), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_lcHexChars_1() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___lcHexChars_1)); }
 	inline ByteU5BU5D_t1557752011* get_lcHexChars_1() const { return ___lcHexChars_1; }
 	inline ByteU5BU5D_t1557752011** get_address_of_lcHexChars_1() { return &___lcHexChars_1; }
 	inline void set_lcHexChars_1(ByteU5BU5D_t1557752011* value)
+=======
+	inline static int32_t get_offset_of_lcHexChars_1() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___lcHexChars_1)); }
+	inline ByteU5BU5D_t3397334013* get_lcHexChars_1() const { return ___lcHexChars_1; }
+	inline ByteU5BU5D_t3397334013** get_address_of_lcHexChars_1() { return &___lcHexChars_1; }
+	inline void set_lcHexChars_1(ByteU5BU5D_t3397334013* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___lcHexChars_1 = value;
 		Il2CppCodeGenWriteBarrier((&___lcHexChars_1), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_urlEscapeChar_2() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___urlEscapeChar_2)); }
+=======
+	inline static int32_t get_offset_of_urlEscapeChar_2() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___urlEscapeChar_2)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline uint8_t get_urlEscapeChar_2() const { return ___urlEscapeChar_2; }
 	inline uint8_t* get_address_of_urlEscapeChar_2() { return &___urlEscapeChar_2; }
 	inline void set_urlEscapeChar_2(uint8_t value)
@@ -379,7 +688,11 @@ public:
 		___urlEscapeChar_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_urlSpace_3() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___urlSpace_3)); }
+=======
+	inline static int32_t get_offset_of_urlSpace_3() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___urlSpace_3)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline uint8_t get_urlSpace_3() const { return ___urlSpace_3; }
 	inline uint8_t* get_address_of_urlSpace_3() { return &___urlSpace_3; }
 	inline void set_urlSpace_3(uint8_t value)
@@ -387,16 +700,27 @@ public:
 		___urlSpace_3 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_urlForbidden_4() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___urlForbidden_4)); }
 	inline ByteU5BU5D_t1557752011* get_urlForbidden_4() const { return ___urlForbidden_4; }
 	inline ByteU5BU5D_t1557752011** get_address_of_urlForbidden_4() { return &___urlForbidden_4; }
 	inline void set_urlForbidden_4(ByteU5BU5D_t1557752011* value)
+=======
+	inline static int32_t get_offset_of_urlForbidden_4() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___urlForbidden_4)); }
+	inline ByteU5BU5D_t3397334013* get_urlForbidden_4() const { return ___urlForbidden_4; }
+	inline ByteU5BU5D_t3397334013** get_address_of_urlForbidden_4() { return &___urlForbidden_4; }
+	inline void set_urlForbidden_4(ByteU5BU5D_t3397334013* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___urlForbidden_4 = value;
 		Il2CppCodeGenWriteBarrier((&___urlForbidden_4), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_qpEscapeChar_5() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___qpEscapeChar_5)); }
+=======
+	inline static int32_t get_offset_of_qpEscapeChar_5() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___qpEscapeChar_5)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline uint8_t get_qpEscapeChar_5() const { return ___qpEscapeChar_5; }
 	inline uint8_t* get_address_of_qpEscapeChar_5() { return &___qpEscapeChar_5; }
 	inline void set_qpEscapeChar_5(uint8_t value)
@@ -404,7 +728,11 @@ public:
 		___qpEscapeChar_5 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_qpSpace_6() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___qpSpace_6)); }
+=======
+	inline static int32_t get_offset_of_qpSpace_6() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___qpSpace_6)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline uint8_t get_qpSpace_6() const { return ___qpSpace_6; }
 	inline uint8_t* get_address_of_qpSpace_6() { return &___qpSpace_6; }
 	inline void set_qpSpace_6(uint8_t value)
@@ -412,10 +740,17 @@ public:
 		___qpSpace_6 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_qpForbidden_7() { return static_cast<int32_t>(offsetof(WWWTranscoder_t2044518399_StaticFields, ___qpForbidden_7)); }
 	inline ByteU5BU5D_t1557752011* get_qpForbidden_7() const { return ___qpForbidden_7; }
 	inline ByteU5BU5D_t1557752011** get_address_of_qpForbidden_7() { return &___qpForbidden_7; }
 	inline void set_qpForbidden_7(ByteU5BU5D_t1557752011* value)
+=======
+	inline static int32_t get_offset_of_qpForbidden_7() { return static_cast<int32_t>(offsetof(WWWTranscoder_t1124214756_StaticFields, ___qpForbidden_7)); }
+	inline ByteU5BU5D_t3397334013* get_qpForbidden_7() const { return ___qpForbidden_7; }
+	inline ByteU5BU5D_t3397334013** get_address_of_qpForbidden_7() { return &___qpForbidden_7; }
+	inline void set_qpForbidden_7(ByteU5BU5D_t3397334013* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___qpForbidden_7 = value;
 		Il2CppCodeGenWriteBarrier((&___qpForbidden_7), value);
@@ -425,9 +760,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // WWWTRANSCODER_T2044518399_H
 #ifndef WWWFORM_T2697872703_H
 #define WWWFORM_T2697872703_H
+=======
+#endif // WWWTRANSCODER_T1124214756_H
+#ifndef WWWFORM_T3950226929_H
+#define WWWFORM_T3950226929_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -435,7 +776,11 @@ public:
 #endif
 
 // UnityEngine.WWWForm
+<<<<<<< HEAD
 struct  WWWForm_t2697872703  : public RuntimeObject
+=======
+struct  WWWForm_t3950226929  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -445,15 +790,22 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // WWWFORM_T2697872703_H
 #ifndef XSDIDENTITYPATH_T2992330465_H
 #define XSDIDENTITYPATH_T2992330465_H
+=======
+#endif // WWWFORM_T3950226929_H
+#ifndef ATTRIBUTE_T542643598_H
+#define ATTRIBUTE_T542643598_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdIdentityPath
 struct  XsdIdentityPath_t2992330465  : public RuntimeObject
 {
@@ -480,20 +832,35 @@ public:
 	{
 		___Descendants_1 = value;
 	}
+=======
+// System.Attribute
+struct  Attribute_t542643598  : public RuntimeObject
+{
+public:
+
+public:
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDIDENTITYPATH_T2992330465_H
 #ifndef XSDIDENTITYSTEP_T1334991090_H
 #define XSDIDENTITYSTEP_T1334991090_H
+=======
+#endif // ATTRIBUTE_T542643598_H
+#ifndef VALIDATIONHANDLER_T3342756761_H
+#define VALIDATIONHANDLER_T3342756761_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdIdentityStep
 struct  XsdIdentityStep_t1334991090  : public RuntimeObject
 {
@@ -562,14 +929,28 @@ public:
 		___Namespace_5 = value;
 		Il2CppCodeGenWriteBarrier((&___Namespace_5), value);
 	}
+=======
+// System.Xml.Schema.ValidationHandler
+struct  ValidationHandler_t3342756761  : public RuntimeObject
+{
+public:
+
+public:
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDIDENTITYSTEP_T1334991090_H
 #ifndef EVENTARGS_T2243638234_H
 #define EVENTARGS_T2243638234_H
+=======
+#endif // VALIDATIONHANDLER_T3342756761_H
+#ifndef EVENTARGS_T3289624707_H
+#define EVENTARGS_T3289624707_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -577,13 +958,18 @@ public:
 #endif
 
 // System.EventArgs
+<<<<<<< HEAD
 struct  EventArgs_t2243638234  : public RuntimeObject
+=======
+struct  EventArgs_t3289624707  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
 };
 
+<<<<<<< HEAD
 struct EventArgs_t2243638234_StaticFields
 {
 public:
@@ -595,6 +981,19 @@ public:
 	inline EventArgs_t2243638234 * get_Empty_0() const { return ___Empty_0; }
 	inline EventArgs_t2243638234 ** get_address_of_Empty_0() { return &___Empty_0; }
 	inline void set_Empty_0(EventArgs_t2243638234 * value)
+=======
+struct EventArgs_t3289624707_StaticFields
+{
+public:
+	// System.EventArgs System.EventArgs::Empty
+	EventArgs_t3289624707 * ___Empty_0;
+
+public:
+	inline static int32_t get_offset_of_Empty_0() { return static_cast<int32_t>(offsetof(EventArgs_t3289624707_StaticFields, ___Empty_0)); }
+	inline EventArgs_t3289624707 * get_Empty_0() const { return ___Empty_0; }
+	inline EventArgs_t3289624707 ** get_address_of_Empty_0() { return &___Empty_0; }
+	inline void set_Empty_0(EventArgs_t3289624707 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___Empty_0 = value;
 		Il2CppCodeGenWriteBarrier((&___Empty_0), value);
@@ -604,9 +1003,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // EVENTARGS_T2243638234_H
 #ifndef URI_T1422238804_H
 #define URI_T1422238804_H
+=======
+#endif // EVENTARGS_T3289624707_H
+#ifndef URI_T19570940_H
+#define URI_T19570940_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -614,7 +1019,11 @@ public:
 #endif
 
 // System.Uri
+<<<<<<< HEAD
 struct  Uri_t1422238804  : public RuntimeObject
+=======
+struct  Uri_t19570940  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Boolean System.Uri::isUnixFilePath
@@ -652,10 +1061,17 @@ public:
 	// System.Int32 System.Uri::cachedHashCode
 	int32_t ___cachedHashCode_16;
 	// System.UriParser System.Uri::parser
+<<<<<<< HEAD
 	UriParser_t2901987053 * ___parser_30;
 
 public:
 	inline static int32_t get_offset_of_isUnixFilePath_0() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___isUnixFilePath_0)); }
+=======
+	UriParser_t1012511323 * ___parser_30;
+
+public:
+	inline static int32_t get_offset_of_isUnixFilePath_0() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___isUnixFilePath_0)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_isUnixFilePath_0() const { return ___isUnixFilePath_0; }
 	inline bool* get_address_of_isUnixFilePath_0() { return &___isUnixFilePath_0; }
 	inline void set_isUnixFilePath_0(bool value)
@@ -663,7 +1079,11 @@ public:
 		___isUnixFilePath_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_source_1() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___source_1)); }
+=======
+	inline static int32_t get_offset_of_source_1() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___source_1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_source_1() const { return ___source_1; }
 	inline String_t** get_address_of_source_1() { return &___source_1; }
 	inline void set_source_1(String_t* value)
@@ -672,7 +1092,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___source_1), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_scheme_2() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___scheme_2)); }
+=======
+	inline static int32_t get_offset_of_scheme_2() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___scheme_2)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_scheme_2() const { return ___scheme_2; }
 	inline String_t** get_address_of_scheme_2() { return &___scheme_2; }
 	inline void set_scheme_2(String_t* value)
@@ -681,7 +1105,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___scheme_2), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_host_3() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___host_3)); }
+=======
+	inline static int32_t get_offset_of_host_3() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___host_3)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_host_3() const { return ___host_3; }
 	inline String_t** get_address_of_host_3() { return &___host_3; }
 	inline void set_host_3(String_t* value)
@@ -690,7 +1118,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___host_3), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_port_4() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___port_4)); }
+=======
+	inline static int32_t get_offset_of_port_4() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___port_4)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_port_4() const { return ___port_4; }
 	inline int32_t* get_address_of_port_4() { return &___port_4; }
 	inline void set_port_4(int32_t value)
@@ -698,7 +1130,11 @@ public:
 		___port_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_path_5() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___path_5)); }
+=======
+	inline static int32_t get_offset_of_path_5() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___path_5)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_path_5() const { return ___path_5; }
 	inline String_t** get_address_of_path_5() { return &___path_5; }
 	inline void set_path_5(String_t* value)
@@ -707,7 +1143,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___path_5), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_query_6() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___query_6)); }
+=======
+	inline static int32_t get_offset_of_query_6() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___query_6)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_query_6() const { return ___query_6; }
 	inline String_t** get_address_of_query_6() { return &___query_6; }
 	inline void set_query_6(String_t* value)
@@ -716,7 +1156,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___query_6), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_fragment_7() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___fragment_7)); }
+=======
+	inline static int32_t get_offset_of_fragment_7() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___fragment_7)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_fragment_7() const { return ___fragment_7; }
 	inline String_t** get_address_of_fragment_7() { return &___fragment_7; }
 	inline void set_fragment_7(String_t* value)
@@ -725,7 +1169,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___fragment_7), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_userinfo_8() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___userinfo_8)); }
+=======
+	inline static int32_t get_offset_of_userinfo_8() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___userinfo_8)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_userinfo_8() const { return ___userinfo_8; }
 	inline String_t** get_address_of_userinfo_8() { return &___userinfo_8; }
 	inline void set_userinfo_8(String_t* value)
@@ -734,7 +1182,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___userinfo_8), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_isUnc_9() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___isUnc_9)); }
+=======
+	inline static int32_t get_offset_of_isUnc_9() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___isUnc_9)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_isUnc_9() const { return ___isUnc_9; }
 	inline bool* get_address_of_isUnc_9() { return &___isUnc_9; }
 	inline void set_isUnc_9(bool value)
@@ -742,7 +1194,11 @@ public:
 		___isUnc_9 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_isOpaquePart_10() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___isOpaquePart_10)); }
+=======
+	inline static int32_t get_offset_of_isOpaquePart_10() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___isOpaquePart_10)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_isOpaquePart_10() const { return ___isOpaquePart_10; }
 	inline bool* get_address_of_isOpaquePart_10() { return &___isOpaquePart_10; }
 	inline void set_isOpaquePart_10(bool value)
@@ -750,7 +1206,11 @@ public:
 		___isOpaquePart_10 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_isAbsoluteUri_11() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___isAbsoluteUri_11)); }
+=======
+	inline static int32_t get_offset_of_isAbsoluteUri_11() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___isAbsoluteUri_11)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_isAbsoluteUri_11() const { return ___isAbsoluteUri_11; }
 	inline bool* get_address_of_isAbsoluteUri_11() { return &___isAbsoluteUri_11; }
 	inline void set_isAbsoluteUri_11(bool value)
@@ -758,7 +1218,11 @@ public:
 		___isAbsoluteUri_11 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_userEscaped_12() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___userEscaped_12)); }
+=======
+	inline static int32_t get_offset_of_userEscaped_12() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___userEscaped_12)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_userEscaped_12() const { return ___userEscaped_12; }
 	inline bool* get_address_of_userEscaped_12() { return &___userEscaped_12; }
 	inline void set_userEscaped_12(bool value)
@@ -766,7 +1230,11 @@ public:
 		___userEscaped_12 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_cachedAbsoluteUri_13() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___cachedAbsoluteUri_13)); }
+=======
+	inline static int32_t get_offset_of_cachedAbsoluteUri_13() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___cachedAbsoluteUri_13)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_cachedAbsoluteUri_13() const { return ___cachedAbsoluteUri_13; }
 	inline String_t** get_address_of_cachedAbsoluteUri_13() { return &___cachedAbsoluteUri_13; }
 	inline void set_cachedAbsoluteUri_13(String_t* value)
@@ -775,7 +1243,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___cachedAbsoluteUri_13), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_cachedToString_14() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___cachedToString_14)); }
+=======
+	inline static int32_t get_offset_of_cachedToString_14() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___cachedToString_14)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_cachedToString_14() const { return ___cachedToString_14; }
 	inline String_t** get_address_of_cachedToString_14() { return &___cachedToString_14; }
 	inline void set_cachedToString_14(String_t* value)
@@ -784,7 +1256,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___cachedToString_14), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_cachedLocalPath_15() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___cachedLocalPath_15)); }
+=======
+	inline static int32_t get_offset_of_cachedLocalPath_15() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___cachedLocalPath_15)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_cachedLocalPath_15() const { return ___cachedLocalPath_15; }
 	inline String_t** get_address_of_cachedLocalPath_15() { return &___cachedLocalPath_15; }
 	inline void set_cachedLocalPath_15(String_t* value)
@@ -793,7 +1269,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___cachedLocalPath_15), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_cachedHashCode_16() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___cachedHashCode_16)); }
+=======
+	inline static int32_t get_offset_of_cachedHashCode_16() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___cachedHashCode_16)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_cachedHashCode_16() const { return ___cachedHashCode_16; }
 	inline int32_t* get_address_of_cachedHashCode_16() { return &___cachedHashCode_16; }
 	inline void set_cachedHashCode_16(int32_t value)
@@ -801,17 +1281,28 @@ public:
 		___cachedHashCode_16 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_parser_30() { return static_cast<int32_t>(offsetof(Uri_t1422238804, ___parser_30)); }
 	inline UriParser_t2901987053 * get_parser_30() const { return ___parser_30; }
 	inline UriParser_t2901987053 ** get_address_of_parser_30() { return &___parser_30; }
 	inline void set_parser_30(UriParser_t2901987053 * value)
+=======
+	inline static int32_t get_offset_of_parser_30() { return static_cast<int32_t>(offsetof(Uri_t19570940, ___parser_30)); }
+	inline UriParser_t1012511323 * get_parser_30() const { return ___parser_30; }
+	inline UriParser_t1012511323 ** get_address_of_parser_30() { return &___parser_30; }
+	inline void set_parser_30(UriParser_t1012511323 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___parser_30 = value;
 		Il2CppCodeGenWriteBarrier((&___parser_30), value);
 	}
 };
 
+<<<<<<< HEAD
 struct Uri_t1422238804_StaticFields
+=======
+struct Uri_t19570940_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.String System.Uri::hexUpperChars
@@ -839,7 +1330,11 @@ public:
 	// System.String System.Uri::UriSchemeNetTcp
 	String_t* ___UriSchemeNetTcp_28;
 	// System.Uri/UriScheme[] System.Uri::schemes
+<<<<<<< HEAD
 	UriSchemeU5BU5D_t2479984535* ___schemes_29;
+=======
+	UriSchemeU5BU5D_t2962278982* ___schemes_29;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Collections.Generic.Dictionary`2<System.String,System.Int32> System.Uri::<>f__switch$map12
 	Dictionary_2_t1943317951 * ___U3CU3Ef__switchU24map12_31;
 	// System.Collections.Generic.Dictionary`2<System.String,System.Int32> System.Uri::<>f__switch$map13
@@ -852,7 +1347,11 @@ public:
 	Dictionary_2_t1943317951 * ___U3CU3Ef__switchU24map16_35;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_hexUpperChars_17() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___hexUpperChars_17)); }
+=======
+	inline static int32_t get_offset_of_hexUpperChars_17() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___hexUpperChars_17)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_hexUpperChars_17() const { return ___hexUpperChars_17; }
 	inline String_t** get_address_of_hexUpperChars_17() { return &___hexUpperChars_17; }
 	inline void set_hexUpperChars_17(String_t* value)
@@ -861,7 +1360,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___hexUpperChars_17), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_SchemeDelimiter_18() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___SchemeDelimiter_18)); }
+=======
+	inline static int32_t get_offset_of_SchemeDelimiter_18() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___SchemeDelimiter_18)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_SchemeDelimiter_18() const { return ___SchemeDelimiter_18; }
 	inline String_t** get_address_of_SchemeDelimiter_18() { return &___SchemeDelimiter_18; }
 	inline void set_SchemeDelimiter_18(String_t* value)
@@ -870,7 +1373,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___SchemeDelimiter_18), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeFile_19() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeFile_19)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeFile_19() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeFile_19)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeFile_19() const { return ___UriSchemeFile_19; }
 	inline String_t** get_address_of_UriSchemeFile_19() { return &___UriSchemeFile_19; }
 	inline void set_UriSchemeFile_19(String_t* value)
@@ -879,7 +1386,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeFile_19), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeFtp_20() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeFtp_20)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeFtp_20() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeFtp_20)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeFtp_20() const { return ___UriSchemeFtp_20; }
 	inline String_t** get_address_of_UriSchemeFtp_20() { return &___UriSchemeFtp_20; }
 	inline void set_UriSchemeFtp_20(String_t* value)
@@ -888,7 +1399,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeFtp_20), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeGopher_21() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeGopher_21)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeGopher_21() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeGopher_21)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeGopher_21() const { return ___UriSchemeGopher_21; }
 	inline String_t** get_address_of_UriSchemeGopher_21() { return &___UriSchemeGopher_21; }
 	inline void set_UriSchemeGopher_21(String_t* value)
@@ -897,7 +1412,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeGopher_21), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeHttp_22() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeHttp_22)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeHttp_22() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeHttp_22)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeHttp_22() const { return ___UriSchemeHttp_22; }
 	inline String_t** get_address_of_UriSchemeHttp_22() { return &___UriSchemeHttp_22; }
 	inline void set_UriSchemeHttp_22(String_t* value)
@@ -906,7 +1425,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeHttp_22), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeHttps_23() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeHttps_23)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeHttps_23() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeHttps_23)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeHttps_23() const { return ___UriSchemeHttps_23; }
 	inline String_t** get_address_of_UriSchemeHttps_23() { return &___UriSchemeHttps_23; }
 	inline void set_UriSchemeHttps_23(String_t* value)
@@ -915,7 +1438,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeHttps_23), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeMailto_24() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeMailto_24)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeMailto_24() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeMailto_24)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeMailto_24() const { return ___UriSchemeMailto_24; }
 	inline String_t** get_address_of_UriSchemeMailto_24() { return &___UriSchemeMailto_24; }
 	inline void set_UriSchemeMailto_24(String_t* value)
@@ -924,7 +1451,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeMailto_24), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeNews_25() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeNews_25)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeNews_25() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeNews_25)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeNews_25() const { return ___UriSchemeNews_25; }
 	inline String_t** get_address_of_UriSchemeNews_25() { return &___UriSchemeNews_25; }
 	inline void set_UriSchemeNews_25(String_t* value)
@@ -933,7 +1464,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeNews_25), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeNntp_26() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeNntp_26)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeNntp_26() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeNntp_26)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeNntp_26() const { return ___UriSchemeNntp_26; }
 	inline String_t** get_address_of_UriSchemeNntp_26() { return &___UriSchemeNntp_26; }
 	inline void set_UriSchemeNntp_26(String_t* value)
@@ -942,7 +1477,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeNntp_26), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeNetPipe_27() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeNetPipe_27)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeNetPipe_27() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeNetPipe_27)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeNetPipe_27() const { return ___UriSchemeNetPipe_27; }
 	inline String_t** get_address_of_UriSchemeNetPipe_27() { return &___UriSchemeNetPipe_27; }
 	inline void set_UriSchemeNetPipe_27(String_t* value)
@@ -951,7 +1490,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeNetPipe_27), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_UriSchemeNetTcp_28() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___UriSchemeNetTcp_28)); }
+=======
+	inline static int32_t get_offset_of_UriSchemeNetTcp_28() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___UriSchemeNetTcp_28)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_UriSchemeNetTcp_28() const { return ___UriSchemeNetTcp_28; }
 	inline String_t** get_address_of_UriSchemeNetTcp_28() { return &___UriSchemeNetTcp_28; }
 	inline void set_UriSchemeNetTcp_28(String_t* value)
@@ -960,55 +1503,97 @@ public:
 		Il2CppCodeGenWriteBarrier((&___UriSchemeNetTcp_28), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_schemes_29() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___schemes_29)); }
 	inline UriSchemeU5BU5D_t2479984535* get_schemes_29() const { return ___schemes_29; }
 	inline UriSchemeU5BU5D_t2479984535** get_address_of_schemes_29() { return &___schemes_29; }
 	inline void set_schemes_29(UriSchemeU5BU5D_t2479984535* value)
+=======
+	inline static int32_t get_offset_of_schemes_29() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___schemes_29)); }
+	inline UriSchemeU5BU5D_t2962278982* get_schemes_29() const { return ___schemes_29; }
+	inline UriSchemeU5BU5D_t2962278982** get_address_of_schemes_29() { return &___schemes_29; }
+	inline void set_schemes_29(UriSchemeU5BU5D_t2962278982* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___schemes_29 = value;
 		Il2CppCodeGenWriteBarrier((&___schemes_29), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map12_31() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___U3CU3Ef__switchU24map12_31)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map12_31() const { return ___U3CU3Ef__switchU24map12_31; }
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map12_31() { return &___U3CU3Ef__switchU24map12_31; }
 	inline void set_U3CU3Ef__switchU24map12_31(Dictionary_2_t1943317951 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__switchU24map12_31() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___U3CU3Ef__switchU24map12_31)); }
+	inline Dictionary_2_t3986656710 * get_U3CU3Ef__switchU24map12_31() const { return ___U3CU3Ef__switchU24map12_31; }
+	inline Dictionary_2_t3986656710 ** get_address_of_U3CU3Ef__switchU24map12_31() { return &___U3CU3Ef__switchU24map12_31; }
+	inline void set_U3CU3Ef__switchU24map12_31(Dictionary_2_t3986656710 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___U3CU3Ef__switchU24map12_31 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map12_31), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map13_32() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___U3CU3Ef__switchU24map13_32)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map13_32() const { return ___U3CU3Ef__switchU24map13_32; }
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map13_32() { return &___U3CU3Ef__switchU24map13_32; }
 	inline void set_U3CU3Ef__switchU24map13_32(Dictionary_2_t1943317951 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__switchU24map13_32() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___U3CU3Ef__switchU24map13_32)); }
+	inline Dictionary_2_t3986656710 * get_U3CU3Ef__switchU24map13_32() const { return ___U3CU3Ef__switchU24map13_32; }
+	inline Dictionary_2_t3986656710 ** get_address_of_U3CU3Ef__switchU24map13_32() { return &___U3CU3Ef__switchU24map13_32; }
+	inline void set_U3CU3Ef__switchU24map13_32(Dictionary_2_t3986656710 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___U3CU3Ef__switchU24map13_32 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map13_32), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map14_33() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___U3CU3Ef__switchU24map14_33)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map14_33() const { return ___U3CU3Ef__switchU24map14_33; }
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map14_33() { return &___U3CU3Ef__switchU24map14_33; }
 	inline void set_U3CU3Ef__switchU24map14_33(Dictionary_2_t1943317951 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__switchU24map14_33() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___U3CU3Ef__switchU24map14_33)); }
+	inline Dictionary_2_t3986656710 * get_U3CU3Ef__switchU24map14_33() const { return ___U3CU3Ef__switchU24map14_33; }
+	inline Dictionary_2_t3986656710 ** get_address_of_U3CU3Ef__switchU24map14_33() { return &___U3CU3Ef__switchU24map14_33; }
+	inline void set_U3CU3Ef__switchU24map14_33(Dictionary_2_t3986656710 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___U3CU3Ef__switchU24map14_33 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map14_33), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map15_34() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___U3CU3Ef__switchU24map15_34)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map15_34() const { return ___U3CU3Ef__switchU24map15_34; }
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map15_34() { return &___U3CU3Ef__switchU24map15_34; }
 	inline void set_U3CU3Ef__switchU24map15_34(Dictionary_2_t1943317951 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__switchU24map15_34() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___U3CU3Ef__switchU24map15_34)); }
+	inline Dictionary_2_t3986656710 * get_U3CU3Ef__switchU24map15_34() const { return ___U3CU3Ef__switchU24map15_34; }
+	inline Dictionary_2_t3986656710 ** get_address_of_U3CU3Ef__switchU24map15_34() { return &___U3CU3Ef__switchU24map15_34; }
+	inline void set_U3CU3Ef__switchU24map15_34(Dictionary_2_t3986656710 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___U3CU3Ef__switchU24map15_34 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map15_34), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map16_35() { return static_cast<int32_t>(offsetof(Uri_t1422238804_StaticFields, ___U3CU3Ef__switchU24map16_35)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map16_35() const { return ___U3CU3Ef__switchU24map16_35; }
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map16_35() { return &___U3CU3Ef__switchU24map16_35; }
 	inline void set_U3CU3Ef__switchU24map16_35(Dictionary_2_t1943317951 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__switchU24map16_35() { return static_cast<int32_t>(offsetof(Uri_t19570940_StaticFields, ___U3CU3Ef__switchU24map16_35)); }
+	inline Dictionary_2_t3986656710 * get_U3CU3Ef__switchU24map16_35() const { return ___U3CU3Ef__switchU24map16_35; }
+	inline Dictionary_2_t3986656710 ** get_address_of_U3CU3Ef__switchU24map16_35() { return &___U3CU3Ef__switchU24map16_35; }
+	inline void set_U3CU3Ef__switchU24map16_35(Dictionary_2_t3986656710 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___U3CU3Ef__switchU24map16_35 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map16_35), value);
@@ -1018,35 +1603,106 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // URI_T1422238804_H
 #ifndef ATTRIBUTE_T2586088969_H
 #define ATTRIBUTE_T2586088969_H
+=======
+#endif // URI_T19570940_H
+#ifndef XSDIDENTITYSTEP_T452377251_H
+#define XSDIDENTITYSTEP_T452377251_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Attribute
 struct  Attribute_t2586088969  : public RuntimeObject
+=======
+// Mono.Xml.Schema.XsdIdentityStep
+struct  XsdIdentityStep_t452377251  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
+<<<<<<< HEAD
+=======
+	inline static int32_t get_offset_of_IsCurrent_0() { return static_cast<int32_t>(offsetof(XsdIdentityStep_t452377251, ___IsCurrent_0)); }
+	inline bool get_IsCurrent_0() const { return ___IsCurrent_0; }
+	inline bool* get_address_of_IsCurrent_0() { return &___IsCurrent_0; }
+	inline void set_IsCurrent_0(bool value)
+	{
+		___IsCurrent_0 = value;
+	}
+
+	inline static int32_t get_offset_of_IsAttribute_1() { return static_cast<int32_t>(offsetof(XsdIdentityStep_t452377251, ___IsAttribute_1)); }
+	inline bool get_IsAttribute_1() const { return ___IsAttribute_1; }
+	inline bool* get_address_of_IsAttribute_1() { return &___IsAttribute_1; }
+	inline void set_IsAttribute_1(bool value)
+	{
+		___IsAttribute_1 = value;
+	}
+
+	inline static int32_t get_offset_of_IsAnyName_2() { return static_cast<int32_t>(offsetof(XsdIdentityStep_t452377251, ___IsAnyName_2)); }
+	inline bool get_IsAnyName_2() const { return ___IsAnyName_2; }
+	inline bool* get_address_of_IsAnyName_2() { return &___IsAnyName_2; }
+	inline void set_IsAnyName_2(bool value)
+	{
+		___IsAnyName_2 = value;
+	}
+
+	inline static int32_t get_offset_of_NsName_3() { return static_cast<int32_t>(offsetof(XsdIdentityStep_t452377251, ___NsName_3)); }
+	inline String_t* get_NsName_3() const { return ___NsName_3; }
+	inline String_t** get_address_of_NsName_3() { return &___NsName_3; }
+	inline void set_NsName_3(String_t* value)
+	{
+		___NsName_3 = value;
+		Il2CppCodeGenWriteBarrier((&___NsName_3), value);
+	}
+
+	inline static int32_t get_offset_of_Name_4() { return static_cast<int32_t>(offsetof(XsdIdentityStep_t452377251, ___Name_4)); }
+	inline String_t* get_Name_4() const { return ___Name_4; }
+	inline String_t** get_address_of_Name_4() { return &___Name_4; }
+	inline void set_Name_4(String_t* value)
+	{
+		___Name_4 = value;
+		Il2CppCodeGenWriteBarrier((&___Name_4), value);
+	}
+
+	inline static int32_t get_offset_of_Namespace_5() { return static_cast<int32_t>(offsetof(XsdIdentityStep_t452377251, ___Namespace_5)); }
+	inline String_t* get_Namespace_5() const { return ___Namespace_5; }
+	inline String_t** get_address_of_Namespace_5() { return &___Namespace_5; }
+	inline void set_Namespace_5(String_t* value)
+	{
+		___Namespace_5 = value;
+		Il2CppCodeGenWriteBarrier((&___Namespace_5), value);
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // ATTRIBUTE_T2586088969_H
 #ifndef XSDIDENTITYFIELD_T3930896809_H
 #define XSDIDENTITYFIELD_T3930896809_H
+=======
+#endif // XSDIDENTITYSTEP_T452377251_H
+#ifndef XSDIDENTITYPATH_T2037874_H
+#define XSDIDENTITYPATH_T2037874_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdIdentityField
 struct  XsdIdentityField_t3930896809  : public RuntimeObject
 {
@@ -1072,21 +1728,55 @@ public:
 	inline void set_index_1(int32_t value)
 	{
 		___index_1 = value;
+=======
+// Mono.Xml.Schema.XsdIdentityPath
+struct  XsdIdentityPath_t2037874  : public RuntimeObject
+{
+public:
+	// Mono.Xml.Schema.XsdIdentityStep[] Mono.Xml.Schema.XsdIdentityPath::OrderedSteps
+	XsdIdentityStepU5BU5D_t1247465330* ___OrderedSteps_0;
+	// System.Boolean Mono.Xml.Schema.XsdIdentityPath::Descendants
+	bool ___Descendants_1;
+
+public:
+	inline static int32_t get_offset_of_OrderedSteps_0() { return static_cast<int32_t>(offsetof(XsdIdentityPath_t2037874, ___OrderedSteps_0)); }
+	inline XsdIdentityStepU5BU5D_t1247465330* get_OrderedSteps_0() const { return ___OrderedSteps_0; }
+	inline XsdIdentityStepU5BU5D_t1247465330** get_address_of_OrderedSteps_0() { return &___OrderedSteps_0; }
+	inline void set_OrderedSteps_0(XsdIdentityStepU5BU5D_t1247465330* value)
+	{
+		___OrderedSteps_0 = value;
+		Il2CppCodeGenWriteBarrier((&___OrderedSteps_0), value);
+	}
+
+	inline static int32_t get_offset_of_Descendants_1() { return static_cast<int32_t>(offsetof(XsdIdentityPath_t2037874, ___Descendants_1)); }
+	inline bool get_Descendants_1() const { return ___Descendants_1; }
+	inline bool* get_address_of_Descendants_1() { return &___Descendants_1; }
+	inline void set_Descendants_1(bool value)
+	{
+		___Descendants_1 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDIDENTITYFIELD_T3930896809_H
 #ifndef XSDIDENTITYSELECTOR_T3055759236_H
 #define XSDIDENTITYSELECTOR_T3055759236_H
+=======
+#endif // XSDIDENTITYPATH_T2037874_H
+#ifndef XSDIDENTITYFIELD_T2563516441_H
+#define XSDIDENTITYFIELD_T2563516441_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdIdentitySelector
 struct  XsdIdentitySelector_t3055759236  : public RuntimeObject
 {
@@ -1124,15 +1814,48 @@ public:
 	{
 		___cachedFields_2 = value;
 		Il2CppCodeGenWriteBarrier((&___cachedFields_2), value);
+=======
+// Mono.Xml.Schema.XsdIdentityField
+struct  XsdIdentityField_t2563516441  : public RuntimeObject
+{
+public:
+	// Mono.Xml.Schema.XsdIdentityPath[] Mono.Xml.Schema.XsdIdentityField::fieldPaths
+	XsdIdentityPathU5BU5D_t526781831* ___fieldPaths_0;
+	// System.Int32 Mono.Xml.Schema.XsdIdentityField::index
+	int32_t ___index_1;
+
+public:
+	inline static int32_t get_offset_of_fieldPaths_0() { return static_cast<int32_t>(offsetof(XsdIdentityField_t2563516441, ___fieldPaths_0)); }
+	inline XsdIdentityPathU5BU5D_t526781831* get_fieldPaths_0() const { return ___fieldPaths_0; }
+	inline XsdIdentityPathU5BU5D_t526781831** get_address_of_fieldPaths_0() { return &___fieldPaths_0; }
+	inline void set_fieldPaths_0(XsdIdentityPathU5BU5D_t526781831* value)
+	{
+		___fieldPaths_0 = value;
+		Il2CppCodeGenWriteBarrier((&___fieldPaths_0), value);
+	}
+
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(XsdIdentityField_t2563516441, ___index_1)); }
+	inline int32_t get_index_1() const { return ___index_1; }
+	inline int32_t* get_address_of_index_1() { return &___index_1; }
+	inline void set_index_1(int32_t value)
+	{
+		___index_1 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDIDENTITYSELECTOR_T3055759236_H
 #ifndef YIELDINSTRUCTION_T1377755615_H
 #define YIELDINSTRUCTION_T1377755615_H
+=======
+#endif // XSDIDENTITYFIELD_T2563516441_H
+#ifndef YIELDINSTRUCTION_T3462875981_H
+#define YIELDINSTRUCTION_T3462875981_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1140,7 +1863,11 @@ public:
 #endif
 
 // UnityEngine.YieldInstruction
+<<<<<<< HEAD
 struct  YieldInstruction_t1377755615  : public RuntimeObject
+=======
+struct  YieldInstruction_t3462875981  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -1151,70 +1878,245 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.YieldInstruction
+<<<<<<< HEAD
 struct YieldInstruction_t1377755615_marshaled_pinvoke
+=======
+struct YieldInstruction_t3462875981_marshaled_pinvoke
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 };
 // Native definition for COM marshalling of UnityEngine.YieldInstruction
 struct YieldInstruction_t1377755615_marshaled_com
 {
 };
+<<<<<<< HEAD
 #endif // YIELDINSTRUCTION_T1377755615_H
 #ifndef VALIDATIONHANDLER_T784214620_H
 #define VALIDATIONHANDLER_T784214620_H
+=======
+#endif // YIELDINSTRUCTION_T3462875981_H
+#ifndef XSDIDENTITYSELECTOR_T185499482_H
+#define XSDIDENTITYSELECTOR_T185499482_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.ValidationHandler
 struct  ValidationHandler_t784214620  : public RuntimeObject
 {
 public:
 
 public:
+=======
+// Mono.Xml.Schema.XsdIdentitySelector
+struct  XsdIdentitySelector_t185499482  : public RuntimeObject
+{
+public:
+	// Mono.Xml.Schema.XsdIdentityPath[] Mono.Xml.Schema.XsdIdentitySelector::selectorPaths
+	XsdIdentityPathU5BU5D_t526781831* ___selectorPaths_0;
+	// System.Collections.ArrayList Mono.Xml.Schema.XsdIdentitySelector::fields
+	ArrayList_t4252133567 * ___fields_1;
+	// Mono.Xml.Schema.XsdIdentityField[] Mono.Xml.Schema.XsdIdentitySelector::cachedFields
+	XsdIdentityFieldU5BU5D_t3429900132* ___cachedFields_2;
+
+public:
+	inline static int32_t get_offset_of_selectorPaths_0() { return static_cast<int32_t>(offsetof(XsdIdentitySelector_t185499482, ___selectorPaths_0)); }
+	inline XsdIdentityPathU5BU5D_t526781831* get_selectorPaths_0() const { return ___selectorPaths_0; }
+	inline XsdIdentityPathU5BU5D_t526781831** get_address_of_selectorPaths_0() { return &___selectorPaths_0; }
+	inline void set_selectorPaths_0(XsdIdentityPathU5BU5D_t526781831* value)
+	{
+		___selectorPaths_0 = value;
+		Il2CppCodeGenWriteBarrier((&___selectorPaths_0), value);
+	}
+
+	inline static int32_t get_offset_of_fields_1() { return static_cast<int32_t>(offsetof(XsdIdentitySelector_t185499482, ___fields_1)); }
+	inline ArrayList_t4252133567 * get_fields_1() const { return ___fields_1; }
+	inline ArrayList_t4252133567 ** get_address_of_fields_1() { return &___fields_1; }
+	inline void set_fields_1(ArrayList_t4252133567 * value)
+	{
+		___fields_1 = value;
+		Il2CppCodeGenWriteBarrier((&___fields_1), value);
+	}
+
+	inline static int32_t get_offset_of_cachedFields_2() { return static_cast<int32_t>(offsetof(XsdIdentitySelector_t185499482, ___cachedFields_2)); }
+	inline XsdIdentityFieldU5BU5D_t3429900132* get_cachedFields_2() const { return ___cachedFields_2; }
+	inline XsdIdentityFieldU5BU5D_t3429900132** get_address_of_cachedFields_2() { return &___cachedFields_2; }
+	inline void set_cachedFields_2(XsdIdentityFieldU5BU5D_t3429900132* value)
+	{
+		___cachedFields_2 = value;
+		Il2CppCodeGenWriteBarrier((&___cachedFields_2), value);
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // VALIDATIONHANDLER_T784214620_H
 #ifndef VALUETYPE_T3693359752_H
 #define VALUETYPE_T3693359752_H
+=======
+#endif // XSDIDENTITYSELECTOR_T185499482_H
+#ifndef INTPTR_T_H
+#define INTPTR_T_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.ValueType
 struct  ValueType_t3693359752  : public RuntimeObject
 {
 public:
 
 public:
+=======
+// System.IntPtr
+struct  IntPtr_t 
+{
+public:
+	// System.Void* System.IntPtr::m_value
+	void* ___m_value_0;
+
+public:
+	inline static int32_t get_offset_of_m_value_0() { return static_cast<int32_t>(offsetof(IntPtr_t, ___m_value_0)); }
+	inline void* get_m_value_0() const { return ___m_value_0; }
+	inline void** get_address_of_m_value_0() { return &___m_value_0; }
+	inline void set_m_value_0(void* value)
+	{
+		___m_value_0 = value;
+	}
+};
+
+struct IntPtr_t_StaticFields
+{
+public:
+	// System.IntPtr System.IntPtr::Zero
+	intptr_t ___Zero_1;
+
+public:
+	inline static int32_t get_offset_of_Zero_1() { return static_cast<int32_t>(offsetof(IntPtr_t_StaticFields, ___Zero_1)); }
+	inline intptr_t get_Zero_1() const { return ___Zero_1; }
+	inline intptr_t* get_address_of_Zero_1() { return &___Zero_1; }
+	inline void set_Zero_1(intptr_t value)
+	{
+		___Zero_1 = value;
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of System.ValueType
 struct ValueType_t3693359752_marshaled_pinvoke
 {
 };
 // Native definition for COM marshalling of System.ValueType
 struct ValueType_t3693359752_marshaled_com
-{
-};
-#endif // VALUETYPE_T3693359752_H
-#ifndef VECTOR4_T2495583457_H
-#define VECTOR4_T2495583457_H
+=======
+#endif // INTPTR_T_H
+#ifndef COLOR_T2020392075_H
+#define COLOR_T2020392075_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+// UnityEngine.Color
+struct  Color_t2020392075 
+{
+public:
+	// System.Single UnityEngine.Color::r
+	float ___r_0;
+	// System.Single UnityEngine.Color::g
+	float ___g_1;
+	// System.Single UnityEngine.Color::b
+	float ___b_2;
+	// System.Single UnityEngine.Color::a
+	float ___a_3;
+
+public:
+	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color_t2020392075, ___r_0)); }
+	inline float get_r_0() const { return ___r_0; }
+	inline float* get_address_of_r_0() { return &___r_0; }
+	inline void set_r_0(float value)
+	{
+		___r_0 = value;
+	}
+
+	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color_t2020392075, ___g_1)); }
+	inline float get_g_1() const { return ___g_1; }
+	inline float* get_address_of_g_1() { return &___g_1; }
+	inline void set_g_1(float value)
+	{
+		___g_1 = value;
+	}
+
+	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color_t2020392075, ___b_2)); }
+	inline float get_b_2() const { return ___b_2; }
+	inline float* get_address_of_b_2() { return &___b_2; }
+	inline void set_b_2(float value)
+	{
+		___b_2 = value;
+	}
+
+	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color_t2020392075, ___a_3)); }
+	inline float get_a_3() const { return ___a_3; }
+	inline float* get_address_of_a_3() { return &___a_3; }
+	inline void set_a_3(float value)
+	{
+		___a_3 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // COLOR_T2020392075_H
+#ifndef MONOTODOATTRIBUTE_T3487514022_H
+#define MONOTODOATTRIBUTE_T3487514022_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.MonoTODOAttribute
+struct  MonoTODOAttribute_t3487514022  : public Attribute_t542643598
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+{
+};
+<<<<<<< HEAD
+#endif // VALUETYPE_T3693359752_H
+#ifndef VECTOR4_T2495583457_H
+#define VECTOR4_T2495583457_H
+=======
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // MONOTODOATTRIBUTE_T3487514022_H
+#ifndef DECIMAL_T724701077_H
+#define DECIMAL_T724701077_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+<<<<<<< HEAD
 // UnityEngine.Vector4
 struct  Vector4_t2495583457 
 {
@@ -1305,21 +2207,140 @@ public:
 	inline void set_negativeInfinityVector_8(Vector4_t2495583457  value)
 	{
 		___negativeInfinityVector_8 = value;
+=======
+// System.Decimal
+struct  Decimal_t724701077 
+{
+public:
+	// System.UInt32 System.Decimal::flags
+	uint32_t ___flags_6;
+	// System.UInt32 System.Decimal::hi
+	uint32_t ___hi_7;
+	// System.UInt32 System.Decimal::lo
+	uint32_t ___lo_8;
+	// System.UInt32 System.Decimal::mid
+	uint32_t ___mid_9;
+
+public:
+	inline static int32_t get_offset_of_flags_6() { return static_cast<int32_t>(offsetof(Decimal_t724701077, ___flags_6)); }
+	inline uint32_t get_flags_6() const { return ___flags_6; }
+	inline uint32_t* get_address_of_flags_6() { return &___flags_6; }
+	inline void set_flags_6(uint32_t value)
+	{
+		___flags_6 = value;
+	}
+
+	inline static int32_t get_offset_of_hi_7() { return static_cast<int32_t>(offsetof(Decimal_t724701077, ___hi_7)); }
+	inline uint32_t get_hi_7() const { return ___hi_7; }
+	inline uint32_t* get_address_of_hi_7() { return &___hi_7; }
+	inline void set_hi_7(uint32_t value)
+	{
+		___hi_7 = value;
+	}
+
+	inline static int32_t get_offset_of_lo_8() { return static_cast<int32_t>(offsetof(Decimal_t724701077, ___lo_8)); }
+	inline uint32_t get_lo_8() const { return ___lo_8; }
+	inline uint32_t* get_address_of_lo_8() { return &___lo_8; }
+	inline void set_lo_8(uint32_t value)
+	{
+		___lo_8 = value;
+	}
+
+	inline static int32_t get_offset_of_mid_9() { return static_cast<int32_t>(offsetof(Decimal_t724701077, ___mid_9)); }
+	inline uint32_t get_mid_9() const { return ___mid_9; }
+	inline uint32_t* get_address_of_mid_9() { return &___mid_9; }
+	inline void set_mid_9(uint32_t value)
+	{
+		___mid_9 = value;
+	}
+};
+
+struct Decimal_t724701077_StaticFields
+{
+public:
+	// System.Decimal System.Decimal::MinValue
+	Decimal_t724701077  ___MinValue_0;
+	// System.Decimal System.Decimal::MaxValue
+	Decimal_t724701077  ___MaxValue_1;
+	// System.Decimal System.Decimal::MinusOne
+	Decimal_t724701077  ___MinusOne_2;
+	// System.Decimal System.Decimal::One
+	Decimal_t724701077  ___One_3;
+	// System.Decimal System.Decimal::Zero
+	Decimal_t724701077  ___Zero_4;
+	// System.Decimal System.Decimal::MaxValueDiv10
+	Decimal_t724701077  ___MaxValueDiv10_5;
+
+public:
+	inline static int32_t get_offset_of_MinValue_0() { return static_cast<int32_t>(offsetof(Decimal_t724701077_StaticFields, ___MinValue_0)); }
+	inline Decimal_t724701077  get_MinValue_0() const { return ___MinValue_0; }
+	inline Decimal_t724701077 * get_address_of_MinValue_0() { return &___MinValue_0; }
+	inline void set_MinValue_0(Decimal_t724701077  value)
+	{
+		___MinValue_0 = value;
+	}
+
+	inline static int32_t get_offset_of_MaxValue_1() { return static_cast<int32_t>(offsetof(Decimal_t724701077_StaticFields, ___MaxValue_1)); }
+	inline Decimal_t724701077  get_MaxValue_1() const { return ___MaxValue_1; }
+	inline Decimal_t724701077 * get_address_of_MaxValue_1() { return &___MaxValue_1; }
+	inline void set_MaxValue_1(Decimal_t724701077  value)
+	{
+		___MaxValue_1 = value;
+	}
+
+	inline static int32_t get_offset_of_MinusOne_2() { return static_cast<int32_t>(offsetof(Decimal_t724701077_StaticFields, ___MinusOne_2)); }
+	inline Decimal_t724701077  get_MinusOne_2() const { return ___MinusOne_2; }
+	inline Decimal_t724701077 * get_address_of_MinusOne_2() { return &___MinusOne_2; }
+	inline void set_MinusOne_2(Decimal_t724701077  value)
+	{
+		___MinusOne_2 = value;
+	}
+
+	inline static int32_t get_offset_of_One_3() { return static_cast<int32_t>(offsetof(Decimal_t724701077_StaticFields, ___One_3)); }
+	inline Decimal_t724701077  get_One_3() const { return ___One_3; }
+	inline Decimal_t724701077 * get_address_of_One_3() { return &___One_3; }
+	inline void set_One_3(Decimal_t724701077  value)
+	{
+		___One_3 = value;
+	}
+
+	inline static int32_t get_offset_of_Zero_4() { return static_cast<int32_t>(offsetof(Decimal_t724701077_StaticFields, ___Zero_4)); }
+	inline Decimal_t724701077  get_Zero_4() const { return ___Zero_4; }
+	inline Decimal_t724701077 * get_address_of_Zero_4() { return &___Zero_4; }
+	inline void set_Zero_4(Decimal_t724701077  value)
+	{
+		___Zero_4 = value;
+	}
+
+	inline static int32_t get_offset_of_MaxValueDiv10_5() { return static_cast<int32_t>(offsetof(Decimal_t724701077_StaticFields, ___MaxValueDiv10_5)); }
+	inline Decimal_t724701077  get_MaxValueDiv10_5() const { return ___MaxValueDiv10_5; }
+	inline Decimal_t724701077 * get_address_of_MaxValueDiv10_5() { return &___MaxValueDiv10_5; }
+	inline void set_MaxValueDiv10_5(Decimal_t724701077  value)
+	{
+		___MaxValueDiv10_5 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // VECTOR4_T2495583457_H
 #ifndef STRINGVALUETYPE_T2015230214_H
 #define STRINGVALUETYPE_T2015230214_H
+=======
+#endif // DECIMAL_T724701077_H
+#ifndef UILINEINFO_T3621277874_H
+#define UILINEINFO_T3621277874_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.StringValueType
 struct  StringValueType_t2015230214 
 {
@@ -1332,6 +2353,79 @@ public:
 	inline String_t* get_value_0() const { return ___value_0; }
 	inline String_t** get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(String_t* value)
+=======
+// UnityEngine.UILineInfo
+struct  UILineInfo_t3621277874 
+{
+public:
+	// System.Int32 UnityEngine.UILineInfo::startCharIdx
+	int32_t ___startCharIdx_0;
+	// System.Int32 UnityEngine.UILineInfo::height
+	int32_t ___height_1;
+	// System.Single UnityEngine.UILineInfo::topY
+	float ___topY_2;
+	// System.Single UnityEngine.UILineInfo::leading
+	float ___leading_3;
+
+public:
+	inline static int32_t get_offset_of_startCharIdx_0() { return static_cast<int32_t>(offsetof(UILineInfo_t3621277874, ___startCharIdx_0)); }
+	inline int32_t get_startCharIdx_0() const { return ___startCharIdx_0; }
+	inline int32_t* get_address_of_startCharIdx_0() { return &___startCharIdx_0; }
+	inline void set_startCharIdx_0(int32_t value)
+	{
+		___startCharIdx_0 = value;
+	}
+
+	inline static int32_t get_offset_of_height_1() { return static_cast<int32_t>(offsetof(UILineInfo_t3621277874, ___height_1)); }
+	inline int32_t get_height_1() const { return ___height_1; }
+	inline int32_t* get_address_of_height_1() { return &___height_1; }
+	inline void set_height_1(int32_t value)
+	{
+		___height_1 = value;
+	}
+
+	inline static int32_t get_offset_of_topY_2() { return static_cast<int32_t>(offsetof(UILineInfo_t3621277874, ___topY_2)); }
+	inline float get_topY_2() const { return ___topY_2; }
+	inline float* get_address_of_topY_2() { return &___topY_2; }
+	inline void set_topY_2(float value)
+	{
+		___topY_2 = value;
+	}
+
+	inline static int32_t get_offset_of_leading_3() { return static_cast<int32_t>(offsetof(UILineInfo_t3621277874, ___leading_3)); }
+	inline float get_leading_3() const { return ___leading_3; }
+	inline float* get_address_of_leading_3() { return &___leading_3; }
+	inline void set_leading_3(float value)
+	{
+		___leading_3 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // UILINEINFO_T3621277874_H
+#ifndef STRINGARRAYVALUETYPE_T1731700877_H
+#define STRINGARRAYVALUETYPE_T1731700877_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.Xml.Schema.StringArrayValueType
+struct  StringArrayValueType_t1731700877 
+{
+public:
+	// System.String[] System.Xml.Schema.StringArrayValueType::value
+	StringU5BU5D_t1642385972* ___value_0;
+
+public:
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(StringArrayValueType_t1731700877, ___value_0)); }
+	inline StringU5BU5D_t1642385972* get_value_0() const { return ___value_0; }
+	inline StringU5BU5D_t1642385972** get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(StringU5BU5D_t1642385972* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___value_0 = value;
 		Il2CppCodeGenWriteBarrier((&___value_0), value);
@@ -1341,6 +2435,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of System.Xml.Schema.StringValueType
 struct StringValueType_t2015230214_marshaled_pinvoke
 {
@@ -1354,6 +2449,21 @@ struct StringValueType_t2015230214_marshaled_com
 #endif // STRINGVALUETYPE_T2015230214_H
 #ifndef URIVALUETYPE_T1114410163_H
 #define URIVALUETYPE_T1114410163_H
+=======
+// Native definition for P/Invoke marshalling of System.Xml.Schema.StringArrayValueType
+struct StringArrayValueType_t1731700877_marshaled_pinvoke
+{
+	char** ___value_0;
+};
+// Native definition for COM marshalling of System.Xml.Schema.StringArrayValueType
+struct StringArrayValueType_t1731700877_marshaled_com
+{
+	Il2CppChar** ___value_0;
+};
+#endif // STRINGARRAYVALUETYPE_T1731700877_H
+#ifndef URIVALUETYPE_T1626089757_H
+#define URIVALUETYPE_T1626089757_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1361,6 +2471,7 @@ struct StringValueType_t2015230214_marshaled_com
 #endif
 
 // System.Xml.Schema.UriValueType
+<<<<<<< HEAD
 struct  UriValueType_t1114410163 
 {
 public:
@@ -1372,6 +2483,19 @@ public:
 	inline XmlSchemaUri_t1963442241 * get_value_0() const { return ___value_0; }
 	inline XmlSchemaUri_t1963442241 ** get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(XmlSchemaUri_t1963442241 * value)
+=======
+struct  UriValueType_t1626089757 
+{
+public:
+	// Mono.Xml.Schema.XmlSchemaUri System.Xml.Schema.UriValueType::value
+	XmlSchemaUri_t1295878664 * ___value_0;
+
+public:
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(UriValueType_t1626089757, ___value_0)); }
+	inline XmlSchemaUri_t1295878664 * get_value_0() const { return ___value_0; }
+	inline XmlSchemaUri_t1295878664 ** get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(XmlSchemaUri_t1295878664 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___value_0 = value;
 		Il2CppCodeGenWriteBarrier((&___value_0), value);
@@ -1382,6 +2506,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.Xml.Schema.UriValueType
+<<<<<<< HEAD
 struct UriValueType_t1114410163_marshaled_pinvoke
 {
 	XmlSchemaUri_t1963442241 * ___value_0;
@@ -1394,12 +2519,27 @@ struct UriValueType_t1114410163_marshaled_com
 #endif // URIVALUETYPE_T1114410163_H
 #ifndef STRINGARRAYVALUETYPE_T3545182375_H
 #define STRINGARRAYVALUETYPE_T3545182375_H
+=======
+struct UriValueType_t1626089757_marshaled_pinvoke
+{
+	XmlSchemaUri_t1295878664 * ___value_0;
+};
+// Native definition for COM marshalling of System.Xml.Schema.UriValueType
+struct UriValueType_t1626089757_marshaled_com
+{
+	XmlSchemaUri_t1295878664 * ___value_0;
+};
+#endif // URIVALUETYPE_T1626089757_H
+#ifndef STRINGVALUETYPE_T652312500_H
+#define STRINGVALUETYPE_T652312500_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.StringArrayValueType
 struct  StringArrayValueType_t3545182375 
 {
@@ -1412,6 +2552,20 @@ public:
 	inline StringU5BU5D_t1101961484* get_value_0() const { return ___value_0; }
 	inline StringU5BU5D_t1101961484** get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(StringU5BU5D_t1101961484* value)
+=======
+// System.Xml.Schema.StringValueType
+struct  StringValueType_t652312500 
+{
+public:
+	// System.String System.Xml.Schema.StringValueType::value
+	String_t* ___value_0;
+
+public:
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(StringValueType_t652312500, ___value_0)); }
+	inline String_t* get_value_0() const { return ___value_0; }
+	inline String_t** get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(String_t* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___value_0 = value;
 		Il2CppCodeGenWriteBarrier((&___value_0), value);
@@ -1421,6 +2575,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of System.Xml.Schema.StringArrayValueType
 struct StringArrayValueType_t3545182375_marshaled_pinvoke
 {
@@ -1432,6 +2587,89 @@ struct StringArrayValueType_t3545182375_marshaled_com
 	Il2CppChar** ___value_0;
 };
 #endif // STRINGARRAYVALUETYPE_T3545182375_H
+=======
+// Native definition for P/Invoke marshalling of System.Xml.Schema.StringValueType
+struct StringValueType_t652312500_marshaled_pinvoke
+{
+	char* ___value_0;
+};
+// Native definition for COM marshalling of System.Xml.Schema.StringValueType
+struct StringValueType_t652312500_marshaled_com
+{
+	Il2CppChar* ___value_0;
+};
+#endif // STRINGVALUETYPE_T652312500_H
+#ifndef QNAMEVALUETYPE_T2109511131_H
+#define QNAMEVALUETYPE_T2109511131_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.Xml.Schema.QNameValueType
+struct  QNameValueType_t2109511131 
+{
+public:
+	// System.Xml.XmlQualifiedName System.Xml.Schema.QNameValueType::value
+	XmlQualifiedName_t1944712516 * ___value_0;
+
+public:
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(QNameValueType_t2109511131, ___value_0)); }
+	inline XmlQualifiedName_t1944712516 * get_value_0() const { return ___value_0; }
+	inline XmlQualifiedName_t1944712516 ** get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(XmlQualifiedName_t1944712516 * value)
+	{
+		___value_0 = value;
+		Il2CppCodeGenWriteBarrier((&___value_0), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Native definition for P/Invoke marshalling of System.Xml.Schema.QNameValueType
+struct QNameValueType_t2109511131_marshaled_pinvoke
+{
+	XmlQualifiedName_t1944712516 * ___value_0;
+};
+// Native definition for COM marshalling of System.Xml.Schema.QNameValueType
+struct QNameValueType_t2109511131_marshaled_com
+{
+	XmlQualifiedName_t1944712516 * ___value_0;
+};
+#endif // QNAMEVALUETYPE_T2109511131_H
+#ifndef XMLSCHEMAURI_T1295878664_H
+#define XMLSCHEMAURI_T1295878664_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// Mono.Xml.Schema.XmlSchemaUri
+struct  XmlSchemaUri_t1295878664  : public Uri_t19570940
+{
+public:
+	// System.String Mono.Xml.Schema.XmlSchemaUri::value
+	String_t* ___value_36;
+
+public:
+	inline static int32_t get_offset_of_value_36() { return static_cast<int32_t>(offsetof(XmlSchemaUri_t1295878664, ___value_36)); }
+	inline String_t* get_value_36() const { return ___value_36; }
+	inline String_t** get_address_of_value_36() { return &___value_36; }
+	inline void set_value_36(String_t* value)
+	{
+		___value_36 = value;
+		Il2CppCodeGenWriteBarrier((&___value_36), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // XMLSCHEMAURI_T1295878664_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifndef GUID_T_H
 #define GUID_T_H
 #ifdef __clang__
@@ -1565,9 +2803,15 @@ public:
 	// System.Object System.Guid::_rngAccess
 	RuntimeObject * ____rngAccess_12;
 	// System.Security.Cryptography.RandomNumberGenerator System.Guid::_rng
+<<<<<<< HEAD
 	RandomNumberGenerator_t3469429999 * ____rng_13;
 	// System.Security.Cryptography.RandomNumberGenerator System.Guid::_fastRng
 	RandomNumberGenerator_t3469429999 * ____fastRng_14;
+=======
+	RandomNumberGenerator_t2510243513 * ____rng_13;
+	// System.Security.Cryptography.RandomNumberGenerator System.Guid::_fastRng
+	RandomNumberGenerator_t2510243513 * ____fastRng_14;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 
 public:
 	inline static int32_t get_offset_of_Empty_11() { return static_cast<int32_t>(offsetof(Guid_t_StaticFields, ___Empty_11)); }
@@ -1588,18 +2832,30 @@ public:
 	}
 
 	inline static int32_t get_offset_of__rng_13() { return static_cast<int32_t>(offsetof(Guid_t_StaticFields, ____rng_13)); }
+<<<<<<< HEAD
 	inline RandomNumberGenerator_t3469429999 * get__rng_13() const { return ____rng_13; }
 	inline RandomNumberGenerator_t3469429999 ** get_address_of__rng_13() { return &____rng_13; }
 	inline void set__rng_13(RandomNumberGenerator_t3469429999 * value)
+=======
+	inline RandomNumberGenerator_t2510243513 * get__rng_13() const { return ____rng_13; }
+	inline RandomNumberGenerator_t2510243513 ** get_address_of__rng_13() { return &____rng_13; }
+	inline void set__rng_13(RandomNumberGenerator_t2510243513 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		____rng_13 = value;
 		Il2CppCodeGenWriteBarrier((&____rng_13), value);
 	}
 
 	inline static int32_t get_offset_of__fastRng_14() { return static_cast<int32_t>(offsetof(Guid_t_StaticFields, ____fastRng_14)); }
+<<<<<<< HEAD
 	inline RandomNumberGenerator_t3469429999 * get__fastRng_14() const { return ____fastRng_14; }
 	inline RandomNumberGenerator_t3469429999 ** get_address_of__fastRng_14() { return &____fastRng_14; }
 	inline void set__fastRng_14(RandomNumberGenerator_t3469429999 * value)
+=======
+	inline RandomNumberGenerator_t2510243513 * get__fastRng_14() const { return ____fastRng_14; }
+	inline RandomNumberGenerator_t2510243513 ** get_address_of__fastRng_14() { return &____fastRng_14; }
+	inline void set__fastRng_14(RandomNumberGenerator_t2510243513 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		____fastRng_14 = value;
 		Il2CppCodeGenWriteBarrier((&____fastRng_14), value);
@@ -1610,6 +2866,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // GUID_T_H
+<<<<<<< HEAD
 #ifndef QNAMEVALUETYPE_T1067978933_H
 #define QNAMEVALUETYPE_T1067978933_H
 #ifdef __clang__
@@ -1652,6 +2909,10 @@ struct QNameValueType_t1067978933_marshaled_com
 #endif // QNAMEVALUETYPE_T1067978933_H
 #ifndef VECTOR2_T2747121222_H
 #define VECTOR2_T2747121222_H
+=======
+#ifndef VECTOR2_T2243707579_H
+#define VECTOR2_T2243707579_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1659,7 +2920,11 @@ struct QNameValueType_t1067978933_marshaled_com
 #endif
 
 // UnityEngine.Vector2
+<<<<<<< HEAD
 struct  Vector2_t2747121222 
+=======
+struct  Vector2_t2243707579 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -1668,7 +2933,11 @@ public:
 	float ___y_1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_x_0() { return static_cast<int32_t>(offsetof(Vector2_t2747121222, ___x_0)); }
+=======
+	inline static int32_t get_offset_of_x_0() { return static_cast<int32_t>(offsetof(Vector2_t2243707579, ___x_0)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_x_0() const { return ___x_0; }
 	inline float* get_address_of_x_0() { return &___x_0; }
 	inline void set_x_0(float value)
@@ -1676,7 +2945,11 @@ public:
 		___x_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_y_1() { return static_cast<int32_t>(offsetof(Vector2_t2747121222, ___y_1)); }
+=======
+	inline static int32_t get_offset_of_y_1() { return static_cast<int32_t>(offsetof(Vector2_t2243707579, ___y_1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_y_1() const { return ___y_1; }
 	inline float* get_address_of_y_1() { return &___y_1; }
 	inline void set_y_1(float value)
@@ -1685,6 +2958,7 @@ public:
 	}
 };
 
+<<<<<<< HEAD
 struct Vector2_t2747121222_StaticFields
 {
 public:
@@ -1710,62 +2984,138 @@ public:
 	inline Vector2_t2747121222  get_zeroVector_2() const { return ___zeroVector_2; }
 	inline Vector2_t2747121222 * get_address_of_zeroVector_2() { return &___zeroVector_2; }
 	inline void set_zeroVector_2(Vector2_t2747121222  value)
+=======
+struct Vector2_t2243707579_StaticFields
+{
+public:
+	// UnityEngine.Vector2 UnityEngine.Vector2::zeroVector
+	Vector2_t2243707579  ___zeroVector_2;
+	// UnityEngine.Vector2 UnityEngine.Vector2::oneVector
+	Vector2_t2243707579  ___oneVector_3;
+	// UnityEngine.Vector2 UnityEngine.Vector2::upVector
+	Vector2_t2243707579  ___upVector_4;
+	// UnityEngine.Vector2 UnityEngine.Vector2::downVector
+	Vector2_t2243707579  ___downVector_5;
+	// UnityEngine.Vector2 UnityEngine.Vector2::leftVector
+	Vector2_t2243707579  ___leftVector_6;
+	// UnityEngine.Vector2 UnityEngine.Vector2::rightVector
+	Vector2_t2243707579  ___rightVector_7;
+	// UnityEngine.Vector2 UnityEngine.Vector2::positiveInfinityVector
+	Vector2_t2243707579  ___positiveInfinityVector_8;
+	// UnityEngine.Vector2 UnityEngine.Vector2::negativeInfinityVector
+	Vector2_t2243707579  ___negativeInfinityVector_9;
+
+public:
+	inline static int32_t get_offset_of_zeroVector_2() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___zeroVector_2)); }
+	inline Vector2_t2243707579  get_zeroVector_2() const { return ___zeroVector_2; }
+	inline Vector2_t2243707579 * get_address_of_zeroVector_2() { return &___zeroVector_2; }
+	inline void set_zeroVector_2(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___zeroVector_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_oneVector_3() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___oneVector_3)); }
 	inline Vector2_t2747121222  get_oneVector_3() const { return ___oneVector_3; }
 	inline Vector2_t2747121222 * get_address_of_oneVector_3() { return &___oneVector_3; }
 	inline void set_oneVector_3(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_oneVector_3() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___oneVector_3)); }
+	inline Vector2_t2243707579  get_oneVector_3() const { return ___oneVector_3; }
+	inline Vector2_t2243707579 * get_address_of_oneVector_3() { return &___oneVector_3; }
+	inline void set_oneVector_3(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___oneVector_3 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_upVector_4() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___upVector_4)); }
 	inline Vector2_t2747121222  get_upVector_4() const { return ___upVector_4; }
 	inline Vector2_t2747121222 * get_address_of_upVector_4() { return &___upVector_4; }
 	inline void set_upVector_4(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_upVector_4() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___upVector_4)); }
+	inline Vector2_t2243707579  get_upVector_4() const { return ___upVector_4; }
+	inline Vector2_t2243707579 * get_address_of_upVector_4() { return &___upVector_4; }
+	inline void set_upVector_4(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___upVector_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_downVector_5() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___downVector_5)); }
 	inline Vector2_t2747121222  get_downVector_5() const { return ___downVector_5; }
 	inline Vector2_t2747121222 * get_address_of_downVector_5() { return &___downVector_5; }
 	inline void set_downVector_5(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_downVector_5() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___downVector_5)); }
+	inline Vector2_t2243707579  get_downVector_5() const { return ___downVector_5; }
+	inline Vector2_t2243707579 * get_address_of_downVector_5() { return &___downVector_5; }
+	inline void set_downVector_5(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___downVector_5 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_leftVector_6() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___leftVector_6)); }
 	inline Vector2_t2747121222  get_leftVector_6() const { return ___leftVector_6; }
 	inline Vector2_t2747121222 * get_address_of_leftVector_6() { return &___leftVector_6; }
 	inline void set_leftVector_6(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_leftVector_6() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___leftVector_6)); }
+	inline Vector2_t2243707579  get_leftVector_6() const { return ___leftVector_6; }
+	inline Vector2_t2243707579 * get_address_of_leftVector_6() { return &___leftVector_6; }
+	inline void set_leftVector_6(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___leftVector_6 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_rightVector_7() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___rightVector_7)); }
 	inline Vector2_t2747121222  get_rightVector_7() const { return ___rightVector_7; }
 	inline Vector2_t2747121222 * get_address_of_rightVector_7() { return &___rightVector_7; }
 	inline void set_rightVector_7(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_rightVector_7() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___rightVector_7)); }
+	inline Vector2_t2243707579  get_rightVector_7() const { return ___rightVector_7; }
+	inline Vector2_t2243707579 * get_address_of_rightVector_7() { return &___rightVector_7; }
+	inline void set_rightVector_7(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___rightVector_7 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_positiveInfinityVector_8() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___positiveInfinityVector_8)); }
 	inline Vector2_t2747121222  get_positiveInfinityVector_8() const { return ___positiveInfinityVector_8; }
 	inline Vector2_t2747121222 * get_address_of_positiveInfinityVector_8() { return &___positiveInfinityVector_8; }
 	inline void set_positiveInfinityVector_8(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_positiveInfinityVector_8() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___positiveInfinityVector_8)); }
+	inline Vector2_t2243707579  get_positiveInfinityVector_8() const { return ___positiveInfinityVector_8; }
+	inline Vector2_t2243707579 * get_address_of_positiveInfinityVector_8() { return &___positiveInfinityVector_8; }
+	inline void set_positiveInfinityVector_8(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___positiveInfinityVector_8 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_negativeInfinityVector_9() { return static_cast<int32_t>(offsetof(Vector2_t2747121222_StaticFields, ___negativeInfinityVector_9)); }
 	inline Vector2_t2747121222  get_negativeInfinityVector_9() const { return ___negativeInfinityVector_9; }
 	inline Vector2_t2747121222 * get_address_of_negativeInfinityVector_9() { return &___negativeInfinityVector_9; }
 	inline void set_negativeInfinityVector_9(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_negativeInfinityVector_9() { return static_cast<int32_t>(offsetof(Vector2_t2243707579_StaticFields, ___negativeInfinityVector_9)); }
+	inline Vector2_t2243707579  get_negativeInfinityVector_9() const { return ___negativeInfinityVector_9; }
+	inline Vector2_t2243707579 * get_address_of_negativeInfinityVector_9() { return &___negativeInfinityVector_9; }
+	inline void set_negativeInfinityVector_9(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___negativeInfinityVector_9 = value;
 	}
@@ -1774,6 +3124,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // VECTOR2_T2747121222_H
 #ifndef ENUM_T2725998971_H
 #define ENUM_T2725998971_H
@@ -1822,12 +3173,18 @@ struct Enum_t2725998971_marshaled_com
 #endif // ENUM_T2725998971_H
 #ifndef COLOR_T1895491664_H
 #define COLOR_T1895491664_H
+=======
+#endif // VECTOR2_T2243707579_H
+#ifndef COLOR32_T874517518_H
+#define COLOR32_T874517518_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.Color
 struct  Color_t1895491664 
 {
@@ -1846,30 +3203,71 @@ public:
 	inline float get_r_0() const { return ___r_0; }
 	inline float* get_address_of_r_0() { return &___r_0; }
 	inline void set_r_0(float value)
+=======
+// UnityEngine.Color32
+struct ALIGN_TYPE(4) Color32_t874517518 
+{
+public:
+	// System.Byte UnityEngine.Color32::r
+	uint8_t ___r_0;
+	// System.Byte UnityEngine.Color32::g
+	uint8_t ___g_1;
+	// System.Byte UnityEngine.Color32::b
+	uint8_t ___b_2;
+	// System.Byte UnityEngine.Color32::a
+	uint8_t ___a_3;
+
+public:
+	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color32_t874517518, ___r_0)); }
+	inline uint8_t get_r_0() const { return ___r_0; }
+	inline uint8_t* get_address_of_r_0() { return &___r_0; }
+	inline void set_r_0(uint8_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___r_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color_t1895491664, ___g_1)); }
 	inline float get_g_1() const { return ___g_1; }
 	inline float* get_address_of_g_1() { return &___g_1; }
 	inline void set_g_1(float value)
+=======
+	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color32_t874517518, ___g_1)); }
+	inline uint8_t get_g_1() const { return ___g_1; }
+	inline uint8_t* get_address_of_g_1() { return &___g_1; }
+	inline void set_g_1(uint8_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___g_1 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color_t1895491664, ___b_2)); }
 	inline float get_b_2() const { return ___b_2; }
 	inline float* get_address_of_b_2() { return &___b_2; }
 	inline void set_b_2(float value)
+=======
+	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color32_t874517518, ___b_2)); }
+	inline uint8_t get_b_2() const { return ___b_2; }
+	inline uint8_t* get_address_of_b_2() { return &___b_2; }
+	inline void set_b_2(uint8_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___b_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color_t1895491664, ___a_3)); }
 	inline float get_a_3() const { return ___a_3; }
 	inline float* get_address_of_a_3() { return &___a_3; }
 	inline void set_a_3(float value)
+=======
+	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color32_t874517518, ___a_3)); }
+	inline uint8_t get_a_3() const { return ___a_3; }
+	inline uint8_t* get_address_of_a_3() { return &___a_3; }
+	inline void set_a_3(uint8_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___a_3 = value;
 	}
@@ -1878,21 +3276,41 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // COLOR_T1895491664_H
 #ifndef VOID_T2682914905_H
 #define VOID_T2682914905_H
+=======
+#endif // COLOR32_T874517518_H
+#ifndef VECTOR4_T2243707581_H
+#define VECTOR4_T2243707581_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Void
 struct  Void_t2682914905 
+=======
+// UnityEngine.Vector4
+struct  Vector4_t2243707581 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
+	// System.Single UnityEngine.Vector4::x
+	float ___x_1;
+	// System.Single UnityEngine.Vector4::y
+	float ___y_2;
+	// System.Single UnityEngine.Vector4::z
+	float ___z_3;
+	// System.Single UnityEngine.Vector4::w
+	float ___w_4;
 
 public:
+<<<<<<< HEAD
 };
 
 #ifdef __clang__
@@ -1925,6 +3343,42 @@ public:
 };
 
 struct IntPtr_t_StaticFields
+=======
+	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector4_t2243707581, ___x_1)); }
+	inline float get_x_1() const { return ___x_1; }
+	inline float* get_address_of_x_1() { return &___x_1; }
+	inline void set_x_1(float value)
+	{
+		___x_1 = value;
+	}
+
+	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector4_t2243707581, ___y_2)); }
+	inline float get_y_2() const { return ___y_2; }
+	inline float* get_address_of_y_2() { return &___y_2; }
+	inline void set_y_2(float value)
+	{
+		___y_2 = value;
+	}
+
+	inline static int32_t get_offset_of_z_3() { return static_cast<int32_t>(offsetof(Vector4_t2243707581, ___z_3)); }
+	inline float get_z_3() const { return ___z_3; }
+	inline float* get_address_of_z_3() { return &___z_3; }
+	inline void set_z_3(float value)
+	{
+		___z_3 = value;
+	}
+
+	inline static int32_t get_offset_of_w_4() { return static_cast<int32_t>(offsetof(Vector4_t2243707581, ___w_4)); }
+	inline float get_w_4() const { return ___w_4; }
+	inline float* get_address_of_w_4() { return &___w_4; }
+	inline void set_w_4(float value)
+	{
+		___w_4 = value;
+	}
+};
+
+struct Vector4_t2243707581_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.IntPtr System.IntPtr::Zero
@@ -1936,16 +3390,26 @@ public:
 	inline intptr_t* get_address_of_Zero_1() { return &___Zero_1; }
 	inline void set_Zero_1(intptr_t value)
 	{
+<<<<<<< HEAD
 		___Zero_1 = value;
+=======
+		___negativeInfinityVector_8 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // INTPTR_T_H
 #ifndef VECTOR3_T3940485_H
 #define VECTOR3_T3940485_H
+=======
+#endif // VECTOR4_T2243707581_H
+#ifndef VECTOR3_T2243707580_H
+#define VECTOR3_T2243707580_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1953,7 +3417,11 @@ public:
 #endif
 
 // UnityEngine.Vector3
+<<<<<<< HEAD
 struct  Vector3_t3940485 
+=======
+struct  Vector3_t2243707580 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -1964,7 +3432,11 @@ public:
 	float ___z_3;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector3_t3940485, ___x_1)); }
+=======
+	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector3_t2243707580, ___x_1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_x_1() const { return ___x_1; }
 	inline float* get_address_of_x_1() { return &___x_1; }
 	inline void set_x_1(float value)
@@ -1972,7 +3444,11 @@ public:
 		___x_1 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector3_t3940485, ___y_2)); }
+=======
+	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector3_t2243707580, ___y_2)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_y_2() const { return ___y_2; }
 	inline float* get_address_of_y_2() { return &___y_2; }
 	inline void set_y_2(float value)
@@ -1980,7 +3456,11 @@ public:
 		___y_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_z_3() { return static_cast<int32_t>(offsetof(Vector3_t3940485, ___z_3)); }
+=======
+	inline static int32_t get_offset_of_z_3() { return static_cast<int32_t>(offsetof(Vector3_t2243707580, ___z_3)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_z_3() const { return ___z_3; }
 	inline float* get_address_of_z_3() { return &___z_3; }
 	inline void set_z_3(float value)
@@ -1989,7 +3469,11 @@ public:
 	}
 };
 
+<<<<<<< HEAD
 struct Vector3_t3940485_StaticFields
+=======
+struct Vector3_t2243707580_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Vector3::zeroVector
@@ -2014,82 +3498,152 @@ public:
 	Vector3_t3940485  ___negativeInfinityVector_13;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_zeroVector_4() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___zeroVector_4)); }
 	inline Vector3_t3940485  get_zeroVector_4() const { return ___zeroVector_4; }
 	inline Vector3_t3940485 * get_address_of_zeroVector_4() { return &___zeroVector_4; }
 	inline void set_zeroVector_4(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_zeroVector_4() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___zeroVector_4)); }
+	inline Vector3_t2243707580  get_zeroVector_4() const { return ___zeroVector_4; }
+	inline Vector3_t2243707580 * get_address_of_zeroVector_4() { return &___zeroVector_4; }
+	inline void set_zeroVector_4(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___zeroVector_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_oneVector_5() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___oneVector_5)); }
 	inline Vector3_t3940485  get_oneVector_5() const { return ___oneVector_5; }
 	inline Vector3_t3940485 * get_address_of_oneVector_5() { return &___oneVector_5; }
 	inline void set_oneVector_5(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_oneVector_5() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___oneVector_5)); }
+	inline Vector3_t2243707580  get_oneVector_5() const { return ___oneVector_5; }
+	inline Vector3_t2243707580 * get_address_of_oneVector_5() { return &___oneVector_5; }
+	inline void set_oneVector_5(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___oneVector_5 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_upVector_6() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___upVector_6)); }
 	inline Vector3_t3940485  get_upVector_6() const { return ___upVector_6; }
 	inline Vector3_t3940485 * get_address_of_upVector_6() { return &___upVector_6; }
 	inline void set_upVector_6(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_upVector_6() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___upVector_6)); }
+	inline Vector3_t2243707580  get_upVector_6() const { return ___upVector_6; }
+	inline Vector3_t2243707580 * get_address_of_upVector_6() { return &___upVector_6; }
+	inline void set_upVector_6(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___upVector_6 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_downVector_7() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___downVector_7)); }
 	inline Vector3_t3940485  get_downVector_7() const { return ___downVector_7; }
 	inline Vector3_t3940485 * get_address_of_downVector_7() { return &___downVector_7; }
 	inline void set_downVector_7(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_downVector_7() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___downVector_7)); }
+	inline Vector3_t2243707580  get_downVector_7() const { return ___downVector_7; }
+	inline Vector3_t2243707580 * get_address_of_downVector_7() { return &___downVector_7; }
+	inline void set_downVector_7(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___downVector_7 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_leftVector_8() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___leftVector_8)); }
 	inline Vector3_t3940485  get_leftVector_8() const { return ___leftVector_8; }
 	inline Vector3_t3940485 * get_address_of_leftVector_8() { return &___leftVector_8; }
 	inline void set_leftVector_8(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_leftVector_8() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___leftVector_8)); }
+	inline Vector3_t2243707580  get_leftVector_8() const { return ___leftVector_8; }
+	inline Vector3_t2243707580 * get_address_of_leftVector_8() { return &___leftVector_8; }
+	inline void set_leftVector_8(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___leftVector_8 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_rightVector_9() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___rightVector_9)); }
 	inline Vector3_t3940485  get_rightVector_9() const { return ___rightVector_9; }
 	inline Vector3_t3940485 * get_address_of_rightVector_9() { return &___rightVector_9; }
 	inline void set_rightVector_9(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_rightVector_9() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___rightVector_9)); }
+	inline Vector3_t2243707580  get_rightVector_9() const { return ___rightVector_9; }
+	inline Vector3_t2243707580 * get_address_of_rightVector_9() { return &___rightVector_9; }
+	inline void set_rightVector_9(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___rightVector_9 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_forwardVector_10() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___forwardVector_10)); }
 	inline Vector3_t3940485  get_forwardVector_10() const { return ___forwardVector_10; }
 	inline Vector3_t3940485 * get_address_of_forwardVector_10() { return &___forwardVector_10; }
 	inline void set_forwardVector_10(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_forwardVector_10() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___forwardVector_10)); }
+	inline Vector3_t2243707580  get_forwardVector_10() const { return ___forwardVector_10; }
+	inline Vector3_t2243707580 * get_address_of_forwardVector_10() { return &___forwardVector_10; }
+	inline void set_forwardVector_10(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___forwardVector_10 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_backVector_11() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___backVector_11)); }
 	inline Vector3_t3940485  get_backVector_11() const { return ___backVector_11; }
 	inline Vector3_t3940485 * get_address_of_backVector_11() { return &___backVector_11; }
 	inline void set_backVector_11(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_backVector_11() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___backVector_11)); }
+	inline Vector3_t2243707580  get_backVector_11() const { return ___backVector_11; }
+	inline Vector3_t2243707580 * get_address_of_backVector_11() { return &___backVector_11; }
+	inline void set_backVector_11(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___backVector_11 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_positiveInfinityVector_12() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___positiveInfinityVector_12)); }
 	inline Vector3_t3940485  get_positiveInfinityVector_12() const { return ___positiveInfinityVector_12; }
 	inline Vector3_t3940485 * get_address_of_positiveInfinityVector_12() { return &___positiveInfinityVector_12; }
 	inline void set_positiveInfinityVector_12(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_positiveInfinityVector_12() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___positiveInfinityVector_12)); }
+	inline Vector3_t2243707580  get_positiveInfinityVector_12() const { return ___positiveInfinityVector_12; }
+	inline Vector3_t2243707580 * get_address_of_positiveInfinityVector_12() { return &___positiveInfinityVector_12; }
+	inline void set_positiveInfinityVector_12(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___positiveInfinityVector_12 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_negativeInfinityVector_13() { return static_cast<int32_t>(offsetof(Vector3_t3940485_StaticFields, ___negativeInfinityVector_13)); }
 	inline Vector3_t3940485  get_negativeInfinityVector_13() const { return ___negativeInfinityVector_13; }
 	inline Vector3_t3940485 * get_address_of_negativeInfinityVector_13() { return &___negativeInfinityVector_13; }
 	inline void set_negativeInfinityVector_13(Vector3_t3940485  value)
+=======
+	inline static int32_t get_offset_of_negativeInfinityVector_13() { return static_cast<int32_t>(offsetof(Vector3_t2243707580_StaticFields, ___negativeInfinityVector_13)); }
+	inline Vector3_t2243707580  get_negativeInfinityVector_13() const { return ___negativeInfinityVector_13; }
+	inline Vector3_t2243707580 * get_address_of_negativeInfinityVector_13() { return &___negativeInfinityVector_13; }
+	inline void set_negativeInfinityVector_13(Vector3_t2243707580  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___negativeInfinityVector_13 = value;
 	}
@@ -2098,29 +3652,33 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // VECTOR3_T3940485_H
 #ifndef COLOR32_T1457649455_H
 #define COLOR32_T1457649455_H
+=======
+#endif // VECTOR3_T2243707580_H
+#ifndef VOID_T1841601450_H
+#define VOID_T1841601450_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.Color32
 struct ALIGN_TYPE(4) Color32_t1457649455 
+=======
+// System.Void
+struct  Void_t1841601450 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
-	// System.Byte UnityEngine.Color32::r
-	uint8_t ___r_0;
-	// System.Byte UnityEngine.Color32::g
-	uint8_t ___g_1;
-	// System.Byte UnityEngine.Color32::b
-	uint8_t ___b_2;
-	// System.Byte UnityEngine.Color32::a
-	uint8_t ___a_3;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color32_t1457649455, ___r_0)); }
 	inline uint8_t get_r_0() const { return ___r_0; }
 	inline uint8_t* get_address_of_r_0() { return &___r_0; }
@@ -2152,34 +3710,40 @@ public:
 	{
 		___a_3 = value;
 	}
+=======
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // COLOR32_T1457649455_H
 #ifndef DECIMAL_T3130645908_H
 #define DECIMAL_T3130645908_H
+=======
+#endif // VOID_T1841601450_H
+#ifndef ENUM_T2459695545_H
+#define ENUM_T2459695545_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Decimal
 struct  Decimal_t3130645908 
+=======
+// System.Enum
+struct  Enum_t2459695545  : public ValueType_t3507792607
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
-	// System.UInt32 System.Decimal::flags
-	uint32_t ___flags_6;
-	// System.UInt32 System.Decimal::hi
-	uint32_t ___hi_7;
-	// System.UInt32 System.Decimal::lo
-	uint32_t ___lo_8;
-	// System.UInt32 System.Decimal::mid
-	uint32_t ___mid_9;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_flags_6() { return static_cast<int32_t>(offsetof(Decimal_t3130645908, ___flags_6)); }
 	inline uint32_t get_flags_6() const { return ___flags_6; }
 	inline uint32_t* get_address_of_flags_6() { return &___flags_6; }
@@ -2250,10 +3814,28 @@ public:
 	inline Decimal_t3130645908  get_MinusOne_2() const { return ___MinusOne_2; }
 	inline Decimal_t3130645908 * get_address_of_MinusOne_2() { return &___MinusOne_2; }
 	inline void set_MinusOne_2(Decimal_t3130645908  value)
-	{
-		___MinusOne_2 = value;
-	}
+=======
+};
 
+struct Enum_t2459695545_StaticFields
+{
+public:
+	// System.Char[] System.Enum::split_char
+	CharU5BU5D_t1328083999* ___split_char_0;
+
+public:
+	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t2459695545_StaticFields, ___split_char_0)); }
+	inline CharU5BU5D_t1328083999* get_split_char_0() const { return ___split_char_0; }
+	inline CharU5BU5D_t1328083999** get_address_of_split_char_0() { return &___split_char_0; }
+	inline void set_split_char_0(CharU5BU5D_t1328083999* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+	{
+		___split_char_0 = value;
+		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
+	}
+};
+
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_One_3() { return static_cast<int32_t>(offsetof(Decimal_t3130645908_StaticFields, ___One_3)); }
 	inline Decimal_t3130645908  get_One_3() const { return ___One_3; }
 	inline Decimal_t3130645908 * get_address_of_One_3() { return &___One_3; }
@@ -2274,74 +3856,138 @@ public:
 	inline Decimal_t3130645908  get_MaxValueDiv10_5() const { return ___MaxValueDiv10_5; }
 	inline Decimal_t3130645908 * get_address_of_MaxValueDiv10_5() { return &___MaxValueDiv10_5; }
 	inline void set_MaxValueDiv10_5(Decimal_t3130645908  value)
-	{
-		___MaxValueDiv10_5 = value;
-	}
-};
-
+=======
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // DECIMAL_T3130645908_H
-#ifndef XMLSCHEMAURI_T1963442241_H
-#define XMLSCHEMAURI_T1963442241_H
+// Native definition for P/Invoke marshalling of System.Enum
+struct Enum_t2459695545_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.Enum
+struct Enum_t2459695545_marshaled_com
+{
+};
+#endif // ENUM_T2459695545_H
+#ifndef XMLSEVERITYTYPE_T3547578624_H
+#define XMLSEVERITYTYPE_T3547578624_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
-// Mono.Xml.Schema.XmlSchemaUri
-struct  XmlSchemaUri_t1963442241  : public Uri_t1422238804
+// System.Xml.Schema.XmlSeverityType
+struct  XmlSeverityType_t3547578624 
 {
 public:
-	// System.String Mono.Xml.Schema.XmlSchemaUri::value
-	String_t* ___value_36;
+	// System.Int32 System.Xml.Schema.XmlSeverityType::value__
+	int32_t ___value___1;
 
 public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XmlSeverityType_t3547578624, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+	{
+		___value___1 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
+#endif // DECIMAL_T3130645908_H
+#ifndef XMLSCHEMAURI_T1963442241_H
+#define XMLSCHEMAURI_T1963442241_H
+=======
+#endif // XMLSEVERITYTYPE_T3547578624_H
+#ifndef FACET_T3019654938_H
+#define FACET_T3019654938_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+<<<<<<< HEAD
+// Mono.Xml.Schema.XmlSchemaUri
+struct  XmlSchemaUri_t1963442241  : public Uri_t1422238804
+=======
+// System.Xml.Schema.XmlSchemaFacet/Facet
+struct  Facet_t3019654938 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+{
+public:
+	// System.Int32 System.Xml.Schema.XmlSchemaFacet/Facet::value__
+	int32_t ___value___1;
+
+public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_value_36() { return static_cast<int32_t>(offsetof(XmlSchemaUri_t1963442241, ___value_36)); }
 	inline String_t* get_value_36() const { return ___value_36; }
 	inline String_t** get_address_of_value_36() { return &___value_36; }
 	inline void set_value_36(String_t* value)
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(Facet_t3019654938, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
-		___value_36 = value;
-		Il2CppCodeGenWriteBarrier((&___value_36), value);
+		___value___1 = value;
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAURI_T1963442241_H
 #ifndef UILINEINFO_T1072769794_H
 #define UILINEINFO_T1072769794_H
+=======
+#endif // FACET_T3019654938_H
+#ifndef XMLSCHEMACONTENTPROCESSING_T74226324_H
+#define XMLSCHEMACONTENTPROCESSING_T74226324_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.UILineInfo
 struct  UILineInfo_t1072769794 
+=======
+// System.Xml.Schema.XmlSchemaContentProcessing
+struct  XmlSchemaContentProcessing_t74226324 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
-	// System.Int32 UnityEngine.UILineInfo::startCharIdx
-	int32_t ___startCharIdx_0;
-	// System.Int32 UnityEngine.UILineInfo::height
-	int32_t ___height_1;
-	// System.Single UnityEngine.UILineInfo::topY
-	float ___topY_2;
-	// System.Single UnityEngine.UILineInfo::leading
-	float ___leading_3;
+	// System.Int32 System.Xml.Schema.XmlSchemaContentProcessing::value__
+	int32_t ___value___1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_startCharIdx_0() { return static_cast<int32_t>(offsetof(UILineInfo_t1072769794, ___startCharIdx_0)); }
 	inline int32_t get_startCharIdx_0() const { return ___startCharIdx_0; }
 	inline int32_t* get_address_of_startCharIdx_0() { return &___startCharIdx_0; }
 	inline void set_startCharIdx_0(int32_t value)
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XmlSchemaContentProcessing_t74226324, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
-		___startCharIdx_0 = value;
+		___value___1 = value;
 	}
+<<<<<<< HEAD
 
 	inline static int32_t get_offset_of_height_1() { return static_cast<int32_t>(offsetof(UILineInfo_t1072769794, ___height_1)); }
 	inline int32_t get_height_1() const { return ___height_1; }
@@ -2715,20 +4361,29 @@ public:
 		___data_8 = value;
 		Il2CppCodeGenWriteBarrier((&___data_8), value);
 	}
+=======
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // DELEGATE_T649381383_H
 #ifndef UICHARINFO_T3026878577_H
 #define UICHARINFO_T3026878577_H
+=======
+#endif // XMLSCHEMACONTENTPROCESSING_T74226324_H
+#ifndef ASYNCOPERATION_T3814632279_H
+#define ASYNCOPERATION_T3814632279_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.UICharInfo
 struct  UICharInfo_t3026878577 
 {
@@ -2753,15 +4408,60 @@ public:
 	inline void set_charWidth_1(float value)
 	{
 		___charWidth_1 = value;
+=======
+// UnityEngine.AsyncOperation
+struct  AsyncOperation_t3814632279  : public YieldInstruction_t3462875981
+{
+public:
+	// System.IntPtr UnityEngine.AsyncOperation::m_Ptr
+	intptr_t ___m_Ptr_0;
+	// System.Action`1<UnityEngine.AsyncOperation> UnityEngine.AsyncOperation::m_completeCallback
+	Action_1_t3616431661 * ___m_completeCallback_1;
+
+public:
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(AsyncOperation_t3814632279, ___m_Ptr_0)); }
+	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
+	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
+	inline void set_m_Ptr_0(intptr_t value)
+	{
+		___m_Ptr_0 = value;
+	}
+
+	inline static int32_t get_offset_of_m_completeCallback_1() { return static_cast<int32_t>(offsetof(AsyncOperation_t3814632279, ___m_completeCallback_1)); }
+	inline Action_1_t3616431661 * get_m_completeCallback_1() const { return ___m_completeCallback_1; }
+	inline Action_1_t3616431661 ** get_address_of_m_completeCallback_1() { return &___m_completeCallback_1; }
+	inline void set_m_completeCallback_1(Action_1_t3616431661 * value)
+	{
+		___m_completeCallback_1 = value;
+		Il2CppCodeGenWriteBarrier((&___m_completeCallback_1), value);
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // UICHARINFO_T3026878577_H
 #ifndef OBJECT_T2002357940_H
 #define OBJECT_T2002357940_H
+=======
+// Native definition for P/Invoke marshalling of UnityEngine.AsyncOperation
+struct AsyncOperation_t3814632279_marshaled_pinvoke : public YieldInstruction_t3462875981_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr_0;
+	Il2CppMethodPointer ___m_completeCallback_1;
+};
+// Native definition for COM marshalling of UnityEngine.AsyncOperation
+struct AsyncOperation_t3814632279_marshaled_com : public YieldInstruction_t3462875981_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+	Il2CppMethodPointer ___m_completeCallback_1;
+};
+#endif // ASYNCOPERATION_T3814632279_H
+#ifndef OBJECT_T1021602117_H
+#define OBJECT_T1021602117_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2769,14 +4469,22 @@ public:
 #endif
 
 // UnityEngine.Object
+<<<<<<< HEAD
 struct  Object_t2002357940  : public RuntimeObject
+=======
+struct  Object_t1021602117  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
 	intptr_t ___m_CachedPtr_0;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t2002357940, ___m_CachedPtr_0)); }
+=======
+	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t1021602117, ___m_CachedPtr_0)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline intptr_t get_m_CachedPtr_0() const { return ___m_CachedPtr_0; }
 	inline intptr_t* get_address_of_m_CachedPtr_0() { return &___m_CachedPtr_0; }
 	inline void set_m_CachedPtr_0(intptr_t value)
@@ -2785,14 +4493,22 @@ public:
 	}
 };
 
+<<<<<<< HEAD
 struct Object_t2002357940_StaticFields
+=======
+struct Object_t1021602117_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
 	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t2002357940_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+=======
+	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t1021602117_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_OffsetOfInstanceIDInCPlusPlusObject_1() const { return ___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline int32_t* get_address_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return &___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline void set_OffsetOfInstanceIDInCPlusPlusObject_1(int32_t value)
@@ -2805,11 +4521,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Object
+<<<<<<< HEAD
 struct Object_t2002357940_marshaled_pinvoke
+=======
+struct Object_t1021602117_marshaled_pinvoke
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 	intptr_t ___m_CachedPtr_0;
 };
 // Native definition for COM marshalling of UnityEngine.Object
+<<<<<<< HEAD
 struct Object_t2002357940_marshaled_com
 {
 	intptr_t ___m_CachedPtr_0;
@@ -2817,12 +4538,22 @@ struct Object_t2002357940_marshaled_com
 #endif // OBJECT_T2002357940_H
 #ifndef UIVERTEX_T1819399193_H
 #define UIVERTEX_T1819399193_H
+=======
+struct Object_t1021602117_marshaled_com
+{
+	intptr_t ___m_CachedPtr_0;
+};
+#endif // OBJECT_T1021602117_H
+#ifndef XMLSCHEMAOBJECT_T2050913741_H
+#define XMLSCHEMAOBJECT_T2050913741_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.UIVertex
 struct  UIVertex_t1819399193 
 {
@@ -3043,6 +4774,10 @@ struct UploadHandler_t3371087414_marshaled_pinvoke
 };
 // Native definition for COM marshalling of UnityEngine.Networking.UploadHandler
 struct UploadHandler_t3371087414_marshaled_com
+=======
+// System.Xml.Schema.XmlSchemaObject
+struct  XmlSchemaObject_t2050913741  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 	intptr_t ___m_Ptr_0;
 };
@@ -3068,22 +4803,34 @@ public:
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
 	{
+<<<<<<< HEAD
 		___value___1 = value;
+=======
+		___parent_12 = value;
+		Il2CppCodeGenWriteBarrier((&___parent_12), value);
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMADERIVATIONMETHOD_T3825926352_H
 #ifndef XSDWHITESPACEFACET_T3730580690_H
 #define XSDWHITESPACEFACET_T3730580690_H
+=======
+#endif // XMLSCHEMAOBJECT_T2050913741_H
+#ifndef VERTICALWRAPMODE_T3668245347_H
+#define VERTICALWRAPMODE_T3668245347_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdWhitespaceFacet
 struct  XsdWhitespaceFacet_t3730580690 
 {
@@ -3093,6 +4840,17 @@ public:
 
 public:
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XsdWhitespaceFacet_t3730580690, ___value___1)); }
+=======
+// UnityEngine.VerticalWrapMode
+struct  VerticalWrapMode_t3668245347 
+{
+public:
+	// System.Int32 UnityEngine.VerticalWrapMode::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(VerticalWrapMode_t3668245347, ___value___1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -3104,15 +4862,22 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDWHITESPACEFACET_T3730580690_H
 #ifndef UNITYWEBREQUEST_T743659161_H
 #define UNITYWEBREQUEST_T743659161_H
+=======
+#endif // VERTICALWRAPMODE_T3668245347_H
+#ifndef DOWNLOADHANDLER_T1216180266_H
+#define DOWNLOADHANDLER_T1216180266_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.Networking.UnityWebRequest
 struct  UnityWebRequest_t743659161  : public RuntimeObject
 {
@@ -3126,12 +4891,24 @@ public:
 
 public:
 	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UnityWebRequest_t743659161, ___m_Ptr_0)); }
+=======
+// UnityEngine.Networking.DownloadHandler
+struct  DownloadHandler_t1216180266  : public RuntimeObject
+{
+public:
+	// System.IntPtr UnityEngine.Networking.DownloadHandler::m_Ptr
+	intptr_t ___m_Ptr_0;
+
+public:
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(DownloadHandler_t1216180266, ___m_Ptr_0)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
 	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
 	inline void set_m_Ptr_0(intptr_t value)
 	{
 		___m_Ptr_0 = value;
 	}
+<<<<<<< HEAD
 
 	inline static int32_t get_offset_of_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(UnityWebRequest_t743659161, ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1)); }
 	inline bool get_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() const { return ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1; }
@@ -3148,11 +4925,14 @@ public:
 	{
 		___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2 = value;
 	}
+=======
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.UnityWebRequest
 struct UnityWebRequest_t743659161_marshaled_pinvoke
 {
@@ -3170,12 +4950,28 @@ struct UnityWebRequest_t743659161_marshaled_com
 #endif // UNITYWEBREQUEST_T743659161_H
 #ifndef XMLSCHEMACONTENTPROCESSING_T2358947960_H
 #define XMLSCHEMACONTENTPROCESSING_T2358947960_H
+=======
+// Native definition for P/Invoke marshalling of UnityEngine.Networking.DownloadHandler
+struct DownloadHandler_t1216180266_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr_0;
+};
+// Native definition for COM marshalling of UnityEngine.Networking.DownloadHandler
+struct DownloadHandler_t1216180266_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+};
+#endif // DOWNLOADHANDLER_T1216180266_H
+#ifndef UPLOADHANDLER_T3552561393_H
+#define UPLOADHANDLER_T3552561393_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.XmlSchemaContentProcessing
 struct  XmlSchemaContentProcessing_t2358947960 
 {
@@ -3190,21 +4986,54 @@ public:
 	inline void set_value___1(int32_t value)
 	{
 		___value___1 = value;
+=======
+// UnityEngine.Networking.UploadHandler
+struct  UploadHandler_t3552561393  : public RuntimeObject
+{
+public:
+	// System.IntPtr UnityEngine.Networking.UploadHandler::m_Ptr
+	intptr_t ___m_Ptr_0;
+
+public:
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UploadHandler_t3552561393, ___m_Ptr_0)); }
+	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
+	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
+	inline void set_m_Ptr_0(intptr_t value)
+	{
+		___m_Ptr_0 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMACONTENTPROCESSING_T2358947960_H
 #ifndef FACET_T325059004_H
 #define FACET_T325059004_H
+=======
+// Native definition for P/Invoke marshalling of UnityEngine.Networking.UploadHandler
+struct UploadHandler_t3552561393_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr_0;
+};
+// Native definition for COM marshalling of UnityEngine.Networking.UploadHandler
+struct UploadHandler_t3552561393_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+};
+#endif // UPLOADHANDLER_T3552561393_H
+#ifndef TEXTGENERATIONERROR_T780770201_H
+#define TEXTGENERATIONERROR_T780770201_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.XmlSchemaFacet/Facet
 struct  Facet_t325059004 
 {
@@ -3214,6 +5043,17 @@ public:
 
 public:
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(Facet_t325059004, ___value___1)); }
+=======
+// UnityEngine.TextGenerationError
+struct  TextGenerationError_t780770201 
+{
+public:
+	// System.Int32 UnityEngine.TextGenerationError::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TextGenerationError_t780770201, ___value___1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -3225,15 +5065,22 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // FACET_T325059004_H
 #ifndef DOWNLOADHANDLER_T2570851784_H
 #define DOWNLOADHANDLER_T2570851784_H
+=======
+#endif // TEXTGENERATIONERROR_T780770201_H
+#ifndef DELEGATE_T3022476291_H
+#define DELEGATE_T3022476291_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.Networking.DownloadHandler
 struct  DownloadHandler_t2570851784  : public RuntimeObject
 {
@@ -3413,27 +5260,143 @@ public:
 	inline bool get_isRedefineChild_9() const { return ___isRedefineChild_9; }
 	inline bool* get_address_of_isRedefineChild_9() { return &___isRedefineChild_9; }
 	inline void set_isRedefineChild_9(bool value)
+=======
+// System.Delegate
+struct  Delegate_t3022476291  : public RuntimeObject
+{
+public:
+	// System.IntPtr System.Delegate::method_ptr
+	Il2CppMethodPointer ___method_ptr_0;
+	// System.IntPtr System.Delegate::invoke_impl
+	intptr_t ___invoke_impl_1;
+	// System.Object System.Delegate::m_target
+	RuntimeObject * ___m_target_2;
+	// System.IntPtr System.Delegate::method
+	intptr_t ___method_3;
+	// System.IntPtr System.Delegate::delegate_trampoline
+	intptr_t ___delegate_trampoline_4;
+	// System.IntPtr System.Delegate::method_code
+	intptr_t ___method_code_5;
+	// System.Reflection.MethodInfo System.Delegate::method_info
+	MethodInfo_t * ___method_info_6;
+	// System.Reflection.MethodInfo System.Delegate::original_method_info
+	MethodInfo_t * ___original_method_info_7;
+	// System.DelegateData System.Delegate::data
+	DelegateData_t1572802995 * ___data_8;
+
+public:
+	inline static int32_t get_offset_of_method_ptr_0() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___method_ptr_0)); }
+	inline Il2CppMethodPointer get_method_ptr_0() const { return ___method_ptr_0; }
+	inline Il2CppMethodPointer* get_address_of_method_ptr_0() { return &___method_ptr_0; }
+	inline void set_method_ptr_0(Il2CppMethodPointer value)
 	{
-		___isRedefineChild_9 = value;
+		___method_ptr_0 = value;
 	}
 
+	inline static int32_t get_offset_of_invoke_impl_1() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___invoke_impl_1)); }
+	inline intptr_t get_invoke_impl_1() const { return ___invoke_impl_1; }
+	inline intptr_t* get_address_of_invoke_impl_1() { return &___invoke_impl_1; }
+	inline void set_invoke_impl_1(intptr_t value)
+	{
+		___invoke_impl_1 = value;
+	}
+
+	inline static int32_t get_offset_of_m_target_2() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___m_target_2)); }
+	inline RuntimeObject * get_m_target_2() const { return ___m_target_2; }
+	inline RuntimeObject ** get_address_of_m_target_2() { return &___m_target_2; }
+	inline void set_m_target_2(RuntimeObject * value)
+	{
+		___m_target_2 = value;
+		Il2CppCodeGenWriteBarrier((&___m_target_2), value);
+	}
+
+	inline static int32_t get_offset_of_method_3() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___method_3)); }
+	inline intptr_t get_method_3() const { return ___method_3; }
+	inline intptr_t* get_address_of_method_3() { return &___method_3; }
+	inline void set_method_3(intptr_t value)
+	{
+		___method_3 = value;
+	}
+
+	inline static int32_t get_offset_of_delegate_trampoline_4() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___delegate_trampoline_4)); }
+	inline intptr_t get_delegate_trampoline_4() const { return ___delegate_trampoline_4; }
+	inline intptr_t* get_address_of_delegate_trampoline_4() { return &___delegate_trampoline_4; }
+	inline void set_delegate_trampoline_4(intptr_t value)
+	{
+		___delegate_trampoline_4 = value;
+	}
+
+	inline static int32_t get_offset_of_method_code_5() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___method_code_5)); }
+	inline intptr_t get_method_code_5() const { return ___method_code_5; }
+	inline intptr_t* get_address_of_method_code_5() { return &___method_code_5; }
+	inline void set_method_code_5(intptr_t value)
+	{
+		___method_code_5 = value;
+	}
+
+	inline static int32_t get_offset_of_method_info_6() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___method_info_6)); }
+	inline MethodInfo_t * get_method_info_6() const { return ___method_info_6; }
+	inline MethodInfo_t ** get_address_of_method_info_6() { return &___method_info_6; }
+	inline void set_method_info_6(MethodInfo_t * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+	{
+		___method_info_6 = value;
+		Il2CppCodeGenWriteBarrier((&___method_info_6), value);
+	}
+
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_isRedefinedComponent_10() { return static_cast<int32_t>(offsetof(XmlSchemaObject_t3567591322, ___isRedefinedComponent_10)); }
 	inline bool get_isRedefinedComponent_10() const { return ___isRedefinedComponent_10; }
 	inline bool* get_address_of_isRedefinedComponent_10() { return &___isRedefinedComponent_10; }
 	inline void set_isRedefinedComponent_10(bool value)
+=======
+	inline static int32_t get_offset_of_original_method_info_7() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___original_method_info_7)); }
+	inline MethodInfo_t * get_original_method_info_7() const { return ___original_method_info_7; }
+	inline MethodInfo_t ** get_address_of_original_method_info_7() { return &___original_method_info_7; }
+	inline void set_original_method_info_7(MethodInfo_t * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
-		___isRedefinedComponent_10 = value;
+		___original_method_info_7 = value;
+		Il2CppCodeGenWriteBarrier((&___original_method_info_7), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_redefinedObject_11() { return static_cast<int32_t>(offsetof(XmlSchemaObject_t3567591322, ___redefinedObject_11)); }
 	inline XmlSchemaObject_t3567591322 * get_redefinedObject_11() const { return ___redefinedObject_11; }
 	inline XmlSchemaObject_t3567591322 ** get_address_of_redefinedObject_11() { return &___redefinedObject_11; }
 	inline void set_redefinedObject_11(XmlSchemaObject_t3567591322 * value)
+=======
+	inline static int32_t get_offset_of_data_8() { return static_cast<int32_t>(offsetof(Delegate_t3022476291, ___data_8)); }
+	inline DelegateData_t1572802995 * get_data_8() const { return ___data_8; }
+	inline DelegateData_t1572802995 ** get_address_of_data_8() { return &___data_8; }
+	inline void set_data_8(DelegateData_t1572802995 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
-		___redefinedObject_11 = value;
-		Il2CppCodeGenWriteBarrier((&___redefinedObject_11), value);
+		___data_8 = value;
+		Il2CppCodeGenWriteBarrier((&___data_8), value);
 	}
+};
 
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // DELEGATE_T3022476291_H
+#ifndef FONTSTYLE_T2764949590_H
+#define FONTSTYLE_T2764949590_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityEngine.FontStyle
+struct  FontStyle_t2764949590 
+{
+public:
+	// System.Int32 UnityEngine.FontStyle::value__
+	int32_t ___value___1;
+
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_parent_12() { return static_cast<int32_t>(offsetof(XmlSchemaObject_t3567591322, ___parent_12)); }
 	inline XmlSchemaObject_t3567591322 * get_parent_12() const { return ___parent_12; }
 	inline XmlSchemaObject_t3567591322 ** get_address_of_parent_12() { return &___parent_12; }
@@ -3441,21 +5404,211 @@ public:
 	{
 		___parent_12 = value;
 		Il2CppCodeGenWriteBarrier((&___parent_12), value);
+=======
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(FontStyle_t2764949590, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // XMLSCHEMAOBJECT_T3567591322_H
-#ifndef XSDORDERING_T3944780643_H
-#define XSDORDERING_T3944780643_H
+#endif // FONTSTYLE_T2764949590_H
+#ifndef UIVERTEX_T1204258818_H
+#define UIVERTEX_T1204258818_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+// UnityEngine.UIVertex
+struct  UIVertex_t1204258818 
+{
+public:
+	// UnityEngine.Vector3 UnityEngine.UIVertex::position
+	Vector3_t2243707580  ___position_0;
+	// UnityEngine.Vector3 UnityEngine.UIVertex::normal
+	Vector3_t2243707580  ___normal_1;
+	// UnityEngine.Color32 UnityEngine.UIVertex::color
+	Color32_t874517518  ___color_2;
+	// UnityEngine.Vector2 UnityEngine.UIVertex::uv0
+	Vector2_t2243707579  ___uv0_3;
+	// UnityEngine.Vector2 UnityEngine.UIVertex::uv1
+	Vector2_t2243707579  ___uv1_4;
+	// UnityEngine.Vector2 UnityEngine.UIVertex::uv2
+	Vector2_t2243707579  ___uv2_5;
+	// UnityEngine.Vector2 UnityEngine.UIVertex::uv3
+	Vector2_t2243707579  ___uv3_6;
+	// UnityEngine.Vector4 UnityEngine.UIVertex::tangent
+	Vector4_t2243707581  ___tangent_7;
+
+public:
+	inline static int32_t get_offset_of_position_0() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___position_0)); }
+	inline Vector3_t2243707580  get_position_0() const { return ___position_0; }
+	inline Vector3_t2243707580 * get_address_of_position_0() { return &___position_0; }
+	inline void set_position_0(Vector3_t2243707580  value)
+	{
+		___position_0 = value;
+	}
+
+	inline static int32_t get_offset_of_normal_1() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___normal_1)); }
+	inline Vector3_t2243707580  get_normal_1() const { return ___normal_1; }
+	inline Vector3_t2243707580 * get_address_of_normal_1() { return &___normal_1; }
+	inline void set_normal_1(Vector3_t2243707580  value)
+	{
+		___normal_1 = value;
+	}
+
+	inline static int32_t get_offset_of_color_2() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___color_2)); }
+	inline Color32_t874517518  get_color_2() const { return ___color_2; }
+	inline Color32_t874517518 * get_address_of_color_2() { return &___color_2; }
+	inline void set_color_2(Color32_t874517518  value)
+	{
+		___color_2 = value;
+	}
+
+	inline static int32_t get_offset_of_uv0_3() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___uv0_3)); }
+	inline Vector2_t2243707579  get_uv0_3() const { return ___uv0_3; }
+	inline Vector2_t2243707579 * get_address_of_uv0_3() { return &___uv0_3; }
+	inline void set_uv0_3(Vector2_t2243707579  value)
+	{
+		___uv0_3 = value;
+	}
+
+	inline static int32_t get_offset_of_uv1_4() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___uv1_4)); }
+	inline Vector2_t2243707579  get_uv1_4() const { return ___uv1_4; }
+	inline Vector2_t2243707579 * get_address_of_uv1_4() { return &___uv1_4; }
+	inline void set_uv1_4(Vector2_t2243707579  value)
+	{
+		___uv1_4 = value;
+	}
+
+	inline static int32_t get_offset_of_uv2_5() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___uv2_5)); }
+	inline Vector2_t2243707579  get_uv2_5() const { return ___uv2_5; }
+	inline Vector2_t2243707579 * get_address_of_uv2_5() { return &___uv2_5; }
+	inline void set_uv2_5(Vector2_t2243707579  value)
+	{
+		___uv2_5 = value;
+	}
+
+	inline static int32_t get_offset_of_uv3_6() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___uv3_6)); }
+	inline Vector2_t2243707579  get_uv3_6() const { return ___uv3_6; }
+	inline Vector2_t2243707579 * get_address_of_uv3_6() { return &___uv3_6; }
+	inline void set_uv3_6(Vector2_t2243707579  value)
+	{
+		___uv3_6 = value;
+	}
+
+	inline static int32_t get_offset_of_tangent_7() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818, ___tangent_7)); }
+	inline Vector4_t2243707581  get_tangent_7() const { return ___tangent_7; }
+	inline Vector4_t2243707581 * get_address_of_tangent_7() { return &___tangent_7; }
+	inline void set_tangent_7(Vector4_t2243707581  value)
+	{
+		___tangent_7 = value;
+	}
+};
+
+struct UIVertex_t1204258818_StaticFields
+{
+public:
+	// UnityEngine.Color32 UnityEngine.UIVertex::s_DefaultColor
+	Color32_t874517518  ___s_DefaultColor_8;
+	// UnityEngine.Vector4 UnityEngine.UIVertex::s_DefaultTangent
+	Vector4_t2243707581  ___s_DefaultTangent_9;
+	// UnityEngine.UIVertex UnityEngine.UIVertex::simpleVert
+	UIVertex_t1204258818  ___simpleVert_10;
+
+public:
+	inline static int32_t get_offset_of_s_DefaultColor_8() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818_StaticFields, ___s_DefaultColor_8)); }
+	inline Color32_t874517518  get_s_DefaultColor_8() const { return ___s_DefaultColor_8; }
+	inline Color32_t874517518 * get_address_of_s_DefaultColor_8() { return &___s_DefaultColor_8; }
+	inline void set_s_DefaultColor_8(Color32_t874517518  value)
+	{
+		___s_DefaultColor_8 = value;
+	}
+
+	inline static int32_t get_offset_of_s_DefaultTangent_9() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818_StaticFields, ___s_DefaultTangent_9)); }
+	inline Vector4_t2243707581  get_s_DefaultTangent_9() const { return ___s_DefaultTangent_9; }
+	inline Vector4_t2243707581 * get_address_of_s_DefaultTangent_9() { return &___s_DefaultTangent_9; }
+	inline void set_s_DefaultTangent_9(Vector4_t2243707581  value)
+	{
+		___s_DefaultTangent_9 = value;
+	}
+
+	inline static int32_t get_offset_of_simpleVert_10() { return static_cast<int32_t>(offsetof(UIVertex_t1204258818_StaticFields, ___simpleVert_10)); }
+	inline UIVertex_t1204258818  get_simpleVert_10() const { return ___simpleVert_10; }
+	inline UIVertex_t1204258818 * get_address_of_simpleVert_10() { return &___simpleVert_10; }
+	inline void set_simpleVert_10(UIVertex_t1204258818  value)
+	{
+		___simpleVert_10 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // UIVERTEX_T1204258818_H
+#ifndef UICHARINFO_T3056636800_H
+#define UICHARINFO_T3056636800_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityEngine.UICharInfo
+struct  UICharInfo_t3056636800 
+{
+public:
+	// UnityEngine.Vector2 UnityEngine.UICharInfo::cursorPos
+	Vector2_t2243707579  ___cursorPos_0;
+	// System.Single UnityEngine.UICharInfo::charWidth
+	float ___charWidth_1;
+
+public:
+	inline static int32_t get_offset_of_cursorPos_0() { return static_cast<int32_t>(offsetof(UICharInfo_t3056636800, ___cursorPos_0)); }
+	inline Vector2_t2243707579  get_cursorPos_0() const { return ___cursorPos_0; }
+	inline Vector2_t2243707579 * get_address_of_cursorPos_0() { return &___cursorPos_0; }
+	inline void set_cursorPos_0(Vector2_t2243707579  value)
+	{
+		___cursorPos_0 = value;
+	}
+
+	inline static int32_t get_offset_of_charWidth_1() { return static_cast<int32_t>(offsetof(UICharInfo_t3056636800, ___charWidth_1)); }
+	inline float get_charWidth_1() const { return ___charWidth_1; }
+	inline float* get_address_of_charWidth_1() { return &___charWidth_1; }
+	inline void set_charWidth_1(float value)
+	{
+		___charWidth_1 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
+#endif // XMLSCHEMAOBJECT_T3567591322_H
+#ifndef XSDORDERING_T3944780643_H
+#define XSDORDERING_T3944780643_H
+=======
+#endif // UICHARINFO_T3056636800_H
+#ifndef HORIZONTALWRAPMODE_T2027154177_H
+#define HORIZONTALWRAPMODE_T2027154177_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdOrdering
 struct  XsdOrdering_t3944780643 
 {
@@ -3465,6 +5618,17 @@ public:
 
 public:
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XsdOrdering_t3944780643, ___value___1)); }
+=======
+// UnityEngine.HorizontalWrapMode
+struct  HorizontalWrapMode_t2027154177 
+{
+public:
+	// System.Int32 UnityEngine.HorizontalWrapMode::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(HorizontalWrapMode_t2027154177, ___value___1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -3476,9 +5640,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDORDERING_T3944780643_H
 #ifndef XMLSCHEMAFORM_T1784601703_H
 #define XMLSCHEMAFORM_T1784601703_H
+=======
+#endif // HORIZONTALWRAPMODE_T2027154177_H
+#ifndef XMLSCHEMAFORM_T1143227640_H
+#define XMLSCHEMAFORM_T1143227640_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3486,14 +5656,22 @@ public:
 #endif
 
 // System.Xml.Schema.XmlSchemaForm
+<<<<<<< HEAD
 struct  XmlSchemaForm_t1784601703 
+=======
+struct  XmlSchemaForm_t1143227640 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Int32 System.Xml.Schema.XmlSchemaForm::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XmlSchemaForm_t1784601703, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XmlSchemaForm_t1143227640, ___value___1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -3505,15 +5683,22 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAFORM_T1784601703_H
 #ifndef ASYNCOPERATION_T265126301_H
 #define ASYNCOPERATION_T265126301_H
+=======
+#endif // XMLSCHEMAFORM_T1143227640_H
+#ifndef XMLSCHEMADERIVATIONMETHOD_T3165007540_H
+#define XMLSCHEMADERIVATIONMETHOD_T3165007540_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.AsyncOperation
 struct  AsyncOperation_t265126301  : public YieldInstruction_t1377755615
 {
@@ -3539,12 +5724,58 @@ public:
 	{
 		___m_completeCallback_1 = value;
 		Il2CppCodeGenWriteBarrier((&___m_completeCallback_1), value);
+=======
+// System.Xml.Schema.XmlSchemaDerivationMethod
+struct  XmlSchemaDerivationMethod_t3165007540 
+{
+public:
+	// System.Int32 System.Xml.Schema.XmlSchemaDerivationMethod::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XmlSchemaDerivationMethod_t3165007540, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+#endif // XMLSCHEMADERIVATIONMETHOD_T3165007540_H
+#ifndef XSDORDERING_T3741887935_H
+#define XSDORDERING_T3741887935_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// Mono.Xml.Schema.XsdOrdering
+struct  XsdOrdering_t3741887935 
+{
+public:
+	// System.Int32 Mono.Xml.Schema.XsdOrdering::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XsdOrdering_t3741887935, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of UnityEngine.AsyncOperation
 struct AsyncOperation_t265126301_marshaled_pinvoke : public YieldInstruction_t1377755615_marshaled_pinvoke
 {
@@ -3560,12 +5791,18 @@ struct AsyncOperation_t265126301_marshaled_com : public YieldInstruction_t137775
 #endif // ASYNCOPERATION_T265126301_H
 #ifndef XSDWILDCARD_T3786618776_H
 #define XSDWILDCARD_T3786618776_H
+=======
+#endif // XSDORDERING_T3741887935_H
+#ifndef XSDWHITESPACEFACET_T2758097827_H
+#define XSDWHITESPACEFACET_T2758097827_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdWildcard
 struct  XsdWildcard_t3786618776  : public RuntimeObject
 {
@@ -3680,21 +5917,173 @@ public:
 	{
 		___U3CU3Ef__switchU24map6_9 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map6_9), value);
+=======
+// Mono.Xml.Schema.XsdWhitespaceFacet
+struct  XsdWhitespaceFacet_t2758097827 
+{
+public:
+	// System.Int32 Mono.Xml.Schema.XsdWhitespaceFacet::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(XsdWhitespaceFacet_t2758097827, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // XSDWILDCARD_T3786618776_H
-#ifndef UNITYWEBREQUESTASYNCOPERATION_T3139062088_H
-#define UNITYWEBREQUESTASYNCOPERATION_T3139062088_H
+#endif // XSDWHITESPACEFACET_T2758097827_H
+#ifndef RAYCASTHIT2D_T4063908774_H
+#define RAYCASTHIT2D_T4063908774_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+// UnityEngine.RaycastHit2D
+struct  RaycastHit2D_t4063908774 
+{
+public:
+	// UnityEngine.Vector2 UnityEngine.RaycastHit2D::m_Centroid
+	Vector2_t2243707579  ___m_Centroid_0;
+	// UnityEngine.Vector2 UnityEngine.RaycastHit2D::m_Point
+	Vector2_t2243707579  ___m_Point_1;
+	// UnityEngine.Vector2 UnityEngine.RaycastHit2D::m_Normal
+	Vector2_t2243707579  ___m_Normal_2;
+	// System.Single UnityEngine.RaycastHit2D::m_Distance
+	float ___m_Distance_3;
+	// System.Single UnityEngine.RaycastHit2D::m_Fraction
+	float ___m_Fraction_4;
+	// UnityEngine.Collider2D UnityEngine.RaycastHit2D::m_Collider
+	Collider2D_t646061738 * ___m_Collider_5;
+
+public:
+	inline static int32_t get_offset_of_m_Centroid_0() { return static_cast<int32_t>(offsetof(RaycastHit2D_t4063908774, ___m_Centroid_0)); }
+	inline Vector2_t2243707579  get_m_Centroid_0() const { return ___m_Centroid_0; }
+	inline Vector2_t2243707579 * get_address_of_m_Centroid_0() { return &___m_Centroid_0; }
+	inline void set_m_Centroid_0(Vector2_t2243707579  value)
+	{
+		___m_Centroid_0 = value;
+	}
+
+	inline static int32_t get_offset_of_m_Point_1() { return static_cast<int32_t>(offsetof(RaycastHit2D_t4063908774, ___m_Point_1)); }
+	inline Vector2_t2243707579  get_m_Point_1() const { return ___m_Point_1; }
+	inline Vector2_t2243707579 * get_address_of_m_Point_1() { return &___m_Point_1; }
+	inline void set_m_Point_1(Vector2_t2243707579  value)
+	{
+		___m_Point_1 = value;
+	}
+
+	inline static int32_t get_offset_of_m_Normal_2() { return static_cast<int32_t>(offsetof(RaycastHit2D_t4063908774, ___m_Normal_2)); }
+	inline Vector2_t2243707579  get_m_Normal_2() const { return ___m_Normal_2; }
+	inline Vector2_t2243707579 * get_address_of_m_Normal_2() { return &___m_Normal_2; }
+	inline void set_m_Normal_2(Vector2_t2243707579  value)
+	{
+		___m_Normal_2 = value;
+	}
+
+	inline static int32_t get_offset_of_m_Distance_3() { return static_cast<int32_t>(offsetof(RaycastHit2D_t4063908774, ___m_Distance_3)); }
+	inline float get_m_Distance_3() const { return ___m_Distance_3; }
+	inline float* get_address_of_m_Distance_3() { return &___m_Distance_3; }
+	inline void set_m_Distance_3(float value)
+	{
+		___m_Distance_3 = value;
+	}
+
+	inline static int32_t get_offset_of_m_Fraction_4() { return static_cast<int32_t>(offsetof(RaycastHit2D_t4063908774, ___m_Fraction_4)); }
+	inline float get_m_Fraction_4() const { return ___m_Fraction_4; }
+	inline float* get_address_of_m_Fraction_4() { return &___m_Fraction_4; }
+	inline void set_m_Fraction_4(float value)
+	{
+		___m_Fraction_4 = value;
+	}
+
+	inline static int32_t get_offset_of_m_Collider_5() { return static_cast<int32_t>(offsetof(RaycastHit2D_t4063908774, ___m_Collider_5)); }
+	inline Collider2D_t646061738 * get_m_Collider_5() const { return ___m_Collider_5; }
+	inline Collider2D_t646061738 ** get_address_of_m_Collider_5() { return &___m_Collider_5; }
+	inline void set_m_Collider_5(Collider2D_t646061738 * value)
+	{
+		___m_Collider_5 = value;
+		Il2CppCodeGenWriteBarrier((&___m_Collider_5), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Native definition for P/Invoke marshalling of UnityEngine.RaycastHit2D
+struct RaycastHit2D_t4063908774_marshaled_pinvoke
+{
+	Vector2_t2243707579  ___m_Centroid_0;
+	Vector2_t2243707579  ___m_Point_1;
+	Vector2_t2243707579  ___m_Normal_2;
+	float ___m_Distance_3;
+	float ___m_Fraction_4;
+	Collider2D_t646061738 * ___m_Collider_5;
+};
+// Native definition for COM marshalling of UnityEngine.RaycastHit2D
+struct RaycastHit2D_t4063908774_marshaled_com
+{
+	Vector2_t2243707579  ___m_Centroid_0;
+	Vector2_t2243707579  ___m_Point_1;
+	Vector2_t2243707579  ___m_Normal_2;
+	float ___m_Distance_3;
+	float ___m_Fraction_4;
+	Collider2D_t646061738 * ___m_Collider_5;
+};
+#endif // RAYCASTHIT2D_T4063908774_H
+#ifndef TEXTANCHOR_T112990806_H
+#define TEXTANCHOR_T112990806_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityEngine.TextAnchor
+struct  TextAnchor_t112990806 
+{
+public:
+	// System.Int32 UnityEngine.TextAnchor::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TextAnchor_t112990806, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
+#endif // XSDWILDCARD_T3786618776_H
+#ifndef UNITYWEBREQUESTASYNCOPERATION_T3139062088_H
+#define UNITYWEBREQUESTASYNCOPERATION_T3139062088_H
+=======
+#endif // TEXTANCHOR_T112990806_H
+#ifndef UNITYWEBREQUEST_T254341728_H
+#define UNITYWEBREQUEST_T254341728_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+<<<<<<< HEAD
 // UnityEngine.Networking.UnityWebRequestAsyncOperation
 struct  UnityWebRequestAsyncOperation_t3139062088  : public AsyncOperation_t265126301
 {
@@ -3710,12 +6099,49 @@ public:
 	{
 		___m_webRequest_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_webRequest_2), value);
+=======
+// UnityEngine.Networking.UnityWebRequest
+struct  UnityWebRequest_t254341728  : public RuntimeObject
+{
+public:
+	// System.IntPtr UnityEngine.Networking.UnityWebRequest::m_Ptr
+	intptr_t ___m_Ptr_0;
+	// System.Boolean UnityEngine.Networking.UnityWebRequest::<disposeDownloadHandlerOnDispose>k__BackingField
+	bool ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1;
+	// System.Boolean UnityEngine.Networking.UnityWebRequest::<disposeUploadHandlerOnDispose>k__BackingField
+	bool ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2;
+
+public:
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UnityWebRequest_t254341728, ___m_Ptr_0)); }
+	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
+	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
+	inline void set_m_Ptr_0(intptr_t value)
+	{
+		___m_Ptr_0 = value;
+	}
+
+	inline static int32_t get_offset_of_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(UnityWebRequest_t254341728, ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1)); }
+	inline bool get_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() const { return ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1; }
+	inline bool* get_address_of_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() { return &___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1; }
+	inline void set_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1(bool value)
+	{
+		___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1 = value;
+	}
+
+	inline static int32_t get_offset_of_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(UnityWebRequest_t254341728, ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2)); }
+	inline bool get_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() const { return ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2; }
+	inline bool* get_address_of_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() { return &___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2; }
+	inline void set_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2(bool value)
+	{
+		___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.UnityWebRequestAsyncOperation
 struct UnityWebRequestAsyncOperation_t3139062088_marshaled_pinvoke : public AsyncOperation_t265126301_marshaled_pinvoke
 {
@@ -3729,12 +6155,61 @@ struct UnityWebRequestAsyncOperation_t3139062088_marshaled_com : public AsyncOpe
 #endif // UNITYWEBREQUESTASYNCOPERATION_T3139062088_H
 #ifndef VALIDATIONEVENTARGS_T2689198149_H
 #define VALIDATIONEVENTARGS_T2689198149_H
+=======
+// Native definition for P/Invoke marshalling of UnityEngine.Networking.UnityWebRequest
+struct UnityWebRequest_t254341728_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr_0;
+	int32_t ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1;
+	int32_t ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2;
+};
+// Native definition for COM marshalling of UnityEngine.Networking.UnityWebRequest
+struct UnityWebRequest_t254341728_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+	int32_t ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1;
+	int32_t ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2;
+};
+#endif // UNITYWEBREQUEST_T254341728_H
+#ifndef UNITYWEBREQUESTMETHOD_T2654069489_H
+#define UNITYWEBREQUESTMETHOD_T2654069489_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+// UnityEngine.Networking.UnityWebRequest/UnityWebRequestMethod
+struct  UnityWebRequestMethod_t2654069489 
+{
+public:
+	// System.Int32 UnityEngine.Networking.UnityWebRequest/UnityWebRequestMethod::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(UnityWebRequestMethod_t2654069489, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // UNITYWEBREQUESTMETHOD_T2654069489_H
+#ifndef XMLSCHEMAANNOTATED_T2082486936_H
+#define XMLSCHEMAANNOTATED_T2082486936_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+<<<<<<< HEAD
 // System.Xml.Schema.ValidationEventArgs
 struct  ValidationEventArgs_t2689198149  : public EventArgs_t2243638234
 {
@@ -3771,15 +6246,60 @@ public:
 	inline void set_severity_3(int32_t value)
 	{
 		___severity_3 = value;
+=======
+// System.Xml.Schema.XmlSchemaAnnotated
+struct  XmlSchemaAnnotated_t2082486936  : public XmlSchemaObject_t2050913741
+{
+public:
+	// System.Xml.Schema.XmlSchemaAnnotation System.Xml.Schema.XmlSchemaAnnotated::annotation
+	XmlSchemaAnnotation_t2400301303 * ___annotation_13;
+	// System.String System.Xml.Schema.XmlSchemaAnnotated::id
+	String_t* ___id_14;
+	// System.Xml.XmlAttribute[] System.Xml.Schema.XmlSchemaAnnotated::unhandledAttributes
+	XmlAttributeU5BU5D_t287209776* ___unhandledAttributes_15;
+
+public:
+	inline static int32_t get_offset_of_annotation_13() { return static_cast<int32_t>(offsetof(XmlSchemaAnnotated_t2082486936, ___annotation_13)); }
+	inline XmlSchemaAnnotation_t2400301303 * get_annotation_13() const { return ___annotation_13; }
+	inline XmlSchemaAnnotation_t2400301303 ** get_address_of_annotation_13() { return &___annotation_13; }
+	inline void set_annotation_13(XmlSchemaAnnotation_t2400301303 * value)
+	{
+		___annotation_13 = value;
+		Il2CppCodeGenWriteBarrier((&___annotation_13), value);
+	}
+
+	inline static int32_t get_offset_of_id_14() { return static_cast<int32_t>(offsetof(XmlSchemaAnnotated_t2082486936, ___id_14)); }
+	inline String_t* get_id_14() const { return ___id_14; }
+	inline String_t** get_address_of_id_14() { return &___id_14; }
+	inline void set_id_14(String_t* value)
+	{
+		___id_14 = value;
+		Il2CppCodeGenWriteBarrier((&___id_14), value);
+	}
+
+	inline static int32_t get_offset_of_unhandledAttributes_15() { return static_cast<int32_t>(offsetof(XmlSchemaAnnotated_t2082486936, ___unhandledAttributes_15)); }
+	inline XmlAttributeU5BU5D_t287209776* get_unhandledAttributes_15() const { return ___unhandledAttributes_15; }
+	inline XmlAttributeU5BU5D_t287209776** get_address_of_unhandledAttributes_15() { return &___unhandledAttributes_15; }
+	inline void set_unhandledAttributes_15(XmlAttributeU5BU5D_t287209776* value)
+	{
+		___unhandledAttributes_15 = value;
+		Il2CppCodeGenWriteBarrier((&___unhandledAttributes_15), value);
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // VALIDATIONEVENTARGS_T2689198149_H
 #ifndef XMLSCHEMA_T146853671_H
 #define XMLSCHEMA_T146853671_H
+=======
+#endif // XMLSCHEMAANNOTATED_T2082486936_H
+#ifndef XMLSCHEMA_T880472818_H
+#define XMLSCHEMA_T880472818_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3787,21 +6307,35 @@ public:
 #endif
 
 // System.Xml.Schema.XmlSchema
+<<<<<<< HEAD
 struct  XmlSchema_t146853671  : public XmlSchemaObject_t3567591322
+=======
+struct  XmlSchema_t880472818  : public XmlSchemaObject_t2050913741
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Xml.Schema.XmlSchemaForm System.Xml.Schema.XmlSchema::attributeFormDefault
 	int32_t ___attributeFormDefault_13;
 	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::attributeGroups
+<<<<<<< HEAD
 	XmlSchemaObjectTable_t1852553175 * ___attributeGroups_14;
 	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::attributes
 	XmlSchemaObjectTable_t1852553175 * ___attributes_15;
+=======
+	XmlSchemaObjectTable_t3364835593 * ___attributeGroups_14;
+	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::attributes
+	XmlSchemaObjectTable_t3364835593 * ___attributes_15;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Xml.Schema.XmlSchemaDerivationMethod System.Xml.Schema.XmlSchema::blockDefault
 	int32_t ___blockDefault_16;
 	// System.Xml.Schema.XmlSchemaForm System.Xml.Schema.XmlSchema::elementFormDefault
 	int32_t ___elementFormDefault_17;
 	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::elements
+<<<<<<< HEAD
 	XmlSchemaObjectTable_t1852553175 * ___elements_18;
+=======
+	XmlSchemaObjectTable_t3364835593 * ___elements_18;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Xml.Schema.XmlSchemaDerivationMethod System.Xml.Schema.XmlSchema::finalDefault
 	int32_t ___finalDefault_19;
 	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::groups
@@ -3815,13 +6349,21 @@ public:
 	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::notations
 	XmlSchemaObjectTable_t1852553175 * ___notations_24;
 	// System.Xml.Schema.XmlSchemaObjectTable System.Xml.Schema.XmlSchema::schemaTypes
+<<<<<<< HEAD
 	XmlSchemaObjectTable_t1852553175 * ___schemaTypes_25;
+=======
+	XmlSchemaObjectTable_t3364835593 * ___schemaTypes_25;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.String System.Xml.Schema.XmlSchema::targetNamespace
 	String_t* ___targetNamespace_26;
 	// System.String System.Xml.Schema.XmlSchema::version
 	String_t* ___version_27;
 	// System.Xml.Schema.XmlSchemaSet System.Xml.Schema.XmlSchema::schemas
+<<<<<<< HEAD
 	XmlSchemaSet_t755282363 * ___schemas_28;
+=======
+	XmlSchemaSet_t313318308 * ___schemas_28;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Xml.XmlNameTable System.Xml.Schema.XmlSchema::nameTable
 	XmlNameTable_t2970678310 * ___nameTable_29;
 	// System.Boolean System.Xml.Schema.XmlSchema::missedSubComponents
@@ -3830,7 +6372,11 @@ public:
 	XmlSchemaObjectCollection_t1699742632 * ___compilationItems_31;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_attributeFormDefault_13() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___attributeFormDefault_13)); }
+=======
+	inline static int32_t get_offset_of_attributeFormDefault_13() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___attributeFormDefault_13)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_attributeFormDefault_13() const { return ___attributeFormDefault_13; }
 	inline int32_t* get_address_of_attributeFormDefault_13() { return &___attributeFormDefault_13; }
 	inline void set_attributeFormDefault_13(int32_t value)
@@ -3838,25 +6384,43 @@ public:
 		___attributeFormDefault_13 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_attributeGroups_14() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___attributeGroups_14)); }
 	inline XmlSchemaObjectTable_t1852553175 * get_attributeGroups_14() const { return ___attributeGroups_14; }
 	inline XmlSchemaObjectTable_t1852553175 ** get_address_of_attributeGroups_14() { return &___attributeGroups_14; }
 	inline void set_attributeGroups_14(XmlSchemaObjectTable_t1852553175 * value)
+=======
+	inline static int32_t get_offset_of_attributeGroups_14() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___attributeGroups_14)); }
+	inline XmlSchemaObjectTable_t3364835593 * get_attributeGroups_14() const { return ___attributeGroups_14; }
+	inline XmlSchemaObjectTable_t3364835593 ** get_address_of_attributeGroups_14() { return &___attributeGroups_14; }
+	inline void set_attributeGroups_14(XmlSchemaObjectTable_t3364835593 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___attributeGroups_14 = value;
 		Il2CppCodeGenWriteBarrier((&___attributeGroups_14), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_attributes_15() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___attributes_15)); }
 	inline XmlSchemaObjectTable_t1852553175 * get_attributes_15() const { return ___attributes_15; }
 	inline XmlSchemaObjectTable_t1852553175 ** get_address_of_attributes_15() { return &___attributes_15; }
 	inline void set_attributes_15(XmlSchemaObjectTable_t1852553175 * value)
+=======
+	inline static int32_t get_offset_of_attributes_15() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___attributes_15)); }
+	inline XmlSchemaObjectTable_t3364835593 * get_attributes_15() const { return ___attributes_15; }
+	inline XmlSchemaObjectTable_t3364835593 ** get_address_of_attributes_15() { return &___attributes_15; }
+	inline void set_attributes_15(XmlSchemaObjectTable_t3364835593 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___attributes_15 = value;
 		Il2CppCodeGenWriteBarrier((&___attributes_15), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_blockDefault_16() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___blockDefault_16)); }
+=======
+	inline static int32_t get_offset_of_blockDefault_16() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___blockDefault_16)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_blockDefault_16() const { return ___blockDefault_16; }
 	inline int32_t* get_address_of_blockDefault_16() { return &___blockDefault_16; }
 	inline void set_blockDefault_16(int32_t value)
@@ -3864,7 +6428,11 @@ public:
 		___blockDefault_16 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_elementFormDefault_17() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___elementFormDefault_17)); }
+=======
+	inline static int32_t get_offset_of_elementFormDefault_17() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___elementFormDefault_17)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_elementFormDefault_17() const { return ___elementFormDefault_17; }
 	inline int32_t* get_address_of_elementFormDefault_17() { return &___elementFormDefault_17; }
 	inline void set_elementFormDefault_17(int32_t value)
@@ -3872,16 +6440,27 @@ public:
 		___elementFormDefault_17 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_elements_18() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___elements_18)); }
 	inline XmlSchemaObjectTable_t1852553175 * get_elements_18() const { return ___elements_18; }
 	inline XmlSchemaObjectTable_t1852553175 ** get_address_of_elements_18() { return &___elements_18; }
 	inline void set_elements_18(XmlSchemaObjectTable_t1852553175 * value)
+=======
+	inline static int32_t get_offset_of_elements_18() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___elements_18)); }
+	inline XmlSchemaObjectTable_t3364835593 * get_elements_18() const { return ___elements_18; }
+	inline XmlSchemaObjectTable_t3364835593 ** get_address_of_elements_18() { return &___elements_18; }
+	inline void set_elements_18(XmlSchemaObjectTable_t3364835593 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___elements_18 = value;
 		Il2CppCodeGenWriteBarrier((&___elements_18), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_finalDefault_19() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___finalDefault_19)); }
+=======
+	inline static int32_t get_offset_of_finalDefault_19() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___finalDefault_19)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_finalDefault_19() const { return ___finalDefault_19; }
 	inline int32_t* get_address_of_finalDefault_19() { return &___finalDefault_19; }
 	inline void set_finalDefault_19(int32_t value)
@@ -3889,16 +6468,27 @@ public:
 		___finalDefault_19 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_groups_20() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___groups_20)); }
 	inline XmlSchemaObjectTable_t1852553175 * get_groups_20() const { return ___groups_20; }
 	inline XmlSchemaObjectTable_t1852553175 ** get_address_of_groups_20() { return &___groups_20; }
 	inline void set_groups_20(XmlSchemaObjectTable_t1852553175 * value)
+=======
+	inline static int32_t get_offset_of_groups_20() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___groups_20)); }
+	inline XmlSchemaObjectTable_t3364835593 * get_groups_20() const { return ___groups_20; }
+	inline XmlSchemaObjectTable_t3364835593 ** get_address_of_groups_20() { return &___groups_20; }
+	inline void set_groups_20(XmlSchemaObjectTable_t3364835593 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___groups_20 = value;
 		Il2CppCodeGenWriteBarrier((&___groups_20), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_id_21() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___id_21)); }
+=======
+	inline static int32_t get_offset_of_id_21() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___id_21)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_id_21() const { return ___id_21; }
 	inline String_t** get_address_of_id_21() { return &___id_21; }
 	inline void set_id_21(String_t* value)
@@ -3907,43 +6497,75 @@ public:
 		Il2CppCodeGenWriteBarrier((&___id_21), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_includes_22() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___includes_22)); }
 	inline XmlSchemaObjectCollection_t1699742632 * get_includes_22() const { return ___includes_22; }
 	inline XmlSchemaObjectCollection_t1699742632 ** get_address_of_includes_22() { return &___includes_22; }
 	inline void set_includes_22(XmlSchemaObjectCollection_t1699742632 * value)
+=======
+	inline static int32_t get_offset_of_includes_22() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___includes_22)); }
+	inline XmlSchemaObjectCollection_t395083109 * get_includes_22() const { return ___includes_22; }
+	inline XmlSchemaObjectCollection_t395083109 ** get_address_of_includes_22() { return &___includes_22; }
+	inline void set_includes_22(XmlSchemaObjectCollection_t395083109 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___includes_22 = value;
 		Il2CppCodeGenWriteBarrier((&___includes_22), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_items_23() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___items_23)); }
 	inline XmlSchemaObjectCollection_t1699742632 * get_items_23() const { return ___items_23; }
 	inline XmlSchemaObjectCollection_t1699742632 ** get_address_of_items_23() { return &___items_23; }
 	inline void set_items_23(XmlSchemaObjectCollection_t1699742632 * value)
+=======
+	inline static int32_t get_offset_of_items_23() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___items_23)); }
+	inline XmlSchemaObjectCollection_t395083109 * get_items_23() const { return ___items_23; }
+	inline XmlSchemaObjectCollection_t395083109 ** get_address_of_items_23() { return &___items_23; }
+	inline void set_items_23(XmlSchemaObjectCollection_t395083109 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___items_23 = value;
 		Il2CppCodeGenWriteBarrier((&___items_23), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_notations_24() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___notations_24)); }
 	inline XmlSchemaObjectTable_t1852553175 * get_notations_24() const { return ___notations_24; }
 	inline XmlSchemaObjectTable_t1852553175 ** get_address_of_notations_24() { return &___notations_24; }
 	inline void set_notations_24(XmlSchemaObjectTable_t1852553175 * value)
+=======
+	inline static int32_t get_offset_of_notations_24() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___notations_24)); }
+	inline XmlSchemaObjectTable_t3364835593 * get_notations_24() const { return ___notations_24; }
+	inline XmlSchemaObjectTable_t3364835593 ** get_address_of_notations_24() { return &___notations_24; }
+	inline void set_notations_24(XmlSchemaObjectTable_t3364835593 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___notations_24 = value;
 		Il2CppCodeGenWriteBarrier((&___notations_24), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_schemaTypes_25() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___schemaTypes_25)); }
 	inline XmlSchemaObjectTable_t1852553175 * get_schemaTypes_25() const { return ___schemaTypes_25; }
 	inline XmlSchemaObjectTable_t1852553175 ** get_address_of_schemaTypes_25() { return &___schemaTypes_25; }
 	inline void set_schemaTypes_25(XmlSchemaObjectTable_t1852553175 * value)
+=======
+	inline static int32_t get_offset_of_schemaTypes_25() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___schemaTypes_25)); }
+	inline XmlSchemaObjectTable_t3364835593 * get_schemaTypes_25() const { return ___schemaTypes_25; }
+	inline XmlSchemaObjectTable_t3364835593 ** get_address_of_schemaTypes_25() { return &___schemaTypes_25; }
+	inline void set_schemaTypes_25(XmlSchemaObjectTable_t3364835593 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___schemaTypes_25 = value;
 		Il2CppCodeGenWriteBarrier((&___schemaTypes_25), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_targetNamespace_26() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___targetNamespace_26)); }
+=======
+	inline static int32_t get_offset_of_targetNamespace_26() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___targetNamespace_26)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_targetNamespace_26() const { return ___targetNamespace_26; }
 	inline String_t** get_address_of_targetNamespace_26() { return &___targetNamespace_26; }
 	inline void set_targetNamespace_26(String_t* value)
@@ -3952,7 +6574,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___targetNamespace_26), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_version_27() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___version_27)); }
+=======
+	inline static int32_t get_offset_of_version_27() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___version_27)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_version_27() const { return ___version_27; }
 	inline String_t** get_address_of_version_27() { return &___version_27; }
 	inline void set_version_27(String_t* value)
@@ -3961,25 +6587,43 @@ public:
 		Il2CppCodeGenWriteBarrier((&___version_27), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_schemas_28() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___schemas_28)); }
 	inline XmlSchemaSet_t755282363 * get_schemas_28() const { return ___schemas_28; }
 	inline XmlSchemaSet_t755282363 ** get_address_of_schemas_28() { return &___schemas_28; }
 	inline void set_schemas_28(XmlSchemaSet_t755282363 * value)
+=======
+	inline static int32_t get_offset_of_schemas_28() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___schemas_28)); }
+	inline XmlSchemaSet_t313318308 * get_schemas_28() const { return ___schemas_28; }
+	inline XmlSchemaSet_t313318308 ** get_address_of_schemas_28() { return &___schemas_28; }
+	inline void set_schemas_28(XmlSchemaSet_t313318308 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___schemas_28 = value;
 		Il2CppCodeGenWriteBarrier((&___schemas_28), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_nameTable_29() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___nameTable_29)); }
 	inline XmlNameTable_t2970678310 * get_nameTable_29() const { return ___nameTable_29; }
 	inline XmlNameTable_t2970678310 ** get_address_of_nameTable_29() { return &___nameTable_29; }
 	inline void set_nameTable_29(XmlNameTable_t2970678310 * value)
+=======
+	inline static int32_t get_offset_of_nameTable_29() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___nameTable_29)); }
+	inline XmlNameTable_t1345805268 * get_nameTable_29() const { return ___nameTable_29; }
+	inline XmlNameTable_t1345805268 ** get_address_of_nameTable_29() { return &___nameTable_29; }
+	inline void set_nameTable_29(XmlNameTable_t1345805268 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___nameTable_29 = value;
 		Il2CppCodeGenWriteBarrier((&___nameTable_29), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_missedSubComponents_30() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___missedSubComponents_30)); }
+=======
+	inline static int32_t get_offset_of_missedSubComponents_30() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___missedSubComponents_30)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_missedSubComponents_30() const { return ___missedSubComponents_30; }
 	inline bool* get_address_of_missedSubComponents_30() { return &___missedSubComponents_30; }
 	inline void set_missedSubComponents_30(bool value)
@@ -3987,27 +6631,45 @@ public:
 		___missedSubComponents_30 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_compilationItems_31() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671, ___compilationItems_31)); }
 	inline XmlSchemaObjectCollection_t1699742632 * get_compilationItems_31() const { return ___compilationItems_31; }
 	inline XmlSchemaObjectCollection_t1699742632 ** get_address_of_compilationItems_31() { return &___compilationItems_31; }
 	inline void set_compilationItems_31(XmlSchemaObjectCollection_t1699742632 * value)
+=======
+	inline static int32_t get_offset_of_compilationItems_31() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818, ___compilationItems_31)); }
+	inline XmlSchemaObjectCollection_t395083109 * get_compilationItems_31() const { return ___compilationItems_31; }
+	inline XmlSchemaObjectCollection_t395083109 ** get_address_of_compilationItems_31() { return &___compilationItems_31; }
+	inline void set_compilationItems_31(XmlSchemaObjectCollection_t395083109 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___compilationItems_31 = value;
 		Il2CppCodeGenWriteBarrier((&___compilationItems_31), value);
 	}
 };
 
+<<<<<<< HEAD
 struct XmlSchema_t146853671_StaticFields
+=======
+struct XmlSchema_t880472818_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Collections.Generic.Dictionary`2<System.String,System.Int32> System.Xml.Schema.XmlSchema::<>f__switch$map2D
 	Dictionary_2_t1943317951 * ___U3CU3Ef__switchU24map2D_32;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map2D_32() { return static_cast<int32_t>(offsetof(XmlSchema_t146853671_StaticFields, ___U3CU3Ef__switchU24map2D_32)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map2D_32() const { return ___U3CU3Ef__switchU24map2D_32; }
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map2D_32() { return &___U3CU3Ef__switchU24map2D_32; }
 	inline void set_U3CU3Ef__switchU24map2D_32(Dictionary_2_t1943317951 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__switchU24map2D_32() { return static_cast<int32_t>(offsetof(XmlSchema_t880472818_StaticFields, ___U3CU3Ef__switchU24map2D_32)); }
+	inline Dictionary_2_t3986656710 * get_U3CU3Ef__switchU24map2D_32() const { return ___U3CU3Ef__switchU24map2D_32; }
+	inline Dictionary_2_t3986656710 ** get_address_of_U3CU3Ef__switchU24map2D_32() { return &___U3CU3Ef__switchU24map2D_32; }
+	inline void set_U3CU3Ef__switchU24map2D_32(Dictionary_2_t3986656710 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___U3CU3Ef__switchU24map2D_32 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map2D_32), value);
@@ -4017,6 +6679,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMA_T146853671_H
 #ifndef XMLSCHEMAANNOTATED_T3213694395_H
 #define XMLSCHEMAANNOTATED_T3213694395_H
@@ -4120,6 +6783,11 @@ public:
 #endif // COMPONENT_T1738686692_H
 #ifndef FONT_T3642168888_H
 #define FONT_T3642168888_H
+=======
+#endif // XMLSCHEMA_T880472818_H
+#ifndef FONT_T4239498691_H
+#define FONT_T4239498691_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4127,34 +6795,56 @@ public:
 #endif
 
 // UnityEngine.Font
+<<<<<<< HEAD
 struct  Font_t3642168888  : public Object_t2002357940
+=======
+struct  Font_t4239498691  : public Object_t1021602117
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// UnityEngine.Font/FontTextureRebuildCallback UnityEngine.Font::m_FontTextureRebuildCallback
 	FontTextureRebuildCallback_t3485829865 * ___m_FontTextureRebuildCallback_3;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_FontTextureRebuildCallback_3() { return static_cast<int32_t>(offsetof(Font_t3642168888, ___m_FontTextureRebuildCallback_3)); }
 	inline FontTextureRebuildCallback_t3485829865 * get_m_FontTextureRebuildCallback_3() const { return ___m_FontTextureRebuildCallback_3; }
 	inline FontTextureRebuildCallback_t3485829865 ** get_address_of_m_FontTextureRebuildCallback_3() { return &___m_FontTextureRebuildCallback_3; }
 	inline void set_m_FontTextureRebuildCallback_3(FontTextureRebuildCallback_t3485829865 * value)
+=======
+	inline static int32_t get_offset_of_m_FontTextureRebuildCallback_3() { return static_cast<int32_t>(offsetof(Font_t4239498691, ___m_FontTextureRebuildCallback_3)); }
+	inline FontTextureRebuildCallback_t1272078033 * get_m_FontTextureRebuildCallback_3() const { return ___m_FontTextureRebuildCallback_3; }
+	inline FontTextureRebuildCallback_t1272078033 ** get_address_of_m_FontTextureRebuildCallback_3() { return &___m_FontTextureRebuildCallback_3; }
+	inline void set_m_FontTextureRebuildCallback_3(FontTextureRebuildCallback_t1272078033 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___m_FontTextureRebuildCallback_3 = value;
 		Il2CppCodeGenWriteBarrier((&___m_FontTextureRebuildCallback_3), value);
 	}
 };
 
+<<<<<<< HEAD
 struct Font_t3642168888_StaticFields
+=======
+struct Font_t4239498691_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Action`1<UnityEngine.Font> UnityEngine.Font::textureRebuilt
 	Action_1_t2201846656 * ___textureRebuilt_2;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_textureRebuilt_2() { return static_cast<int32_t>(offsetof(Font_t3642168888_StaticFields, ___textureRebuilt_2)); }
 	inline Action_1_t2201846656 * get_textureRebuilt_2() const { return ___textureRebuilt_2; }
 	inline Action_1_t2201846656 ** get_address_of_textureRebuilt_2() { return &___textureRebuilt_2; }
 	inline void set_textureRebuilt_2(Action_1_t2201846656 * value)
+=======
+	inline static int32_t get_offset_of_textureRebuilt_2() { return static_cast<int32_t>(offsetof(Font_t4239498691_StaticFields, ___textureRebuilt_2)); }
+	inline Action_1_t4041298073 * get_textureRebuilt_2() const { return ___textureRebuilt_2; }
+	inline Action_1_t4041298073 ** get_address_of_textureRebuilt_2() { return &___textureRebuilt_2; }
+	inline void set_textureRebuilt_2(Action_1_t4041298073 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___textureRebuilt_2 = value;
 		Il2CppCodeGenWriteBarrier((&___textureRebuilt_2), value);
@@ -4164,15 +6854,22 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // FONT_T3642168888_H
 #ifndef MULTICASTDELEGATE_T1459967157_H
 #define MULTICASTDELEGATE_T1459967157_H
+=======
+#endif // FONT_T4239498691_H
+#ifndef VALIDATIONEVENTARGS_T1577905814_H
+#define VALIDATIONEVENTARGS_T1577905814_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.MulticastDelegate
 struct  MulticastDelegate_t1459967157  : public Delegate_t649381383
 {
@@ -4199,32 +6896,107 @@ public:
 	{
 		___kpm_next_10 = value;
 		Il2CppCodeGenWriteBarrier((&___kpm_next_10), value);
+=======
+// System.Xml.Schema.ValidationEventArgs
+struct  ValidationEventArgs_t1577905814  : public EventArgs_t3289624707
+{
+public:
+	// System.Xml.Schema.XmlSchemaException System.Xml.Schema.ValidationEventArgs::exception
+	XmlSchemaException_t4082200141 * ___exception_1;
+	// System.String System.Xml.Schema.ValidationEventArgs::message
+	String_t* ___message_2;
+	// System.Xml.Schema.XmlSeverityType System.Xml.Schema.ValidationEventArgs::severity
+	int32_t ___severity_3;
+
+public:
+	inline static int32_t get_offset_of_exception_1() { return static_cast<int32_t>(offsetof(ValidationEventArgs_t1577905814, ___exception_1)); }
+	inline XmlSchemaException_t4082200141 * get_exception_1() const { return ___exception_1; }
+	inline XmlSchemaException_t4082200141 ** get_address_of_exception_1() { return &___exception_1; }
+	inline void set_exception_1(XmlSchemaException_t4082200141 * value)
+	{
+		___exception_1 = value;
+		Il2CppCodeGenWriteBarrier((&___exception_1), value);
+	}
+
+	inline static int32_t get_offset_of_message_2() { return static_cast<int32_t>(offsetof(ValidationEventArgs_t1577905814, ___message_2)); }
+	inline String_t* get_message_2() const { return ___message_2; }
+	inline String_t** get_address_of_message_2() { return &___message_2; }
+	inline void set_message_2(String_t* value)
+	{
+		___message_2 = value;
+		Il2CppCodeGenWriteBarrier((&___message_2), value);
+	}
+
+	inline static int32_t get_offset_of_severity_3() { return static_cast<int32_t>(offsetof(ValidationEventArgs_t1577905814, ___severity_3)); }
+	inline int32_t get_severity_3() const { return ___severity_3; }
+	inline int32_t* get_address_of_severity_3() { return &___severity_3; }
+	inline void set_severity_3(int32_t value)
+	{
+		___severity_3 = value;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // MULTICASTDELEGATE_T1459967157_H
 #ifndef DOWNLOADHANDLERBUFFER_T963432875_H
 #define DOWNLOADHANDLERBUFFER_T963432875_H
+=======
+#endif // VALIDATIONEVENTARGS_T1577905814_H
+#ifndef XMLSCHEMAANNOTATION_T2400301303_H
+#define XMLSCHEMAANNOTATION_T2400301303_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.Networking.DownloadHandlerBuffer
 struct  DownloadHandlerBuffer_t963432875  : public DownloadHandler_t2570851784
 {
 public:
 
 public:
+=======
+// System.Xml.Schema.XmlSchemaAnnotation
+struct  XmlSchemaAnnotation_t2400301303  : public XmlSchemaObject_t2050913741
+{
+public:
+	// System.String System.Xml.Schema.XmlSchemaAnnotation::id
+	String_t* ___id_13;
+	// System.Xml.Schema.XmlSchemaObjectCollection System.Xml.Schema.XmlSchemaAnnotation::items
+	XmlSchemaObjectCollection_t395083109 * ___items_14;
+
+public:
+	inline static int32_t get_offset_of_id_13() { return static_cast<int32_t>(offsetof(XmlSchemaAnnotation_t2400301303, ___id_13)); }
+	inline String_t* get_id_13() const { return ___id_13; }
+	inline String_t** get_address_of_id_13() { return &___id_13; }
+	inline void set_id_13(String_t* value)
+	{
+		___id_13 = value;
+		Il2CppCodeGenWriteBarrier((&___id_13), value);
+	}
+
+	inline static int32_t get_offset_of_items_14() { return static_cast<int32_t>(offsetof(XmlSchemaAnnotation_t2400301303, ___items_14)); }
+	inline XmlSchemaObjectCollection_t395083109 * get_items_14() const { return ___items_14; }
+	inline XmlSchemaObjectCollection_t395083109 ** get_address_of_items_14() { return &___items_14; }
+	inline void set_items_14(XmlSchemaObjectCollection_t395083109 * value)
+	{
+		___items_14 = value;
+		Il2CppCodeGenWriteBarrier((&___items_14), value);
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.DownloadHandlerBuffer
 struct DownloadHandlerBuffer_t963432875_marshaled_pinvoke : public DownloadHandler_t2570851784_marshaled_pinvoke
 {
@@ -4236,6 +7008,11 @@ struct DownloadHandlerBuffer_t963432875_marshaled_com : public DownloadHandler_t
 #endif // DOWNLOADHANDLERBUFFER_T963432875_H
 #ifndef XMLSCHEMADATATYPE_T1906609083_H
 #define XMLSCHEMADATATYPE_T1906609083_H
+=======
+#endif // XMLSCHEMAANNOTATION_T2400301303_H
+#ifndef XMLSCHEMADATATYPE_T1195946242_H
+#define XMLSCHEMADATATYPE_T1195946242_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4243,16 +7020,27 @@ struct DownloadHandlerBuffer_t963432875_marshaled_com : public DownloadHandler_t
 #endif
 
 // System.Xml.Schema.XmlSchemaDatatype
+<<<<<<< HEAD
 struct  XmlSchemaDatatype_t1906609083  : public RuntimeObject
+=======
+struct  XmlSchemaDatatype_t1195946242  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// Mono.Xml.Schema.XsdWhitespaceFacet System.Xml.Schema.XmlSchemaDatatype::WhitespaceValue
 	int32_t ___WhitespaceValue_0;
 	// System.Text.StringBuilder System.Xml.Schema.XmlSchemaDatatype::sb
+<<<<<<< HEAD
 	StringBuilder_t2661557271 * ___sb_2;
 
 public:
 	inline static int32_t get_offset_of_WhitespaceValue_0() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083, ___WhitespaceValue_0)); }
+=======
+	StringBuilder_t1221177846 * ___sb_2;
+
+public:
+	inline static int32_t get_offset_of_WhitespaceValue_0() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242, ___WhitespaceValue_0)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_WhitespaceValue_0() const { return ___WhitespaceValue_0; }
 	inline int32_t* get_address_of_WhitespaceValue_0() { return &___WhitespaceValue_0; }
 	inline void set_WhitespaceValue_0(int32_t value)
@@ -4260,17 +7048,28 @@ public:
 		___WhitespaceValue_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_sb_2() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083, ___sb_2)); }
 	inline StringBuilder_t2661557271 * get_sb_2() const { return ___sb_2; }
 	inline StringBuilder_t2661557271 ** get_address_of_sb_2() { return &___sb_2; }
 	inline void set_sb_2(StringBuilder_t2661557271 * value)
+=======
+	inline static int32_t get_offset_of_sb_2() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242, ___sb_2)); }
+	inline StringBuilder_t1221177846 * get_sb_2() const { return ___sb_2; }
+	inline StringBuilder_t1221177846 ** get_address_of_sb_2() { return &___sb_2; }
+	inline void set_sb_2(StringBuilder_t1221177846 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___sb_2 = value;
 		Il2CppCodeGenWriteBarrier((&___sb_2), value);
 	}
 };
 
+<<<<<<< HEAD
 struct XmlSchemaDatatype_t1906609083_StaticFields
+=======
+struct XmlSchemaDatatype_t1195946242_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Char[] System.Xml.Schema.XmlSchemaDatatype::wsChars
@@ -4381,442 +7180,785 @@ public:
 	Dictionary_2_t1943317951 * ___U3CU3Ef__switchU24map2C_54;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_wsChars_1() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___wsChars_1)); }
 	inline CharU5BU5D_t3928129731* get_wsChars_1() const { return ___wsChars_1; }
 	inline CharU5BU5D_t3928129731** get_address_of_wsChars_1() { return &___wsChars_1; }
 	inline void set_wsChars_1(CharU5BU5D_t3928129731* value)
+=======
+	inline static int32_t get_offset_of_wsChars_1() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___wsChars_1)); }
+	inline CharU5BU5D_t1328083999* get_wsChars_1() const { return ___wsChars_1; }
+	inline CharU5BU5D_t1328083999** get_address_of_wsChars_1() { return &___wsChars_1; }
+	inline void set_wsChars_1(CharU5BU5D_t1328083999* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___wsChars_1 = value;
 		Il2CppCodeGenWriteBarrier((&___wsChars_1), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeAnySimpleType_3() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeAnySimpleType_3)); }
 	inline XsdAnySimpleType_t2181915030 * get_datatypeAnySimpleType_3() const { return ___datatypeAnySimpleType_3; }
 	inline XsdAnySimpleType_t2181915030 ** get_address_of_datatypeAnySimpleType_3() { return &___datatypeAnySimpleType_3; }
 	inline void set_datatypeAnySimpleType_3(XsdAnySimpleType_t2181915030 * value)
+=======
+	inline static int32_t get_offset_of_datatypeAnySimpleType_3() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeAnySimpleType_3)); }
+	inline XsdAnySimpleType_t1096449895 * get_datatypeAnySimpleType_3() const { return ___datatypeAnySimpleType_3; }
+	inline XsdAnySimpleType_t1096449895 ** get_address_of_datatypeAnySimpleType_3() { return &___datatypeAnySimpleType_3; }
+	inline void set_datatypeAnySimpleType_3(XsdAnySimpleType_t1096449895 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeAnySimpleType_3 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeAnySimpleType_3), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeString_4() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeString_4)); }
 	inline XsdString_t702313622 * get_datatypeString_4() const { return ___datatypeString_4; }
 	inline XsdString_t702313622 ** get_address_of_datatypeString_4() { return &___datatypeString_4; }
 	inline void set_datatypeString_4(XsdString_t702313622 * value)
+=======
+	inline static int32_t get_offset_of_datatypeString_4() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeString_4)); }
+	inline XsdString_t263933896 * get_datatypeString_4() const { return ___datatypeString_4; }
+	inline XsdString_t263933896 ** get_address_of_datatypeString_4() { return &___datatypeString_4; }
+	inline void set_datatypeString_4(XsdString_t263933896 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeString_4 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeString_4), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNormalizedString_5() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNormalizedString_5)); }
 	inline XsdNormalizedString_t1235554390 * get_datatypeNormalizedString_5() const { return ___datatypeNormalizedString_5; }
 	inline XsdNormalizedString_t1235554390 ** get_address_of_datatypeNormalizedString_5() { return &___datatypeNormalizedString_5; }
 	inline void set_datatypeNormalizedString_5(XsdNormalizedString_t1235554390 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNormalizedString_5() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNormalizedString_5)); }
+	inline XsdNormalizedString_t2132216291 * get_datatypeNormalizedString_5() const { return ___datatypeNormalizedString_5; }
+	inline XsdNormalizedString_t2132216291 ** get_address_of_datatypeNormalizedString_5() { return &___datatypeNormalizedString_5; }
+	inline void set_datatypeNormalizedString_5(XsdNormalizedString_t2132216291 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNormalizedString_5 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNormalizedString_5), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeToken_6() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeToken_6)); }
 	inline XsdToken_t1151118054 * get_datatypeToken_6() const { return ___datatypeToken_6; }
 	inline XsdToken_t1151118054 ** get_address_of_datatypeToken_6() { return &___datatypeToken_6; }
 	inline void set_datatypeToken_6(XsdToken_t1151118054 * value)
+=======
+	inline static int32_t get_offset_of_datatypeToken_6() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeToken_6)); }
+	inline XsdToken_t2902215462 * get_datatypeToken_6() const { return ___datatypeToken_6; }
+	inline XsdToken_t2902215462 ** get_address_of_datatypeToken_6() { return &___datatypeToken_6; }
+	inline void set_datatypeToken_6(XsdToken_t2902215462 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeToken_6 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeToken_6), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeLanguage_7() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeLanguage_7)); }
 	inline XsdLanguage_t157711868 * get_datatypeLanguage_7() const { return ___datatypeLanguage_7; }
 	inline XsdLanguage_t157711868 ** get_address_of_datatypeLanguage_7() { return &___datatypeLanguage_7; }
 	inline void set_datatypeLanguage_7(XsdLanguage_t157711868 * value)
+=======
+	inline static int32_t get_offset_of_datatypeLanguage_7() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeLanguage_7)); }
+	inline XsdLanguage_t3897851897 * get_datatypeLanguage_7() const { return ___datatypeLanguage_7; }
+	inline XsdLanguage_t3897851897 ** get_address_of_datatypeLanguage_7() { return &___datatypeLanguage_7; }
+	inline void set_datatypeLanguage_7(XsdLanguage_t3897851897 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeLanguage_7 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeLanguage_7), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNMToken_8() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNMToken_8)); }
 	inline XsdNMToken_t3924698804 * get_datatypeNMToken_8() const { return ___datatypeNMToken_8; }
 	inline XsdNMToken_t3924698804 ** get_address_of_datatypeNMToken_8() { return &___datatypeNMToken_8; }
 	inline void set_datatypeNMToken_8(XsdNMToken_t3924698804 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNMToken_8() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNMToken_8)); }
+	inline XsdNMToken_t547135877 * get_datatypeNMToken_8() const { return ___datatypeNMToken_8; }
+	inline XsdNMToken_t547135877 ** get_address_of_datatypeNMToken_8() { return &___datatypeNMToken_8; }
+	inline void set_datatypeNMToken_8(XsdNMToken_t547135877 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNMToken_8 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNMToken_8), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNMTokens_9() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNMTokens_9)); }
 	inline XsdNMTokens_t1006101699 * get_datatypeNMTokens_9() const { return ___datatypeNMTokens_9; }
 	inline XsdNMTokens_t1006101699 ** get_address_of_datatypeNMTokens_9() { return &___datatypeNMTokens_9; }
 	inline void set_datatypeNMTokens_9(XsdNMTokens_t1006101699 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNMTokens_9() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNMTokens_9)); }
+	inline XsdNMTokens_t1753890866 * get_datatypeNMTokens_9() const { return ___datatypeNMTokens_9; }
+	inline XsdNMTokens_t1753890866 ** get_address_of_datatypeNMTokens_9() { return &___datatypeNMTokens_9; }
+	inline void set_datatypeNMTokens_9(XsdNMTokens_t1753890866 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNMTokens_9 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNMTokens_9), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeName_10() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeName_10)); }
 	inline XsdName_t90575031 * get_datatypeName_10() const { return ___datatypeName_10; }
 	inline XsdName_t90575031 ** get_address_of_datatypeName_10() { return &___datatypeName_10; }
 	inline void set_datatypeName_10(XsdName_t90575031 * value)
+=======
+	inline static int32_t get_offset_of_datatypeName_10() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeName_10)); }
+	inline XsdName_t1409945702 * get_datatypeName_10() const { return ___datatypeName_10; }
+	inline XsdName_t1409945702 ** get_address_of_datatypeName_10() { return &___datatypeName_10; }
+	inline void set_datatypeName_10(XsdName_t1409945702 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeName_10 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeName_10), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNCName_11() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNCName_11)); }
 	inline XsdNCName_t286746401 * get_datatypeNCName_11() const { return ___datatypeNCName_11; }
 	inline XsdNCName_t286746401 ** get_address_of_datatypeNCName_11() { return &___datatypeNCName_11; }
 	inline void set_datatypeNCName_11(XsdNCName_t286746401 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNCName_11() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNCName_11)); }
+	inline XsdNCName_t414304927 * get_datatypeNCName_11() const { return ___datatypeNCName_11; }
+	inline XsdNCName_t414304927 ** get_address_of_datatypeNCName_11() { return &___datatypeNCName_11; }
+	inline void set_datatypeNCName_11(XsdNCName_t414304927 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNCName_11 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNCName_11), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeID_12() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeID_12)); }
 	inline XsdID_t2533883254 * get_datatypeID_12() const { return ___datatypeID_12; }
 	inline XsdID_t2533883254 ** get_address_of_datatypeID_12() { return &___datatypeID_12; }
 	inline void set_datatypeID_12(XsdID_t2533883254 * value)
+=======
+	inline static int32_t get_offset_of_datatypeID_12() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeID_12)); }
+	inline XsdID_t1067193160 * get_datatypeID_12() const { return ___datatypeID_12; }
+	inline XsdID_t1067193160 ** get_address_of_datatypeID_12() { return &___datatypeID_12; }
+	inline void set_datatypeID_12(XsdID_t1067193160 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeID_12 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeID_12), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeIDRef_13() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeIDRef_13)); }
 	inline XsdIDRef_t3223262445 * get_datatypeIDRef_13() const { return ___datatypeIDRef_13; }
 	inline XsdIDRef_t3223262445 ** get_address_of_datatypeIDRef_13() { return &___datatypeIDRef_13; }
 	inline void set_datatypeIDRef_13(XsdIDRef_t3223262445 * value)
+=======
+	inline static int32_t get_offset_of_datatypeIDRef_13() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeIDRef_13)); }
+	inline XsdIDRef_t1377311049 * get_datatypeIDRef_13() const { return ___datatypeIDRef_13; }
+	inline XsdIDRef_t1377311049 ** get_address_of_datatypeIDRef_13() { return &___datatypeIDRef_13; }
+	inline void set_datatypeIDRef_13(XsdIDRef_t1377311049 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeIDRef_13 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeIDRef_13), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeIDRefs_14() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeIDRefs_14)); }
 	inline XsdIDRefs_t3016698016 * get_datatypeIDRefs_14() const { return ___datatypeIDRefs_14; }
 	inline XsdIDRefs_t3016698016 ** get_address_of_datatypeIDRefs_14() { return &___datatypeIDRefs_14; }
 	inline void set_datatypeIDRefs_14(XsdIDRefs_t3016698016 * value)
+=======
+	inline static int32_t get_offset_of_datatypeIDRefs_14() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeIDRefs_14)); }
+	inline XsdIDRefs_t763119546 * get_datatypeIDRefs_14() const { return ___datatypeIDRefs_14; }
+	inline XsdIDRefs_t763119546 ** get_address_of_datatypeIDRefs_14() { return &___datatypeIDRefs_14; }
+	inline void set_datatypeIDRefs_14(XsdIDRefs_t763119546 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeIDRefs_14 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeIDRefs_14), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeEntity_15() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeEntity_15)); }
 	inline XsdEntity_t2535529342 * get_datatypeEntity_15() const { return ___datatypeEntity_15; }
 	inline XsdEntity_t2535529342 ** get_address_of_datatypeEntity_15() { return &___datatypeEntity_15; }
 	inline void set_datatypeEntity_15(XsdEntity_t2535529342 * value)
+=======
+	inline static int32_t get_offset_of_datatypeEntity_15() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeEntity_15)); }
+	inline XsdEntity_t2664305022 * get_datatypeEntity_15() const { return ___datatypeEntity_15; }
+	inline XsdEntity_t2664305022 ** get_address_of_datatypeEntity_15() { return &___datatypeEntity_15; }
+	inline void set_datatypeEntity_15(XsdEntity_t2664305022 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeEntity_15 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeEntity_15), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeEntities_16() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeEntities_16)); }
 	inline XsdEntities_t2030676010 * get_datatypeEntities_16() const { return ___datatypeEntities_16; }
 	inline XsdEntities_t2030676010 ** get_address_of_datatypeEntities_16() { return &___datatypeEntities_16; }
 	inline void set_datatypeEntities_16(XsdEntities_t2030676010 * value)
+=======
+	inline static int32_t get_offset_of_datatypeEntities_16() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeEntities_16)); }
+	inline XsdEntities_t1103053540 * get_datatypeEntities_16() const { return ___datatypeEntities_16; }
+	inline XsdEntities_t1103053540 ** get_address_of_datatypeEntities_16() { return &___datatypeEntities_16; }
+	inline void set_datatypeEntities_16(XsdEntities_t1103053540 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeEntities_16 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeEntities_16), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNotation_17() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNotation_17)); }
 	inline XsdNotation_t2187339066 * get_datatypeNotation_17() const { return ___datatypeNotation_17; }
 	inline XsdNotation_t2187339066 ** get_address_of_datatypeNotation_17() { return &___datatypeNotation_17; }
 	inline void set_datatypeNotation_17(XsdNotation_t2187339066 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNotation_17() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNotation_17)); }
+	inline XsdNotation_t720379093 * get_datatypeNotation_17() const { return ___datatypeNotation_17; }
+	inline XsdNotation_t720379093 ** get_address_of_datatypeNotation_17() { return &___datatypeNotation_17; }
+	inline void set_datatypeNotation_17(XsdNotation_t720379093 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNotation_17 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNotation_17), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeDecimal_18() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeDecimal_18)); }
 	inline XsdDecimal_t1820430883 * get_datatypeDecimal_18() const { return ___datatypeDecimal_18; }
 	inline XsdDecimal_t1820430883 ** get_address_of_datatypeDecimal_18() { return &___datatypeDecimal_18; }
 	inline void set_datatypeDecimal_18(XsdDecimal_t1820430883 * value)
+=======
+	inline static int32_t get_offset_of_datatypeDecimal_18() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeDecimal_18)); }
+	inline XsdDecimal_t2932251550 * get_datatypeDecimal_18() const { return ___datatypeDecimal_18; }
+	inline XsdDecimal_t2932251550 ** get_address_of_datatypeDecimal_18() { return &___datatypeDecimal_18; }
+	inline void set_datatypeDecimal_18(XsdDecimal_t2932251550 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeDecimal_18 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeDecimal_18), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeInteger_19() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeInteger_19)); }
 	inline XsdInteger_t365570338 * get_datatypeInteger_19() const { return ___datatypeInteger_19; }
 	inline XsdInteger_t365570338 ** get_address_of_datatypeInteger_19() { return &___datatypeInteger_19; }
 	inline void set_datatypeInteger_19(XsdInteger_t365570338 * value)
+=======
+	inline static int32_t get_offset_of_datatypeInteger_19() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeInteger_19)); }
+	inline XsdInteger_t1330502157 * get_datatypeInteger_19() const { return ___datatypeInteger_19; }
+	inline XsdInteger_t1330502157 ** get_address_of_datatypeInteger_19() { return &___datatypeInteger_19; }
+	inline void set_datatypeInteger_19(XsdInteger_t1330502157 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeInteger_19 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeInteger_19), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeLong_20() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeLong_20)); }
 	inline XsdLong_t2158450060 * get_datatypeLong_20() const { return ___datatypeLong_20; }
 	inline XsdLong_t2158450060 ** get_address_of_datatypeLong_20() { return &___datatypeLong_20; }
 	inline void set_datatypeLong_20(XsdLong_t2158450060 * value)
+=======
+	inline static int32_t get_offset_of_datatypeLong_20() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeLong_20)); }
+	inline XsdLong_t4179235589 * get_datatypeLong_20() const { return ___datatypeLong_20; }
+	inline XsdLong_t4179235589 ** get_address_of_datatypeLong_20() { return &___datatypeLong_20; }
+	inline void set_datatypeLong_20(XsdLong_t4179235589 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeLong_20 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeLong_20), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeInt_21() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeInt_21)); }
 	inline XsdInt_t2391314489 * get_datatypeInt_21() const { return ___datatypeInt_21; }
 	inline XsdInt_t2391314489 ** get_address_of_datatypeInt_21() { return &___datatypeInt_21; }
 	inline void set_datatypeInt_21(XsdInt_t2391314489 * value)
+=======
+	inline static int32_t get_offset_of_datatypeInt_21() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeInt_21)); }
+	inline XsdInt_t1488443894 * get_datatypeInt_21() const { return ___datatypeInt_21; }
+	inline XsdInt_t1488443894 ** get_address_of_datatypeInt_21() { return &___datatypeInt_21; }
+	inline void set_datatypeInt_21(XsdInt_t1488443894 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeInt_21 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeInt_21), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeShort_22() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeShort_22)); }
 	inline XsdShort_t3915825703 * get_datatypeShort_22() const { return ___datatypeShort_22; }
 	inline XsdShort_t3915825703 ** get_address_of_datatypeShort_22() { return &___datatypeShort_22; }
 	inline void set_datatypeShort_22(XsdShort_t3915825703 * value)
+=======
+	inline static int32_t get_offset_of_datatypeShort_22() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeShort_22)); }
+	inline XsdShort_t1778530041 * get_datatypeShort_22() const { return ___datatypeShort_22; }
+	inline XsdShort_t1778530041 ** get_address_of_datatypeShort_22() { return &___datatypeShort_22; }
+	inline void set_datatypeShort_22(XsdShort_t1778530041 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeShort_22 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeShort_22), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeByte_23() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeByte_23)); }
 	inline XsdByte_t4236916534 * get_datatypeByte_23() const { return ___datatypeByte_23; }
 	inline XsdByte_t4236916534 ** get_address_of_datatypeByte_23() { return &___datatypeByte_23; }
 	inline void set_datatypeByte_23(XsdByte_t4236916534 * value)
+=======
+	inline static int32_t get_offset_of_datatypeByte_23() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeByte_23)); }
+	inline XsdByte_t1120972221 * get_datatypeByte_23() const { return ___datatypeByte_23; }
+	inline XsdByte_t1120972221 ** get_address_of_datatypeByte_23() { return &___datatypeByte_23; }
+	inline void set_datatypeByte_23(XsdByte_t1120972221 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeByte_23 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeByte_23), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNonNegativeInteger_24() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNonNegativeInteger_24)); }
 	inline XsdNonNegativeInteger_t3962128422 * get_datatypeNonNegativeInteger_24() const { return ___datatypeNonNegativeInteger_24; }
 	inline XsdNonNegativeInteger_t3962128422 ** get_address_of_datatypeNonNegativeInteger_24() { return &___datatypeNonNegativeInteger_24; }
 	inline void set_datatypeNonNegativeInteger_24(XsdNonNegativeInteger_t3962128422 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNonNegativeInteger_24() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNonNegativeInteger_24)); }
+	inline XsdNonNegativeInteger_t3587933853 * get_datatypeNonNegativeInteger_24() const { return ___datatypeNonNegativeInteger_24; }
+	inline XsdNonNegativeInteger_t3587933853 ** get_address_of_datatypeNonNegativeInteger_24() { return &___datatypeNonNegativeInteger_24; }
+	inline void set_datatypeNonNegativeInteger_24(XsdNonNegativeInteger_t3587933853 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNonNegativeInteger_24 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNonNegativeInteger_24), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypePositiveInteger_25() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypePositiveInteger_25)); }
 	inline XsdPositiveInteger_t1445684272 * get_datatypePositiveInteger_25() const { return ___datatypePositiveInteger_25; }
 	inline XsdPositiveInteger_t1445684272 ** get_address_of_datatypePositiveInteger_25() { return &___datatypePositiveInteger_25; }
 	inline void set_datatypePositiveInteger_25(XsdPositiveInteger_t1445684272 * value)
+=======
+	inline static int32_t get_offset_of_datatypePositiveInteger_25() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypePositiveInteger_25)); }
+	inline XsdPositiveInteger_t1896481288 * get_datatypePositiveInteger_25() const { return ___datatypePositiveInteger_25; }
+	inline XsdPositiveInteger_t1896481288 ** get_address_of_datatypePositiveInteger_25() { return &___datatypePositiveInteger_25; }
+	inline void set_datatypePositiveInteger_25(XsdPositiveInteger_t1896481288 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypePositiveInteger_25 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypePositiveInteger_25), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeUnsignedLong_26() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeUnsignedLong_26)); }
 	inline XsdUnsignedLong_t442032136 * get_datatypeUnsignedLong_26() const { return ___datatypeUnsignedLong_26; }
 	inline XsdUnsignedLong_t442032136 ** get_address_of_datatypeUnsignedLong_26() { return &___datatypeUnsignedLong_26; }
 	inline void set_datatypeUnsignedLong_26(XsdUnsignedLong_t442032136 * value)
+=======
+	inline static int32_t get_offset_of_datatypeUnsignedLong_26() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeUnsignedLong_26)); }
+	inline XsdUnsignedLong_t137890294 * get_datatypeUnsignedLong_26() const { return ___datatypeUnsignedLong_26; }
+	inline XsdUnsignedLong_t137890294 ** get_address_of_datatypeUnsignedLong_26() { return &___datatypeUnsignedLong_26; }
+	inline void set_datatypeUnsignedLong_26(XsdUnsignedLong_t137890294 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeUnsignedLong_26 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeUnsignedLong_26), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeUnsignedInt_27() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeUnsignedInt_27)); }
 	inline XsdUnsignedInt_t3319427692 * get_datatypeUnsignedInt_27() const { return ___datatypeUnsignedInt_27; }
 	inline XsdUnsignedInt_t3319427692 ** get_address_of_datatypeUnsignedInt_27() { return &___datatypeUnsignedInt_27; }
 	inline void set_datatypeUnsignedInt_27(XsdUnsignedInt_t3319427692 * value)
+=======
+	inline static int32_t get_offset_of_datatypeUnsignedInt_27() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeUnsignedInt_27)); }
+	inline XsdUnsignedInt_t2956447959 * get_datatypeUnsignedInt_27() const { return ___datatypeUnsignedInt_27; }
+	inline XsdUnsignedInt_t2956447959 ** get_address_of_datatypeUnsignedInt_27() { return &___datatypeUnsignedInt_27; }
+	inline void set_datatypeUnsignedInt_27(XsdUnsignedInt_t2956447959 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeUnsignedInt_27 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeUnsignedInt_27), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeUnsignedShort_28() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeUnsignedShort_28)); }
 	inline XsdUnsignedShort_t1673102944 * get_datatypeUnsignedShort_28() const { return ___datatypeUnsignedShort_28; }
 	inline XsdUnsignedShort_t1673102944 ** get_address_of_datatypeUnsignedShort_28() { return &___datatypeUnsignedShort_28; }
 	inline void set_datatypeUnsignedShort_28(XsdUnsignedShort_t1673102944 * value)
+=======
+	inline static int32_t get_offset_of_datatypeUnsignedShort_28() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeUnsignedShort_28)); }
+	inline XsdUnsignedShort_t3693774826 * get_datatypeUnsignedShort_28() const { return ___datatypeUnsignedShort_28; }
+	inline XsdUnsignedShort_t3693774826 ** get_address_of_datatypeUnsignedShort_28() { return &___datatypeUnsignedShort_28; }
+	inline void set_datatypeUnsignedShort_28(XsdUnsignedShort_t3693774826 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeUnsignedShort_28 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeUnsignedShort_28), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeUnsignedByte_29() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeUnsignedByte_29)); }
 	inline XsdUnsignedByte_t1287515749 * get_datatypeUnsignedByte_29() const { return ___datatypeUnsignedByte_29; }
 	inline XsdUnsignedByte_t1287515749 ** get_address_of_datatypeUnsignedByte_29() { return &___datatypeUnsignedByte_29; }
 	inline void set_datatypeUnsignedByte_29(XsdUnsignedByte_t1287515749 * value)
+=======
+	inline static int32_t get_offset_of_datatypeUnsignedByte_29() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeUnsignedByte_29)); }
+	inline XsdUnsignedByte_t3216355454 * get_datatypeUnsignedByte_29() const { return ___datatypeUnsignedByte_29; }
+	inline XsdUnsignedByte_t3216355454 ** get_address_of_datatypeUnsignedByte_29() { return &___datatypeUnsignedByte_29; }
+	inline void set_datatypeUnsignedByte_29(XsdUnsignedByte_t3216355454 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeUnsignedByte_29 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeUnsignedByte_29), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNonPositiveInteger_30() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNonPositiveInteger_30)); }
 	inline XsdNonPositiveInteger_t337541979 * get_datatypeNonPositiveInteger_30() const { return ___datatypeNonPositiveInteger_30; }
 	inline XsdNonPositiveInteger_t337541979 ** get_address_of_datatypeNonPositiveInteger_30() { return &___datatypeNonPositiveInteger_30; }
 	inline void set_datatypeNonPositiveInteger_30(XsdNonPositiveInteger_t337541979 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNonPositiveInteger_30() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNonPositiveInteger_30)); }
+	inline XsdNonPositiveInteger_t409343009 * get_datatypeNonPositiveInteger_30() const { return ___datatypeNonPositiveInteger_30; }
+	inline XsdNonPositiveInteger_t409343009 ** get_address_of_datatypeNonPositiveInteger_30() { return &___datatypeNonPositiveInteger_30; }
+	inline void set_datatypeNonPositiveInteger_30(XsdNonPositiveInteger_t409343009 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNonPositiveInteger_30 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNonPositiveInteger_30), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeNegativeInteger_31() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeNegativeInteger_31)); }
 	inline XsdNegativeInteger_t351214972 * get_datatypeNegativeInteger_31() const { return ___datatypeNegativeInteger_31; }
 	inline XsdNegativeInteger_t351214972 ** get_address_of_datatypeNegativeInteger_31() { return &___datatypeNegativeInteger_31; }
 	inline void set_datatypeNegativeInteger_31(XsdNegativeInteger_t351214972 * value)
+=======
+	inline static int32_t get_offset_of_datatypeNegativeInteger_31() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeNegativeInteger_31)); }
+	inline XsdNegativeInteger_t399444136 * get_datatypeNegativeInteger_31() const { return ___datatypeNegativeInteger_31; }
+	inline XsdNegativeInteger_t399444136 ** get_address_of_datatypeNegativeInteger_31() { return &___datatypeNegativeInteger_31; }
+	inline void set_datatypeNegativeInteger_31(XsdNegativeInteger_t399444136 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeNegativeInteger_31 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeNegativeInteger_31), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeFloat_32() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeFloat_32)); }
 	inline XsdFloat_t925087977 * get_datatypeFloat_32() const { return ___datatypeFloat_32; }
 	inline XsdFloat_t925087977 ** get_address_of_datatypeFloat_32() { return &___datatypeFloat_32; }
 	inline void set_datatypeFloat_32(XsdFloat_t925087977 * value)
+=======
+	inline static int32_t get_offset_of_datatypeFloat_32() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeFloat_32)); }
+	inline XsdFloat_t386143221 * get_datatypeFloat_32() const { return ___datatypeFloat_32; }
+	inline XsdFloat_t386143221 ** get_address_of_datatypeFloat_32() { return &___datatypeFloat_32; }
+	inline void set_datatypeFloat_32(XsdFloat_t386143221 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeFloat_32 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeFloat_32), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeDouble_33() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeDouble_33)); }
 	inline XsdDouble_t999214975 * get_datatypeDouble_33() const { return ___datatypeDouble_33; }
 	inline XsdDouble_t999214975 ** get_address_of_datatypeDouble_33() { return &___datatypeDouble_33; }
 	inline void set_datatypeDouble_33(XsdDouble_t999214975 * value)
+=======
+	inline static int32_t get_offset_of_datatypeDouble_33() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeDouble_33)); }
+	inline XsdDouble_t2510112208 * get_datatypeDouble_33() const { return ___datatypeDouble_33; }
+	inline XsdDouble_t2510112208 ** get_address_of_datatypeDouble_33() { return &___datatypeDouble_33; }
+	inline void set_datatypeDouble_33(XsdDouble_t2510112208 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeDouble_33 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeDouble_33), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeBase64Binary_34() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeBase64Binary_34)); }
 	inline XsdBase64Binary_t453944882 * get_datatypeBase64Binary_34() const { return ___datatypeBase64Binary_34; }
 	inline XsdBase64Binary_t453944882 ** get_address_of_datatypeBase64Binary_34() { return &___datatypeBase64Binary_34; }
 	inline void set_datatypeBase64Binary_34(XsdBase64Binary_t453944882 * value)
+=======
+	inline static int32_t get_offset_of_datatypeBase64Binary_34() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeBase64Binary_34)); }
+	inline XsdBase64Binary_t1094704629 * get_datatypeBase64Binary_34() const { return ___datatypeBase64Binary_34; }
+	inline XsdBase64Binary_t1094704629 ** get_address_of_datatypeBase64Binary_34() { return &___datatypeBase64Binary_34; }
+	inline void set_datatypeBase64Binary_34(XsdBase64Binary_t1094704629 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeBase64Binary_34 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeBase64Binary_34), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeBoolean_35() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeBoolean_35)); }
 	inline XsdBoolean_t1115774145 * get_datatypeBoolean_35() const { return ___datatypeBoolean_35; }
 	inline XsdBoolean_t1115774145 ** get_address_of_datatypeBoolean_35() { return &___datatypeBoolean_35; }
 	inline void set_datatypeBoolean_35(XsdBoolean_t1115774145 * value)
+=======
+	inline static int32_t get_offset_of_datatypeBoolean_35() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeBoolean_35)); }
+	inline XsdBoolean_t4126353587 * get_datatypeBoolean_35() const { return ___datatypeBoolean_35; }
+	inline XsdBoolean_t4126353587 ** get_address_of_datatypeBoolean_35() { return &___datatypeBoolean_35; }
+	inline void set_datatypeBoolean_35(XsdBoolean_t4126353587 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeBoolean_35 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeBoolean_35), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeAnyURI_36() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeAnyURI_36)); }
 	inline XsdAnyURI_t2270473998 * get_datatypeAnyURI_36() const { return ___datatypeAnyURI_36; }
 	inline XsdAnyURI_t2270473998 ** get_address_of_datatypeAnyURI_36() { return &___datatypeAnyURI_36; }
 	inline void set_datatypeAnyURI_36(XsdAnyURI_t2270473998 * value)
+=======
+	inline static int32_t get_offset_of_datatypeAnyURI_36() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeAnyURI_36)); }
+	inline XsdAnyURI_t2527983239 * get_datatypeAnyURI_36() const { return ___datatypeAnyURI_36; }
+	inline XsdAnyURI_t2527983239 ** get_address_of_datatypeAnyURI_36() { return &___datatypeAnyURI_36; }
+	inline void set_datatypeAnyURI_36(XsdAnyURI_t2527983239 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeAnyURI_36 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeAnyURI_36), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeDuration_37() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeDuration_37)); }
 	inline XsdDuration_t2139307983 * get_datatypeDuration_37() const { return ___datatypeDuration_37; }
 	inline XsdDuration_t2139307983 ** get_address_of_datatypeDuration_37() { return &___datatypeDuration_37; }
 	inline void set_datatypeDuration_37(XsdDuration_t2139307983 * value)
+=======
+	inline static int32_t get_offset_of_datatypeDuration_37() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeDuration_37)); }
+	inline XsdDuration_t1605638443 * get_datatypeDuration_37() const { return ___datatypeDuration_37; }
+	inline XsdDuration_t1605638443 ** get_address_of_datatypeDuration_37() { return &___datatypeDuration_37; }
+	inline void set_datatypeDuration_37(XsdDuration_t1605638443 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeDuration_37 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeDuration_37), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeDateTime_38() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeDateTime_38)); }
 	inline XsdDateTime_t868747431 * get_datatypeDateTime_38() const { return ___datatypeDateTime_38; }
 	inline XsdDateTime_t868747431 ** get_address_of_datatypeDateTime_38() { return &___datatypeDateTime_38; }
 	inline void set_datatypeDateTime_38(XsdDateTime_t868747431 * value)
+=======
+	inline static int32_t get_offset_of_datatypeDateTime_38() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeDateTime_38)); }
+	inline XsdDateTime_t1344468684 * get_datatypeDateTime_38() const { return ___datatypeDateTime_38; }
+	inline XsdDateTime_t1344468684 ** get_address_of_datatypeDateTime_38() { return &___datatypeDateTime_38; }
+	inline void set_datatypeDateTime_38(XsdDateTime_t1344468684 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeDateTime_38 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeDateTime_38), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeDate_39() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeDate_39)); }
 	inline XsdDate_t129646552 * get_datatypeDate_39() const { return ___datatypeDate_39; }
 	inline XsdDate_t129646552 ** get_address_of_datatypeDate_39() { return &___datatypeDate_39; }
 	inline void set_datatypeDate_39(XsdDate_t129646552 * value)
+=======
+	inline static int32_t get_offset_of_datatypeDate_39() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeDate_39)); }
+	inline XsdDate_t919459387 * get_datatypeDate_39() const { return ___datatypeDate_39; }
+	inline XsdDate_t919459387 ** get_address_of_datatypeDate_39() { return &___datatypeDate_39; }
+	inline void set_datatypeDate_39(XsdDate_t919459387 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeDate_39 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeDate_39), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeTime_40() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeTime_40)); }
 	inline XsdTime_t67012500 * get_datatypeTime_40() const { return ___datatypeTime_40; }
 	inline XsdTime_t67012500 ** get_address_of_datatypeTime_40() { return &___datatypeTime_40; }
 	inline void set_datatypeTime_40(XsdTime_t67012500 * value)
+=======
+	inline static int32_t get_offset_of_datatypeTime_40() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeTime_40)); }
+	inline XsdTime_t4165680512 * get_datatypeTime_40() const { return ___datatypeTime_40; }
+	inline XsdTime_t4165680512 ** get_address_of_datatypeTime_40() { return &___datatypeTime_40; }
+	inline void set_datatypeTime_40(XsdTime_t4165680512 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeTime_40 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeTime_40), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeHexBinary_41() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeHexBinary_41)); }
 	inline XsdHexBinary_t3109322633 * get_datatypeHexBinary_41() const { return ___datatypeHexBinary_41; }
 	inline XsdHexBinary_t3109322633 ** get_address_of_datatypeHexBinary_41() { return &___datatypeHexBinary_41; }
 	inline void set_datatypeHexBinary_41(XsdHexBinary_t3109322633 * value)
+=======
+	inline static int32_t get_offset_of_datatypeHexBinary_41() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeHexBinary_41)); }
+	inline XsdHexBinary_t3496718151 * get_datatypeHexBinary_41() const { return ___datatypeHexBinary_41; }
+	inline XsdHexBinary_t3496718151 ** get_address_of_datatypeHexBinary_41() { return &___datatypeHexBinary_41; }
+	inline void set_datatypeHexBinary_41(XsdHexBinary_t3496718151 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeHexBinary_41 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeHexBinary_41), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeQName_42() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeQName_42)); }
 	inline XsdQName_t3241932130 * get_datatypeQName_42() const { return ___datatypeQName_42; }
 	inline XsdQName_t3241932130 ** get_address_of_datatypeQName_42() { return &___datatypeQName_42; }
 	inline void set_datatypeQName_42(XsdQName_t3241932130 * value)
+=======
+	inline static int32_t get_offset_of_datatypeQName_42() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeQName_42)); }
+	inline XsdQName_t930779123 * get_datatypeQName_42() const { return ___datatypeQName_42; }
+	inline XsdQName_t930779123 ** get_address_of_datatypeQName_42() { return &___datatypeQName_42; }
+	inline void set_datatypeQName_42(XsdQName_t930779123 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeQName_42 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeQName_42), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeGYearMonth_43() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeGYearMonth_43)); }
 	inline XsdGYearMonth_t1947581577 * get_datatypeGYearMonth_43() const { return ___datatypeGYearMonth_43; }
 	inline XsdGYearMonth_t1947581577 ** get_address_of_datatypeGYearMonth_43() { return &___datatypeGYearMonth_43; }
 	inline void set_datatypeGYearMonth_43(XsdGYearMonth_t1947581577 * value)
+=======
+	inline static int32_t get_offset_of_datatypeGYearMonth_43() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeGYearMonth_43)); }
+	inline XsdGYearMonth_t1363357165 * get_datatypeGYearMonth_43() const { return ___datatypeGYearMonth_43; }
+	inline XsdGYearMonth_t1363357165 ** get_address_of_datatypeGYearMonth_43() { return &___datatypeGYearMonth_43; }
+	inline void set_datatypeGYearMonth_43(XsdGYearMonth_t1363357165 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeGYearMonth_43 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeGYearMonth_43), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeGMonthDay_44() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeGMonthDay_44)); }
 	inline XsdGMonthDay_t266921835 * get_datatypeGMonthDay_44() const { return ___datatypeGMonthDay_44; }
 	inline XsdGMonthDay_t266921835 ** get_address_of_datatypeGMonthDay_44() { return &___datatypeGMonthDay_44; }
 	inline void set_datatypeGMonthDay_44(XsdGMonthDay_t266921835 * value)
+=======
+	inline static int32_t get_offset_of_datatypeGMonthDay_44() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeGMonthDay_44)); }
+	inline XsdGMonthDay_t3859978294 * get_datatypeGMonthDay_44() const { return ___datatypeGMonthDay_44; }
+	inline XsdGMonthDay_t3859978294 ** get_address_of_datatypeGMonthDay_44() { return &___datatypeGMonthDay_44; }
+	inline void set_datatypeGMonthDay_44(XsdGMonthDay_t3859978294 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeGMonthDay_44 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeGMonthDay_44), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeGYear_45() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeGYear_45)); }
 	inline XsdGYear_t3060906730 * get_datatypeGYear_45() const { return ___datatypeGYear_45; }
 	inline XsdGYear_t3060906730 ** get_address_of_datatypeGYear_45() { return &___datatypeGYear_45; }
 	inline void set_datatypeGYear_45(XsdGYear_t3060906730 * value)
+=======
+	inline static int32_t get_offset_of_datatypeGYear_45() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeGYear_45)); }
+	inline XsdGYear_t3810382607 * get_datatypeGYear_45() const { return ___datatypeGYear_45; }
+	inline XsdGYear_t3810382607 ** get_address_of_datatypeGYear_45() { return &___datatypeGYear_45; }
+	inline void set_datatypeGYear_45(XsdGYear_t3810382607 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeGYear_45 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeGYear_45), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeGMonth_46() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeGMonth_46)); }
 	inline XsdGMonth_t4228381664 * get_datatypeGMonth_46() const { return ___datatypeGMonth_46; }
 	inline XsdGMonth_t4228381664 ** get_address_of_datatypeGMonth_46() { return &___datatypeGMonth_46; }
 	inline void set_datatypeGMonth_46(XsdGMonth_t4228381664 * value)
+=======
+	inline static int32_t get_offset_of_datatypeGMonth_46() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeGMonth_46)); }
+	inline XsdGMonth_t4076673358 * get_datatypeGMonth_46() const { return ___datatypeGMonth_46; }
+	inline XsdGMonth_t4076673358 ** get_address_of_datatypeGMonth_46() { return &___datatypeGMonth_46; }
+	inline void set_datatypeGMonth_46(XsdGMonth_t4076673358 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeGMonth_46 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeGMonth_46), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeGDay_47() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeGDay_47)); }
 	inline XsdGDay_t2280589279 * get_datatypeGDay_47() const { return ___datatypeGDay_47; }
 	inline XsdGDay_t2280589279 ** get_address_of_datatypeGDay_47() { return &___datatypeGDay_47; }
 	inline void set_datatypeGDay_47(XsdGDay_t2280589279 * value)
+=======
+	inline static int32_t get_offset_of_datatypeGDay_47() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeGDay_47)); }
+	inline XsdGDay_t1914244270 * get_datatypeGDay_47() const { return ___datatypeGDay_47; }
+	inline XsdGDay_t1914244270 ** get_address_of_datatypeGDay_47() { return &___datatypeGDay_47; }
+	inline void set_datatypeGDay_47(XsdGDay_t1914244270 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeGDay_47 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeGDay_47), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeAnyAtomicType_48() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeAnyAtomicType_48)); }
 	inline XdtAnyAtomicType_t895423141 * get_datatypeAnyAtomicType_48() const { return ___datatypeAnyAtomicType_48; }
 	inline XdtAnyAtomicType_t895423141 ** get_address_of_datatypeAnyAtomicType_48() { return &___datatypeAnyAtomicType_48; }
 	inline void set_datatypeAnyAtomicType_48(XdtAnyAtomicType_t895423141 * value)
+=======
+	inline static int32_t get_offset_of_datatypeAnyAtomicType_48() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeAnyAtomicType_48)); }
+	inline XdtAnyAtomicType_t3359210273 * get_datatypeAnyAtomicType_48() const { return ___datatypeAnyAtomicType_48; }
+	inline XdtAnyAtomicType_t3359210273 ** get_address_of_datatypeAnyAtomicType_48() { return &___datatypeAnyAtomicType_48; }
+	inline void set_datatypeAnyAtomicType_48(XdtAnyAtomicType_t3359210273 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeAnyAtomicType_48 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeAnyAtomicType_48), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeUntypedAtomic_49() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeUntypedAtomic_49)); }
 	inline XdtUntypedAtomic_t2470576696 * get_datatypeUntypedAtomic_49() const { return ___datatypeUntypedAtomic_49; }
 	inline XdtUntypedAtomic_t2470576696 ** get_address_of_datatypeUntypedAtomic_49() { return &___datatypeUntypedAtomic_49; }
 	inline void set_datatypeUntypedAtomic_49(XdtUntypedAtomic_t2470576696 * value)
+=======
+	inline static int32_t get_offset_of_datatypeUntypedAtomic_49() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeUntypedAtomic_49)); }
+	inline XdtUntypedAtomic_t2904699188 * get_datatypeUntypedAtomic_49() const { return ___datatypeUntypedAtomic_49; }
+	inline XdtUntypedAtomic_t2904699188 ** get_address_of_datatypeUntypedAtomic_49() { return &___datatypeUntypedAtomic_49; }
+	inline void set_datatypeUntypedAtomic_49(XdtUntypedAtomic_t2904699188 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeUntypedAtomic_49 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeUntypedAtomic_49), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_datatypeDayTimeDuration_50() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___datatypeDayTimeDuration_50)); }
 	inline XdtDayTimeDuration_t3696674117 * get_datatypeDayTimeDuration_50() const { return ___datatypeDayTimeDuration_50; }
 	inline XdtDayTimeDuration_t3696674117 ** get_address_of_datatypeDayTimeDuration_50() { return &___datatypeDayTimeDuration_50; }
 	inline void set_datatypeDayTimeDuration_50(XdtDayTimeDuration_t3696674117 * value)
+=======
+	inline static int32_t get_offset_of_datatypeDayTimeDuration_50() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1195946242_StaticFields, ___datatypeDayTimeDuration_50)); }
+	inline XdtDayTimeDuration_t2797717973 * get_datatypeDayTimeDuration_50() const { return ___datatypeDayTimeDuration_50; }
+	inline XdtDayTimeDuration_t2797717973 ** get_address_of_datatypeDayTimeDuration_50() { return &___datatypeDayTimeDuration_50; }
+	inline void set_datatypeDayTimeDuration_50(XdtDayTimeDuration_t2797717973 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___datatypeDayTimeDuration_50 = value;
 		Il2CppCodeGenWriteBarrier((&___datatypeDayTimeDuration_50), value);
@@ -4845,9 +7987,66 @@ public:
 	inline Dictionary_2_t1943317951 ** get_address_of_U3CU3Ef__switchU24map2B_53() { return &___U3CU3Ef__switchU24map2B_53; }
 	inline void set_U3CU3Ef__switchU24map2B_53(Dictionary_2_t1943317951 * value)
 	{
+<<<<<<< HEAD
 		___U3CU3Ef__switchU24map2B_53 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__switchU24map2B_53), value);
 	}
+=======
+		___m_webRequest_2 = value;
+		Il2CppCodeGenWriteBarrier((&___m_webRequest_2), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Native definition for P/Invoke marshalling of UnityEngine.Networking.UnityWebRequestAsyncOperation
+struct UnityWebRequestAsyncOperation_t2821884557_marshaled_pinvoke : public AsyncOperation_t3814632279_marshaled_pinvoke
+{
+	UnityWebRequest_t254341728_marshaled_pinvoke ___m_webRequest_2;
+};
+// Native definition for COM marshalling of UnityEngine.Networking.UnityWebRequestAsyncOperation
+struct UnityWebRequestAsyncOperation_t2821884557_marshaled_com : public AsyncOperation_t3814632279_marshaled_com
+{
+	UnityWebRequest_t254341728_marshaled_com* ___m_webRequest_2;
+};
+#endif // UNITYWEBREQUESTASYNCOPERATION_T2821884557_H
+#ifndef DOWNLOADHANDLERBUFFER_T3443159558_H
+#define DOWNLOADHANDLERBUFFER_T3443159558_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityEngine.Networking.DownloadHandlerBuffer
+struct  DownloadHandlerBuffer_t3443159558  : public DownloadHandler_t1216180266
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Native definition for P/Invoke marshalling of UnityEngine.Networking.DownloadHandlerBuffer
+struct DownloadHandlerBuffer_t3443159558_marshaled_pinvoke : public DownloadHandler_t1216180266_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.Networking.DownloadHandlerBuffer
+struct DownloadHandlerBuffer_t3443159558_marshaled_com : public DownloadHandler_t1216180266_marshaled_com
+{
+};
+#endif // DOWNLOADHANDLERBUFFER_T3443159558_H
+#ifndef UPLOADHANDLERRAW_T3420491431_H
+#define UPLOADHANDLERRAW_T3420491431_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 
 	inline static int32_t get_offset_of_U3CU3Ef__switchU24map2C_54() { return static_cast<int32_t>(offsetof(XmlSchemaDatatype_t1906609083_StaticFields, ___U3CU3Ef__switchU24map2C_54)); }
 	inline Dictionary_2_t1943317951 * get_U3CU3Ef__switchU24map2C_54() const { return ___U3CU3Ef__switchU24map2C_54; }
@@ -4862,9 +8061,23 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMADATATYPE_T1906609083_H
 #ifndef TEXTGENERATIONSETTINGS_T1052024526_H
 #define TEXTGENERATIONSETTINGS_T1052024526_H
+=======
+// Native definition for P/Invoke marshalling of UnityEngine.Networking.UploadHandlerRaw
+struct UploadHandlerRaw_t3420491431_marshaled_pinvoke : public UploadHandler_t3552561393_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.Networking.UploadHandlerRaw
+struct UploadHandlerRaw_t3420491431_marshaled_com : public UploadHandler_t3552561393_marshaled_com
+{
+};
+#endif // UPLOADHANDLERRAW_T3420491431_H
+#ifndef TEXTGENERATIONSETTINGS_T2543476768_H
+#define TEXTGENERATIONSETTINGS_T2543476768_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4872,13 +8085,21 @@ public:
 #endif
 
 // UnityEngine.TextGenerationSettings
+<<<<<<< HEAD
 struct  TextGenerationSettings_t1052024526 
+=======
+struct  TextGenerationSettings_t2543476768 
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// UnityEngine.Font UnityEngine.TextGenerationSettings::font
 	Font_t3642168888 * ___font_0;
 	// UnityEngine.Color UnityEngine.TextGenerationSettings::color
+<<<<<<< HEAD
 	Color_t1895491664  ___color_1;
+=======
+	Color_t2020392075  ___color_1;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Int32 UnityEngine.TextGenerationSettings::fontSize
 	int32_t ___fontSize_2;
 	// System.Single UnityEngine.TextGenerationSettings::lineSpacing
@@ -4906,31 +8127,55 @@ public:
 	// UnityEngine.HorizontalWrapMode UnityEngine.TextGenerationSettings::horizontalOverflow
 	int32_t ___horizontalOverflow_14;
 	// UnityEngine.Vector2 UnityEngine.TextGenerationSettings::generationExtents
+<<<<<<< HEAD
 	Vector2_t2747121222  ___generationExtents_15;
 	// UnityEngine.Vector2 UnityEngine.TextGenerationSettings::pivot
 	Vector2_t2747121222  ___pivot_16;
+=======
+	Vector2_t2243707579  ___generationExtents_15;
+	// UnityEngine.Vector2 UnityEngine.TextGenerationSettings::pivot
+	Vector2_t2243707579  ___pivot_16;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Boolean UnityEngine.TextGenerationSettings::generateOutOfBounds
 	bool ___generateOutOfBounds_17;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_font_0() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___font_0)); }
 	inline Font_t3642168888 * get_font_0() const { return ___font_0; }
 	inline Font_t3642168888 ** get_address_of_font_0() { return &___font_0; }
 	inline void set_font_0(Font_t3642168888 * value)
+=======
+	inline static int32_t get_offset_of_font_0() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___font_0)); }
+	inline Font_t4239498691 * get_font_0() const { return ___font_0; }
+	inline Font_t4239498691 ** get_address_of_font_0() { return &___font_0; }
+	inline void set_font_0(Font_t4239498691 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___font_0 = value;
 		Il2CppCodeGenWriteBarrier((&___font_0), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_color_1() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___color_1)); }
 	inline Color_t1895491664  get_color_1() const { return ___color_1; }
 	inline Color_t1895491664 * get_address_of_color_1() { return &___color_1; }
 	inline void set_color_1(Color_t1895491664  value)
+=======
+	inline static int32_t get_offset_of_color_1() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___color_1)); }
+	inline Color_t2020392075  get_color_1() const { return ___color_1; }
+	inline Color_t2020392075 * get_address_of_color_1() { return &___color_1; }
+	inline void set_color_1(Color_t2020392075  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___color_1 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_fontSize_2() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___fontSize_2)); }
+=======
+	inline static int32_t get_offset_of_fontSize_2() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___fontSize_2)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_fontSize_2() const { return ___fontSize_2; }
 	inline int32_t* get_address_of_fontSize_2() { return &___fontSize_2; }
 	inline void set_fontSize_2(int32_t value)
@@ -4938,7 +8183,11 @@ public:
 		___fontSize_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_lineSpacing_3() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___lineSpacing_3)); }
+=======
+	inline static int32_t get_offset_of_lineSpacing_3() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___lineSpacing_3)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_lineSpacing_3() const { return ___lineSpacing_3; }
 	inline float* get_address_of_lineSpacing_3() { return &___lineSpacing_3; }
 	inline void set_lineSpacing_3(float value)
@@ -4946,7 +8195,11 @@ public:
 		___lineSpacing_3 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_richText_4() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___richText_4)); }
+=======
+	inline static int32_t get_offset_of_richText_4() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___richText_4)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_richText_4() const { return ___richText_4; }
 	inline bool* get_address_of_richText_4() { return &___richText_4; }
 	inline void set_richText_4(bool value)
@@ -4954,7 +8207,11 @@ public:
 		___richText_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_scaleFactor_5() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___scaleFactor_5)); }
+=======
+	inline static int32_t get_offset_of_scaleFactor_5() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___scaleFactor_5)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline float get_scaleFactor_5() const { return ___scaleFactor_5; }
 	inline float* get_address_of_scaleFactor_5() { return &___scaleFactor_5; }
 	inline void set_scaleFactor_5(float value)
@@ -4962,7 +8219,11 @@ public:
 		___scaleFactor_5 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_fontStyle_6() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___fontStyle_6)); }
+=======
+	inline static int32_t get_offset_of_fontStyle_6() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___fontStyle_6)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_fontStyle_6() const { return ___fontStyle_6; }
 	inline int32_t* get_address_of_fontStyle_6() { return &___fontStyle_6; }
 	inline void set_fontStyle_6(int32_t value)
@@ -4970,7 +8231,11 @@ public:
 		___fontStyle_6 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_textAnchor_7() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___textAnchor_7)); }
+=======
+	inline static int32_t get_offset_of_textAnchor_7() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___textAnchor_7)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_textAnchor_7() const { return ___textAnchor_7; }
 	inline int32_t* get_address_of_textAnchor_7() { return &___textAnchor_7; }
 	inline void set_textAnchor_7(int32_t value)
@@ -4978,7 +8243,11 @@ public:
 		___textAnchor_7 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_alignByGeometry_8() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___alignByGeometry_8)); }
+=======
+	inline static int32_t get_offset_of_alignByGeometry_8() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___alignByGeometry_8)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_alignByGeometry_8() const { return ___alignByGeometry_8; }
 	inline bool* get_address_of_alignByGeometry_8() { return &___alignByGeometry_8; }
 	inline void set_alignByGeometry_8(bool value)
@@ -4986,7 +8255,11 @@ public:
 		___alignByGeometry_8 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_resizeTextForBestFit_9() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___resizeTextForBestFit_9)); }
+=======
+	inline static int32_t get_offset_of_resizeTextForBestFit_9() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___resizeTextForBestFit_9)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_resizeTextForBestFit_9() const { return ___resizeTextForBestFit_9; }
 	inline bool* get_address_of_resizeTextForBestFit_9() { return &___resizeTextForBestFit_9; }
 	inline void set_resizeTextForBestFit_9(bool value)
@@ -4994,7 +8267,11 @@ public:
 		___resizeTextForBestFit_9 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_resizeTextMinSize_10() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___resizeTextMinSize_10)); }
+=======
+	inline static int32_t get_offset_of_resizeTextMinSize_10() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___resizeTextMinSize_10)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_resizeTextMinSize_10() const { return ___resizeTextMinSize_10; }
 	inline int32_t* get_address_of_resizeTextMinSize_10() { return &___resizeTextMinSize_10; }
 	inline void set_resizeTextMinSize_10(int32_t value)
@@ -5002,7 +8279,11 @@ public:
 		___resizeTextMinSize_10 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_resizeTextMaxSize_11() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___resizeTextMaxSize_11)); }
+=======
+	inline static int32_t get_offset_of_resizeTextMaxSize_11() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___resizeTextMaxSize_11)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_resizeTextMaxSize_11() const { return ___resizeTextMaxSize_11; }
 	inline int32_t* get_address_of_resizeTextMaxSize_11() { return &___resizeTextMaxSize_11; }
 	inline void set_resizeTextMaxSize_11(int32_t value)
@@ -5010,7 +8291,11 @@ public:
 		___resizeTextMaxSize_11 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_updateBounds_12() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___updateBounds_12)); }
+=======
+	inline static int32_t get_offset_of_updateBounds_12() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___updateBounds_12)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_updateBounds_12() const { return ___updateBounds_12; }
 	inline bool* get_address_of_updateBounds_12() { return &___updateBounds_12; }
 	inline void set_updateBounds_12(bool value)
@@ -5018,7 +8303,11 @@ public:
 		___updateBounds_12 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_verticalOverflow_13() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___verticalOverflow_13)); }
+=======
+	inline static int32_t get_offset_of_verticalOverflow_13() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___verticalOverflow_13)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_verticalOverflow_13() const { return ___verticalOverflow_13; }
 	inline int32_t* get_address_of_verticalOverflow_13() { return &___verticalOverflow_13; }
 	inline void set_verticalOverflow_13(int32_t value)
@@ -5026,7 +8315,11 @@ public:
 		___verticalOverflow_13 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_horizontalOverflow_14() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___horizontalOverflow_14)); }
+=======
+	inline static int32_t get_offset_of_horizontalOverflow_14() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___horizontalOverflow_14)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_horizontalOverflow_14() const { return ___horizontalOverflow_14; }
 	inline int32_t* get_address_of_horizontalOverflow_14() { return &___horizontalOverflow_14; }
 	inline void set_horizontalOverflow_14(int32_t value)
@@ -5034,23 +8327,41 @@ public:
 		___horizontalOverflow_14 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_generationExtents_15() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___generationExtents_15)); }
 	inline Vector2_t2747121222  get_generationExtents_15() const { return ___generationExtents_15; }
 	inline Vector2_t2747121222 * get_address_of_generationExtents_15() { return &___generationExtents_15; }
 	inline void set_generationExtents_15(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_generationExtents_15() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___generationExtents_15)); }
+	inline Vector2_t2243707579  get_generationExtents_15() const { return ___generationExtents_15; }
+	inline Vector2_t2243707579 * get_address_of_generationExtents_15() { return &___generationExtents_15; }
+	inline void set_generationExtents_15(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___generationExtents_15 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_pivot_16() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___pivot_16)); }
 	inline Vector2_t2747121222  get_pivot_16() const { return ___pivot_16; }
 	inline Vector2_t2747121222 * get_address_of_pivot_16() { return &___pivot_16; }
 	inline void set_pivot_16(Vector2_t2747121222  value)
+=======
+	inline static int32_t get_offset_of_pivot_16() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___pivot_16)); }
+	inline Vector2_t2243707579  get_pivot_16() const { return ___pivot_16; }
+	inline Vector2_t2243707579 * get_address_of_pivot_16() { return &___pivot_16; }
+	inline void set_pivot_16(Vector2_t2243707579  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___pivot_16 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_generateOutOfBounds_17() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t1052024526, ___generateOutOfBounds_17)); }
+=======
+	inline static int32_t get_offset_of_generateOutOfBounds_17() { return static_cast<int32_t>(offsetof(TextGenerationSettings_t2543476768, ___generateOutOfBounds_17)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_generateOutOfBounds_17() const { return ___generateOutOfBounds_17; }
 	inline bool* get_address_of_generateOutOfBounds_17() { return &___generateOutOfBounds_17; }
 	inline void set_generateOutOfBounds_17(bool value)
@@ -5063,10 +8374,17 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.TextGenerationSettings
+<<<<<<< HEAD
 struct TextGenerationSettings_t1052024526_marshaled_pinvoke
 {
 	Font_t3642168888 * ___font_0;
 	Color_t1895491664  ___color_1;
+=======
+struct TextGenerationSettings_t2543476768_marshaled_pinvoke
+{
+	Font_t4239498691 * ___font_0;
+	Color_t2020392075  ___color_1;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	int32_t ___fontSize_2;
 	float ___lineSpacing_3;
 	int32_t ___richText_4;
@@ -5080,15 +8398,25 @@ struct TextGenerationSettings_t1052024526_marshaled_pinvoke
 	int32_t ___updateBounds_12;
 	int32_t ___verticalOverflow_13;
 	int32_t ___horizontalOverflow_14;
+<<<<<<< HEAD
 	Vector2_t2747121222  ___generationExtents_15;
 	Vector2_t2747121222  ___pivot_16;
+=======
+	Vector2_t2243707579  ___generationExtents_15;
+	Vector2_t2243707579  ___pivot_16;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	int32_t ___generateOutOfBounds_17;
 };
 // Native definition for COM marshalling of UnityEngine.TextGenerationSettings
 struct TextGenerationSettings_t1052024526_marshaled_com
 {
+<<<<<<< HEAD
 	Font_t3642168888 * ___font_0;
 	Color_t1895491664  ___color_1;
+=======
+	Font_t4239498691 * ___font_0;
+	Color_t2020392075  ___color_1;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	int32_t ___fontSize_2;
 	float ___lineSpacing_3;
 	int32_t ___richText_4;
@@ -5102,6 +8430,7 @@ struct TextGenerationSettings_t1052024526_marshaled_com
 	int32_t ___updateBounds_12;
 	int32_t ___verticalOverflow_13;
 	int32_t ___horizontalOverflow_14;
+<<<<<<< HEAD
 	Vector2_t2747121222  ___generationExtents_15;
 	Vector2_t2747121222  ___pivot_16;
 	int32_t ___generateOutOfBounds_17;
@@ -5109,12 +8438,22 @@ struct TextGenerationSettings_t1052024526_marshaled_com
 #endif // TEXTGENERATIONSETTINGS_T1052024526_H
 #ifndef XMLSCHEMAANNOTATION_T1519735328_H
 #define XMLSCHEMAANNOTATION_T1519735328_H
+=======
+	Vector2_t2243707579  ___generationExtents_15;
+	Vector2_t2243707579  ___pivot_16;
+	int32_t ___generateOutOfBounds_17;
+};
+#endif // TEXTGENERATIONSETTINGS_T2543476768_H
+#ifndef MULTICASTDELEGATE_T3201952435_H
+#define MULTICASTDELEGATE_T3201952435_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.XmlSchemaAnnotation
 struct  XmlSchemaAnnotation_t1519735328  : public XmlSchemaObject_t3567591322
 {
@@ -5141,15 +8480,69 @@ public:
 	{
 		___items_14 = value;
 		Il2CppCodeGenWriteBarrier((&___items_14), value);
+=======
+// System.MulticastDelegate
+struct  MulticastDelegate_t3201952435  : public Delegate_t3022476291
+{
+public:
+	// System.MulticastDelegate System.MulticastDelegate::prev
+	MulticastDelegate_t3201952435 * ___prev_9;
+	// System.MulticastDelegate System.MulticastDelegate::kpm_next
+	MulticastDelegate_t3201952435 * ___kpm_next_10;
+
+public:
+	inline static int32_t get_offset_of_prev_9() { return static_cast<int32_t>(offsetof(MulticastDelegate_t3201952435, ___prev_9)); }
+	inline MulticastDelegate_t3201952435 * get_prev_9() const { return ___prev_9; }
+	inline MulticastDelegate_t3201952435 ** get_address_of_prev_9() { return &___prev_9; }
+	inline void set_prev_9(MulticastDelegate_t3201952435 * value)
+	{
+		___prev_9 = value;
+		Il2CppCodeGenWriteBarrier((&___prev_9), value);
+	}
+
+	inline static int32_t get_offset_of_kpm_next_10() { return static_cast<int32_t>(offsetof(MulticastDelegate_t3201952435, ___kpm_next_10)); }
+	inline MulticastDelegate_t3201952435 * get_kpm_next_10() const { return ___kpm_next_10; }
+	inline MulticastDelegate_t3201952435 ** get_address_of_kpm_next_10() { return &___kpm_next_10; }
+	inline void set_kpm_next_10(MulticastDelegate_t3201952435 * value)
+	{
+		___kpm_next_10 = value;
+		Il2CppCodeGenWriteBarrier((&___kpm_next_10), value);
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAANNOTATION_T1519735328_H
 #ifndef XMLSCHEMAPARTICLE_T3874318925_H
 #define XMLSCHEMAPARTICLE_T3874318925_H
+=======
+#endif // MULTICASTDELEGATE_T3201952435_H
+#ifndef COMPONENT_T3819376471_H
+#define COMPONENT_T3819376471_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityEngine.Component
+struct  Component_t3819376471  : public Object_t1021602117
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // COMPONENT_T3819376471_H
+#ifndef XMLSCHEMAPARTICLE_T3365045970_H
+#define XMLSCHEMAPARTICLE_T3365045970_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5157,19 +8550,31 @@ public:
 #endif
 
 // System.Xml.Schema.XmlSchemaParticle
+<<<<<<< HEAD
 struct  XmlSchemaParticle_t3874318925  : public XmlSchemaAnnotated_t3213694395
+=======
+struct  XmlSchemaParticle_t3365045970  : public XmlSchemaAnnotated_t2082486936
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Decimal System.Xml.Schema.XmlSchemaParticle::minOccurs
 	Decimal_t3130645908  ___minOccurs_16;
 	// System.Decimal System.Xml.Schema.XmlSchemaParticle::maxOccurs
+<<<<<<< HEAD
 	Decimal_t3130645908  ___maxOccurs_17;
+=======
+	Decimal_t724701077  ___maxOccurs_17;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.String System.Xml.Schema.XmlSchemaParticle::minstr
 	String_t* ___minstr_18;
 	// System.String System.Xml.Schema.XmlSchemaParticle::maxstr
 	String_t* ___maxstr_19;
 	// System.Decimal System.Xml.Schema.XmlSchemaParticle::validatedMinOccurs
+<<<<<<< HEAD
 	Decimal_t3130645908  ___validatedMinOccurs_21;
+=======
+	Decimal_t724701077  ___validatedMinOccurs_21;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Decimal System.Xml.Schema.XmlSchemaParticle::validatedMaxOccurs
 	Decimal_t3130645908  ___validatedMaxOccurs_22;
 	// System.Int32 System.Xml.Schema.XmlSchemaParticle::recursionDepth
@@ -5182,23 +8587,41 @@ public:
 	XmlSchemaParticle_t3874318925 * ___OptimizedParticle_26;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_minOccurs_16() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___minOccurs_16)); }
 	inline Decimal_t3130645908  get_minOccurs_16() const { return ___minOccurs_16; }
 	inline Decimal_t3130645908 * get_address_of_minOccurs_16() { return &___minOccurs_16; }
 	inline void set_minOccurs_16(Decimal_t3130645908  value)
+=======
+	inline static int32_t get_offset_of_minOccurs_16() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___minOccurs_16)); }
+	inline Decimal_t724701077  get_minOccurs_16() const { return ___minOccurs_16; }
+	inline Decimal_t724701077 * get_address_of_minOccurs_16() { return &___minOccurs_16; }
+	inline void set_minOccurs_16(Decimal_t724701077  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___minOccurs_16 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_maxOccurs_17() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___maxOccurs_17)); }
 	inline Decimal_t3130645908  get_maxOccurs_17() const { return ___maxOccurs_17; }
 	inline Decimal_t3130645908 * get_address_of_maxOccurs_17() { return &___maxOccurs_17; }
 	inline void set_maxOccurs_17(Decimal_t3130645908  value)
+=======
+	inline static int32_t get_offset_of_maxOccurs_17() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___maxOccurs_17)); }
+	inline Decimal_t724701077  get_maxOccurs_17() const { return ___maxOccurs_17; }
+	inline Decimal_t724701077 * get_address_of_maxOccurs_17() { return &___maxOccurs_17; }
+	inline void set_maxOccurs_17(Decimal_t724701077  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___maxOccurs_17 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_minstr_18() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___minstr_18)); }
+=======
+	inline static int32_t get_offset_of_minstr_18() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___minstr_18)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_minstr_18() const { return ___minstr_18; }
 	inline String_t** get_address_of_minstr_18() { return &___minstr_18; }
 	inline void set_minstr_18(String_t* value)
@@ -5207,7 +8630,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___minstr_18), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_maxstr_19() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___maxstr_19)); }
+=======
+	inline static int32_t get_offset_of_maxstr_19() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___maxstr_19)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_maxstr_19() const { return ___maxstr_19; }
 	inline String_t** get_address_of_maxstr_19() { return &___maxstr_19; }
 	inline void set_maxstr_19(String_t* value)
@@ -5216,23 +8643,41 @@ public:
 		Il2CppCodeGenWriteBarrier((&___maxstr_19), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_validatedMinOccurs_21() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___validatedMinOccurs_21)); }
 	inline Decimal_t3130645908  get_validatedMinOccurs_21() const { return ___validatedMinOccurs_21; }
 	inline Decimal_t3130645908 * get_address_of_validatedMinOccurs_21() { return &___validatedMinOccurs_21; }
 	inline void set_validatedMinOccurs_21(Decimal_t3130645908  value)
+=======
+	inline static int32_t get_offset_of_validatedMinOccurs_21() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___validatedMinOccurs_21)); }
+	inline Decimal_t724701077  get_validatedMinOccurs_21() const { return ___validatedMinOccurs_21; }
+	inline Decimal_t724701077 * get_address_of_validatedMinOccurs_21() { return &___validatedMinOccurs_21; }
+	inline void set_validatedMinOccurs_21(Decimal_t724701077  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___validatedMinOccurs_21 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_validatedMaxOccurs_22() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___validatedMaxOccurs_22)); }
 	inline Decimal_t3130645908  get_validatedMaxOccurs_22() const { return ___validatedMaxOccurs_22; }
 	inline Decimal_t3130645908 * get_address_of_validatedMaxOccurs_22() { return &___validatedMaxOccurs_22; }
 	inline void set_validatedMaxOccurs_22(Decimal_t3130645908  value)
+=======
+	inline static int32_t get_offset_of_validatedMaxOccurs_22() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___validatedMaxOccurs_22)); }
+	inline Decimal_t724701077  get_validatedMaxOccurs_22() const { return ___validatedMaxOccurs_22; }
+	inline Decimal_t724701077 * get_address_of_validatedMaxOccurs_22() { return &___validatedMaxOccurs_22; }
+	inline void set_validatedMaxOccurs_22(Decimal_t724701077  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___validatedMaxOccurs_22 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_recursionDepth_23() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___recursionDepth_23)); }
+=======
+	inline static int32_t get_offset_of_recursionDepth_23() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___recursionDepth_23)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_recursionDepth_23() const { return ___recursionDepth_23; }
 	inline int32_t* get_address_of_recursionDepth_23() { return &___recursionDepth_23; }
 	inline void set_recursionDepth_23(int32_t value)
@@ -5240,15 +8685,26 @@ public:
 		___recursionDepth_23 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_minEffectiveTotalRange_24() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___minEffectiveTotalRange_24)); }
 	inline Decimal_t3130645908  get_minEffectiveTotalRange_24() const { return ___minEffectiveTotalRange_24; }
 	inline Decimal_t3130645908 * get_address_of_minEffectiveTotalRange_24() { return &___minEffectiveTotalRange_24; }
 	inline void set_minEffectiveTotalRange_24(Decimal_t3130645908  value)
+=======
+	inline static int32_t get_offset_of_minEffectiveTotalRange_24() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___minEffectiveTotalRange_24)); }
+	inline Decimal_t724701077  get_minEffectiveTotalRange_24() const { return ___minEffectiveTotalRange_24; }
+	inline Decimal_t724701077 * get_address_of_minEffectiveTotalRange_24() { return &___minEffectiveTotalRange_24; }
+	inline void set_minEffectiveTotalRange_24(Decimal_t724701077  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___minEffectiveTotalRange_24 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_parentIsGroupDefinition_25() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___parentIsGroupDefinition_25)); }
+=======
+	inline static int32_t get_offset_of_parentIsGroupDefinition_25() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___parentIsGroupDefinition_25)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_parentIsGroupDefinition_25() const { return ___parentIsGroupDefinition_25; }
 	inline bool* get_address_of_parentIsGroupDefinition_25() { return &___parentIsGroupDefinition_25; }
 	inline void set_parentIsGroupDefinition_25(bool value)
@@ -5256,27 +8712,45 @@ public:
 		___parentIsGroupDefinition_25 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_OptimizedParticle_26() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925, ___OptimizedParticle_26)); }
 	inline XmlSchemaParticle_t3874318925 * get_OptimizedParticle_26() const { return ___OptimizedParticle_26; }
 	inline XmlSchemaParticle_t3874318925 ** get_address_of_OptimizedParticle_26() { return &___OptimizedParticle_26; }
 	inline void set_OptimizedParticle_26(XmlSchemaParticle_t3874318925 * value)
+=======
+	inline static int32_t get_offset_of_OptimizedParticle_26() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970, ___OptimizedParticle_26)); }
+	inline XmlSchemaParticle_t3365045970 * get_OptimizedParticle_26() const { return ___OptimizedParticle_26; }
+	inline XmlSchemaParticle_t3365045970 ** get_address_of_OptimizedParticle_26() { return &___OptimizedParticle_26; }
+	inline void set_OptimizedParticle_26(XmlSchemaParticle_t3365045970 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___OptimizedParticle_26 = value;
 		Il2CppCodeGenWriteBarrier((&___OptimizedParticle_26), value);
 	}
 };
 
+<<<<<<< HEAD
 struct XmlSchemaParticle_t3874318925_StaticFields
+=======
+struct XmlSchemaParticle_t3365045970_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.Xml.Schema.XmlSchemaParticle System.Xml.Schema.XmlSchemaParticle::empty
 	XmlSchemaParticle_t3874318925 * ___empty_20;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_empty_20() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3874318925_StaticFields, ___empty_20)); }
 	inline XmlSchemaParticle_t3874318925 * get_empty_20() const { return ___empty_20; }
 	inline XmlSchemaParticle_t3874318925 ** get_address_of_empty_20() { return &___empty_20; }
 	inline void set_empty_20(XmlSchemaParticle_t3874318925 * value)
+=======
+	inline static int32_t get_offset_of_empty_20() { return static_cast<int32_t>(offsetof(XmlSchemaParticle_t3365045970_StaticFields, ___empty_20)); }
+	inline XmlSchemaParticle_t3365045970 * get_empty_20() const { return ___empty_20; }
+	inline XmlSchemaParticle_t3365045970 ** get_address_of_empty_20() { return &___empty_20; }
+	inline void set_empty_20(XmlSchemaParticle_t3365045970 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___empty_20 = value;
 		Il2CppCodeGenWriteBarrier((&___empty_20), value);
@@ -5286,9 +8760,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAPARTICLE_T3874318925_H
 #ifndef BEHAVIOUR_T4089493227_H
 #define BEHAVIOUR_T4089493227_H
+=======
+#endif // XMLSCHEMAPARTICLE_T3365045970_H
+#ifndef BEHAVIOUR_T955675639_H
+#define BEHAVIOUR_T955675639_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5296,6 +8776,7 @@ public:
 #endif
 
 // UnityEngine.Behaviour
+<<<<<<< HEAD
 struct  Behaviour_t4089493227  : public Component_t1738686692
 {
 public:
@@ -5317,6 +8798,9 @@ public:
 
 // UnityEngine.Rigidbody2D
 struct  Rigidbody2D_t1446278688  : public Component_t1738686692
+=======
+struct  Behaviour_t955675639  : public Component_t3819376471
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5326,21 +8810,33 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // RIGIDBODY2D_T1446278688_H
 #ifndef XSDANYSIMPLETYPE_T2181915030_H
 #define XSDANYSIMPLETYPE_T2181915030_H
+=======
+#endif // BEHAVIOUR_T955675639_H
+#ifndef FONTTEXTUREREBUILDCALLBACK_T1272078033_H
+#define FONTTEXTUREREBUILDCALLBACK_T1272078033_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdAnySimpleType
 struct  XsdAnySimpleType_t2181915030  : public XmlSchemaDatatype_t1906609083
+=======
+// UnityEngine.Font/FontTextureRebuildCallback
+struct  FontTextureRebuildCallback_t1272078033  : public MulticastDelegate_t3201952435
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
+<<<<<<< HEAD
 };
 
 struct XsdAnySimpleType_t2181915030_StaticFields
@@ -5409,14 +8905,22 @@ public:
 	{
 		___stringAllowedFacets_60 = value;
 	}
+=======
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDANYSIMPLETYPE_T2181915030_H
 #ifndef TEXTGENERATOR_T3361966688_H
 #define TEXTGENERATOR_T3361966688_H
+=======
+#endif // FONTTEXTUREREBUILDCALLBACK_T1272078033_H
+#ifndef TEXTGENERATOR_T647235000_H
+#define TEXTGENERATOR_T647235000_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5424,7 +8928,11 @@ public:
 #endif
 
 // UnityEngine.TextGenerator
+<<<<<<< HEAD
 struct  TextGenerator_t3361966688  : public RuntimeObject
+=======
+struct  TextGenerator_t647235000  : public RuntimeObject
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.IntPtr UnityEngine.TextGenerator::m_Ptr
@@ -5432,17 +8940,29 @@ public:
 	// System.String UnityEngine.TextGenerator::m_LastString
 	String_t* ___m_LastString_1;
 	// UnityEngine.TextGenerationSettings UnityEngine.TextGenerator::m_LastSettings
+<<<<<<< HEAD
 	TextGenerationSettings_t1052024526  ___m_LastSettings_2;
+=======
+	TextGenerationSettings_t2543476768  ___m_LastSettings_2;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Boolean UnityEngine.TextGenerator::m_HasGenerated
 	bool ___m_HasGenerated_3;
 	// UnityEngine.TextGenerationError UnityEngine.TextGenerator::m_LastValid
 	int32_t ___m_LastValid_4;
 	// System.Collections.Generic.List`1<UnityEngine.UIVertex> UnityEngine.TextGenerator::m_Verts
+<<<<<<< HEAD
 	List_1_t371865099 * ___m_Verts_5;
+=======
+	List_1_t573379950 * ___m_Verts_5;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Collections.Generic.List`1<UnityEngine.UICharInfo> UnityEngine.TextGenerator::m_Characters
 	List_1_t1579344483 * ___m_Characters_6;
 	// System.Collections.Generic.List`1<UnityEngine.UILineInfo> UnityEngine.TextGenerator::m_Lines
+<<<<<<< HEAD
 	List_1_t3920202996 * ___m_Lines_7;
+=======
+	List_1_t2990399006 * ___m_Lines_7;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	// System.Boolean UnityEngine.TextGenerator::m_CachedVerts
 	bool ___m_CachedVerts_8;
 	// System.Boolean UnityEngine.TextGenerator::m_CachedCharacters
@@ -5451,7 +8971,11 @@ public:
 	bool ___m_CachedLines_10;
 
 public:
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_Ptr_0)); }
+=======
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_Ptr_0)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
 	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
 	inline void set_m_Ptr_0(intptr_t value)
@@ -5459,7 +8983,11 @@ public:
 		___m_Ptr_0 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_LastString_1() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_LastString_1)); }
+=======
+	inline static int32_t get_offset_of_m_LastString_1() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_LastString_1)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_m_LastString_1() const { return ___m_LastString_1; }
 	inline String_t** get_address_of_m_LastString_1() { return &___m_LastString_1; }
 	inline void set_m_LastString_1(String_t* value)
@@ -5468,15 +8996,26 @@ public:
 		Il2CppCodeGenWriteBarrier((&___m_LastString_1), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_LastSettings_2() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_LastSettings_2)); }
 	inline TextGenerationSettings_t1052024526  get_m_LastSettings_2() const { return ___m_LastSettings_2; }
 	inline TextGenerationSettings_t1052024526 * get_address_of_m_LastSettings_2() { return &___m_LastSettings_2; }
 	inline void set_m_LastSettings_2(TextGenerationSettings_t1052024526  value)
+=======
+	inline static int32_t get_offset_of_m_LastSettings_2() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_LastSettings_2)); }
+	inline TextGenerationSettings_t2543476768  get_m_LastSettings_2() const { return ___m_LastSettings_2; }
+	inline TextGenerationSettings_t2543476768 * get_address_of_m_LastSettings_2() { return &___m_LastSettings_2; }
+	inline void set_m_LastSettings_2(TextGenerationSettings_t2543476768  value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___m_LastSettings_2 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_HasGenerated_3() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_HasGenerated_3)); }
+=======
+	inline static int32_t get_offset_of_m_HasGenerated_3() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_HasGenerated_3)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_m_HasGenerated_3() const { return ___m_HasGenerated_3; }
 	inline bool* get_address_of_m_HasGenerated_3() { return &___m_HasGenerated_3; }
 	inline void set_m_HasGenerated_3(bool value)
@@ -5484,7 +9023,11 @@ public:
 		___m_HasGenerated_3 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_LastValid_4() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_LastValid_4)); }
+=======
+	inline static int32_t get_offset_of_m_LastValid_4() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_LastValid_4)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline int32_t get_m_LastValid_4() const { return ___m_LastValid_4; }
 	inline int32_t* get_address_of_m_LastValid_4() { return &___m_LastValid_4; }
 	inline void set_m_LastValid_4(int32_t value)
@@ -5492,34 +9035,59 @@ public:
 		___m_LastValid_4 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Verts_5() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_Verts_5)); }
 	inline List_1_t371865099 * get_m_Verts_5() const { return ___m_Verts_5; }
 	inline List_1_t371865099 ** get_address_of_m_Verts_5() { return &___m_Verts_5; }
 	inline void set_m_Verts_5(List_1_t371865099 * value)
+=======
+	inline static int32_t get_offset_of_m_Verts_5() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_Verts_5)); }
+	inline List_1_t573379950 * get_m_Verts_5() const { return ___m_Verts_5; }
+	inline List_1_t573379950 ** get_address_of_m_Verts_5() { return &___m_Verts_5; }
+	inline void set_m_Verts_5(List_1_t573379950 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___m_Verts_5 = value;
 		Il2CppCodeGenWriteBarrier((&___m_Verts_5), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Characters_6() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_Characters_6)); }
 	inline List_1_t1579344483 * get_m_Characters_6() const { return ___m_Characters_6; }
 	inline List_1_t1579344483 ** get_address_of_m_Characters_6() { return &___m_Characters_6; }
 	inline void set_m_Characters_6(List_1_t1579344483 * value)
+=======
+	inline static int32_t get_offset_of_m_Characters_6() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_Characters_6)); }
+	inline List_1_t2425757932 * get_m_Characters_6() const { return ___m_Characters_6; }
+	inline List_1_t2425757932 ** get_address_of_m_Characters_6() { return &___m_Characters_6; }
+	inline void set_m_Characters_6(List_1_t2425757932 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___m_Characters_6 = value;
 		Il2CppCodeGenWriteBarrier((&___m_Characters_6), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_Lines_7() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_Lines_7)); }
 	inline List_1_t3920202996 * get_m_Lines_7() const { return ___m_Lines_7; }
 	inline List_1_t3920202996 ** get_address_of_m_Lines_7() { return &___m_Lines_7; }
 	inline void set_m_Lines_7(List_1_t3920202996 * value)
+=======
+	inline static int32_t get_offset_of_m_Lines_7() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_Lines_7)); }
+	inline List_1_t2990399006 * get_m_Lines_7() const { return ___m_Lines_7; }
+	inline List_1_t2990399006 ** get_address_of_m_Lines_7() { return &___m_Lines_7; }
+	inline void set_m_Lines_7(List_1_t2990399006 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___m_Lines_7 = value;
 		Il2CppCodeGenWriteBarrier((&___m_Lines_7), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_CachedVerts_8() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_CachedVerts_8)); }
+=======
+	inline static int32_t get_offset_of_m_CachedVerts_8() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_CachedVerts_8)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_m_CachedVerts_8() const { return ___m_CachedVerts_8; }
 	inline bool* get_address_of_m_CachedVerts_8() { return &___m_CachedVerts_8; }
 	inline void set_m_CachedVerts_8(bool value)
@@ -5527,7 +9095,11 @@ public:
 		___m_CachedVerts_8 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_CachedCharacters_9() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_CachedCharacters_9)); }
+=======
+	inline static int32_t get_offset_of_m_CachedCharacters_9() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_CachedCharacters_9)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_m_CachedCharacters_9() const { return ___m_CachedCharacters_9; }
 	inline bool* get_address_of_m_CachedCharacters_9() { return &___m_CachedCharacters_9; }
 	inline void set_m_CachedCharacters_9(bool value)
@@ -5535,7 +9107,11 @@ public:
 		___m_CachedCharacters_9 = value;
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_m_CachedLines_10() { return static_cast<int32_t>(offsetof(TextGenerator_t3361966688, ___m_CachedLines_10)); }
+=======
+	inline static int32_t get_offset_of_m_CachedLines_10() { return static_cast<int32_t>(offsetof(TextGenerator_t647235000, ___m_CachedLines_10)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline bool get_m_CachedLines_10() const { return ___m_CachedLines_10; }
 	inline bool* get_address_of_m_CachedLines_10() { return &___m_CachedLines_10; }
 	inline void set_m_CachedLines_10(bool value)
@@ -5548,21 +9124,32 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.TextGenerator
+<<<<<<< HEAD
 struct TextGenerator_t3361966688_marshaled_pinvoke
+=======
+struct TextGenerator_t647235000_marshaled_pinvoke
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 	intptr_t ___m_Ptr_0;
 	char* ___m_LastString_1;
 	TextGenerationSettings_t1052024526_marshaled_pinvoke ___m_LastSettings_2;
 	int32_t ___m_HasGenerated_3;
 	int32_t ___m_LastValid_4;
+<<<<<<< HEAD
 	List_1_t371865099 * ___m_Verts_5;
 	List_1_t1579344483 * ___m_Characters_6;
 	List_1_t3920202996 * ___m_Lines_7;
+=======
+	List_1_t573379950 * ___m_Verts_5;
+	List_1_t2425757932 * ___m_Characters_6;
+	List_1_t2990399006 * ___m_Lines_7;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	int32_t ___m_CachedVerts_8;
 	int32_t ___m_CachedCharacters_9;
 	int32_t ___m_CachedLines_10;
 };
 // Native definition for COM marshalling of UnityEngine.TextGenerator
+<<<<<<< HEAD
 struct TextGenerator_t3361966688_marshaled_com
 {
 	intptr_t ___m_Ptr_0;
@@ -5573,19 +9160,126 @@ struct TextGenerator_t3361966688_marshaled_com
 	List_1_t371865099 * ___m_Verts_5;
 	List_1_t1579344483 * ___m_Characters_6;
 	List_1_t3920202996 * ___m_Lines_7;
+=======
+struct TextGenerator_t647235000_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+	Il2CppChar* ___m_LastString_1;
+	TextGenerationSettings_t2543476768_marshaled_com ___m_LastSettings_2;
+	int32_t ___m_HasGenerated_3;
+	int32_t ___m_LastValid_4;
+	List_1_t573379950 * ___m_Verts_5;
+	List_1_t2425757932 * ___m_Characters_6;
+	List_1_t2990399006 * ___m_Lines_7;
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	int32_t ___m_CachedVerts_8;
 	int32_t ___m_CachedCharacters_9;
 	int32_t ___m_CachedLines_10;
 };
+<<<<<<< HEAD
 #endif // TEXTGENERATOR_T3361966688_H
 #ifndef FONTTEXTUREREBUILDCALLBACK_T3485829865_H
 #define FONTTEXTUREREBUILDCALLBACK_T3485829865_H
+=======
+#endif // TEXTGENERATOR_T647235000_H
+#ifndef XSDANYSIMPLETYPE_T1096449895_H
+#define XSDANYSIMPLETYPE_T1096449895_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+// Mono.Xml.Schema.XsdAnySimpleType
+struct  XsdAnySimpleType_t1096449895  : public XmlSchemaDatatype_t1195946242
+{
+public:
+
+public:
+};
+
+struct XsdAnySimpleType_t1096449895_StaticFields
+{
+public:
+	// Mono.Xml.Schema.XsdAnySimpleType Mono.Xml.Schema.XsdAnySimpleType::instance
+	XsdAnySimpleType_t1096449895 * ___instance_55;
+	// System.Char[] Mono.Xml.Schema.XsdAnySimpleType::whitespaceArray
+	CharU5BU5D_t1328083999* ___whitespaceArray_56;
+	// System.Xml.Schema.XmlSchemaFacet/Facet Mono.Xml.Schema.XsdAnySimpleType::booleanAllowedFacets
+	int32_t ___booleanAllowedFacets_57;
+	// System.Xml.Schema.XmlSchemaFacet/Facet Mono.Xml.Schema.XsdAnySimpleType::decimalAllowedFacets
+	int32_t ___decimalAllowedFacets_58;
+	// System.Xml.Schema.XmlSchemaFacet/Facet Mono.Xml.Schema.XsdAnySimpleType::durationAllowedFacets
+	int32_t ___durationAllowedFacets_59;
+	// System.Xml.Schema.XmlSchemaFacet/Facet Mono.Xml.Schema.XsdAnySimpleType::stringAllowedFacets
+	int32_t ___stringAllowedFacets_60;
+
+public:
+	inline static int32_t get_offset_of_instance_55() { return static_cast<int32_t>(offsetof(XsdAnySimpleType_t1096449895_StaticFields, ___instance_55)); }
+	inline XsdAnySimpleType_t1096449895 * get_instance_55() const { return ___instance_55; }
+	inline XsdAnySimpleType_t1096449895 ** get_address_of_instance_55() { return &___instance_55; }
+	inline void set_instance_55(XsdAnySimpleType_t1096449895 * value)
+	{
+		___instance_55 = value;
+		Il2CppCodeGenWriteBarrier((&___instance_55), value);
+	}
+
+	inline static int32_t get_offset_of_whitespaceArray_56() { return static_cast<int32_t>(offsetof(XsdAnySimpleType_t1096449895_StaticFields, ___whitespaceArray_56)); }
+	inline CharU5BU5D_t1328083999* get_whitespaceArray_56() const { return ___whitespaceArray_56; }
+	inline CharU5BU5D_t1328083999** get_address_of_whitespaceArray_56() { return &___whitespaceArray_56; }
+	inline void set_whitespaceArray_56(CharU5BU5D_t1328083999* value)
+	{
+		___whitespaceArray_56 = value;
+		Il2CppCodeGenWriteBarrier((&___whitespaceArray_56), value);
+	}
+
+	inline static int32_t get_offset_of_booleanAllowedFacets_57() { return static_cast<int32_t>(offsetof(XsdAnySimpleType_t1096449895_StaticFields, ___booleanAllowedFacets_57)); }
+	inline int32_t get_booleanAllowedFacets_57() const { return ___booleanAllowedFacets_57; }
+	inline int32_t* get_address_of_booleanAllowedFacets_57() { return &___booleanAllowedFacets_57; }
+	inline void set_booleanAllowedFacets_57(int32_t value)
+	{
+		___booleanAllowedFacets_57 = value;
+	}
+
+	inline static int32_t get_offset_of_decimalAllowedFacets_58() { return static_cast<int32_t>(offsetof(XsdAnySimpleType_t1096449895_StaticFields, ___decimalAllowedFacets_58)); }
+	inline int32_t get_decimalAllowedFacets_58() const { return ___decimalAllowedFacets_58; }
+	inline int32_t* get_address_of_decimalAllowedFacets_58() { return &___decimalAllowedFacets_58; }
+	inline void set_decimalAllowedFacets_58(int32_t value)
+	{
+		___decimalAllowedFacets_58 = value;
+	}
+
+	inline static int32_t get_offset_of_durationAllowedFacets_59() { return static_cast<int32_t>(offsetof(XsdAnySimpleType_t1096449895_StaticFields, ___durationAllowedFacets_59)); }
+	inline int32_t get_durationAllowedFacets_59() const { return ___durationAllowedFacets_59; }
+	inline int32_t* get_address_of_durationAllowedFacets_59() { return &___durationAllowedFacets_59; }
+	inline void set_durationAllowedFacets_59(int32_t value)
+	{
+		___durationAllowedFacets_59 = value;
+	}
+
+	inline static int32_t get_offset_of_stringAllowedFacets_60() { return static_cast<int32_t>(offsetof(XsdAnySimpleType_t1096449895_StaticFields, ___stringAllowedFacets_60)); }
+	inline int32_t get_stringAllowedFacets_60() const { return ___stringAllowedFacets_60; }
+	inline int32_t* get_address_of_stringAllowedFacets_60() { return &___stringAllowedFacets_60; }
+	inline void set_stringAllowedFacets_60(int32_t value)
+	{
+		___stringAllowedFacets_60 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // XSDANYSIMPLETYPE_T1096449895_H
+#ifndef RIGIDBODY2D_T502193897_H
+#define RIGIDBODY2D_T502193897_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+<<<<<<< HEAD
 // UnityEngine.Font/FontTextureRebuildCallback
 struct  FontTextureRebuildCallback_t3485829865  : public MulticastDelegate_t1459967157
 {
@@ -5660,14 +9354,68 @@ public:
 		___anyTypeContent_27 = value;
 		Il2CppCodeGenWriteBarrier((&___anyTypeContent_27), value);
 	}
+=======
+// UnityEngine.Rigidbody2D
+struct  Rigidbody2D_t502193897  : public Component_t3819376471
+{
+public:
+
+public:
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+#endif // RIGIDBODY2D_T502193897_H
+#ifndef XSDDOUBLE_T2510112208_H
+#define XSDDOUBLE_T2510112208_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// Mono.Xml.Schema.XsdDouble
+struct  XsdDouble_t2510112208  : public XsdAnySimpleType_t1096449895
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // XSDDOUBLE_T2510112208_H
+#ifndef XSDFLOAT_T386143221_H
+#define XSDFLOAT_T386143221_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// Mono.Xml.Schema.XsdFloat
+struct  XsdFloat_t386143221  : public XsdAnySimpleType_t1096449895
+{
+public:
+
+public:
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAANY_T616828129_H
 #ifndef XMLSCHEMAGROUPBASE_T1585320950_H
 #define XMLSCHEMAGROUPBASE_T1585320950_H
+=======
+#endif // XSDFLOAT_T386143221_H
+#ifndef XMLSCHEMAGROUPBASE_T3811767860_H
+#define XMLSCHEMAGROUPBASE_T3811767860_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5675,6 +9423,7 @@ public:
 #endif
 
 // System.Xml.Schema.XmlSchemaGroupBase
+<<<<<<< HEAD
 struct  XmlSchemaGroupBase_t1585320950  : public XmlSchemaParticle_t3874318925
 {
 public:
@@ -5686,6 +9435,19 @@ public:
 	inline XmlSchemaObjectCollection_t1699742632 * get_compiledItems_27() const { return ___compiledItems_27; }
 	inline XmlSchemaObjectCollection_t1699742632 ** get_address_of_compiledItems_27() { return &___compiledItems_27; }
 	inline void set_compiledItems_27(XmlSchemaObjectCollection_t1699742632 * value)
+=======
+struct  XmlSchemaGroupBase_t3811767860  : public XmlSchemaParticle_t3365045970
+{
+public:
+	// System.Xml.Schema.XmlSchemaObjectCollection System.Xml.Schema.XmlSchemaGroupBase::compiledItems
+	XmlSchemaObjectCollection_t395083109 * ___compiledItems_27;
+
+public:
+	inline static int32_t get_offset_of_compiledItems_27() { return static_cast<int32_t>(offsetof(XmlSchemaGroupBase_t3811767860, ___compiledItems_27)); }
+	inline XmlSchemaObjectCollection_t395083109 * get_compiledItems_27() const { return ___compiledItems_27; }
+	inline XmlSchemaObjectCollection_t395083109 ** get_address_of_compiledItems_27() { return &___compiledItems_27; }
+	inline void set_compiledItems_27(XmlSchemaObjectCollection_t395083109 * value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___compiledItems_27 = value;
 		Il2CppCodeGenWriteBarrier((&___compiledItems_27), value);
@@ -5695,17 +9457,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAGROUPBASE_T1585320950_H
 #ifndef GUIELEMENT_T1703771304_H
 #define GUIELEMENT_T1703771304_H
+=======
+#endif // XMLSCHEMAGROUPBASE_T3811767860_H
+#ifndef XSDNOTATION_T720379093_H
+#define XSDNOTATION_T720379093_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.GUIElement
 struct  GUIElement_t1703771304  : public Behaviour_t4089493227
+=======
+// Mono.Xml.Schema.XsdNotation
+struct  XsdNotation_t720379093  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5715,17 +9488,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // GUIELEMENT_T1703771304_H
 #ifndef COLLIDER2D_T3934198296_H
 #define COLLIDER2D_T3934198296_H
+=======
+#endif // XSDNOTATION_T720379093_H
+#ifndef GUIELEMENT_T3381083099_H
+#define GUIELEMENT_T3381083099_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.Collider2D
 struct  Collider2D_t3934198296  : public Behaviour_t4089493227
+=======
+// UnityEngine.GUIElement
+struct  GUIElement_t3381083099  : public Behaviour_t955675639
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5735,17 +9519,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // COLLIDER2D_T3934198296_H
 #ifndef XSDFLOAT_T925087977_H
 #define XSDFLOAT_T925087977_H
+=======
+#endif // GUIELEMENT_T3381083099_H
+#ifndef XSDSTRING_T263933896_H
+#define XSDSTRING_T263933896_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdFloat
 struct  XsdFloat_t925087977  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdString
+struct  XsdString_t263933896  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5755,6 +9550,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDFLOAT_T925087977_H
 #ifndef XSDDOUBLE_T999214975_H
 #define XSDDOUBLE_T999214975_H
@@ -5778,26 +9574,91 @@ public:
 #endif // XSDDOUBLE_T999214975_H
 #ifndef XSDDECIMAL_T1820430883_H
 #define XSDDECIMAL_T1820430883_H
+=======
+#endif // XSDSTRING_T263933896_H
+#ifndef XMLSCHEMAANY_T3277730824_H
+#define XMLSCHEMAANY_T3277730824_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdDecimal
 struct  XsdDecimal_t1820430883  : public XsdAnySimpleType_t2181915030
+=======
+// System.Xml.Schema.XmlSchemaAny
+struct  XmlSchemaAny_t3277730824  : public XmlSchemaParticle_t3365045970
+{
+public:
+	// System.String System.Xml.Schema.XmlSchemaAny::nameSpace
+	String_t* ___nameSpace_28;
+	// System.Xml.Schema.XmlSchemaContentProcessing System.Xml.Schema.XmlSchemaAny::processing
+	int32_t ___processing_29;
+	// Mono.Xml.Schema.XsdWildcard System.Xml.Schema.XmlSchemaAny::wildcard
+	XsdWildcard_t625524157 * ___wildcard_30;
+
+public:
+	inline static int32_t get_offset_of_nameSpace_28() { return static_cast<int32_t>(offsetof(XmlSchemaAny_t3277730824, ___nameSpace_28)); }
+	inline String_t* get_nameSpace_28() const { return ___nameSpace_28; }
+	inline String_t** get_address_of_nameSpace_28() { return &___nameSpace_28; }
+	inline void set_nameSpace_28(String_t* value)
+	{
+		___nameSpace_28 = value;
+		Il2CppCodeGenWriteBarrier((&___nameSpace_28), value);
+	}
+
+	inline static int32_t get_offset_of_processing_29() { return static_cast<int32_t>(offsetof(XmlSchemaAny_t3277730824, ___processing_29)); }
+	inline int32_t get_processing_29() const { return ___processing_29; }
+	inline int32_t* get_address_of_processing_29() { return &___processing_29; }
+	inline void set_processing_29(int32_t value)
+	{
+		___processing_29 = value;
+	}
+
+	inline static int32_t get_offset_of_wildcard_30() { return static_cast<int32_t>(offsetof(XmlSchemaAny_t3277730824, ___wildcard_30)); }
+	inline XsdWildcard_t625524157 * get_wildcard_30() const { return ___wildcard_30; }
+	inline XsdWildcard_t625524157 ** get_address_of_wildcard_30() { return &___wildcard_30; }
+	inline void set_wildcard_30(XsdWildcard_t625524157 * value)
+	{
+		___wildcard_30 = value;
+		Il2CppCodeGenWriteBarrier((&___wildcard_30), value);
+	}
+};
+
+struct XmlSchemaAny_t3277730824_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
+<<<<<<< HEAD
+=======
+	inline static int32_t get_offset_of_anyTypeContent_27() { return static_cast<int32_t>(offsetof(XmlSchemaAny_t3277730824_StaticFields, ___anyTypeContent_27)); }
+	inline XmlSchemaAny_t3277730824 * get_anyTypeContent_27() const { return ___anyTypeContent_27; }
+	inline XmlSchemaAny_t3277730824 ** get_address_of_anyTypeContent_27() { return &___anyTypeContent_27; }
+	inline void set_anyTypeContent_27(XmlSchemaAny_t3277730824 * value)
+	{
+		___anyTypeContent_27 = value;
+		Il2CppCodeGenWriteBarrier((&___anyTypeContent_27), value);
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDDECIMAL_T1820430883_H
 #ifndef XDTANYATOMICTYPE_T895423141_H
 #define XDTANYATOMICTYPE_T895423141_H
+=======
+#endif // XMLSCHEMAANY_T3277730824_H
+#ifndef XDTANYATOMICTYPE_T3359210273_H
+#define XDTANYATOMICTYPE_T3359210273_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5805,7 +9666,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XdtAnyAtomicType
+<<<<<<< HEAD
 struct  XdtAnyAtomicType_t895423141  : public XsdAnySimpleType_t2181915030
+=======
+struct  XdtAnyAtomicType_t3359210273  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5815,17 +9680,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XDTANYATOMICTYPE_T895423141_H
 #ifndef XSDGMONTH_T4228381664_H
 #define XSDGMONTH_T4228381664_H
+=======
+#endif // XDTANYATOMICTYPE_T3359210273_H
+#ifndef COLLIDER2D_T646061738_H
+#define COLLIDER2D_T646061738_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdGMonth
 struct  XsdGMonth_t4228381664  : public XsdAnySimpleType_t2181915030
+=======
+// UnityEngine.Collider2D
+struct  Collider2D_t646061738  : public Behaviour_t955675639
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5835,9 +9711,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDGMONTH_T4228381664_H
 #ifndef XSDGDAY_T2280589279_H
 #define XSDGDAY_T2280589279_H
+=======
+#endif // COLLIDER2D_T646061738_H
+#ifndef XSDGDAY_T1914244270_H
+#define XSDGDAY_T1914244270_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5845,7 +9727,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdGDay
+<<<<<<< HEAD
 struct  XsdGDay_t2280589279  : public XsdAnySimpleType_t2181915030
+=======
+struct  XsdGDay_t1914244270  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5855,17 +9741,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDGDAY_T2280589279_H
 #ifndef XSDGMONTHDAY_T266921835_H
 #define XSDGMONTHDAY_T266921835_H
+=======
+#endif // XSDGDAY_T1914244270_H
+#ifndef XSDBOOLEAN_T4126353587_H
+#define XSDBOOLEAN_T4126353587_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdGMonthDay
 struct  XsdGMonthDay_t266921835  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdBoolean
+struct  XsdBoolean_t4126353587  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5875,17 +9772,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDGMONTHDAY_T266921835_H
 #ifndef XSDGYEARMONTH_T1947581577_H
 #define XSDGYEARMONTH_T1947581577_H
+=======
+#endif // XSDBOOLEAN_T4126353587_H
+#ifndef XSDHEXBINARY_T3496718151_H
+#define XSDHEXBINARY_T3496718151_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdGYearMonth
 struct  XsdGYearMonth_t1947581577  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdHexBinary
+struct  XsdHexBinary_t3496718151  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5895,21 +9803,33 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDGYEARMONTH_T1947581577_H
 #ifndef XSDTIME_T67012500_H
 #define XSDTIME_T67012500_H
+=======
+#endif // XSDHEXBINARY_T3496718151_H
+#ifndef XSDDURATION_T1605638443_H
+#define XSDDURATION_T1605638443_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdTime
 struct  XsdTime_t67012500  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdDuration
+struct  XsdDuration_t1605638443  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
+<<<<<<< HEAD
 };
 
 struct XsdTime_t67012500_StaticFields
@@ -5927,22 +9847,35 @@ public:
 		___timeFormats_61 = value;
 		Il2CppCodeGenWriteBarrier((&___timeFormats_61), value);
 	}
+=======
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDTIME_T67012500_H
 #ifndef XSDDATE_T129646552_H
 #define XSDDATE_T129646552_H
+=======
+#endif // XSDDURATION_T1605638443_H
+#ifndef XSDDECIMAL_T2932251550_H
+#define XSDDECIMAL_T2932251550_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdDate
 struct  XsdDate_t129646552  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdDecimal
+struct  XsdDecimal_t2932251550  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5952,9 +9885,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDDATE_T129646552_H
 #ifndef XSDDATETIME_T868747431_H
 #define XSDDATETIME_T868747431_H
+=======
+#endif // XSDDECIMAL_T2932251550_H
+#ifndef XSDDATETIME_T1344468684_H
+#define XSDDATETIME_T1344468684_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5962,7 +9901,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdDateTime
+<<<<<<< HEAD
 struct  XsdDateTime_t868747431  : public XsdAnySimpleType_t2181915030
+=======
+struct  XsdDateTime_t1344468684  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5972,17 +9915,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDDATETIME_T868747431_H
 #ifndef XSDNOTATION_T2187339066_H
 #define XSDNOTATION_T2187339066_H
+=======
+#endif // XSDDATETIME_T1344468684_H
+#ifndef XSDDATE_T919459387_H
+#define XSDDATE_T919459387_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNotation
 struct  XsdNotation_t2187339066  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdDate
+struct  XsdDate_t919459387  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -5992,17 +9946,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNOTATION_T2187339066_H
 #ifndef XSDSTRING_T702313622_H
 #define XSDSTRING_T702313622_H
+=======
+#endif // XSDDATE_T919459387_H
+#ifndef XSDGYEAR_T3810382607_H
+#define XSDGYEAR_T3810382607_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdString
 struct  XsdString_t702313622  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdGYear
+struct  XsdGYear_t3810382607  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6012,17 +9977,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDSTRING_T702313622_H
 #ifndef XSDDURATION_T2139307983_H
 #define XSDDURATION_T2139307983_H
+=======
+#endif // XSDGYEAR_T3810382607_H
+#ifndef XSDGMONTH_T4076673358_H
+#define XSDGMONTH_T4076673358_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdDuration
 struct  XsdDuration_t2139307983  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdGMonth
+struct  XsdGMonth_t4076673358  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6032,17 +10008,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDDURATION_T2139307983_H
 #ifndef XSDHEXBINARY_T3109322633_H
 #define XSDHEXBINARY_T3109322633_H
+=======
+#endif // XSDGMONTH_T4076673358_H
+#ifndef XSDGMONTHDAY_T3859978294_H
+#define XSDGMONTHDAY_T3859978294_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdHexBinary
 struct  XsdHexBinary_t3109322633  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdGMonthDay
+struct  XsdGMonthDay_t3859978294  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6052,17 +10039,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDHEXBINARY_T3109322633_H
 #ifndef XSDGYEAR_T3060906730_H
 #define XSDGYEAR_T3060906730_H
+=======
+#endif // XSDGMONTHDAY_T3859978294_H
+#ifndef XSDGYEARMONTH_T1363357165_H
+#define XSDGYEARMONTH_T1363357165_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdGYear
 struct  XsdGYear_t3060906730  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdGYearMonth
+struct  XsdGYearMonth_t1363357165  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6072,23 +10070,35 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDGYEAR_T3060906730_H
 #ifndef XSDBOOLEAN_T1115774145_H
 #define XSDBOOLEAN_T1115774145_H
+=======
+#endif // XSDGYEARMONTH_T1363357165_H
+#ifndef XSDTIME_T4165680512_H
+#define XSDTIME_T4165680512_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdBoolean
 struct  XsdBoolean_t1115774145  : public XsdAnySimpleType_t2181915030
+=======
+// Mono.Xml.Schema.XsdTime
+struct  XsdTime_t4165680512  : public XsdAnySimpleType_t1096449895
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
 };
 
+<<<<<<< HEAD
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
@@ -6103,26 +10113,51 @@ public:
 
 // Mono.Xml.Schema.XsdInteger
 struct  XsdInteger_t365570338  : public XsdDecimal_t1820430883
+=======
+struct XsdTime_t4165680512_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
+<<<<<<< HEAD
+=======
+	inline static int32_t get_offset_of_timeFormats_61() { return static_cast<int32_t>(offsetof(XsdTime_t4165680512_StaticFields, ___timeFormats_61)); }
+	inline StringU5BU5D_t1642385972* get_timeFormats_61() const { return ___timeFormats_61; }
+	inline StringU5BU5D_t1642385972** get_address_of_timeFormats_61() { return &___timeFormats_61; }
+	inline void set_timeFormats_61(StringU5BU5D_t1642385972* value)
+	{
+		___timeFormats_61 = value;
+		Il2CppCodeGenWriteBarrier((&___timeFormats_61), value);
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDINTEGER_T365570338_H
 #ifndef XDTUNTYPEDATOMIC_T2470576696_H
 #define XDTUNTYPEDATOMIC_T2470576696_H
+=======
+#endif // XSDTIME_T4165680512_H
+#ifndef XSDINTEGER_T1330502157_H
+#define XSDINTEGER_T1330502157_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XdtUntypedAtomic
 struct  XdtUntypedAtomic_t2470576696  : public XdtAnyAtomicType_t895423141
+=======
+// Mono.Xml.Schema.XsdInteger
+struct  XsdInteger_t1330502157  : public XsdDecimal_t2932251550
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6132,17 +10167,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XDTUNTYPEDATOMIC_T2470576696_H
 #ifndef XSDNORMALIZEDSTRING_T1235554390_H
 #define XSDNORMALIZEDSTRING_T1235554390_H
+=======
+#endif // XSDINTEGER_T1330502157_H
+#ifndef XSDANYURI_T2527983239_H
+#define XSDANYURI_T2527983239_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNormalizedString
 struct  XsdNormalizedString_t1235554390  : public XsdString_t702313622
+=======
+// Mono.Xml.Schema.XsdAnyURI
+struct  XsdAnyURI_t2527983239  : public XsdString_t263933896
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6152,17 +10198,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNORMALIZEDSTRING_T1235554390_H
 #ifndef GUITEXT_T3056769920_H
 #define GUITEXT_T3056769920_H
+=======
+#endif // XSDANYURI_T2527983239_H
+#ifndef XSDNORMALIZEDSTRING_T2132216291_H
+#define XSDNORMALIZEDSTRING_T2132216291_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // UnityEngine.GUIText
 struct  GUIText_t3056769920  : public GUIElement_t1703771304
+=======
+// Mono.Xml.Schema.XsdNormalizedString
+struct  XsdNormalizedString_t2132216291  : public XsdString_t263933896
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6172,15 +10229,22 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // GUITEXT_T3056769920_H
 #ifndef XMLSCHEMAALL_T4011260133_H
 #define XMLSCHEMAALL_T4011260133_H
+=======
+#endif // XSDNORMALIZEDSTRING_T2132216291_H
+#ifndef GUITEXT_T2411476300_H
+#define GUITEXT_T2411476300_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // System.Xml.Schema.XmlSchemaAll
 struct  XmlSchemaAll_t4011260133  : public XmlSchemaGroupBase_t1585320950
 {
@@ -6218,14 +10282,28 @@ public:
 	{
 		___emptiable_30 = value;
 	}
+=======
+// UnityEngine.GUIText
+struct  GUIText_t2411476300  : public GUIElement_t3381083099
+{
+public:
+
+public:
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XMLSCHEMAALL_T4011260133_H
 #ifndef XSDBASE64BINARY_T453944882_H
 #define XSDBASE64BINARY_T453944882_H
+=======
+#endif // GUITEXT_T2411476300_H
+#ifndef XSDBASE64BINARY_T1094704629_H
+#define XSDBASE64BINARY_T1094704629_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6233,23 +10311,38 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdBase64Binary
+<<<<<<< HEAD
 struct  XsdBase64Binary_t453944882  : public XsdString_t702313622
+=======
+struct  XsdBase64Binary_t1094704629  : public XsdString_t263933896
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
 };
 
+<<<<<<< HEAD
 struct XsdBase64Binary_t453944882_StaticFields
+=======
+struct XsdBase64Binary_t1094704629_StaticFields
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 	// System.String Mono.Xml.Schema.XsdBase64Binary::ALPHABET
 	String_t* ___ALPHABET_61;
 	// System.Byte[] Mono.Xml.Schema.XsdBase64Binary::decodeTable
+<<<<<<< HEAD
 	ByteU5BU5D_t1557752011* ___decodeTable_62;
 
 public:
 	inline static int32_t get_offset_of_ALPHABET_61() { return static_cast<int32_t>(offsetof(XsdBase64Binary_t453944882_StaticFields, ___ALPHABET_61)); }
+=======
+	ByteU5BU5D_t3397334013* ___decodeTable_62;
+
+public:
+	inline static int32_t get_offset_of_ALPHABET_61() { return static_cast<int32_t>(offsetof(XsdBase64Binary_t1094704629_StaticFields, ___ALPHABET_61)); }
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	inline String_t* get_ALPHABET_61() const { return ___ALPHABET_61; }
 	inline String_t** get_address_of_ALPHABET_61() { return &___ALPHABET_61; }
 	inline void set_ALPHABET_61(String_t* value)
@@ -6258,10 +10351,17 @@ public:
 		Il2CppCodeGenWriteBarrier((&___ALPHABET_61), value);
 	}
 
+<<<<<<< HEAD
 	inline static int32_t get_offset_of_decodeTable_62() { return static_cast<int32_t>(offsetof(XsdBase64Binary_t453944882_StaticFields, ___decodeTable_62)); }
 	inline ByteU5BU5D_t1557752011* get_decodeTable_62() const { return ___decodeTable_62; }
 	inline ByteU5BU5D_t1557752011** get_address_of_decodeTable_62() { return &___decodeTable_62; }
 	inline void set_decodeTable_62(ByteU5BU5D_t1557752011* value)
+=======
+	inline static int32_t get_offset_of_decodeTable_62() { return static_cast<int32_t>(offsetof(XsdBase64Binary_t1094704629_StaticFields, ___decodeTable_62)); }
+	inline ByteU5BU5D_t3397334013* get_decodeTable_62() const { return ___decodeTable_62; }
+	inline ByteU5BU5D_t3397334013** get_address_of_decodeTable_62() { return &___decodeTable_62; }
+	inline void set_decodeTable_62(ByteU5BU5D_t3397334013* value)
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	{
 		___decodeTable_62 = value;
 		Il2CppCodeGenWriteBarrier((&___decodeTable_62), value);
@@ -6271,17 +10371,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDBASE64BINARY_T453944882_H
 #ifndef XDTYEARMONTHDURATION_T3614101974_H
 #define XDTYEARMONTHDURATION_T3614101974_H
+=======
+#endif // XSDBASE64BINARY_T1094704629_H
+#ifndef XDTUNTYPEDATOMIC_T2904699188_H
+#define XDTUNTYPEDATOMIC_T2904699188_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XdtYearMonthDuration
 struct  XdtYearMonthDuration_t3614101974  : public XsdDuration_t2139307983
+=======
+// Mono.Xml.Schema.XdtUntypedAtomic
+struct  XdtUntypedAtomic_t2904699188  : public XdtAnyAtomicType_t3359210273
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6291,9 +10402,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XDTYEARMONTHDURATION_T3614101974_H
 #ifndef XDTDAYTIMEDURATION_T3696674117_H
 #define XDTDAYTIMEDURATION_T3696674117_H
+=======
+#endif // XDTUNTYPEDATOMIC_T2904699188_H
+#ifndef XDTDAYTIMEDURATION_T2797717973_H
+#define XDTDAYTIMEDURATION_T2797717973_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6301,7 +10418,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XdtDayTimeDuration
+<<<<<<< HEAD
 struct  XdtDayTimeDuration_t3696674117  : public XsdDuration_t2139307983
+=======
+struct  XdtDayTimeDuration_t2797717973  : public XsdDuration_t1605638443
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6311,37 +10432,87 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XDTDAYTIMEDURATION_T3696674117_H
 #ifndef XSDANYURI_T2270473998_H
 #define XSDANYURI_T2270473998_H
+=======
+#endif // XDTDAYTIMEDURATION_T2797717973_H
+#ifndef XMLSCHEMAALL_T1805755215_H
+#define XMLSCHEMAALL_T1805755215_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdAnyURI
 struct  XsdAnyURI_t2270473998  : public XsdString_t702313622
+=======
+// System.Xml.Schema.XmlSchemaAll
+struct  XmlSchemaAll_t1805755215  : public XmlSchemaGroupBase_t3811767860
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
 public:
+<<<<<<< HEAD
+=======
+	inline static int32_t get_offset_of_schema_28() { return static_cast<int32_t>(offsetof(XmlSchemaAll_t1805755215, ___schema_28)); }
+	inline XmlSchema_t880472818 * get_schema_28() const { return ___schema_28; }
+	inline XmlSchema_t880472818 ** get_address_of_schema_28() { return &___schema_28; }
+	inline void set_schema_28(XmlSchema_t880472818 * value)
+	{
+		___schema_28 = value;
+		Il2CppCodeGenWriteBarrier((&___schema_28), value);
+	}
+
+	inline static int32_t get_offset_of_items_29() { return static_cast<int32_t>(offsetof(XmlSchemaAll_t1805755215, ___items_29)); }
+	inline XmlSchemaObjectCollection_t395083109 * get_items_29() const { return ___items_29; }
+	inline XmlSchemaObjectCollection_t395083109 ** get_address_of_items_29() { return &___items_29; }
+	inline void set_items_29(XmlSchemaObjectCollection_t395083109 * value)
+	{
+		___items_29 = value;
+		Il2CppCodeGenWriteBarrier((&___items_29), value);
+	}
+
+	inline static int32_t get_offset_of_emptiable_30() { return static_cast<int32_t>(offsetof(XmlSchemaAll_t1805755215, ___emptiable_30)); }
+	inline bool get_emptiable_30() const { return ___emptiable_30; }
+	inline bool* get_address_of_emptiable_30() { return &___emptiable_30; }
+	inline void set_emptiable_30(bool value)
+	{
+		___emptiable_30 = value;
+	}
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDANYURI_T2270473998_H
 #ifndef XSDLONG_T2158450060_H
 #define XSDLONG_T2158450060_H
+=======
+#endif // XMLSCHEMAALL_T1805755215_H
+#ifndef XDTYEARMONTHDURATION_T1764328599_H
+#define XDTYEARMONTHDURATION_T1764328599_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdLong
 struct  XsdLong_t2158450060  : public XsdInteger_t365570338
+=======
+// Mono.Xml.Schema.XdtYearMonthDuration
+struct  XdtYearMonthDuration_t1764328599  : public XsdDuration_t1605638443
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6351,17 +10522,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDLONG_T2158450060_H
 #ifndef XSDNONPOSITIVEINTEGER_T337541979_H
 #define XSDNONPOSITIVEINTEGER_T337541979_H
+=======
+#endif // XDTYEARMONTHDURATION_T1764328599_H
+#ifndef XSDTOKEN_T2902215462_H
+#define XSDTOKEN_T2902215462_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNonPositiveInteger
 struct  XsdNonPositiveInteger_t337541979  : public XsdInteger_t365570338
+=======
+// Mono.Xml.Schema.XsdToken
+struct  XsdToken_t2902215462  : public XsdNormalizedString_t2132216291
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6371,17 +10553,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNONPOSITIVEINTEGER_T337541979_H
 #ifndef XSDTOKEN_T1151118054_H
 #define XSDTOKEN_T1151118054_H
+=======
+#endif // XSDTOKEN_T2902215462_H
+#ifndef XSDLONG_T4179235589_H
+#define XSDLONG_T4179235589_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdToken
 struct  XsdToken_t1151118054  : public XsdNormalizedString_t1235554390
+=======
+// Mono.Xml.Schema.XsdLong
+struct  XsdLong_t4179235589  : public XsdInteger_t1330502157
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6391,17 +10584,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDTOKEN_T1151118054_H
 #ifndef XSDNONNEGATIVEINTEGER_T3962128422_H
 #define XSDNONNEGATIVEINTEGER_T3962128422_H
+=======
+#endif // XSDLONG_T4179235589_H
+#ifndef XSDNONPOSITIVEINTEGER_T409343009_H
+#define XSDNONPOSITIVEINTEGER_T409343009_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNonNegativeInteger
 struct  XsdNonNegativeInteger_t3962128422  : public XsdInteger_t365570338
+=======
+// Mono.Xml.Schema.XsdNonPositiveInteger
+struct  XsdNonPositiveInteger_t409343009  : public XsdInteger_t1330502157
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6411,17 +10615,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNONNEGATIVEINTEGER_T3962128422_H
 #ifndef XSDNMTOKEN_T3924698804_H
 #define XSDNMTOKEN_T3924698804_H
+=======
+#endif // XSDNONPOSITIVEINTEGER_T409343009_H
+#ifndef XSDNONNEGATIVEINTEGER_T3587933853_H
+#define XSDNONNEGATIVEINTEGER_T3587933853_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNMToken
 struct  XsdNMToken_t3924698804  : public XsdToken_t1151118054
+=======
+// Mono.Xml.Schema.XsdNonNegativeInteger
+struct  XsdNonNegativeInteger_t3587933853  : public XsdInteger_t1330502157
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6431,9 +10646,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNMTOKEN_T3924698804_H
 #ifndef XSDLANGUAGE_T157711868_H
 #define XSDLANGUAGE_T157711868_H
+=======
+#endif // XSDNONNEGATIVEINTEGER_T3587933853_H
+#ifndef XSDLANGUAGE_T3897851897_H
+#define XSDLANGUAGE_T3897851897_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6441,7 +10662,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdLanguage
+<<<<<<< HEAD
 struct  XsdLanguage_t157711868  : public XsdToken_t1151118054
+=======
+struct  XsdLanguage_t3897851897  : public XsdToken_t2902215462
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6451,17 +10676,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDLANGUAGE_T157711868_H
 #ifndef XSDNAME_T90575031_H
 #define XSDNAME_T90575031_H
+=======
+#endif // XSDLANGUAGE_T3897851897_H
+#ifndef XSDINT_T1488443894_H
+#define XSDINT_T1488443894_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdName
 struct  XsdName_t90575031  : public XsdToken_t1151118054
+=======
+// Mono.Xml.Schema.XsdInt
+struct  XsdInt_t1488443894  : public XsdLong_t4179235589
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6471,17 +10707,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNAME_T90575031_H
 #ifndef XSDINT_T2391314489_H
 #define XSDINT_T2391314489_H
+=======
+#endif // XSDINT_T1488443894_H
+#ifndef XSDUNSIGNEDLONG_T137890294_H
+#define XSDUNSIGNEDLONG_T137890294_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdInt
 struct  XsdInt_t2391314489  : public XsdLong_t2158450060
+=======
+// Mono.Xml.Schema.XsdUnsignedLong
+struct  XsdUnsignedLong_t137890294  : public XsdNonNegativeInteger_t3587933853
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6491,17 +10738,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDINT_T2391314489_H
 #ifndef XSDUNSIGNEDLONG_T442032136_H
 #define XSDUNSIGNEDLONG_T442032136_H
+=======
+#endif // XSDUNSIGNEDLONG_T137890294_H
+#ifndef XSDPOSITIVEINTEGER_T1896481288_H
+#define XSDPOSITIVEINTEGER_T1896481288_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdUnsignedLong
 struct  XsdUnsignedLong_t442032136  : public XsdNonNegativeInteger_t3962128422
+=======
+// Mono.Xml.Schema.XsdPositiveInteger
+struct  XsdPositiveInteger_t1896481288  : public XsdNonNegativeInteger_t3587933853
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6511,17 +10769,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDUNSIGNEDLONG_T442032136_H
 #ifndef XSDPOSITIVEINTEGER_T1445684272_H
 #define XSDPOSITIVEINTEGER_T1445684272_H
+=======
+#endif // XSDPOSITIVEINTEGER_T1896481288_H
+#ifndef XSDNEGATIVEINTEGER_T399444136_H
+#define XSDNEGATIVEINTEGER_T399444136_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdPositiveInteger
 struct  XsdPositiveInteger_t1445684272  : public XsdNonNegativeInteger_t3962128422
+=======
+// Mono.Xml.Schema.XsdNegativeInteger
+struct  XsdNegativeInteger_t399444136  : public XsdNonPositiveInteger_t409343009
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6531,17 +10800,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDPOSITIVEINTEGER_T1445684272_H
 #ifndef XSDNEGATIVEINTEGER_T351214972_H
 #define XSDNEGATIVEINTEGER_T351214972_H
+=======
+#endif // XSDNEGATIVEINTEGER_T399444136_H
+#ifndef XSDNMTOKEN_T547135877_H
+#define XSDNMTOKEN_T547135877_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNegativeInteger
 struct  XsdNegativeInteger_t351214972  : public XsdNonPositiveInteger_t337541979
+=======
+// Mono.Xml.Schema.XsdNMToken
+struct  XsdNMToken_t547135877  : public XsdToken_t2902215462
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6551,17 +10831,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNEGATIVEINTEGER_T351214972_H
 #ifndef XSDNMTOKENS_T1006101699_H
 #define XSDNMTOKENS_T1006101699_H
+=======
+#endif // XSDNMTOKEN_T547135877_H
+#ifndef XSDNAME_T1409945702_H
+#define XSDNAME_T1409945702_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNMTokens
 struct  XsdNMTokens_t1006101699  : public XsdNMToken_t3924698804
+=======
+// Mono.Xml.Schema.XsdName
+struct  XsdName_t1409945702  : public XsdToken_t2902215462
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6571,17 +10862,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDNMTOKENS_T1006101699_H
 #ifndef XSDID_T2533883254_H
 #define XSDID_T2533883254_H
+=======
+#endif // XSDNAME_T1409945702_H
+#ifndef XSDENTITIES_T1103053540_H
+#define XSDENTITIES_T1103053540_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdID
 struct  XsdID_t2533883254  : public XsdName_t90575031
+=======
+// Mono.Xml.Schema.XsdEntities
+struct  XsdEntities_t1103053540  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6591,17 +10893,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDID_T2533883254_H
 #ifndef XSDIDREF_T3223262445_H
 #define XSDIDREF_T3223262445_H
+=======
+#endif // XSDENTITIES_T1103053540_H
+#ifndef XSDENTITY_T2664305022_H
+#define XSDENTITY_T2664305022_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdIDRef
 struct  XsdIDRef_t3223262445  : public XsdName_t90575031
+=======
+// Mono.Xml.Schema.XsdEntity
+struct  XsdEntity_t2664305022  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6611,9 +10924,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDIDREF_T3223262445_H
 #ifndef XSDIDREFS_T3016698016_H
 #define XSDIDREFS_T3016698016_H
+=======
+#endif // XSDENTITY_T2664305022_H
+#ifndef XSDIDREFS_T763119546_H
+#define XSDIDREFS_T763119546_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6621,7 +10940,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdIDRefs
+<<<<<<< HEAD
 struct  XsdIDRefs_t3016698016  : public XsdName_t90575031
+=======
+struct  XsdIDRefs_t763119546  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6631,17 +10954,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDIDREFS_T3016698016_H
 #ifndef XSDENTITY_T2535529342_H
 #define XSDENTITY_T2535529342_H
+=======
+#endif // XSDIDREFS_T763119546_H
+#ifndef XSDUNSIGNEDINT_T2956447959_H
+#define XSDUNSIGNEDINT_T2956447959_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdEntity
 struct  XsdEntity_t2535529342  : public XsdName_t90575031
+=======
+// Mono.Xml.Schema.XsdUnsignedInt
+struct  XsdUnsignedInt_t2956447959  : public XsdUnsignedLong_t137890294
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6651,17 +10985,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDENTITY_T2535529342_H
 #ifndef XSDENTITIES_T2030676010_H
 #define XSDENTITIES_T2030676010_H
+=======
+#endif // XSDUNSIGNEDINT_T2956447959_H
+#ifndef XSDIDREF_T1377311049_H
+#define XSDIDREF_T1377311049_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdEntities
 struct  XsdEntities_t2030676010  : public XsdName_t90575031
+=======
+// Mono.Xml.Schema.XsdIDRef
+struct  XsdIDRef_t1377311049  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6671,17 +11016,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDENTITIES_T2030676010_H
 #ifndef XSDQNAME_T3241932130_H
 #define XSDQNAME_T3241932130_H
+=======
+#endif // XSDIDREF_T1377311049_H
+#ifndef XSDID_T1067193160_H
+#define XSDID_T1067193160_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdQName
 struct  XsdQName_t3241932130  : public XsdName_t90575031
+=======
+// Mono.Xml.Schema.XsdID
+struct  XsdID_t1067193160  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6691,9 +11047,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDQNAME_T3241932130_H
 #ifndef XSDSHORT_T3915825703_H
 #define XSDSHORT_T3915825703_H
+=======
+#endif // XSDID_T1067193160_H
+#ifndef XSDSHORT_T1778530041_H
+#define XSDSHORT_T1778530041_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6701,7 +11063,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdShort
+<<<<<<< HEAD
 struct  XsdShort_t3915825703  : public XsdInt_t2391314489
+=======
+struct  XsdShort_t1778530041  : public XsdInt_t1488443894
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6711,17 +11077,28 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDSHORT_T3915825703_H
 #ifndef XSDUNSIGNEDINT_T3319427692_H
 #define XSDUNSIGNEDINT_T3319427692_H
+=======
+#endif // XSDSHORT_T1778530041_H
+#ifndef XSDNCNAME_T414304927_H
+#define XSDNCNAME_T414304927_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdUnsignedInt
 struct  XsdUnsignedInt_t3319427692  : public XsdUnsignedLong_t442032136
+=======
+// Mono.Xml.Schema.XsdNCName
+struct  XsdNCName_t414304927  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6731,17 +11108,27 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDUNSIGNEDINT_T3319427692_H
 #ifndef XSDNCNAME_T286746401_H
 #define XSDNCNAME_T286746401_H
+=======
+#endif // XSDNCNAME_T414304927_H
+#ifndef XSDNMTOKENS_T1753890866_H
+#define XSDNMTOKENS_T1753890866_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
+<<<<<<< HEAD
 // Mono.Xml.Schema.XsdNCName
 struct  XsdNCName_t286746401  : public XsdName_t90575031
+=======
+// Mono.Xml.Schema.XsdNMTokens
+struct  XsdNMTokens_t1753890866  : public XsdNMToken_t547135877
 {
 public:
 
@@ -6751,9 +11138,36 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+#endif // XSDNMTOKENS_T1753890866_H
+#ifndef XSDQNAME_T930779123_H
+#define XSDQNAME_T930779123_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// Mono.Xml.Schema.XsdQName
+struct  XsdQName_t930779123  : public XsdName_t1409945702
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+<<<<<<< HEAD
 #endif // XSDNCNAME_T286746401_H
 #ifndef XSDBYTE_T4236916534_H
 #define XSDBYTE_T4236916534_H
+=======
+#endif // XSDQNAME_T930779123_H
+#ifndef XSDBYTE_T1120972221_H
+#define XSDBYTE_T1120972221_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6761,7 +11175,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdByte
+<<<<<<< HEAD
 struct  XsdByte_t4236916534  : public XsdShort_t3915825703
+=======
+struct  XsdByte_t1120972221  : public XsdShort_t1778530041
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6771,9 +11189,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDBYTE_T4236916534_H
 #ifndef XSDUNSIGNEDSHORT_T1673102944_H
 #define XSDUNSIGNEDSHORT_T1673102944_H
+=======
+#endif // XSDBYTE_T1120972221_H
+#ifndef XSDUNSIGNEDSHORT_T3693774826_H
+#define XSDUNSIGNEDSHORT_T3693774826_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6781,7 +11205,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdUnsignedShort
+<<<<<<< HEAD
 struct  XsdUnsignedShort_t1673102944  : public XsdUnsignedInt_t3319427692
+=======
+struct  XsdUnsignedShort_t3693774826  : public XsdUnsignedInt_t2956447959
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6791,9 +11219,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDUNSIGNEDSHORT_T1673102944_H
 #ifndef XSDUNSIGNEDBYTE_T1287515749_H
 #define XSDUNSIGNEDBYTE_T1287515749_H
+=======
+#endif // XSDUNSIGNEDSHORT_T3693774826_H
+#ifndef XSDUNSIGNEDBYTE_T3216355454_H
+#define XSDUNSIGNEDBYTE_T3216355454_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6801,7 +11235,11 @@ public:
 #endif
 
 // Mono.Xml.Schema.XsdUnsignedByte
+<<<<<<< HEAD
 struct  XsdUnsignedByte_t1287515749  : public XsdUnsignedShort_t1673102944
+=======
+struct  XsdUnsignedByte_t3216355454  : public XsdUnsignedShort_t3693774826
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 {
 public:
 
@@ -6811,7 +11249,11 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< HEAD
 #endif // XSDUNSIGNEDBYTE_T1287515749_H
+=======
+#endif // XSDUNSIGNEDBYTE_T3216355454_H
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 
 
 
@@ -6822,9 +11264,15 @@ public:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1800 = { sizeof (Rigidbody2D_t1446278688), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1801 = { sizeof (Collider2D_t3934198296), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1802 = { sizeof (RaycastHit2D_t1168150983)+ sizeof (RuntimeObject), -1, 0, 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1800 = { sizeof (Rigidbody2D_t502193897), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1801 = { sizeof (Collider2D_t646061738), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1802 = { sizeof (RaycastHit2D_t4063908774)+ sizeof (RuntimeObject), -1, 0, 0 };
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 extern const int32_t g_FieldOffsetTable1802[6] = 
 {
 	RaycastHit2D_t1168150983::get_offset_of_m_Centroid_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
@@ -6838,7 +11286,11 @@ extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1803 = { sizeof (U3CM
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1804 = { sizeof (TextAnchor_t3672534062)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable1804[10] = 
 {
+<<<<<<< HEAD
 	TextAnchor_t3672534062::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+	TextAnchor_t112990806::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	0,
 	0,
 	0,
@@ -6849,7 +11301,11 @@ extern const int32_t g_FieldOffsetTable1804[10] =
 	0,
 	0,
 };
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1805 = { sizeof (HorizontalWrapMode_t3366674770)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1805 = { sizeof (HorizontalWrapMode_t2027154177)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 extern const int32_t g_FieldOffsetTable1805[3] = 
 {
 	HorizontalWrapMode_t3366674770::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
@@ -6918,22 +11374,37 @@ extern const int32_t g_FieldOffsetTable1813[11] =
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1814 = { sizeof (FontStyle_t1406122467)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable1814[5] = 
 {
+<<<<<<< HEAD
 	FontStyle_t1406122467::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+	FontStyle_t2764949590::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	0,
 	0,
 	0,
 	0,
 };
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1815 = { sizeof (TextGenerationError_t544407864)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable1815[5] = 
 {
 	TextGenerationError_t544407864::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1815 = { sizeof (TextGenerationError_t780770201)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable1815[5] = 
+{
+	TextGenerationError_t780770201::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	0,
 	0,
 	0,
 	0,
 };
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1816 = { sizeof (TextGenerationSettings_t1052024526)+ sizeof (RuntimeObject), -1, 0, 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1816 = { sizeof (TextGenerationSettings_t2543476768)+ sizeof (RuntimeObject), -1, 0, 0 };
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 extern const int32_t g_FieldOffsetTable1816[18] = 
 {
 	TextGenerationSettings_t1052024526::get_offset_of_font_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
@@ -6983,15 +11454,24 @@ extern const int32_t g_FieldOffsetTable1823[3] =
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1824 = { sizeof (UnityWebRequestMethod_t3090889009)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable1824[6] = 
 {
+<<<<<<< HEAD
 	UnityWebRequestMethod_t3090889009::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+	UnityWebRequestMethod_t2654069489::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	0,
 	0,
 	0,
 	0,
 	0,
 };
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1825 = { sizeof (WWWForm_t2697872703), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1826 = { sizeof (WWWTranscoder_t2044518399), -1, sizeof(WWWTranscoder_t2044518399_StaticFields), 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1825 = { sizeof (WWWForm_t3950226929), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1826 = { sizeof (WWWTranscoder_t1124214756), -1, sizeof(WWWTranscoder_t1124214756_StaticFields), 0 };
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 extern const int32_t g_FieldOffsetTable1826[8] = 
 {
 	WWWTranscoder_t2044518399_StaticFields::get_offset_of_ucHexChars_0(),
@@ -7057,21 +11537,36 @@ extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1835 = { 0, -1, 0, 0 
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1836 = { sizeof (XsdWhitespaceFacet_t3730580690)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable1836[4] = 
 {
+<<<<<<< HEAD
 	XsdWhitespaceFacet_t3730580690::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+	XsdWhitespaceFacet_t2758097827::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	0,
 	0,
 	0,
 };
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1837 = { sizeof (XsdOrdering_t3944780643)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable1837[5] = 
 {
 	XsdOrdering_t3944780643::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1837 = { sizeof (XsdOrdering_t3741887935)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable1837[5] = 
+{
+	XsdOrdering_t3741887935::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 	0,
 	0,
 	0,
 	0,
 };
+<<<<<<< HEAD
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1838 = { sizeof (XsdAnySimpleType_t2181915030), -1, sizeof(XsdAnySimpleType_t2181915030_StaticFields), 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1838 = { sizeof (XsdAnySimpleType_t1096449895), -1, sizeof(XsdAnySimpleType_t1096449895_StaticFields), 0 };
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 extern const int32_t g_FieldOffsetTable1838[6] = 
 {
 	XsdAnySimpleType_t2181915030_StaticFields::get_offset_of_instance_55(),
@@ -7219,10 +11714,17 @@ extern const int32_t g_FieldOffsetTable1898[2] =
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize1899 = { sizeof (XmlSchemaAny_t616828129), -1, sizeof(XmlSchemaAny_t616828129_StaticFields), 0 };
 extern const int32_t g_FieldOffsetTable1899[4] = 
 {
+<<<<<<< HEAD
 	XmlSchemaAny_t616828129_StaticFields::get_offset_of_anyTypeContent_27(),
 	XmlSchemaAny_t616828129::get_offset_of_nameSpace_28(),
 	XmlSchemaAny_t616828129::get_offset_of_processing_29(),
 	XmlSchemaAny_t616828129::get_offset_of_wildcard_30(),
+=======
+	XmlSchemaAny_t3277730824_StaticFields::get_offset_of_anyTypeContent_27(),
+	XmlSchemaAny_t3277730824::get_offset_of_nameSpace_28(),
+	XmlSchemaAny_t3277730824::get_offset_of_processing_29(),
+	XmlSchemaAny_t3277730824::get_offset_of_wildcard_30(),
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 };
 #ifdef __clang__
 #pragma clang diagnostic pop

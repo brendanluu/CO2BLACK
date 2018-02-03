@@ -1,2 +1,10 @@
 <linker>
+<<<<<<< HEAD
+=======
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="lampBtns">
+			<method name="BuildingFactTopBtn"/>
+		</type>
+	</assembly>
+>>>>>>> 704d8026e8fc3f938aba771aa116e7b6a0cffc9a
 </linker>
