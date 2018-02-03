@@ -17,6 +17,7 @@ namespace UnityEngine.XR.iOS
 
 		public GameObject replaceBulb;
 
+
 		public GameObject lampNewCollider;
 
 		public Material lampShade;

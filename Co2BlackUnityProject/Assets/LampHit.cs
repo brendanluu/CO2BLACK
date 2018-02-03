@@ -17,11 +17,16 @@ public class LampHit : MonoBehaviour {
 	public GameObject badBulb;
 	public GameObject replaceBulb;
 	public GameObject cflTrans;
+	public GameObject pointer;
 
 	//second half
 	public GameObject dontForget;
 	public GameObject turnOff;
 
+
+	//example Cube for beginning to combine scenes
+	public GameObject exampleCube;
+	public GameObject wholeLampObject;
 
 
 //	public GameObject smokeHigh;
@@ -46,6 +51,7 @@ public class LampHit : MonoBehaviour {
 //		lampShade.DisableKeyword ("_EMISSION");
 //		lampSpotlight.SetActive (false);
 			BuildingFactTop.SetActive (true);
+			pointer.SetActive (true);
 			BuildingFactBot.SetActive (true);
 			badBulb.SetActive (false);
 			cflBulb.SetActive (true);
@@ -72,9 +78,13 @@ public class LampHit : MonoBehaviour {
 		//show text
 		dontForget.SetActive (true);
 		turnOff.SetActive (true);
+		pointer.SetActive (false);
 
 		//hide btn
 		nextButton.SetActive (false);
+		wholeLampObject.SetActive (false);
+
+		exampleCube.SetActive (true);
 
 	}
 }

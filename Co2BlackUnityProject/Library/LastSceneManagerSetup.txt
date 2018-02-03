@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/Grabbing03.unity
+=======
+- path: Assets/_Scenes/erinMarty_duplicate.unity
+>>>>>>> 2847e90143fef96e277023dc635f2720ea74ae79
   isLoaded: 1
   isActive: 1
