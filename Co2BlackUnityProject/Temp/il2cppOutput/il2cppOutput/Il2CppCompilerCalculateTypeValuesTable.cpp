@@ -2046,7 +2046,11 @@ extern const int32_t g_FieldOffsetTable3061[6];
 extern const int32_t g_FieldOffsetTable3062[1];
 extern const int32_t g_FieldOffsetTable3063[5];
 extern const int32_t g_FieldOffsetTable3064[15];
+<<<<<<< Updated upstream
 extern const int32_t g_FieldOffsetTable3065[15];
+=======
+extern const int32_t g_FieldOffsetTable3065[11];
+>>>>>>> Stashed changes
 extern const int32_t g_FieldOffsetTable3066[7];
 extern const int32_t g_FieldOffsetTable3068[3];
 extern const int32_t g_FieldOffsetTable3070[3];

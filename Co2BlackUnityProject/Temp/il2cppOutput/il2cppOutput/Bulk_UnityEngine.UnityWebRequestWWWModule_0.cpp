@@ -19,6 +19,7 @@
 #include "object-internals.h"
 
 // UnityEngine.WWW
+<<<<<<< Updated upstream
 struct WWW_t2412453601;
 // System.String
 struct String_t;
@@ -81,6 +82,70 @@ struct ByteU5BU5D_t2724152930;
 
 #ifndef U3CMODULEU3E_T1833730998_H
 #define U3CMODULEU3E_T1833730998_H
+=======
+struct WWW_t2571699725;
+// System.String
+struct String_t;
+// System.Byte[]
+struct ByteU5BU5D_t2322282968;
+// System.Collections.Generic.Dictionary`2<System.String,System.String>
+struct Dictionary_2_t2650265135;
+// UnityEngine.CustomYieldInstruction
+struct CustomYieldInstruction_t3927226876;
+// UnityEngine.Networking.UnityWebRequest
+struct UnityWebRequest_t3693682918;
+// UnityEngine.Networking.UploadHandlerRaw
+struct UploadHandlerRaw_t1698449290;
+// UnityEngine.Networking.UploadHandler
+struct UploadHandler_t1329504538;
+// UnityEngine.Networking.DownloadHandlerBuffer
+struct DownloadHandlerBuffer_t1134579330;
+// UnityEngine.Networking.DownloadHandler
+struct DownloadHandler_t1880565353;
+// System.Collections.Generic.Dictionary`2<System.Object,System.Object>
+struct Dictionary_2_t1886497195;
+// UnityEngine.Networking.UnityWebRequestAsyncOperation
+struct UnityWebRequestAsyncOperation_t2109717903;
+// System.Int32[]
+struct Int32U5BU5D_t1249972212;
+// System.Collections.Generic.Link[]
+struct LinkU5BU5D_t3366411503;
+// System.String[]
+struct StringU5BU5D_t4053320056;
+// System.Collections.Generic.IEqualityComparer`1<System.String>
+struct IEqualityComparer_1_t1741284893;
+// System.Runtime.Serialization.SerializationInfo
+struct SerializationInfo_t1706257602;
+// System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.String,System.Collections.DictionaryEntry>
+struct Transform_1_t3556615437;
+// System.Char[]
+struct CharU5BU5D_t3572321290;
+// System.Void
+struct Void_t1770888296;
+// System.Action`1<UnityEngine.AsyncOperation>
+struct Action_1_t2039145292;
+
+extern RuntimeClass* UnityWebRequest_t3693682918_il2cpp_TypeInfo_var;
+extern RuntimeClass* UploadHandlerRaw_t1698449290_il2cpp_TypeInfo_var;
+extern RuntimeClass* DownloadHandlerBuffer_t1134579330_il2cpp_TypeInfo_var;
+extern const RuntimeMethod* Dictionary_2_GetEnumerator_m3732344541_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_get_Current_m4133064092_RuntimeMethod_var;
+extern const RuntimeMethod* KeyValuePair_2_get_Key_m2804481201_RuntimeMethod_var;
+extern const RuntimeMethod* KeyValuePair_2_get_Value_m2713791521_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_MoveNext_m119930490_RuntimeMethod_var;
+extern const RuntimeMethod* Enumerator_Dispose_m275036815_RuntimeMethod_var;
+extern Il2CppCodeGenString* _stringLiteral3839263611;
+extern Il2CppCodeGenString* _stringLiteral1463756636;
+extern Il2CppCodeGenString* _stringLiteral3405701149;
+extern const uint32_t WWW__ctor_m3416569692_MetadataUsageId;
+struct UnityWebRequest_t3693682918_marshaled_com;
+
+struct ByteU5BU5D_t2322282968;
+
+
+#ifndef U3CMODULEU3E_T3585700750_H
+#define U3CMODULEU3E_T3585700750_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -88,7 +153,11 @@ struct ByteU5BU5D_t2724152930;
 #endif
 
 // <Module>
+<<<<<<< Updated upstream
 struct  U3CModuleU3E_t1833730998 
+=======
+struct  U3CModuleU3E_t3585700750 
+>>>>>>> Stashed changes
 {
 public:
 
@@ -98,7 +167,11 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CMODULEU3E_T1833730998_H
+=======
+#endif // U3CMODULEU3E_T3585700750_H
+>>>>>>> Stashed changes
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__
@@ -128,8 +201,13 @@ struct Il2CppArrayBounds;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEARRAY_H
+<<<<<<< Updated upstream
 #ifndef VALUETYPE_T4179911041_H
 #define VALUETYPE_T4179911041_H
+=======
+#ifndef VALUETYPE_T3861366942_H
+#define VALUETYPE_T3861366942_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -137,7 +215,11 @@ struct Il2CppArrayBounds;
 #endif
 
 // System.ValueType
+<<<<<<< Updated upstream
 struct  ValueType_t4179911041  : public RuntimeObject
+=======
+struct  ValueType_t3861366942  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
@@ -148,6 +230,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.ValueType
+<<<<<<< Updated upstream
 struct ValueType_t4179911041_marshaled_pinvoke
 {
 };
@@ -158,6 +241,18 @@ struct ValueType_t4179911041_marshaled_com
 #endif // VALUETYPE_T4179911041_H
 #ifndef CUSTOMYIELDINSTRUCTION_T3915520378_H
 #define CUSTOMYIELDINSTRUCTION_T3915520378_H
+=======
+struct ValueType_t3861366942_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.ValueType
+struct ValueType_t3861366942_marshaled_com
+{
+};
+#endif // VALUETYPE_T3861366942_H
+#ifndef CUSTOMYIELDINSTRUCTION_T3927226876_H
+#define CUSTOMYIELDINSTRUCTION_T3927226876_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -165,7 +260,11 @@ struct ValueType_t4179911041_marshaled_com
 #endif
 
 // UnityEngine.CustomYieldInstruction
+<<<<<<< Updated upstream
 struct  CustomYieldInstruction_t3915520378  : public RuntimeObject
+=======
+struct  CustomYieldInstruction_t3927226876  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
@@ -175,9 +274,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // CUSTOMYIELDINSTRUCTION_T3915520378_H
 #ifndef DICTIONARY_2_T3067303432_H
 #define DICTIONARY_2_T3067303432_H
+=======
+#endif // CUSTOMYIELDINSTRUCTION_T3927226876_H
+#ifndef DICTIONARY_2_T2650265135_H
+#define DICTIONARY_2_T2650265135_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -185,6 +290,7 @@ public:
 #endif
 
 // System.Collections.Generic.Dictionary`2<System.String,System.String>
+<<<<<<< Updated upstream
 struct  Dictionary_2_t3067303432  : public RuntimeObject
 {
 public:
@@ -196,6 +302,19 @@ public:
 	StringU5BU5D_t350477295* ___keySlots_6;
 	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
 	StringU5BU5D_t350477295* ___valueSlots_7;
+=======
+struct  Dictionary_2_t2650265135  : public RuntimeObject
+{
+public:
+	// System.Int32[] System.Collections.Generic.Dictionary`2::table
+	Int32U5BU5D_t1249972212* ___table_4;
+	// System.Collections.Generic.Link[] System.Collections.Generic.Dictionary`2::linkSlots
+	LinkU5BU5D_t3366411503* ___linkSlots_5;
+	// TKey[] System.Collections.Generic.Dictionary`2::keySlots
+	StringU5BU5D_t4053320056* ___keySlots_6;
+	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
+	StringU5BU5D_t4053320056* ___valueSlots_7;
+>>>>>>> Stashed changes
 	// System.Int32 System.Collections.Generic.Dictionary`2::touchedSlots
 	int32_t ___touchedSlots_8;
 	// System.Int32 System.Collections.Generic.Dictionary`2::emptySlot
@@ -207,48 +326,84 @@ public:
 	// System.Collections.Generic.IEqualityComparer`1<TKey> System.Collections.Generic.Dictionary`2::hcp
 	RuntimeObject* ___hcp_12;
 	// System.Runtime.Serialization.SerializationInfo System.Collections.Generic.Dictionary`2::serialization_info
+<<<<<<< Updated upstream
 	SerializationInfo_t2721486335 * ___serialization_info_13;
+=======
+	SerializationInfo_t1706257602 * ___serialization_info_13;
+>>>>>>> Stashed changes
 	// System.Int32 System.Collections.Generic.Dictionary`2::generation
 	int32_t ___generation_14;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_table_4() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___table_4)); }
 	inline Int32U5BU5D_t1035326852* get_table_4() const { return ___table_4; }
 	inline Int32U5BU5D_t1035326852** get_address_of_table_4() { return &___table_4; }
 	inline void set_table_4(Int32U5BU5D_t1035326852* value)
+=======
+	inline static int32_t get_offset_of_table_4() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___table_4)); }
+	inline Int32U5BU5D_t1249972212* get_table_4() const { return ___table_4; }
+	inline Int32U5BU5D_t1249972212** get_address_of_table_4() { return &___table_4; }
+	inline void set_table_4(Int32U5BU5D_t1249972212* value)
+>>>>>>> Stashed changes
 	{
 		___table_4 = value;
 		Il2CppCodeGenWriteBarrier((&___table_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_linkSlots_5() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___linkSlots_5)); }
 	inline LinkU5BU5D_t3860202079* get_linkSlots_5() const { return ___linkSlots_5; }
 	inline LinkU5BU5D_t3860202079** get_address_of_linkSlots_5() { return &___linkSlots_5; }
 	inline void set_linkSlots_5(LinkU5BU5D_t3860202079* value)
+=======
+	inline static int32_t get_offset_of_linkSlots_5() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___linkSlots_5)); }
+	inline LinkU5BU5D_t3366411503* get_linkSlots_5() const { return ___linkSlots_5; }
+	inline LinkU5BU5D_t3366411503** get_address_of_linkSlots_5() { return &___linkSlots_5; }
+	inline void set_linkSlots_5(LinkU5BU5D_t3366411503* value)
+>>>>>>> Stashed changes
 	{
 		___linkSlots_5 = value;
 		Il2CppCodeGenWriteBarrier((&___linkSlots_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_keySlots_6() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___keySlots_6)); }
 	inline StringU5BU5D_t350477295* get_keySlots_6() const { return ___keySlots_6; }
 	inline StringU5BU5D_t350477295** get_address_of_keySlots_6() { return &___keySlots_6; }
 	inline void set_keySlots_6(StringU5BU5D_t350477295* value)
+=======
+	inline static int32_t get_offset_of_keySlots_6() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___keySlots_6)); }
+	inline StringU5BU5D_t4053320056* get_keySlots_6() const { return ___keySlots_6; }
+	inline StringU5BU5D_t4053320056** get_address_of_keySlots_6() { return &___keySlots_6; }
+	inline void set_keySlots_6(StringU5BU5D_t4053320056* value)
+>>>>>>> Stashed changes
 	{
 		___keySlots_6 = value;
 		Il2CppCodeGenWriteBarrier((&___keySlots_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_valueSlots_7() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___valueSlots_7)); }
 	inline StringU5BU5D_t350477295* get_valueSlots_7() const { return ___valueSlots_7; }
 	inline StringU5BU5D_t350477295** get_address_of_valueSlots_7() { return &___valueSlots_7; }
 	inline void set_valueSlots_7(StringU5BU5D_t350477295* value)
+=======
+	inline static int32_t get_offset_of_valueSlots_7() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___valueSlots_7)); }
+	inline StringU5BU5D_t4053320056* get_valueSlots_7() const { return ___valueSlots_7; }
+	inline StringU5BU5D_t4053320056** get_address_of_valueSlots_7() { return &___valueSlots_7; }
+	inline void set_valueSlots_7(StringU5BU5D_t4053320056* value)
+>>>>>>> Stashed changes
 	{
 		___valueSlots_7 = value;
 		Il2CppCodeGenWriteBarrier((&___valueSlots_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_touchedSlots_8() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___touchedSlots_8)); }
+=======
+	inline static int32_t get_offset_of_touchedSlots_8() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___touchedSlots_8)); }
+>>>>>>> Stashed changes
 	inline int32_t get_touchedSlots_8() const { return ___touchedSlots_8; }
 	inline int32_t* get_address_of_touchedSlots_8() { return &___touchedSlots_8; }
 	inline void set_touchedSlots_8(int32_t value)
@@ -256,7 +411,11 @@ public:
 		___touchedSlots_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_emptySlot_9() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___emptySlot_9)); }
+=======
+	inline static int32_t get_offset_of_emptySlot_9() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___emptySlot_9)); }
+>>>>>>> Stashed changes
 	inline int32_t get_emptySlot_9() const { return ___emptySlot_9; }
 	inline int32_t* get_address_of_emptySlot_9() { return &___emptySlot_9; }
 	inline void set_emptySlot_9(int32_t value)
@@ -264,7 +423,11 @@ public:
 		___emptySlot_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_count_10() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___count_10)); }
+=======
+	inline static int32_t get_offset_of_count_10() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___count_10)); }
+>>>>>>> Stashed changes
 	inline int32_t get_count_10() const { return ___count_10; }
 	inline int32_t* get_address_of_count_10() { return &___count_10; }
 	inline void set_count_10(int32_t value)
@@ -272,7 +435,11 @@ public:
 		___count_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_threshold_11() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___threshold_11)); }
+=======
+	inline static int32_t get_offset_of_threshold_11() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___threshold_11)); }
+>>>>>>> Stashed changes
 	inline int32_t get_threshold_11() const { return ___threshold_11; }
 	inline int32_t* get_address_of_threshold_11() { return &___threshold_11; }
 	inline void set_threshold_11(int32_t value)
@@ -280,7 +447,11 @@ public:
 		___threshold_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_hcp_12() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___hcp_12)); }
+=======
+	inline static int32_t get_offset_of_hcp_12() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___hcp_12)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject* get_hcp_12() const { return ___hcp_12; }
 	inline RuntimeObject** get_address_of_hcp_12() { return &___hcp_12; }
 	inline void set_hcp_12(RuntimeObject* value)
@@ -289,16 +460,27 @@ public:
 		Il2CppCodeGenWriteBarrier((&___hcp_12), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_serialization_info_13() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___serialization_info_13)); }
 	inline SerializationInfo_t2721486335 * get_serialization_info_13() const { return ___serialization_info_13; }
 	inline SerializationInfo_t2721486335 ** get_address_of_serialization_info_13() { return &___serialization_info_13; }
 	inline void set_serialization_info_13(SerializationInfo_t2721486335 * value)
+=======
+	inline static int32_t get_offset_of_serialization_info_13() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___serialization_info_13)); }
+	inline SerializationInfo_t1706257602 * get_serialization_info_13() const { return ___serialization_info_13; }
+	inline SerializationInfo_t1706257602 ** get_address_of_serialization_info_13() { return &___serialization_info_13; }
+	inline void set_serialization_info_13(SerializationInfo_t1706257602 * value)
+>>>>>>> Stashed changes
 	{
 		___serialization_info_13 = value;
 		Il2CppCodeGenWriteBarrier((&___serialization_info_13), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_generation_14() { return static_cast<int32_t>(offsetof(Dictionary_2_t3067303432, ___generation_14)); }
+=======
+	inline static int32_t get_offset_of_generation_14() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135, ___generation_14)); }
+>>>>>>> Stashed changes
 	inline int32_t get_generation_14() const { return ___generation_14; }
 	inline int32_t* get_address_of_generation_14() { return &___generation_14; }
 	inline void set_generation_14(int32_t value)
@@ -307,6 +489,7 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct Dictionary_2_t3067303432_StaticFields
 {
 public:
@@ -318,6 +501,19 @@ public:
 	inline Transform_1_t2938970781 * get_U3CU3Ef__amU24cacheB_15() const { return ___U3CU3Ef__amU24cacheB_15; }
 	inline Transform_1_t2938970781 ** get_address_of_U3CU3Ef__amU24cacheB_15() { return &___U3CU3Ef__amU24cacheB_15; }
 	inline void set_U3CU3Ef__amU24cacheB_15(Transform_1_t2938970781 * value)
+=======
+struct Dictionary_2_t2650265135_StaticFields
+{
+public:
+	// System.Collections.Generic.Dictionary`2/Transform`1<TKey,TValue,System.Collections.DictionaryEntry> System.Collections.Generic.Dictionary`2::<>f__am$cacheB
+	Transform_1_t3556615437 * ___U3CU3Ef__amU24cacheB_15;
+
+public:
+	inline static int32_t get_offset_of_U3CU3Ef__amU24cacheB_15() { return static_cast<int32_t>(offsetof(Dictionary_2_t2650265135_StaticFields, ___U3CU3Ef__amU24cacheB_15)); }
+	inline Transform_1_t3556615437 * get_U3CU3Ef__amU24cacheB_15() const { return ___U3CU3Ef__amU24cacheB_15; }
+	inline Transform_1_t3556615437 ** get_address_of_U3CU3Ef__amU24cacheB_15() { return &___U3CU3Ef__amU24cacheB_15; }
+	inline void set_U3CU3Ef__amU24cacheB_15(Transform_1_t3556615437 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3Ef__amU24cacheB_15 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__amU24cacheB_15), value);
@@ -327,9 +523,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // DICTIONARY_2_T3067303432_H
 #ifndef YIELDINSTRUCTION_T2130123682_H
 #define YIELDINSTRUCTION_T2130123682_H
+=======
+#endif // DICTIONARY_2_T2650265135_H
+#ifndef YIELDINSTRUCTION_T4065517186_H
+#define YIELDINSTRUCTION_T4065517186_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -337,7 +539,11 @@ public:
 #endif
 
 // UnityEngine.YieldInstruction
+<<<<<<< Updated upstream
 struct  YieldInstruction_t2130123682  : public RuntimeObject
+=======
+struct  YieldInstruction_t4065517186  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
@@ -348,6 +554,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.YieldInstruction
+<<<<<<< Updated upstream
 struct YieldInstruction_t2130123682_marshaled_pinvoke
 {
 };
@@ -356,6 +563,16 @@ struct YieldInstruction_t2130123682_marshaled_com
 {
 };
 #endif // YIELDINSTRUCTION_T2130123682_H
+=======
+struct YieldInstruction_t4065517186_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.YieldInstruction
+struct YieldInstruction_t4065517186_marshaled_com
+{
+};
+#endif // YIELDINSTRUCTION_T4065517186_H
+>>>>>>> Stashed changes
 #ifndef STRING_T_H
 #define STRING_T_H
 #ifdef __clang__
@@ -397,7 +614,11 @@ public:
 	// System.String System.String::Empty
 	String_t* ___Empty_2;
 	// System.Char[] System.String::WhiteChars
+<<<<<<< Updated upstream
 	CharU5BU5D_t815250530* ___WhiteChars_3;
+=======
+	CharU5BU5D_t3572321290* ___WhiteChars_3;
+>>>>>>> Stashed changes
 
 public:
 	inline static int32_t get_offset_of_Empty_2() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_2)); }
@@ -410,9 +631,15 @@ public:
 	}
 
 	inline static int32_t get_offset_of_WhiteChars_3() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___WhiteChars_3)); }
+<<<<<<< Updated upstream
 	inline CharU5BU5D_t815250530* get_WhiteChars_3() const { return ___WhiteChars_3; }
 	inline CharU5BU5D_t815250530** get_address_of_WhiteChars_3() { return &___WhiteChars_3; }
 	inline void set_WhiteChars_3(CharU5BU5D_t815250530* value)
+=======
+	inline CharU5BU5D_t3572321290* get_WhiteChars_3() const { return ___WhiteChars_3; }
+	inline CharU5BU5D_t3572321290** get_address_of_WhiteChars_3() { return &___WhiteChars_3; }
+	inline void set_WhiteChars_3(CharU5BU5D_t3572321290* value)
+>>>>>>> Stashed changes
 	{
 		___WhiteChars_3 = value;
 		Il2CppCodeGenWriteBarrier((&___WhiteChars_3), value);
@@ -423,8 +650,13 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // STRING_T_H
+<<<<<<< Updated upstream
 #ifndef KEYVALUEPAIR_2_T1352545063_H
 #define KEYVALUEPAIR_2_T1352545063_H
+=======
+#ifndef KEYVALUEPAIR_2_T427455021_H
+#define KEYVALUEPAIR_2_T427455021_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -432,7 +664,11 @@ public:
 #endif
 
 // System.Collections.Generic.KeyValuePair`2<System.String,System.String>
+<<<<<<< Updated upstream
 struct  KeyValuePair_2_t1352545063 
+=======
+struct  KeyValuePair_2_t427455021 
+>>>>>>> Stashed changes
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -441,7 +677,11 @@ public:
 	String_t* ___value_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_key_0() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t1352545063, ___key_0)); }
+=======
+	inline static int32_t get_offset_of_key_0() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t427455021, ___key_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_key_0() const { return ___key_0; }
 	inline String_t** get_address_of_key_0() { return &___key_0; }
 	inline void set_key_0(String_t* value)
@@ -450,7 +690,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___key_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value_1() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t1352545063, ___value_1)); }
+=======
+	inline static int32_t get_offset_of_value_1() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t427455021, ___value_1)); }
+>>>>>>> Stashed changes
 	inline String_t* get_value_1() const { return ___value_1; }
 	inline String_t** get_address_of_value_1() { return &___value_1; }
 	inline void set_value_1(String_t* value)
@@ -463,7 +707,11 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // KEYVALUEPAIR_2_T1352545063_H
+=======
+#endif // KEYVALUEPAIR_2_T427455021_H
+>>>>>>> Stashed changes
 #ifndef INTPTR_T_H
 #define INTPTR_T_H
 #ifdef __clang__
@@ -509,8 +757,13 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // INTPTR_T_H
+<<<<<<< Updated upstream
 #ifndef WWW_T2412453601_H
 #define WWW_T2412453601_H
+=======
+#ifndef WWW_T2571699725_H
+#define WWW_T2571699725_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -518,6 +771,7 @@ public:
 #endif
 
 // UnityEngine.WWW
+<<<<<<< Updated upstream
 struct  WWW_t2412453601  : public CustomYieldInstruction_t3915520378
 {
 public:
@@ -529,6 +783,19 @@ public:
 	inline UnityWebRequest_t4277382788 * get__uwr_0() const { return ____uwr_0; }
 	inline UnityWebRequest_t4277382788 ** get_address_of__uwr_0() { return &____uwr_0; }
 	inline void set__uwr_0(UnityWebRequest_t4277382788 * value)
+=======
+struct  WWW_t2571699725  : public CustomYieldInstruction_t3927226876
+{
+public:
+	// UnityEngine.Networking.UnityWebRequest UnityEngine.WWW::_uwr
+	UnityWebRequest_t3693682918 * ____uwr_0;
+
+public:
+	inline static int32_t get_offset_of__uwr_0() { return static_cast<int32_t>(offsetof(WWW_t2571699725, ____uwr_0)); }
+	inline UnityWebRequest_t3693682918 * get__uwr_0() const { return ____uwr_0; }
+	inline UnityWebRequest_t3693682918 ** get_address_of__uwr_0() { return &____uwr_0; }
+	inline void set__uwr_0(UnityWebRequest_t3693682918 * value)
+>>>>>>> Stashed changes
 	{
 		____uwr_0 = value;
 		Il2CppCodeGenWriteBarrier((&____uwr_0), value);
@@ -538,9 +805,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // WWW_T2412453601_H
 #ifndef BOOLEAN_T3465289843_H
 #define BOOLEAN_T3465289843_H
+=======
+#endif // WWW_T2571699725_H
+#ifndef BOOLEAN_T164600428_H
+#define BOOLEAN_T164600428_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -548,14 +821,22 @@ public:
 #endif
 
 // System.Boolean
+<<<<<<< Updated upstream
 struct  Boolean_t3465289843 
+=======
+struct  Boolean_t164600428 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Boolean System.Boolean::m_value
 	bool ___m_value_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Boolean_t3465289843, ___m_value_2)); }
+=======
+	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Boolean_t164600428, ___m_value_2)); }
+>>>>>>> Stashed changes
 	inline bool get_m_value_2() const { return ___m_value_2; }
 	inline bool* get_address_of_m_value_2() { return &___m_value_2; }
 	inline void set_m_value_2(bool value)
@@ -564,7 +845,11 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct Boolean_t3465289843_StaticFields
+=======
+struct Boolean_t164600428_StaticFields
+>>>>>>> Stashed changes
 {
 public:
 	// System.String System.Boolean::FalseString
@@ -573,7 +858,11 @@ public:
 	String_t* ___TrueString_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_FalseString_0() { return static_cast<int32_t>(offsetof(Boolean_t3465289843_StaticFields, ___FalseString_0)); }
+=======
+	inline static int32_t get_offset_of_FalseString_0() { return static_cast<int32_t>(offsetof(Boolean_t164600428_StaticFields, ___FalseString_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_FalseString_0() const { return ___FalseString_0; }
 	inline String_t** get_address_of_FalseString_0() { return &___FalseString_0; }
 	inline void set_FalseString_0(String_t* value)
@@ -582,7 +871,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___FalseString_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TrueString_1() { return static_cast<int32_t>(offsetof(Boolean_t3465289843_StaticFields, ___TrueString_1)); }
+=======
+	inline static int32_t get_offset_of_TrueString_1() { return static_cast<int32_t>(offsetof(Boolean_t164600428_StaticFields, ___TrueString_1)); }
+>>>>>>> Stashed changes
 	inline String_t* get_TrueString_1() const { return ___TrueString_1; }
 	inline String_t** get_address_of_TrueString_1() { return &___TrueString_1; }
 	inline void set_TrueString_1(String_t* value)
@@ -595,9 +888,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // BOOLEAN_T3465289843_H
 #ifndef KEYVALUEPAIR_2_T2419919111_H
 #define KEYVALUEPAIR_2_T2419919111_H
+=======
+#endif // BOOLEAN_T164600428_H
+#ifndef KEYVALUEPAIR_2_T3958654377_H
+#define KEYVALUEPAIR_2_T3958654377_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -605,7 +904,11 @@ public:
 #endif
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>
+<<<<<<< Updated upstream
 struct  KeyValuePair_2_t2419919111 
+=======
+struct  KeyValuePair_2_t3958654377 
+>>>>>>> Stashed changes
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -614,7 +917,11 @@ public:
 	RuntimeObject * ___value_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_key_0() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t2419919111, ___key_0)); }
+=======
+	inline static int32_t get_offset_of_key_0() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t3958654377, ___key_0)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject * get_key_0() const { return ___key_0; }
 	inline RuntimeObject ** get_address_of_key_0() { return &___key_0; }
 	inline void set_key_0(RuntimeObject * value)
@@ -623,7 +930,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___key_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value_1() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t2419919111, ___value_1)); }
+=======
+	inline static int32_t get_offset_of_value_1() { return static_cast<int32_t>(offsetof(KeyValuePair_2_t3958654377, ___value_1)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject * get_value_1() const { return ___value_1; }
 	inline RuntimeObject ** get_address_of_value_1() { return &___value_1; }
 	inline void set_value_1(RuntimeObject * value)
@@ -636,9 +947,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // KEYVALUEPAIR_2_T2419919111_H
 #ifndef VOID_T2358704652_H
 #define VOID_T2358704652_H
+=======
+#endif // KEYVALUEPAIR_2_T3958654377_H
+#ifndef VOID_T1770888296_H
+#define VOID_T1770888296_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -646,7 +963,11 @@ public:
 #endif
 
 // System.Void
+<<<<<<< Updated upstream
 struct  Void_t2358704652 
+=======
+struct  Void_t1770888296 
+>>>>>>> Stashed changes
 {
 public:
 
@@ -656,9 +977,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // VOID_T2358704652_H
 #ifndef BYTE_T1005566579_H
 #define BYTE_T1005566579_H
+=======
+#endif // VOID_T1770888296_H
+#ifndef BYTE_T2210779061_H
+#define BYTE_T2210779061_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -666,14 +993,22 @@ public:
 #endif
 
 // System.Byte
+<<<<<<< Updated upstream
 struct  Byte_t1005566579 
+=======
+struct  Byte_t2210779061 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Byte System.Byte::m_value
 	uint8_t ___m_value_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Byte_t1005566579, ___m_value_2)); }
+=======
+	inline static int32_t get_offset_of_m_value_2() { return static_cast<int32_t>(offsetof(Byte_t2210779061, ___m_value_2)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_m_value_2() const { return ___m_value_2; }
 	inline uint8_t* get_address_of_m_value_2() { return &___m_value_2; }
 	inline void set_m_value_2(uint8_t value)
@@ -685,9 +1020,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // BYTE_T1005566579_H
 #ifndef UPLOADHANDLER_T864956547_H
 #define UPLOADHANDLER_T864956547_H
+=======
+#endif // BYTE_T2210779061_H
+#ifndef UPLOADHANDLER_T1329504538_H
+#define UPLOADHANDLER_T1329504538_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -695,14 +1036,22 @@ public:
 #endif
 
 // UnityEngine.Networking.UploadHandler
+<<<<<<< Updated upstream
 struct  UploadHandler_t864956547  : public RuntimeObject
+=======
+struct  UploadHandler_t1329504538  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.IntPtr UnityEngine.Networking.UploadHandler::m_Ptr
 	intptr_t ___m_Ptr_0;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UploadHandler_t864956547, ___m_Ptr_0)); }
+=======
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UploadHandler_t1329504538, ___m_Ptr_0)); }
+>>>>>>> Stashed changes
 	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
 	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
 	inline void set_m_Ptr_0(intptr_t value)
@@ -715,11 +1064,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.UploadHandler
+<<<<<<< Updated upstream
 struct UploadHandler_t864956547_marshaled_pinvoke
+=======
+struct UploadHandler_t1329504538_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_Ptr_0;
 };
 // Native definition for COM marshalling of UnityEngine.Networking.UploadHandler
+<<<<<<< Updated upstream
 struct UploadHandler_t864956547_marshaled_com
 {
 	intptr_t ___m_Ptr_0;
@@ -727,6 +1081,15 @@ struct UploadHandler_t864956547_marshaled_com
 #endif // UPLOADHANDLER_T864956547_H
 #ifndef ASYNCOPERATION_T4121891248_H
 #define ASYNCOPERATION_T4121891248_H
+=======
+struct UploadHandler_t1329504538_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+};
+#endif // UPLOADHANDLER_T1329504538_H
+#ifndef ASYNCOPERATION_T1663819095_H
+#define ASYNCOPERATION_T1663819095_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -734,16 +1097,27 @@ struct UploadHandler_t864956547_marshaled_com
 #endif
 
 // UnityEngine.AsyncOperation
+<<<<<<< Updated upstream
 struct  AsyncOperation_t4121891248  : public YieldInstruction_t2130123682
+=======
+struct  AsyncOperation_t1663819095  : public YieldInstruction_t4065517186
+>>>>>>> Stashed changes
 {
 public:
 	// System.IntPtr UnityEngine.AsyncOperation::m_Ptr
 	intptr_t ___m_Ptr_0;
 	// System.Action`1<UnityEngine.AsyncOperation> UnityEngine.AsyncOperation::m_completeCallback
+<<<<<<< Updated upstream
 	Action_1_t1386973264 * ___m_completeCallback_1;
 
 public:
 	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(AsyncOperation_t4121891248, ___m_Ptr_0)); }
+=======
+	Action_1_t2039145292 * ___m_completeCallback_1;
+
+public:
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(AsyncOperation_t1663819095, ___m_Ptr_0)); }
+>>>>>>> Stashed changes
 	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
 	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
 	inline void set_m_Ptr_0(intptr_t value)
@@ -751,10 +1125,17 @@ public:
 		___m_Ptr_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_completeCallback_1() { return static_cast<int32_t>(offsetof(AsyncOperation_t4121891248, ___m_completeCallback_1)); }
 	inline Action_1_t1386973264 * get_m_completeCallback_1() const { return ___m_completeCallback_1; }
 	inline Action_1_t1386973264 ** get_address_of_m_completeCallback_1() { return &___m_completeCallback_1; }
 	inline void set_m_completeCallback_1(Action_1_t1386973264 * value)
+=======
+	inline static int32_t get_offset_of_m_completeCallback_1() { return static_cast<int32_t>(offsetof(AsyncOperation_t1663819095, ___m_completeCallback_1)); }
+	inline Action_1_t2039145292 * get_m_completeCallback_1() const { return ___m_completeCallback_1; }
+	inline Action_1_t2039145292 ** get_address_of_m_completeCallback_1() { return &___m_completeCallback_1; }
+	inline void set_m_completeCallback_1(Action_1_t2039145292 * value)
+>>>>>>> Stashed changes
 	{
 		___m_completeCallback_1 = value;
 		Il2CppCodeGenWriteBarrier((&___m_completeCallback_1), value);
@@ -765,20 +1146,34 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.AsyncOperation
+<<<<<<< Updated upstream
 struct AsyncOperation_t4121891248_marshaled_pinvoke : public YieldInstruction_t2130123682_marshaled_pinvoke
+=======
+struct AsyncOperation_t1663819095_marshaled_pinvoke : public YieldInstruction_t4065517186_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_Ptr_0;
 	Il2CppMethodPointer ___m_completeCallback_1;
 };
 // Native definition for COM marshalling of UnityEngine.AsyncOperation
+<<<<<<< Updated upstream
 struct AsyncOperation_t4121891248_marshaled_com : public YieldInstruction_t2130123682_marshaled_com
+=======
+struct AsyncOperation_t1663819095_marshaled_com : public YieldInstruction_t4065517186_marshaled_com
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_Ptr_0;
 	Il2CppMethodPointer ___m_completeCallback_1;
 };
+<<<<<<< Updated upstream
 #endif // ASYNCOPERATION_T4121891248_H
 #ifndef ENUMERATOR_T380049258_H
 #define ENUMERATOR_T380049258_H
+=======
+#endif // ASYNCOPERATION_T1663819095_H
+#ifndef ENUMERATOR_T716661764_H
+#define ENUMERATOR_T716661764_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -786,16 +1181,25 @@ struct AsyncOperation_t4121891248_marshaled_com : public YieldInstruction_t21301
 #endif
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>
+<<<<<<< Updated upstream
 struct  Enumerator_t380049258 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
 	Dictionary_2_t4134677480 * ___dictionary_0;
+=======
+struct  Enumerator_t716661764 
+{
+public:
+	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
+	Dictionary_2_t1886497195 * ___dictionary_0;
+>>>>>>> Stashed changes
 	// System.Int32 System.Collections.Generic.Dictionary`2/Enumerator::next
 	int32_t ___next_1;
 	// System.Int32 System.Collections.Generic.Dictionary`2/Enumerator::stamp
 	int32_t ___stamp_2;
 	// System.Collections.Generic.KeyValuePair`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::current
+<<<<<<< Updated upstream
 	KeyValuePair_2_t2419919111  ___current_3;
 
 public:
@@ -803,12 +1207,25 @@ public:
 	inline Dictionary_2_t4134677480 * get_dictionary_0() const { return ___dictionary_0; }
 	inline Dictionary_2_t4134677480 ** get_address_of_dictionary_0() { return &___dictionary_0; }
 	inline void set_dictionary_0(Dictionary_2_t4134677480 * value)
+=======
+	KeyValuePair_2_t3958654377  ___current_3;
+
+public:
+	inline static int32_t get_offset_of_dictionary_0() { return static_cast<int32_t>(offsetof(Enumerator_t716661764, ___dictionary_0)); }
+	inline Dictionary_2_t1886497195 * get_dictionary_0() const { return ___dictionary_0; }
+	inline Dictionary_2_t1886497195 ** get_address_of_dictionary_0() { return &___dictionary_0; }
+	inline void set_dictionary_0(Dictionary_2_t1886497195 * value)
+>>>>>>> Stashed changes
 	{
 		___dictionary_0 = value;
 		Il2CppCodeGenWriteBarrier((&___dictionary_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t380049258, ___next_1)); }
+=======
+	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t716661764, ___next_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_next_1() const { return ___next_1; }
 	inline int32_t* get_address_of_next_1() { return &___next_1; }
 	inline void set_next_1(int32_t value)
@@ -816,7 +1233,11 @@ public:
 		___next_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_stamp_2() { return static_cast<int32_t>(offsetof(Enumerator_t380049258, ___stamp_2)); }
+=======
+	inline static int32_t get_offset_of_stamp_2() { return static_cast<int32_t>(offsetof(Enumerator_t716661764, ___stamp_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_stamp_2() const { return ___stamp_2; }
 	inline int32_t* get_address_of_stamp_2() { return &___stamp_2; }
 	inline void set_stamp_2(int32_t value)
@@ -824,10 +1245,17 @@ public:
 		___stamp_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t380049258, ___current_3)); }
 	inline KeyValuePair_2_t2419919111  get_current_3() const { return ___current_3; }
 	inline KeyValuePair_2_t2419919111 * get_address_of_current_3() { return &___current_3; }
 	inline void set_current_3(KeyValuePair_2_t2419919111  value)
+=======
+	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t716661764, ___current_3)); }
+	inline KeyValuePair_2_t3958654377  get_current_3() const { return ___current_3; }
+	inline KeyValuePair_2_t3958654377 * get_address_of_current_3() { return &___current_3; }
+	inline void set_current_3(KeyValuePair_2_t3958654377  value)
+>>>>>>> Stashed changes
 	{
 		___current_3 = value;
 	}
@@ -836,9 +1264,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // ENUMERATOR_T380049258_H
 #ifndef ENUMERATOR_T3607642506_H
 #define ENUMERATOR_T3607642506_H
+=======
+#endif // ENUMERATOR_T716661764_H
+#ifndef ENUMERATOR_T1480429704_H
+#define ENUMERATOR_T1480429704_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -846,16 +1280,25 @@ public:
 #endif
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.String,System.String>
+<<<<<<< Updated upstream
 struct  Enumerator_t3607642506 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
 	Dictionary_2_t3067303432 * ___dictionary_0;
+=======
+struct  Enumerator_t1480429704 
+{
+public:
+	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
+	Dictionary_2_t2650265135 * ___dictionary_0;
+>>>>>>> Stashed changes
 	// System.Int32 System.Collections.Generic.Dictionary`2/Enumerator::next
 	int32_t ___next_1;
 	// System.Int32 System.Collections.Generic.Dictionary`2/Enumerator::stamp
 	int32_t ___stamp_2;
 	// System.Collections.Generic.KeyValuePair`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::current
+<<<<<<< Updated upstream
 	KeyValuePair_2_t1352545063  ___current_3;
 
 public:
@@ -863,12 +1306,25 @@ public:
 	inline Dictionary_2_t3067303432 * get_dictionary_0() const { return ___dictionary_0; }
 	inline Dictionary_2_t3067303432 ** get_address_of_dictionary_0() { return &___dictionary_0; }
 	inline void set_dictionary_0(Dictionary_2_t3067303432 * value)
+=======
+	KeyValuePair_2_t427455021  ___current_3;
+
+public:
+	inline static int32_t get_offset_of_dictionary_0() { return static_cast<int32_t>(offsetof(Enumerator_t1480429704, ___dictionary_0)); }
+	inline Dictionary_2_t2650265135 * get_dictionary_0() const { return ___dictionary_0; }
+	inline Dictionary_2_t2650265135 ** get_address_of_dictionary_0() { return &___dictionary_0; }
+	inline void set_dictionary_0(Dictionary_2_t2650265135 * value)
+>>>>>>> Stashed changes
 	{
 		___dictionary_0 = value;
 		Il2CppCodeGenWriteBarrier((&___dictionary_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t3607642506, ___next_1)); }
+=======
+	inline static int32_t get_offset_of_next_1() { return static_cast<int32_t>(offsetof(Enumerator_t1480429704, ___next_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_next_1() const { return ___next_1; }
 	inline int32_t* get_address_of_next_1() { return &___next_1; }
 	inline void set_next_1(int32_t value)
@@ -876,7 +1332,11 @@ public:
 		___next_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_stamp_2() { return static_cast<int32_t>(offsetof(Enumerator_t3607642506, ___stamp_2)); }
+=======
+	inline static int32_t get_offset_of_stamp_2() { return static_cast<int32_t>(offsetof(Enumerator_t1480429704, ___stamp_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_stamp_2() const { return ___stamp_2; }
 	inline int32_t* get_address_of_stamp_2() { return &___stamp_2; }
 	inline void set_stamp_2(int32_t value)
@@ -884,10 +1344,17 @@ public:
 		___stamp_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t3607642506, ___current_3)); }
 	inline KeyValuePair_2_t1352545063  get_current_3() const { return ___current_3; }
 	inline KeyValuePair_2_t1352545063 * get_address_of_current_3() { return &___current_3; }
 	inline void set_current_3(KeyValuePair_2_t1352545063  value)
+=======
+	inline static int32_t get_offset_of_current_3() { return static_cast<int32_t>(offsetof(Enumerator_t1480429704, ___current_3)); }
+	inline KeyValuePair_2_t427455021  get_current_3() const { return ___current_3; }
+	inline KeyValuePair_2_t427455021 * get_address_of_current_3() { return &___current_3; }
+	inline void set_current_3(KeyValuePair_2_t427455021  value)
+>>>>>>> Stashed changes
 	{
 		___current_3 = value;
 	}
@@ -896,9 +1363,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // ENUMERATOR_T3607642506_H
 #ifndef DOWNLOADHANDLER_T2612503148_H
 #define DOWNLOADHANDLER_T2612503148_H
+=======
+#endif // ENUMERATOR_T1480429704_H
+#ifndef DOWNLOADHANDLER_T1880565353_H
+#define DOWNLOADHANDLER_T1880565353_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -906,14 +1379,22 @@ public:
 #endif
 
 // UnityEngine.Networking.DownloadHandler
+<<<<<<< Updated upstream
 struct  DownloadHandler_t2612503148  : public RuntimeObject
+=======
+struct  DownloadHandler_t1880565353  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.IntPtr UnityEngine.Networking.DownloadHandler::m_Ptr
 	intptr_t ___m_Ptr_0;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(DownloadHandler_t2612503148, ___m_Ptr_0)); }
+=======
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(DownloadHandler_t1880565353, ___m_Ptr_0)); }
+>>>>>>> Stashed changes
 	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
 	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
 	inline void set_m_Ptr_0(intptr_t value)
@@ -926,11 +1407,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.DownloadHandler
+<<<<<<< Updated upstream
 struct DownloadHandler_t2612503148_marshaled_pinvoke
+=======
+struct DownloadHandler_t1880565353_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_Ptr_0;
 };
 // Native definition for COM marshalling of UnityEngine.Networking.DownloadHandler
+<<<<<<< Updated upstream
 struct DownloadHandler_t2612503148_marshaled_com
 {
 	intptr_t ___m_Ptr_0;
@@ -938,6 +1424,15 @@ struct DownloadHandler_t2612503148_marshaled_com
 #endif // DOWNLOADHANDLER_T2612503148_H
 #ifndef UNITYWEBREQUEST_T4277382788_H
 #define UNITYWEBREQUEST_T4277382788_H
+=======
+struct DownloadHandler_t1880565353_marshaled_com
+{
+	intptr_t ___m_Ptr_0;
+};
+#endif // DOWNLOADHANDLER_T1880565353_H
+#ifndef UNITYWEBREQUEST_T3693682918_H
+#define UNITYWEBREQUEST_T3693682918_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -945,7 +1440,11 @@ struct DownloadHandler_t2612503148_marshaled_com
 #endif
 
 // UnityEngine.Networking.UnityWebRequest
+<<<<<<< Updated upstream
 struct  UnityWebRequest_t4277382788  : public RuntimeObject
+=======
+struct  UnityWebRequest_t3693682918  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.IntPtr UnityEngine.Networking.UnityWebRequest::m_Ptr
@@ -956,7 +1455,11 @@ public:
 	bool ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UnityWebRequest_t4277382788, ___m_Ptr_0)); }
+=======
+	inline static int32_t get_offset_of_m_Ptr_0() { return static_cast<int32_t>(offsetof(UnityWebRequest_t3693682918, ___m_Ptr_0)); }
+>>>>>>> Stashed changes
 	inline intptr_t get_m_Ptr_0() const { return ___m_Ptr_0; }
 	inline intptr_t* get_address_of_m_Ptr_0() { return &___m_Ptr_0; }
 	inline void set_m_Ptr_0(intptr_t value)
@@ -964,7 +1467,11 @@ public:
 		___m_Ptr_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(UnityWebRequest_t4277382788, ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1)); }
+=======
+	inline static int32_t get_offset_of_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(UnityWebRequest_t3693682918, ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1)); }
+>>>>>>> Stashed changes
 	inline bool get_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() const { return ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1; }
 	inline bool* get_address_of_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1() { return &___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1; }
 	inline void set_U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1(bool value)
@@ -972,7 +1479,11 @@ public:
 		___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(UnityWebRequest_t4277382788, ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(UnityWebRequest_t3693682918, ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline bool get_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() const { return ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2; }
 	inline bool* get_address_of_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2() { return &___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2; }
 	inline void set_U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2(bool value)
@@ -985,22 +1496,36 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.UnityWebRequest
+<<<<<<< Updated upstream
 struct UnityWebRequest_t4277382788_marshaled_pinvoke
+=======
+struct UnityWebRequest_t3693682918_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_Ptr_0;
 	int32_t ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1;
 	int32_t ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2;
 };
 // Native definition for COM marshalling of UnityEngine.Networking.UnityWebRequest
+<<<<<<< Updated upstream
 struct UnityWebRequest_t4277382788_marshaled_com
+=======
+struct UnityWebRequest_t3693682918_marshaled_com
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_Ptr_0;
 	int32_t ___U3CdisposeDownloadHandlerOnDisposeU3Ek__BackingField_1;
 	int32_t ___U3CdisposeUploadHandlerOnDisposeU3Ek__BackingField_2;
 };
+<<<<<<< Updated upstream
 #endif // UNITYWEBREQUEST_T4277382788_H
 #ifndef DOWNLOADHANDLERBUFFER_T1096712495_H
 #define DOWNLOADHANDLERBUFFER_T1096712495_H
+=======
+#endif // UNITYWEBREQUEST_T3693682918_H
+#ifndef DOWNLOADHANDLERBUFFER_T1134579330_H
+#define DOWNLOADHANDLERBUFFER_T1134579330_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1008,7 +1533,11 @@ struct UnityWebRequest_t4277382788_marshaled_com
 #endif
 
 // UnityEngine.Networking.DownloadHandlerBuffer
+<<<<<<< Updated upstream
 struct  DownloadHandlerBuffer_t1096712495  : public DownloadHandler_t2612503148
+=======
+struct  DownloadHandlerBuffer_t1134579330  : public DownloadHandler_t1880565353
+>>>>>>> Stashed changes
 {
 public:
 
@@ -1019,6 +1548,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.DownloadHandlerBuffer
+<<<<<<< Updated upstream
 struct DownloadHandlerBuffer_t1096712495_marshaled_pinvoke : public DownloadHandler_t2612503148_marshaled_pinvoke
 {
 };
@@ -1029,6 +1559,18 @@ struct DownloadHandlerBuffer_t1096712495_marshaled_com : public DownloadHandler_
 #endif // DOWNLOADHANDLERBUFFER_T1096712495_H
 #ifndef UNITYWEBREQUESTASYNCOPERATION_T3662416873_H
 #define UNITYWEBREQUESTASYNCOPERATION_T3662416873_H
+=======
+struct DownloadHandlerBuffer_t1134579330_marshaled_pinvoke : public DownloadHandler_t1880565353_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.Networking.DownloadHandlerBuffer
+struct DownloadHandlerBuffer_t1134579330_marshaled_com : public DownloadHandler_t1880565353_marshaled_com
+{
+};
+#endif // DOWNLOADHANDLERBUFFER_T1134579330_H
+#ifndef UNITYWEBREQUESTASYNCOPERATION_T2109717903_H
+#define UNITYWEBREQUESTASYNCOPERATION_T2109717903_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1036,6 +1578,7 @@ struct DownloadHandlerBuffer_t1096712495_marshaled_com : public DownloadHandler_
 #endif
 
 // UnityEngine.Networking.UnityWebRequestAsyncOperation
+<<<<<<< Updated upstream
 struct  UnityWebRequestAsyncOperation_t3662416873  : public AsyncOperation_t4121891248
 {
 public:
@@ -1047,6 +1590,19 @@ public:
 	inline UnityWebRequest_t4277382788 * get_m_webRequest_2() const { return ___m_webRequest_2; }
 	inline UnityWebRequest_t4277382788 ** get_address_of_m_webRequest_2() { return &___m_webRequest_2; }
 	inline void set_m_webRequest_2(UnityWebRequest_t4277382788 * value)
+=======
+struct  UnityWebRequestAsyncOperation_t2109717903  : public AsyncOperation_t1663819095
+{
+public:
+	// UnityEngine.Networking.UnityWebRequest UnityEngine.Networking.UnityWebRequestAsyncOperation::m_webRequest
+	UnityWebRequest_t3693682918 * ___m_webRequest_2;
+
+public:
+	inline static int32_t get_offset_of_m_webRequest_2() { return static_cast<int32_t>(offsetof(UnityWebRequestAsyncOperation_t2109717903, ___m_webRequest_2)); }
+	inline UnityWebRequest_t3693682918 * get_m_webRequest_2() const { return ___m_webRequest_2; }
+	inline UnityWebRequest_t3693682918 ** get_address_of_m_webRequest_2() { return &___m_webRequest_2; }
+	inline void set_m_webRequest_2(UnityWebRequest_t3693682918 * value)
+>>>>>>> Stashed changes
 	{
 		___m_webRequest_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_webRequest_2), value);
@@ -1057,6 +1613,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.UnityWebRequestAsyncOperation
+<<<<<<< Updated upstream
 struct UnityWebRequestAsyncOperation_t3662416873_marshaled_pinvoke : public AsyncOperation_t4121891248_marshaled_pinvoke
 {
 	UnityWebRequest_t4277382788_marshaled_pinvoke ___m_webRequest_2;
@@ -1069,6 +1626,20 @@ struct UnityWebRequestAsyncOperation_t3662416873_marshaled_com : public AsyncOpe
 #endif // UNITYWEBREQUESTASYNCOPERATION_T3662416873_H
 #ifndef UPLOADHANDLERRAW_T2076366611_H
 #define UPLOADHANDLERRAW_T2076366611_H
+=======
+struct UnityWebRequestAsyncOperation_t2109717903_marshaled_pinvoke : public AsyncOperation_t1663819095_marshaled_pinvoke
+{
+	UnityWebRequest_t3693682918_marshaled_pinvoke ___m_webRequest_2;
+};
+// Native definition for COM marshalling of UnityEngine.Networking.UnityWebRequestAsyncOperation
+struct UnityWebRequestAsyncOperation_t2109717903_marshaled_com : public AsyncOperation_t1663819095_marshaled_com
+{
+	UnityWebRequest_t3693682918_marshaled_com* ___m_webRequest_2;
+};
+#endif // UNITYWEBREQUESTASYNCOPERATION_T2109717903_H
+#ifndef UPLOADHANDLERRAW_T1698449290_H
+#define UPLOADHANDLERRAW_T1698449290_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1076,7 +1647,11 @@ struct UnityWebRequestAsyncOperation_t3662416873_marshaled_com : public AsyncOpe
 #endif
 
 // UnityEngine.Networking.UploadHandlerRaw
+<<<<<<< Updated upstream
 struct  UploadHandlerRaw_t2076366611  : public UploadHandler_t864956547
+=======
+struct  UploadHandlerRaw_t1698449290  : public UploadHandler_t1329504538
+>>>>>>> Stashed changes
 {
 public:
 
@@ -1087,6 +1662,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Networking.UploadHandlerRaw
+<<<<<<< Updated upstream
 struct UploadHandlerRaw_t2076366611_marshaled_pinvoke : public UploadHandler_t864956547_marshaled_pinvoke
 {
 };
@@ -1097,6 +1673,18 @@ struct UploadHandlerRaw_t2076366611_marshaled_com : public UploadHandler_t864956
 #endif // UPLOADHANDLERRAW_T2076366611_H
 // System.Byte[]
 struct ByteU5BU5D_t2724152930  : public RuntimeArray
+=======
+struct UploadHandlerRaw_t1698449290_marshaled_pinvoke : public UploadHandler_t1329504538_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.Networking.UploadHandlerRaw
+struct UploadHandlerRaw_t1698449290_marshaled_com : public UploadHandler_t1329504538_marshaled_com
+{
+};
+#endif // UPLOADHANDLERRAW_T1698449290_H
+// System.Byte[]
+struct ByteU5BU5D_t2322282968  : public RuntimeArray
+>>>>>>> Stashed changes
 {
 public:
 	ALIGN_FIELD (8) uint8_t m_Items[1];
@@ -1133,6 +1721,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<!0,!1> System.Collections.Generic.Dictionary`2<System.Object,System.Object>::GetEnumerator()
+<<<<<<< Updated upstream
 extern "C"  Enumerator_t380049258  Dictionary_2_GetEnumerator_m677375328_gshared (Dictionary_2_t4134677480 * __this, const RuntimeMethod* method);
 // System.Collections.Generic.KeyValuePair`2<!0,!1> System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>::get_Current()
 extern "C"  KeyValuePair_2_t2419919111  Enumerator_get_Current_m2426109046_gshared (Enumerator_t380049258 * __this, const RuntimeMethod* method);
@@ -1179,17 +1768,70 @@ extern "C"  UnityWebRequestAsyncOperation_t3662416873 * UnityWebRequest_SendWebR
 extern "C"  bool UnityWebRequest_get_isDone_m2848494269 (UnityWebRequest_t4277382788 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Networking.UnityWebRequest::Dispose()
 extern "C"  void UnityWebRequest_Dispose_m1249934199 (UnityWebRequest_t4277382788 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+=======
+extern "C"  Enumerator_t716661764  Dictionary_2_GetEnumerator_m3654487326_gshared (Dictionary_2_t1886497195 * __this, const RuntimeMethod* method);
+// System.Collections.Generic.KeyValuePair`2<!0,!1> System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>::get_Current()
+extern "C"  KeyValuePair_2_t3958654377  Enumerator_get_Current_m302555575_gshared (Enumerator_t716661764 * __this, const RuntimeMethod* method);
+// !0 System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>::get_Key()
+extern "C"  RuntimeObject * KeyValuePair_2_get_Key_m3225347373_gshared (KeyValuePair_2_t3958654377 * __this, const RuntimeMethod* method);
+// !1 System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>::get_Value()
+extern "C"  RuntimeObject * KeyValuePair_2_get_Value_m1377295653_gshared (KeyValuePair_2_t3958654377 * __this, const RuntimeMethod* method);
+// System.Boolean System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>::MoveNext()
+extern "C"  bool Enumerator_MoveNext_m84009158_gshared (Enumerator_t716661764 * __this, const RuntimeMethod* method);
+// System.Void System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>::Dispose()
+extern "C"  void Enumerator_Dispose_m2212505740_gshared (Enumerator_t716661764 * __this, const RuntimeMethod* method);
+
+// System.Void UnityEngine.CustomYieldInstruction::.ctor()
+extern "C"  void CustomYieldInstruction__ctor_m22856572 (CustomYieldInstruction_t3927226876 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.UnityWebRequest::.ctor(System.String,System.String)
+extern "C"  void UnityWebRequest__ctor_m864617990 (UnityWebRequest_t3693682918 * __this, String_t* p0, String_t* p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.UploadHandlerRaw::.ctor(System.Byte[])
+extern "C"  void UploadHandlerRaw__ctor_m2415847846 (UploadHandlerRaw_t1698449290 * __this, ByteU5BU5D_t2322282968* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.UploadHandler::set_contentType(System.String)
+extern "C"  void UploadHandler_set_contentType_m1574108147 (UploadHandler_t1329504538 * __this, String_t* p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.UnityWebRequest::set_uploadHandler(UnityEngine.Networking.UploadHandler)
+extern "C"  void UnityWebRequest_set_uploadHandler_m1599095142 (UnityWebRequest_t3693682918 * __this, UploadHandler_t1329504538 * p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.DownloadHandlerBuffer::.ctor()
+extern "C"  void DownloadHandlerBuffer__ctor_m593607261 (DownloadHandlerBuffer_t1134579330 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.UnityWebRequest::set_downloadHandler(UnityEngine.Networking.DownloadHandler)
+extern "C"  void UnityWebRequest_set_downloadHandler_m1919074498 (UnityWebRequest_t3693682918 * __this, DownloadHandler_t1880565353 * p0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Collections.Generic.Dictionary`2/Enumerator<!0,!1> System.Collections.Generic.Dictionary`2<System.String,System.String>::GetEnumerator()
+#define Dictionary_2_GetEnumerator_m3732344541(__this, method) ((  Enumerator_t1480429704  (*) (Dictionary_2_t2650265135 *, const RuntimeMethod*))Dictionary_2_GetEnumerator_m3654487326_gshared)(__this, method)
+// System.Collections.Generic.KeyValuePair`2<!0,!1> System.Collections.Generic.Dictionary`2/Enumerator<System.String,System.String>::get_Current()
+#define Enumerator_get_Current_m4133064092(__this, method) ((  KeyValuePair_2_t427455021  (*) (Enumerator_t1480429704 *, const RuntimeMethod*))Enumerator_get_Current_m302555575_gshared)(__this, method)
+// !0 System.Collections.Generic.KeyValuePair`2<System.String,System.String>::get_Key()
+#define KeyValuePair_2_get_Key_m2804481201(__this, method) ((  String_t* (*) (KeyValuePair_2_t427455021 *, const RuntimeMethod*))KeyValuePair_2_get_Key_m3225347373_gshared)(__this, method)
+// !1 System.Collections.Generic.KeyValuePair`2<System.String,System.String>::get_Value()
+#define KeyValuePair_2_get_Value_m2713791521(__this, method) ((  String_t* (*) (KeyValuePair_2_t427455021 *, const RuntimeMethod*))KeyValuePair_2_get_Value_m1377295653_gshared)(__this, method)
+// System.Void UnityEngine.Networking.UnityWebRequest::SetRequestHeader(System.String,System.String)
+extern "C"  void UnityWebRequest_SetRequestHeader_m2233541574 (UnityWebRequest_t3693682918 * __this, String_t* p0, String_t* p1, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Boolean System.Collections.Generic.Dictionary`2/Enumerator<System.String,System.String>::MoveNext()
+#define Enumerator_MoveNext_m119930490(__this, method) ((  bool (*) (Enumerator_t1480429704 *, const RuntimeMethod*))Enumerator_MoveNext_m84009158_gshared)(__this, method)
+// System.Void System.Collections.Generic.Dictionary`2/Enumerator<System.String,System.String>::Dispose()
+#define Enumerator_Dispose_m275036815(__this, method) ((  void (*) (Enumerator_t1480429704 *, const RuntimeMethod*))Enumerator_Dispose_m2212505740_gshared)(__this, method)
+// UnityEngine.Networking.UnityWebRequestAsyncOperation UnityEngine.Networking.UnityWebRequest::SendWebRequest()
+extern "C"  UnityWebRequestAsyncOperation_t2109717903 * UnityWebRequest_SendWebRequest_m2193945064 (UnityWebRequest_t3693682918 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Boolean UnityEngine.Networking.UnityWebRequest::get_isDone()
+extern "C"  bool UnityWebRequest_get_isDone_m298933480 (UnityWebRequest_t3693682918 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Networking.UnityWebRequest::Dispose()
+extern "C"  void UnityWebRequest_Dispose_m463605744 (UnityWebRequest_t3693682918 * __this, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // System.Void UnityEngine.WWW::.ctor(System.String,System.Byte[],System.Collections.Generic.Dictionary`2<System.String,System.String>)
+<<<<<<< Updated upstream
 extern "C"  void WWW__ctor_m2947886820 (WWW_t2412453601 * __this, String_t* ___url0, ByteU5BU5D_t2724152930* ___postData1, Dictionary_2_t3067303432 * ___headers2, const RuntimeMethod* method)
+=======
+extern "C"  void WWW__ctor_m3416569692 (WWW_t2571699725 * __this, String_t* ___url0, ByteU5BU5D_t2322282968* ___postData1, Dictionary_2_t2650265135 * ___headers2, const RuntimeMethod* method)
+>>>>>>> Stashed changes
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
+<<<<<<< Updated upstream
 		il2cpp_codegen_initialize_method (WWW__ctor_m2947886820_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -1202,26 +1844,53 @@ extern "C"  void WWW__ctor_m2947886820 (WWW_t2412453601 * __this, String_t* ___u
 	Exception_t4070620035 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
 	Exception_t4070620035 * __exception_local = 0;
+=======
+		il2cpp_codegen_initialize_method (WWW__ctor_m3416569692_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	String_t* V_0 = NULL;
+	UploadHandler_t1329504538 * V_1 = NULL;
+	KeyValuePair_2_t427455021  V_2;
+	memset(&V_2, 0, sizeof(V_2));
+	Enumerator_t1480429704  V_3;
+	memset(&V_3, 0, sizeof(V_3));
+	Exception_t1621546179 * __last_unhandled_exception = 0;
+	NO_UNUSED_WARNING (__last_unhandled_exception);
+	Exception_t1621546179 * __exception_local = 0;
+>>>>>>> Stashed changes
 	NO_UNUSED_WARNING (__exception_local);
 	int32_t __leave_target = 0;
 	NO_UNUSED_WARNING (__leave_target);
 	String_t* G_B3_0 = NULL;
 	{
+<<<<<<< Updated upstream
 		CustomYieldInstruction__ctor_m3918102184(__this, /*hidden argument*/NULL);
 		ByteU5BU5D_t2724152930* L_0 = ___postData1;
+=======
+		CustomYieldInstruction__ctor_m22856572(__this, /*hidden argument*/NULL);
+		ByteU5BU5D_t2322282968* L_0 = ___postData1;
+>>>>>>> Stashed changes
 		if (L_0)
 		{
 			goto IL_0017;
 		}
 	}
 	{
+<<<<<<< Updated upstream
 		G_B3_0 = _stringLiteral2355294903;
+=======
+		G_B3_0 = _stringLiteral3839263611;
+>>>>>>> Stashed changes
 		goto IL_001c;
 	}
 
 IL_0017:
 	{
+<<<<<<< Updated upstream
 		G_B3_0 = _stringLiteral1825207305;
+=======
+		G_B3_0 = _stringLiteral1463756636;
+>>>>>>> Stashed changes
 	}
 
 IL_001c:
@@ -1229,6 +1898,7 @@ IL_001c:
 		V_0 = G_B3_0;
 		String_t* L_1 = ___url0;
 		String_t* L_2 = V_0;
+<<<<<<< Updated upstream
 		UnityWebRequest_t4277382788 * L_3 = (UnityWebRequest_t4277382788 *)il2cpp_codegen_object_new(UnityWebRequest_t4277382788_il2cpp_TypeInfo_var);
 		UnityWebRequest__ctor_m3680114619(L_3, L_1, L_2, /*hidden argument*/NULL);
 		__this->set__uwr_0(L_3);
@@ -1251,6 +1921,30 @@ IL_001c:
 		Dictionary_2_t3067303432 * L_11 = ___headers2;
 		NullCheck(L_11);
 		Enumerator_t3607642506  L_12 = Dictionary_2_GetEnumerator_m2187485711(L_11, /*hidden argument*/Dictionary_2_GetEnumerator_m2187485711_RuntimeMethod_var);
+=======
+		UnityWebRequest_t3693682918 * L_3 = (UnityWebRequest_t3693682918 *)il2cpp_codegen_object_new(UnityWebRequest_t3693682918_il2cpp_TypeInfo_var);
+		UnityWebRequest__ctor_m864617990(L_3, L_1, L_2, /*hidden argument*/NULL);
+		__this->set__uwr_0(L_3);
+		ByteU5BU5D_t2322282968* L_4 = ___postData1;
+		UploadHandlerRaw_t1698449290 * L_5 = (UploadHandlerRaw_t1698449290 *)il2cpp_codegen_object_new(UploadHandlerRaw_t1698449290_il2cpp_TypeInfo_var);
+		UploadHandlerRaw__ctor_m2415847846(L_5, L_4, /*hidden argument*/NULL);
+		V_1 = L_5;
+		UploadHandler_t1329504538 * L_6 = V_1;
+		NullCheck(L_6);
+		UploadHandler_set_contentType_m1574108147(L_6, _stringLiteral3405701149, /*hidden argument*/NULL);
+		UnityWebRequest_t3693682918 * L_7 = __this->get__uwr_0();
+		UploadHandler_t1329504538 * L_8 = V_1;
+		NullCheck(L_7);
+		UnityWebRequest_set_uploadHandler_m1599095142(L_7, L_8, /*hidden argument*/NULL);
+		UnityWebRequest_t3693682918 * L_9 = __this->get__uwr_0();
+		DownloadHandlerBuffer_t1134579330 * L_10 = (DownloadHandlerBuffer_t1134579330 *)il2cpp_codegen_object_new(DownloadHandlerBuffer_t1134579330_il2cpp_TypeInfo_var);
+		DownloadHandlerBuffer__ctor_m593607261(L_10, /*hidden argument*/NULL);
+		NullCheck(L_9);
+		UnityWebRequest_set_downloadHandler_m1919074498(L_9, L_10, /*hidden argument*/NULL);
+		Dictionary_2_t2650265135 * L_11 = ___headers2;
+		NullCheck(L_11);
+		Enumerator_t1480429704  L_12 = Dictionary_2_GetEnumerator_m3732344541(L_11, /*hidden argument*/Dictionary_2_GetEnumerator_m3732344541_RuntimeMethod_var);
+>>>>>>> Stashed changes
 		V_3 = L_12;
 	}
 
@@ -1263,6 +1957,7 @@ IL_0060:
 
 IL_0065:
 		{
+<<<<<<< Updated upstream
 			KeyValuePair_2_t1352545063  L_13 = Enumerator_get_Current_m4287563389((&V_3), /*hidden argument*/Enumerator_get_Current_m4287563389_RuntimeMethod_var);
 			V_2 = L_13;
 			UnityWebRequest_t4277382788 * L_14 = __this->get__uwr_0();
@@ -1270,11 +1965,24 @@ IL_0065:
 			String_t* L_16 = KeyValuePair_2_get_Value_m1202790555((&V_2), /*hidden argument*/KeyValuePair_2_get_Value_m1202790555_RuntimeMethod_var);
 			NullCheck(L_14);
 			UnityWebRequest_SetRequestHeader_m2920588771(L_14, L_15, L_16, /*hidden argument*/NULL);
+=======
+			KeyValuePair_2_t427455021  L_13 = Enumerator_get_Current_m4133064092((&V_3), /*hidden argument*/Enumerator_get_Current_m4133064092_RuntimeMethod_var);
+			V_2 = L_13;
+			UnityWebRequest_t3693682918 * L_14 = __this->get__uwr_0();
+			String_t* L_15 = KeyValuePair_2_get_Key_m2804481201((&V_2), /*hidden argument*/KeyValuePair_2_get_Key_m2804481201_RuntimeMethod_var);
+			String_t* L_16 = KeyValuePair_2_get_Value_m2713791521((&V_2), /*hidden argument*/KeyValuePair_2_get_Value_m2713791521_RuntimeMethod_var);
+			NullCheck(L_14);
+			UnityWebRequest_SetRequestHeader_m2233541574(L_14, L_15, L_16, /*hidden argument*/NULL);
+>>>>>>> Stashed changes
 		}
 
 IL_0086:
 		{
+<<<<<<< Updated upstream
 			bool L_17 = Enumerator_MoveNext_m3314861445((&V_3), /*hidden argument*/Enumerator_MoveNext_m3314861445_RuntimeMethod_var);
+=======
+			bool L_17 = Enumerator_MoveNext_m119930490((&V_3), /*hidden argument*/Enumerator_MoveNext_m119930490_RuntimeMethod_var);
+>>>>>>> Stashed changes
 			if (L_17)
 			{
 				goto IL_0065;
@@ -1288,30 +1996,49 @@ IL_0092:
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
+<<<<<<< Updated upstream
 		__last_unhandled_exception = (Exception_t4070620035 *)e.ex;
+=======
+		__last_unhandled_exception = (Exception_t1621546179 *)e.ex;
+>>>>>>> Stashed changes
 		goto FINALLY_0097;
 	}
 
 FINALLY_0097:
 	{ // begin finally (depth: 1)
+<<<<<<< Updated upstream
 		Enumerator_Dispose_m4001178050((&V_3), /*hidden argument*/Enumerator_Dispose_m4001178050_RuntimeMethod_var);
+=======
+		Enumerator_Dispose_m275036815((&V_3), /*hidden argument*/Enumerator_Dispose_m275036815_RuntimeMethod_var);
+>>>>>>> Stashed changes
 		IL2CPP_END_FINALLY(151)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(151)
 	{
 		IL2CPP_JUMP_TBL(0xA5, IL_00a5)
+<<<<<<< Updated upstream
 		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t4070620035 *)
+=======
+		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t1621546179 *)
+>>>>>>> Stashed changes
 	}
 
 IL_00a5:
 	{
+<<<<<<< Updated upstream
 		UnityWebRequest_t4277382788 * L_18 = __this->get__uwr_0();
 		NullCheck(L_18);
 		UnityWebRequest_SendWebRequest_m839182094(L_18, /*hidden argument*/NULL);
+=======
+		UnityWebRequest_t3693682918 * L_18 = __this->get__uwr_0();
+		NullCheck(L_18);
+		UnityWebRequest_SendWebRequest_m2193945064(L_18, /*hidden argument*/NULL);
+>>>>>>> Stashed changes
 		return;
 	}
 }
 // System.Boolean UnityEngine.WWW::get_keepWaiting()
+<<<<<<< Updated upstream
 extern "C"  bool WWW_get_keepWaiting_m3042490575 (WWW_t2412453601 * __this, const RuntimeMethod* method)
 {
 	bool V_0 = false;
@@ -1319,6 +2046,15 @@ extern "C"  bool WWW_get_keepWaiting_m3042490575 (WWW_t2412453601 * __this, cons
 		UnityWebRequest_t4277382788 * L_0 = __this->get__uwr_0();
 		NullCheck(L_0);
 		bool L_1 = UnityWebRequest_get_isDone_m2848494269(L_0, /*hidden argument*/NULL);
+=======
+extern "C"  bool WWW_get_keepWaiting_m4134539656 (WWW_t2571699725 * __this, const RuntimeMethod* method)
+{
+	bool V_0 = false;
+	{
+		UnityWebRequest_t3693682918 * L_0 = __this->get__uwr_0();
+		NullCheck(L_0);
+		bool L_1 = UnityWebRequest_get_isDone_m298933480(L_0, /*hidden argument*/NULL);
+>>>>>>> Stashed changes
 		V_0 = (bool)((((int32_t)L_1) == ((int32_t)0))? 1 : 0);
 		goto IL_0015;
 	}
@@ -1330,12 +2066,21 @@ IL_0015:
 	}
 }
 // System.Void UnityEngine.WWW::Dispose()
+<<<<<<< Updated upstream
 extern "C"  void WWW_Dispose_m4182472826 (WWW_t2412453601 * __this, const RuntimeMethod* method)
 {
 	{
 		UnityWebRequest_t4277382788 * L_0 = __this->get__uwr_0();
 		NullCheck(L_0);
 		UnityWebRequest_Dispose_m1249934199(L_0, /*hidden argument*/NULL);
+=======
+extern "C"  void WWW_Dispose_m3906334227 (WWW_t2571699725 * __this, const RuntimeMethod* method)
+{
+	{
+		UnityWebRequest_t3693682918 * L_0 = __this->get__uwr_0();
+		NullCheck(L_0);
+		UnityWebRequest_Dispose_m463605744(L_0, /*hidden argument*/NULL);
+>>>>>>> Stashed changes
 		return;
 	}
 }

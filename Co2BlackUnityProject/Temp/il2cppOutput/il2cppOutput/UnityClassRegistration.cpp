@@ -184,14 +184,22 @@ class AudioMixerGroup;
 class AudioMixerGroupController; 
 class AudioMixerSnapshot; 
 class AudioMixerSnapshotController; 
+<<<<<<< Updated upstream
 class Avatar; template <> void RegisterClass<Avatar>();
+=======
+class Avatar; 
+>>>>>>> Stashed changes
 class AvatarMask; 
 class BillboardAsset; 
 class ComputeShader; 
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
+<<<<<<< Updated upstream
 class LightProbes; template <> void RegisterClass<LightProbes>();
+=======
+class LightProbes; 
+>>>>>>> Stashed changes
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -270,7 +278,11 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
+<<<<<<< Updated upstream
 	//Total: 87 non stripped classes
+=======
+	//Total: 85 non stripped classes
+>>>>>>> Stashed changes
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -437,6 +449,7 @@ RegisterBuiltinTypes();
 	RegisterClass<RuntimeAnimatorController>();
 	//82. ParticleSystemRenderer
 	RegisterClass<ParticleSystemRenderer>();
+<<<<<<< Updated upstream
 	//83. Avatar
 	RegisterClass<Avatar>();
 	//84. LightProbes
@@ -444,6 +457,11 @@ RegisterBuiltinTypes();
 	//85. AnimationClip
 	RegisterClass<AnimationClip>();
 	//86. NavMeshSettings
+=======
+	//83. AnimationClip
+	RegisterClass<AnimationClip>();
+	//84. NavMeshSettings
+>>>>>>> Stashed changes
 	RegisterClass<NavMeshSettings>();
 
 }

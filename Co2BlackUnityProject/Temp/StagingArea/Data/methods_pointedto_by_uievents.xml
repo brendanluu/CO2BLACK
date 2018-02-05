@@ -1,4 +1,5 @@
 <linker>
+<<<<<<< Updated upstream
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="lampBtns">
 			<method name="BuildingFactTopBtn"/>
@@ -9,4 +10,6 @@
 			<method name="nextBtn"/>
 		</type>
 	</assembly>
+=======
+>>>>>>> Stashed changes
 </linker>

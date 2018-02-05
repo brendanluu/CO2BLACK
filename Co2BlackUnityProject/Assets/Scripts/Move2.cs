@@ -38,17 +38,26 @@ public class Move2 : MonoBehaviour {
 			if (touch.phase == TouchPhase.Moved) {
 				Vector3 fingerPosition = Camera.main.ScreenToWorldPoint (new Vector3 (touch.position.x, touch.position.y, .3f));
 				objectSelect.transform.position = new Vector3(fingerPosition.x, fingerPosition.y, fingerPosition.z);
-				rb.isKinematic = false;
+
 
 			}
 
-   //         if (touch.phase == TouchPhase.Began)
-			//{
-   //             rb.isKinematic = false;
-			//}
+			if (touch.phase == TouchPhase.Stationary) {
+				Vector3 fingerPosition = Camera.main.ScreenToWorldPoint (new Vector3 (touch.position.x, touch.position.y, .3f));
+				objectSelect.transform.position = new Vector3 (fingerPosition.x, fingerPosition.y, fingerPosition.z);
+				rb.isKinematic = true;
+
+
+
+			} else {
+				rb.isKinematic = false;
+			}
+				
+
 
             if (touch.phase == TouchPhase.Ended) {
-				rb.isKinematic = true;
+				Debug.Log ("touch ended");
+
             }
 
 		}

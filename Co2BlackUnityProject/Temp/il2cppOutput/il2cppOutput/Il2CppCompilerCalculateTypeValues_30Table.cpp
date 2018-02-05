@@ -19,6 +19,7 @@
 #include "object-internals.h"
 
 // UnityEngine.Vector3[]
+<<<<<<< Updated upstream
 struct Vector3U5BU5D_t3631869004;
 // System.String
 struct String_t;
@@ -160,6 +161,149 @@ struct Transform_t1462574985;
 struct Camera_t1756852828;
 // UnityEngine.Collider
 struct Collider_t4274572055;
+=======
+struct Vector3U5BU5D_t2320473052;
+// System.String
+struct String_t;
+// System.Collections.Generic.List`1<Mapbox.Geocoding.Feature>
+struct List_1_t878878236;
+// Mapbox.Platform.IFileSource
+struct IFileSource_t1963471227;
+// System.Collections.Generic.List`1<Mapbox.Directions.Intersection>
+struct List_1_t3907503829;
+// System.Collections.Generic.List`1<Mapbox.Utils.Vector2d>
+struct List_1_t2264342153;
+// Mapbox.Directions.Maneuver
+struct Maneuver_t3595949486;
+// System.Collections.Generic.List`1<Mapbox.Directions.Leg>
+struct List_1_t859934040;
+// System.Collections.Generic.List`1<TMPro.SpriteAssetUtilities.TexturePacker/SpriteData>
+struct List_1_t3430711201;
+// System.Collections.Generic.List`1<Mapbox.Directions.Step>
+struct List_1_t2692514210;
+// System.Collections.Generic.List`1<Mapbox.Directions.Route>
+struct List_1_t714002021;
+// System.Collections.Generic.List`1<Mapbox.Directions.Waypoint>
+struct List_1_t491863036;
+// System.Action`1<Mapbox.Directions.DirectionsResponse>
+struct Action_1_t2791528476;
+// Mapbox.Directions.Directions
+struct Directions_t643758552;
+// System.Collections.Generic.List`1<System.Int32>
+struct List_1_t188253260;
+// System.Collections.Generic.List`1<TMPro.TMP_Text>
+struct List_1_t385044449;
+// System.Collections.Generic.Dictionary`2<System.Int32,System.Int32>
+struct Dictionary_2_t2192175839;
+// System.Collections.Generic.List`1<UnityEngine.UI.ICanvasElement>
+struct List_1_t358555936;
+// TMPro.FastAction`2<System.Object,TMPro.Compute_DT_EventArgs>
+struct FastAction_2_t1524950136;
+// TMPro.FastAction`2<System.Boolean,UnityEngine.Material>
+struct FastAction_2_t3349998051;
+// TMPro.FastAction`2<System.Boolean,TMPro.TMP_FontAsset>
+struct FastAction_2_t3427678009;
+// TMPro.FastAction`2<System.Boolean,UnityEngine.Object>
+struct FastAction_2_t223377798;
+// TMPro.FastAction`2<System.Boolean,TMPro.TextMeshPro>
+struct FastAction_2_t664663582;
+// TMPro.FastAction`3<UnityEngine.GameObject,UnityEngine.Material,UnityEngine.Material>
+struct FastAction_3_t549952832;
+// TMPro.FastAction`1<System.Boolean>
+struct FastAction_1_t3284589952;
+// TMPro.FastAction`1<TMPro.TMP_ColorGradient>
+struct FastAction_1_t786491228;
+// TMPro.FastAction
+struct FastAction_t2053667667;
+// TMPro.FastAction`2<System.Boolean,TMPro.TextMeshProUGUI>
+struct FastAction_2_t1454047439;
+// TMPro.FastAction`1<UnityEngine.Object>
+struct FastAction_1_t125549648;
+// System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>>
+struct Func_2_t2553720059;
+// System.Func`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,<>__AnonType1`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,System.String>>
+struct Func_2_t3493150350;
+// System.Func`2<<>__AnonType1`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,System.String>,System.String>
+struct Func_2_t2128727597;
+// System.Func`2<TMPro.KerningPair,System.Int32>
+struct Func_2_t3969952596;
+// System.Collections.Generic.List`1<TMPro.KerningPair>
+struct List_1_t290793058;
+// TMPro.TMP_FontAsset
+struct TMP_FontAsset_t209860335;
+// TMPro.TMP_SpriteAsset
+struct TMP_SpriteAsset_t147018872;
+// UnityEngine.Material
+struct Material_t132180377;
+// System.Single[]
+struct SingleU5BU5D_t771947276;
+// System.Collections.Generic.List`1<System.String>
+struct List_1_t2137962008;
+// System.String[]
+struct StringU5BU5D_t4053320056;
+// System.Char[]
+struct CharU5BU5D_t3572321290;
+// System.Int32[]
+struct Int32U5BU5D_t1249972212;
+// System.Collections.Generic.List`1<System.Double>
+struct List_1_t4123802014;
+// System.Void
+struct Void_t1770888296;
+// TMPro.TMP_Text
+struct TMP_Text_t1608647262;
+// TMPro.MaterialReference[]
+struct MaterialReferenceU5BU5D_t1780233893;
+// UnityEngine.Color32[]
+struct Color32U5BU5D_t536923859;
+// System.Collections.Generic.List`1<System.Boolean>
+struct List_1_t3235964911;
+// Mapbox.Directions.RoutingProfile
+struct RoutingProfile_t3888477618;
+// Mapbox.Utils.Vector2d[]
+struct Vector2dU5BU5D_t263953443;
+// Mapbox.Utils.BearingFilter[]
+struct BearingFilterU5BU5D_t4036392330;
+// Mapbox.Directions.Overview
+struct Overview_t2679930399;
+// System.Double[]
+struct DoubleU5BU5D_t2041516314;
+// UnityEngine.Color[]
+struct ColorU5BU5D_t3394070021;
+// TMPro.TMP_TextElement
+struct TMP_TextElement_t2513093388;
+// TMPro.TextAlignmentOptions[]
+struct TextAlignmentOptionsU5BU5D_t2375914404;
+// System.Collections.Generic.List`1<System.Exception>
+struct List_1_t397943366;
+// Mapbox.Platform.IAsyncRequest
+struct IAsyncRequest_t998841678;
+// System.Action
+struct Action_t3899813028;
+// System.Func`2<System.Exception,System.String>
+struct Func_2_t1737662764;
+// TMPro.TMP_TextInfo
+struct TMP_TextInfo_t2639825916;
+// System.Byte[]
+struct ByteU5BU5D_t2322282968;
+// System.Collections.Generic.Dictionary`2<System.String,System.Object>
+struct Dictionary_2_t1458484040;
+// Mapbox.Geocoding.Geometry
+struct Geometry_t1793293810;
+// System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.String>>
+struct List_1_t1426662322;
+// UnityEngine.GameObject
+struct GameObject_t2000580331;
+// UnityEngine.Light
+struct Light_t3332268330;
+// UnityEngine.XR.iOS.UnityARAnchorManager
+struct UnityARAnchorManager_t3743418602;
+// UnityEngine.Transform
+struct Transform_t2833398713;
+// UnityEngine.Camera
+struct Camera_t2801636965;
+// UnityEngine.Collider
+struct Collider_t2900334382;
+>>>>>>> Stashed changes
 
 
 
@@ -178,8 +322,13 @@ struct Collider_t4274572055;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEOBJECT_H
+<<<<<<< Updated upstream
 #ifndef U3CMODULEU3E_T1833731006_H
 #define U3CMODULEU3E_T1833731006_H
+=======
+#ifndef U3CMODULEU3E_T3585700758_H
+#define U3CMODULEU3E_T3585700758_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -187,7 +336,11 @@ struct Collider_t4274572055;
 #endif
 
 // <Module>
+<<<<<<< Updated upstream
 struct  U3CModuleU3E_t1833731006 
+=======
+struct  U3CModuleU3E_t3585700758 
+>>>>>>> Stashed changes
 {
 public:
 
@@ -197,9 +350,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CMODULEU3E_T1833731006_H
 #ifndef TMP_TEXTUTILITIES_T1654853105_H
 #define TMP_TEXTUTILITIES_T1654853105_H
+=======
+#endif // U3CMODULEU3E_T3585700758_H
+#ifndef TMP_TEXTUTILITIES_T3222917929_H
+#define TMP_TEXTUTILITIES_T3222917929_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -207,13 +366,18 @@ public:
 #endif
 
 // TMPro.TMP_TextUtilities
+<<<<<<< Updated upstream
 struct  TMP_TextUtilities_t1654853105  : public RuntimeObject
+=======
+struct  TMP_TextUtilities_t3222917929  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct TMP_TextUtilities_t1654853105_StaticFields
 {
 public:
@@ -225,6 +389,19 @@ public:
 	inline Vector3U5BU5D_t3631869004* get_m_rectWorldCorners_0() const { return ___m_rectWorldCorners_0; }
 	inline Vector3U5BU5D_t3631869004** get_address_of_m_rectWorldCorners_0() { return &___m_rectWorldCorners_0; }
 	inline void set_m_rectWorldCorners_0(Vector3U5BU5D_t3631869004* value)
+=======
+struct TMP_TextUtilities_t3222917929_StaticFields
+{
+public:
+	// UnityEngine.Vector3[] TMPro.TMP_TextUtilities::m_rectWorldCorners
+	Vector3U5BU5D_t2320473052* ___m_rectWorldCorners_0;
+
+public:
+	inline static int32_t get_offset_of_m_rectWorldCorners_0() { return static_cast<int32_t>(offsetof(TMP_TextUtilities_t3222917929_StaticFields, ___m_rectWorldCorners_0)); }
+	inline Vector3U5BU5D_t2320473052* get_m_rectWorldCorners_0() const { return ___m_rectWorldCorners_0; }
+	inline Vector3U5BU5D_t2320473052** get_address_of_m_rectWorldCorners_0() { return &___m_rectWorldCorners_0; }
+	inline void set_m_rectWorldCorners_0(Vector3U5BU5D_t2320473052* value)
+>>>>>>> Stashed changes
 	{
 		___m_rectWorldCorners_0 = value;
 		Il2CppCodeGenWriteBarrier((&___m_rectWorldCorners_0), value);
@@ -234,9 +411,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_TEXTUTILITIES_T1654853105_H
 #ifndef VALUETYPE_T4179911041_H
 #define VALUETYPE_T4179911041_H
+=======
+#endif // TMP_TEXTUTILITIES_T3222917929_H
+#ifndef VALUETYPE_T3861366942_H
+#define VALUETYPE_T3861366942_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -244,7 +427,11 @@ public:
 #endif
 
 // System.ValueType
+<<<<<<< Updated upstream
 struct  ValueType_t4179911041  : public RuntimeObject
+=======
+struct  ValueType_t3861366942  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
@@ -255,6 +442,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.ValueType
+<<<<<<< Updated upstream
 struct ValueType_t4179911041_marshaled_pinvoke
 {
 };
@@ -265,6 +453,18 @@ struct ValueType_t4179911041_marshaled_com
 #endif // VALUETYPE_T4179911041_H
 #ifndef GEOCODERESPONSE_T2533289773_H
 #define GEOCODERESPONSE_T2533289773_H
+=======
+struct ValueType_t3861366942_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.ValueType
+struct ValueType_t3861366942_marshaled_com
+{
+};
+#endif // VALUETYPE_T3861366942_H
+#ifndef GEOCODERESPONSE_T2217614762_H
+#define GEOCODERESPONSE_T2217614762_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -272,18 +472,30 @@ struct ValueType_t4179911041_marshaled_com
 #endif
 
 // Mapbox.Geocoding.GeocodeResponse
+<<<<<<< Updated upstream
 struct  GeocodeResponse_t2533289773  : public RuntimeObject
+=======
+struct  GeocodeResponse_t2217614762  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Geocoding.GeocodeResponse::<Type>k__BackingField
 	String_t* ___U3CTypeU3Ek__BackingField_0;
 	// System.Collections.Generic.List`1<Mapbox.Geocoding.Feature> Mapbox.Geocoding.GeocodeResponse::<Features>k__BackingField
+<<<<<<< Updated upstream
 	List_1_t3339969995 * ___U3CFeaturesU3Ek__BackingField_1;
+=======
+	List_1_t878878236 * ___U3CFeaturesU3Ek__BackingField_1;
+>>>>>>> Stashed changes
 	// System.String Mapbox.Geocoding.GeocodeResponse::<Attribution>k__BackingField
 	String_t* ___U3CAttributionU3Ek__BackingField_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(GeocodeResponse_t2533289773, ___U3CTypeU3Ek__BackingField_0)); }
+=======
+	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(GeocodeResponse_t2217614762, ___U3CTypeU3Ek__BackingField_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CTypeU3Ek__BackingField_0() const { return ___U3CTypeU3Ek__BackingField_0; }
 	inline String_t** get_address_of_U3CTypeU3Ek__BackingField_0() { return &___U3CTypeU3Ek__BackingField_0; }
 	inline void set_U3CTypeU3Ek__BackingField_0(String_t* value)
@@ -292,16 +504,27 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CTypeU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CFeaturesU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(GeocodeResponse_t2533289773, ___U3CFeaturesU3Ek__BackingField_1)); }
 	inline List_1_t3339969995 * get_U3CFeaturesU3Ek__BackingField_1() const { return ___U3CFeaturesU3Ek__BackingField_1; }
 	inline List_1_t3339969995 ** get_address_of_U3CFeaturesU3Ek__BackingField_1() { return &___U3CFeaturesU3Ek__BackingField_1; }
 	inline void set_U3CFeaturesU3Ek__BackingField_1(List_1_t3339969995 * value)
+=======
+	inline static int32_t get_offset_of_U3CFeaturesU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(GeocodeResponse_t2217614762, ___U3CFeaturesU3Ek__BackingField_1)); }
+	inline List_1_t878878236 * get_U3CFeaturesU3Ek__BackingField_1() const { return ___U3CFeaturesU3Ek__BackingField_1; }
+	inline List_1_t878878236 ** get_address_of_U3CFeaturesU3Ek__BackingField_1() { return &___U3CFeaturesU3Ek__BackingField_1; }
+	inline void set_U3CFeaturesU3Ek__BackingField_1(List_1_t878878236 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CFeaturesU3Ek__BackingField_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CFeaturesU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CAttributionU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(GeocodeResponse_t2533289773, ___U3CAttributionU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CAttributionU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(GeocodeResponse_t2217614762, ___U3CAttributionU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CAttributionU3Ek__BackingField_2() const { return ___U3CAttributionU3Ek__BackingField_2; }
 	inline String_t** get_address_of_U3CAttributionU3Ek__BackingField_2() { return &___U3CAttributionU3Ek__BackingField_2; }
 	inline void set_U3CAttributionU3Ek__BackingField_2(String_t* value)
@@ -314,9 +537,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // GEOCODERESPONSE_T2533289773_H
 #ifndef SHADERUTILITIES_T3097637156_H
 #define SHADERUTILITIES_T3097637156_H
+=======
+#endif // GEOCODERESPONSE_T2217614762_H
+#ifndef SHADERUTILITIES_T2911717781_H
+#define SHADERUTILITIES_T2911717781_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -324,14 +553,22 @@ public:
 #endif
 
 // TMPro.ShaderUtilities
+<<<<<<< Updated upstream
 struct  ShaderUtilities_t3097637156  : public RuntimeObject
+=======
+struct  ShaderUtilities_t2911717781  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct ShaderUtilities_t3097637156_StaticFields
+=======
+struct ShaderUtilities_t2911717781_StaticFields
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.ShaderUtilities::ID_MainTex
@@ -454,7 +691,11 @@ public:
 	bool ___isInitialized_58;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_MainTex_0() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_MainTex_0)); }
+=======
+	inline static int32_t get_offset_of_ID_MainTex_0() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_MainTex_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_MainTex_0() const { return ___ID_MainTex_0; }
 	inline int32_t* get_address_of_ID_MainTex_0() { return &___ID_MainTex_0; }
 	inline void set_ID_MainTex_0(int32_t value)
@@ -462,7 +703,11 @@ public:
 		___ID_MainTex_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_FaceTex_1() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_FaceTex_1)); }
+=======
+	inline static int32_t get_offset_of_ID_FaceTex_1() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_FaceTex_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_FaceTex_1() const { return ___ID_FaceTex_1; }
 	inline int32_t* get_address_of_ID_FaceTex_1() { return &___ID_FaceTex_1; }
 	inline void set_ID_FaceTex_1(int32_t value)
@@ -470,7 +715,11 @@ public:
 		___ID_FaceTex_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_FaceColor_2() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_FaceColor_2)); }
+=======
+	inline static int32_t get_offset_of_ID_FaceColor_2() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_FaceColor_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_FaceColor_2() const { return ___ID_FaceColor_2; }
 	inline int32_t* get_address_of_ID_FaceColor_2() { return &___ID_FaceColor_2; }
 	inline void set_ID_FaceColor_2(int32_t value)
@@ -478,7 +727,11 @@ public:
 		___ID_FaceColor_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_FaceDilate_3() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_FaceDilate_3)); }
+=======
+	inline static int32_t get_offset_of_ID_FaceDilate_3() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_FaceDilate_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_FaceDilate_3() const { return ___ID_FaceDilate_3; }
 	inline int32_t* get_address_of_ID_FaceDilate_3() { return &___ID_FaceDilate_3; }
 	inline void set_ID_FaceDilate_3(int32_t value)
@@ -486,7 +739,11 @@ public:
 		___ID_FaceDilate_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_Shininess_4() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_Shininess_4)); }
+=======
+	inline static int32_t get_offset_of_ID_Shininess_4() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_Shininess_4)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_Shininess_4() const { return ___ID_Shininess_4; }
 	inline int32_t* get_address_of_ID_Shininess_4() { return &___ID_Shininess_4; }
 	inline void set_ID_Shininess_4(int32_t value)
@@ -494,7 +751,11 @@ public:
 		___ID_Shininess_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_UnderlayColor_5() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_UnderlayColor_5)); }
+=======
+	inline static int32_t get_offset_of_ID_UnderlayColor_5() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_UnderlayColor_5)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_UnderlayColor_5() const { return ___ID_UnderlayColor_5; }
 	inline int32_t* get_address_of_ID_UnderlayColor_5() { return &___ID_UnderlayColor_5; }
 	inline void set_ID_UnderlayColor_5(int32_t value)
@@ -502,7 +763,11 @@ public:
 		___ID_UnderlayColor_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_UnderlayOffsetX_6() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_UnderlayOffsetX_6)); }
+=======
+	inline static int32_t get_offset_of_ID_UnderlayOffsetX_6() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_UnderlayOffsetX_6)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_UnderlayOffsetX_6() const { return ___ID_UnderlayOffsetX_6; }
 	inline int32_t* get_address_of_ID_UnderlayOffsetX_6() { return &___ID_UnderlayOffsetX_6; }
 	inline void set_ID_UnderlayOffsetX_6(int32_t value)
@@ -510,7 +775,11 @@ public:
 		___ID_UnderlayOffsetX_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_UnderlayOffsetY_7() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_UnderlayOffsetY_7)); }
+=======
+	inline static int32_t get_offset_of_ID_UnderlayOffsetY_7() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_UnderlayOffsetY_7)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_UnderlayOffsetY_7() const { return ___ID_UnderlayOffsetY_7; }
 	inline int32_t* get_address_of_ID_UnderlayOffsetY_7() { return &___ID_UnderlayOffsetY_7; }
 	inline void set_ID_UnderlayOffsetY_7(int32_t value)
@@ -518,7 +787,11 @@ public:
 		___ID_UnderlayOffsetY_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_UnderlayDilate_8() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_UnderlayDilate_8)); }
+=======
+	inline static int32_t get_offset_of_ID_UnderlayDilate_8() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_UnderlayDilate_8)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_UnderlayDilate_8() const { return ___ID_UnderlayDilate_8; }
 	inline int32_t* get_address_of_ID_UnderlayDilate_8() { return &___ID_UnderlayDilate_8; }
 	inline void set_ID_UnderlayDilate_8(int32_t value)
@@ -526,7 +799,11 @@ public:
 		___ID_UnderlayDilate_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_UnderlaySoftness_9() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_UnderlaySoftness_9)); }
+=======
+	inline static int32_t get_offset_of_ID_UnderlaySoftness_9() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_UnderlaySoftness_9)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_UnderlaySoftness_9() const { return ___ID_UnderlaySoftness_9; }
 	inline int32_t* get_address_of_ID_UnderlaySoftness_9() { return &___ID_UnderlaySoftness_9; }
 	inline void set_ID_UnderlaySoftness_9(int32_t value)
@@ -534,7 +811,11 @@ public:
 		___ID_UnderlaySoftness_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_WeightNormal_10() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_WeightNormal_10)); }
+=======
+	inline static int32_t get_offset_of_ID_WeightNormal_10() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_WeightNormal_10)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_WeightNormal_10() const { return ___ID_WeightNormal_10; }
 	inline int32_t* get_address_of_ID_WeightNormal_10() { return &___ID_WeightNormal_10; }
 	inline void set_ID_WeightNormal_10(int32_t value)
@@ -542,7 +823,11 @@ public:
 		___ID_WeightNormal_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_WeightBold_11() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_WeightBold_11)); }
+=======
+	inline static int32_t get_offset_of_ID_WeightBold_11() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_WeightBold_11)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_WeightBold_11() const { return ___ID_WeightBold_11; }
 	inline int32_t* get_address_of_ID_WeightBold_11() { return &___ID_WeightBold_11; }
 	inline void set_ID_WeightBold_11(int32_t value)
@@ -550,7 +835,11 @@ public:
 		___ID_WeightBold_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_OutlineTex_12() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_OutlineTex_12)); }
+=======
+	inline static int32_t get_offset_of_ID_OutlineTex_12() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_OutlineTex_12)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_OutlineTex_12() const { return ___ID_OutlineTex_12; }
 	inline int32_t* get_address_of_ID_OutlineTex_12() { return &___ID_OutlineTex_12; }
 	inline void set_ID_OutlineTex_12(int32_t value)
@@ -558,7 +847,11 @@ public:
 		___ID_OutlineTex_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_OutlineWidth_13() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_OutlineWidth_13)); }
+=======
+	inline static int32_t get_offset_of_ID_OutlineWidth_13() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_OutlineWidth_13)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_OutlineWidth_13() const { return ___ID_OutlineWidth_13; }
 	inline int32_t* get_address_of_ID_OutlineWidth_13() { return &___ID_OutlineWidth_13; }
 	inline void set_ID_OutlineWidth_13(int32_t value)
@@ -566,7 +859,11 @@ public:
 		___ID_OutlineWidth_13 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_OutlineSoftness_14() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_OutlineSoftness_14)); }
+=======
+	inline static int32_t get_offset_of_ID_OutlineSoftness_14() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_OutlineSoftness_14)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_OutlineSoftness_14() const { return ___ID_OutlineSoftness_14; }
 	inline int32_t* get_address_of_ID_OutlineSoftness_14() { return &___ID_OutlineSoftness_14; }
 	inline void set_ID_OutlineSoftness_14(int32_t value)
@@ -574,7 +871,11 @@ public:
 		___ID_OutlineSoftness_14 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_OutlineColor_15() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_OutlineColor_15)); }
+=======
+	inline static int32_t get_offset_of_ID_OutlineColor_15() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_OutlineColor_15)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_OutlineColor_15() const { return ___ID_OutlineColor_15; }
 	inline int32_t* get_address_of_ID_OutlineColor_15() { return &___ID_OutlineColor_15; }
 	inline void set_ID_OutlineColor_15(int32_t value)
@@ -582,7 +883,11 @@ public:
 		___ID_OutlineColor_15 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_GradientScale_16() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_GradientScale_16)); }
+=======
+	inline static int32_t get_offset_of_ID_GradientScale_16() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_GradientScale_16)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_GradientScale_16() const { return ___ID_GradientScale_16; }
 	inline int32_t* get_address_of_ID_GradientScale_16() { return &___ID_GradientScale_16; }
 	inline void set_ID_GradientScale_16(int32_t value)
@@ -590,7 +895,11 @@ public:
 		___ID_GradientScale_16 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ScaleX_17() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ScaleX_17)); }
+=======
+	inline static int32_t get_offset_of_ID_ScaleX_17() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ScaleX_17)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ScaleX_17() const { return ___ID_ScaleX_17; }
 	inline int32_t* get_address_of_ID_ScaleX_17() { return &___ID_ScaleX_17; }
 	inline void set_ID_ScaleX_17(int32_t value)
@@ -598,7 +907,11 @@ public:
 		___ID_ScaleX_17 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ScaleY_18() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ScaleY_18)); }
+=======
+	inline static int32_t get_offset_of_ID_ScaleY_18() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ScaleY_18)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ScaleY_18() const { return ___ID_ScaleY_18; }
 	inline int32_t* get_address_of_ID_ScaleY_18() { return &___ID_ScaleY_18; }
 	inline void set_ID_ScaleY_18(int32_t value)
@@ -606,7 +919,11 @@ public:
 		___ID_ScaleY_18 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_PerspectiveFilter_19() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_PerspectiveFilter_19)); }
+=======
+	inline static int32_t get_offset_of_ID_PerspectiveFilter_19() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_PerspectiveFilter_19)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_PerspectiveFilter_19() const { return ___ID_PerspectiveFilter_19; }
 	inline int32_t* get_address_of_ID_PerspectiveFilter_19() { return &___ID_PerspectiveFilter_19; }
 	inline void set_ID_PerspectiveFilter_19(int32_t value)
@@ -614,7 +931,11 @@ public:
 		___ID_PerspectiveFilter_19 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_TextureWidth_20() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_TextureWidth_20)); }
+=======
+	inline static int32_t get_offset_of_ID_TextureWidth_20() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_TextureWidth_20)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_TextureWidth_20() const { return ___ID_TextureWidth_20; }
 	inline int32_t* get_address_of_ID_TextureWidth_20() { return &___ID_TextureWidth_20; }
 	inline void set_ID_TextureWidth_20(int32_t value)
@@ -622,7 +943,11 @@ public:
 		___ID_TextureWidth_20 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_TextureHeight_21() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_TextureHeight_21)); }
+=======
+	inline static int32_t get_offset_of_ID_TextureHeight_21() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_TextureHeight_21)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_TextureHeight_21() const { return ___ID_TextureHeight_21; }
 	inline int32_t* get_address_of_ID_TextureHeight_21() { return &___ID_TextureHeight_21; }
 	inline void set_ID_TextureHeight_21(int32_t value)
@@ -630,7 +955,11 @@ public:
 		___ID_TextureHeight_21 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_BevelAmount_22() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_BevelAmount_22)); }
+=======
+	inline static int32_t get_offset_of_ID_BevelAmount_22() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_BevelAmount_22)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_BevelAmount_22() const { return ___ID_BevelAmount_22; }
 	inline int32_t* get_address_of_ID_BevelAmount_22() { return &___ID_BevelAmount_22; }
 	inline void set_ID_BevelAmount_22(int32_t value)
@@ -638,7 +967,11 @@ public:
 		___ID_BevelAmount_22 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_GlowColor_23() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_GlowColor_23)); }
+=======
+	inline static int32_t get_offset_of_ID_GlowColor_23() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_GlowColor_23)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_GlowColor_23() const { return ___ID_GlowColor_23; }
 	inline int32_t* get_address_of_ID_GlowColor_23() { return &___ID_GlowColor_23; }
 	inline void set_ID_GlowColor_23(int32_t value)
@@ -646,7 +979,11 @@ public:
 		___ID_GlowColor_23 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_GlowOffset_24() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_GlowOffset_24)); }
+=======
+	inline static int32_t get_offset_of_ID_GlowOffset_24() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_GlowOffset_24)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_GlowOffset_24() const { return ___ID_GlowOffset_24; }
 	inline int32_t* get_address_of_ID_GlowOffset_24() { return &___ID_GlowOffset_24; }
 	inline void set_ID_GlowOffset_24(int32_t value)
@@ -654,7 +991,11 @@ public:
 		___ID_GlowOffset_24 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_GlowPower_25() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_GlowPower_25)); }
+=======
+	inline static int32_t get_offset_of_ID_GlowPower_25() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_GlowPower_25)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_GlowPower_25() const { return ___ID_GlowPower_25; }
 	inline int32_t* get_address_of_ID_GlowPower_25() { return &___ID_GlowPower_25; }
 	inline void set_ID_GlowPower_25(int32_t value)
@@ -662,7 +1003,11 @@ public:
 		___ID_GlowPower_25 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_GlowOuter_26() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_GlowOuter_26)); }
+=======
+	inline static int32_t get_offset_of_ID_GlowOuter_26() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_GlowOuter_26)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_GlowOuter_26() const { return ___ID_GlowOuter_26; }
 	inline int32_t* get_address_of_ID_GlowOuter_26() { return &___ID_GlowOuter_26; }
 	inline void set_ID_GlowOuter_26(int32_t value)
@@ -670,7 +1015,11 @@ public:
 		___ID_GlowOuter_26 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_LightAngle_27() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_LightAngle_27)); }
+=======
+	inline static int32_t get_offset_of_ID_LightAngle_27() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_LightAngle_27)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_LightAngle_27() const { return ___ID_LightAngle_27; }
 	inline int32_t* get_address_of_ID_LightAngle_27() { return &___ID_LightAngle_27; }
 	inline void set_ID_LightAngle_27(int32_t value)
@@ -678,7 +1027,11 @@ public:
 		___ID_LightAngle_27 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_EnvMap_28() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_EnvMap_28)); }
+=======
+	inline static int32_t get_offset_of_ID_EnvMap_28() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_EnvMap_28)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_EnvMap_28() const { return ___ID_EnvMap_28; }
 	inline int32_t* get_address_of_ID_EnvMap_28() { return &___ID_EnvMap_28; }
 	inline void set_ID_EnvMap_28(int32_t value)
@@ -686,7 +1039,11 @@ public:
 		___ID_EnvMap_28 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_EnvMatrix_29() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_EnvMatrix_29)); }
+=======
+	inline static int32_t get_offset_of_ID_EnvMatrix_29() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_EnvMatrix_29)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_EnvMatrix_29() const { return ___ID_EnvMatrix_29; }
 	inline int32_t* get_address_of_ID_EnvMatrix_29() { return &___ID_EnvMatrix_29; }
 	inline void set_ID_EnvMatrix_29(int32_t value)
@@ -694,7 +1051,11 @@ public:
 		___ID_EnvMatrix_29 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_EnvMatrixRotation_30() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_EnvMatrixRotation_30)); }
+=======
+	inline static int32_t get_offset_of_ID_EnvMatrixRotation_30() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_EnvMatrixRotation_30)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_EnvMatrixRotation_30() const { return ___ID_EnvMatrixRotation_30; }
 	inline int32_t* get_address_of_ID_EnvMatrixRotation_30() { return &___ID_EnvMatrixRotation_30; }
 	inline void set_ID_EnvMatrixRotation_30(int32_t value)
@@ -702,7 +1063,11 @@ public:
 		___ID_EnvMatrixRotation_30 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_MaskCoord_31() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_MaskCoord_31)); }
+=======
+	inline static int32_t get_offset_of_ID_MaskCoord_31() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_MaskCoord_31)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_MaskCoord_31() const { return ___ID_MaskCoord_31; }
 	inline int32_t* get_address_of_ID_MaskCoord_31() { return &___ID_MaskCoord_31; }
 	inline void set_ID_MaskCoord_31(int32_t value)
@@ -710,7 +1075,11 @@ public:
 		___ID_MaskCoord_31 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ClipRect_32() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ClipRect_32)); }
+=======
+	inline static int32_t get_offset_of_ID_ClipRect_32() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ClipRect_32)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ClipRect_32() const { return ___ID_ClipRect_32; }
 	inline int32_t* get_address_of_ID_ClipRect_32() { return &___ID_ClipRect_32; }
 	inline void set_ID_ClipRect_32(int32_t value)
@@ -718,7 +1087,11 @@ public:
 		___ID_ClipRect_32 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_MaskSoftnessX_33() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_MaskSoftnessX_33)); }
+=======
+	inline static int32_t get_offset_of_ID_MaskSoftnessX_33() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_MaskSoftnessX_33)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_MaskSoftnessX_33() const { return ___ID_MaskSoftnessX_33; }
 	inline int32_t* get_address_of_ID_MaskSoftnessX_33() { return &___ID_MaskSoftnessX_33; }
 	inline void set_ID_MaskSoftnessX_33(int32_t value)
@@ -726,7 +1099,11 @@ public:
 		___ID_MaskSoftnessX_33 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_MaskSoftnessY_34() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_MaskSoftnessY_34)); }
+=======
+	inline static int32_t get_offset_of_ID_MaskSoftnessY_34() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_MaskSoftnessY_34)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_MaskSoftnessY_34() const { return ___ID_MaskSoftnessY_34; }
 	inline int32_t* get_address_of_ID_MaskSoftnessY_34() { return &___ID_MaskSoftnessY_34; }
 	inline void set_ID_MaskSoftnessY_34(int32_t value)
@@ -734,7 +1111,11 @@ public:
 		___ID_MaskSoftnessY_34 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_VertexOffsetX_35() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_VertexOffsetX_35)); }
+=======
+	inline static int32_t get_offset_of_ID_VertexOffsetX_35() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_VertexOffsetX_35)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_VertexOffsetX_35() const { return ___ID_VertexOffsetX_35; }
 	inline int32_t* get_address_of_ID_VertexOffsetX_35() { return &___ID_VertexOffsetX_35; }
 	inline void set_ID_VertexOffsetX_35(int32_t value)
@@ -742,7 +1123,11 @@ public:
 		___ID_VertexOffsetX_35 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_VertexOffsetY_36() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_VertexOffsetY_36)); }
+=======
+	inline static int32_t get_offset_of_ID_VertexOffsetY_36() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_VertexOffsetY_36)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_VertexOffsetY_36() const { return ___ID_VertexOffsetY_36; }
 	inline int32_t* get_address_of_ID_VertexOffsetY_36() { return &___ID_VertexOffsetY_36; }
 	inline void set_ID_VertexOffsetY_36(int32_t value)
@@ -750,7 +1135,11 @@ public:
 		___ID_VertexOffsetY_36 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_UseClipRect_37() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_UseClipRect_37)); }
+=======
+	inline static int32_t get_offset_of_ID_UseClipRect_37() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_UseClipRect_37)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_UseClipRect_37() const { return ___ID_UseClipRect_37; }
 	inline int32_t* get_address_of_ID_UseClipRect_37() { return &___ID_UseClipRect_37; }
 	inline void set_ID_UseClipRect_37(int32_t value)
@@ -758,7 +1147,11 @@ public:
 		___ID_UseClipRect_37 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_StencilID_38() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_StencilID_38)); }
+=======
+	inline static int32_t get_offset_of_ID_StencilID_38() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_StencilID_38)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_StencilID_38() const { return ___ID_StencilID_38; }
 	inline int32_t* get_address_of_ID_StencilID_38() { return &___ID_StencilID_38; }
 	inline void set_ID_StencilID_38(int32_t value)
@@ -766,7 +1159,11 @@ public:
 		___ID_StencilID_38 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_StencilOp_39() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_StencilOp_39)); }
+=======
+	inline static int32_t get_offset_of_ID_StencilOp_39() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_StencilOp_39)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_StencilOp_39() const { return ___ID_StencilOp_39; }
 	inline int32_t* get_address_of_ID_StencilOp_39() { return &___ID_StencilOp_39; }
 	inline void set_ID_StencilOp_39(int32_t value)
@@ -774,7 +1171,11 @@ public:
 		___ID_StencilOp_39 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_StencilComp_40() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_StencilComp_40)); }
+=======
+	inline static int32_t get_offset_of_ID_StencilComp_40() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_StencilComp_40)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_StencilComp_40() const { return ___ID_StencilComp_40; }
 	inline int32_t* get_address_of_ID_StencilComp_40() { return &___ID_StencilComp_40; }
 	inline void set_ID_StencilComp_40(int32_t value)
@@ -782,7 +1183,11 @@ public:
 		___ID_StencilComp_40 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_StencilReadMask_41() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_StencilReadMask_41)); }
+=======
+	inline static int32_t get_offset_of_ID_StencilReadMask_41() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_StencilReadMask_41)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_StencilReadMask_41() const { return ___ID_StencilReadMask_41; }
 	inline int32_t* get_address_of_ID_StencilReadMask_41() { return &___ID_StencilReadMask_41; }
 	inline void set_ID_StencilReadMask_41(int32_t value)
@@ -790,7 +1195,11 @@ public:
 		___ID_StencilReadMask_41 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_StencilWriteMask_42() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_StencilWriteMask_42)); }
+=======
+	inline static int32_t get_offset_of_ID_StencilWriteMask_42() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_StencilWriteMask_42)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_StencilWriteMask_42() const { return ___ID_StencilWriteMask_42; }
 	inline int32_t* get_address_of_ID_StencilWriteMask_42() { return &___ID_StencilWriteMask_42; }
 	inline void set_ID_StencilWriteMask_42(int32_t value)
@@ -798,7 +1207,11 @@ public:
 		___ID_StencilWriteMask_42 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ShaderFlags_43() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ShaderFlags_43)); }
+=======
+	inline static int32_t get_offset_of_ID_ShaderFlags_43() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ShaderFlags_43)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ShaderFlags_43() const { return ___ID_ShaderFlags_43; }
 	inline int32_t* get_address_of_ID_ShaderFlags_43() { return &___ID_ShaderFlags_43; }
 	inline void set_ID_ShaderFlags_43(int32_t value)
@@ -806,7 +1219,11 @@ public:
 		___ID_ShaderFlags_43 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ScaleRatio_A_44() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ScaleRatio_A_44)); }
+=======
+	inline static int32_t get_offset_of_ID_ScaleRatio_A_44() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ScaleRatio_A_44)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ScaleRatio_A_44() const { return ___ID_ScaleRatio_A_44; }
 	inline int32_t* get_address_of_ID_ScaleRatio_A_44() { return &___ID_ScaleRatio_A_44; }
 	inline void set_ID_ScaleRatio_A_44(int32_t value)
@@ -814,7 +1231,11 @@ public:
 		___ID_ScaleRatio_A_44 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ScaleRatio_B_45() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ScaleRatio_B_45)); }
+=======
+	inline static int32_t get_offset_of_ID_ScaleRatio_B_45() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ScaleRatio_B_45)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ScaleRatio_B_45() const { return ___ID_ScaleRatio_B_45; }
 	inline int32_t* get_address_of_ID_ScaleRatio_B_45() { return &___ID_ScaleRatio_B_45; }
 	inline void set_ID_ScaleRatio_B_45(int32_t value)
@@ -822,7 +1243,11 @@ public:
 		___ID_ScaleRatio_B_45 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ID_ScaleRatio_C_46() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ID_ScaleRatio_C_46)); }
+=======
+	inline static int32_t get_offset_of_ID_ScaleRatio_C_46() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ID_ScaleRatio_C_46)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ID_ScaleRatio_C_46() const { return ___ID_ScaleRatio_C_46; }
 	inline int32_t* get_address_of_ID_ScaleRatio_C_46() { return &___ID_ScaleRatio_C_46; }
 	inline void set_ID_ScaleRatio_C_46(int32_t value)
@@ -830,7 +1255,11 @@ public:
 		___ID_ScaleRatio_C_46 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_Bevel_47() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_Bevel_47)); }
+=======
+	inline static int32_t get_offset_of_Keyword_Bevel_47() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_Bevel_47)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_Bevel_47() const { return ___Keyword_Bevel_47; }
 	inline String_t** get_address_of_Keyword_Bevel_47() { return &___Keyword_Bevel_47; }
 	inline void set_Keyword_Bevel_47(String_t* value)
@@ -839,7 +1268,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_Bevel_47), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_Glow_48() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_Glow_48)); }
+=======
+	inline static int32_t get_offset_of_Keyword_Glow_48() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_Glow_48)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_Glow_48() const { return ___Keyword_Glow_48; }
 	inline String_t** get_address_of_Keyword_Glow_48() { return &___Keyword_Glow_48; }
 	inline void set_Keyword_Glow_48(String_t* value)
@@ -848,7 +1281,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_Glow_48), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_Underlay_49() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_Underlay_49)); }
+=======
+	inline static int32_t get_offset_of_Keyword_Underlay_49() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_Underlay_49)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_Underlay_49() const { return ___Keyword_Underlay_49; }
 	inline String_t** get_address_of_Keyword_Underlay_49() { return &___Keyword_Underlay_49; }
 	inline void set_Keyword_Underlay_49(String_t* value)
@@ -857,7 +1294,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_Underlay_49), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_Ratios_50() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_Ratios_50)); }
+=======
+	inline static int32_t get_offset_of_Keyword_Ratios_50() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_Ratios_50)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_Ratios_50() const { return ___Keyword_Ratios_50; }
 	inline String_t** get_address_of_Keyword_Ratios_50() { return &___Keyword_Ratios_50; }
 	inline void set_Keyword_Ratios_50(String_t* value)
@@ -866,7 +1307,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_Ratios_50), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_MASK_SOFT_51() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_MASK_SOFT_51)); }
+=======
+	inline static int32_t get_offset_of_Keyword_MASK_SOFT_51() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_MASK_SOFT_51)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_MASK_SOFT_51() const { return ___Keyword_MASK_SOFT_51; }
 	inline String_t** get_address_of_Keyword_MASK_SOFT_51() { return &___Keyword_MASK_SOFT_51; }
 	inline void set_Keyword_MASK_SOFT_51(String_t* value)
@@ -875,7 +1320,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_MASK_SOFT_51), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_MASK_HARD_52() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_MASK_HARD_52)); }
+=======
+	inline static int32_t get_offset_of_Keyword_MASK_HARD_52() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_MASK_HARD_52)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_MASK_HARD_52() const { return ___Keyword_MASK_HARD_52; }
 	inline String_t** get_address_of_Keyword_MASK_HARD_52() { return &___Keyword_MASK_HARD_52; }
 	inline void set_Keyword_MASK_HARD_52(String_t* value)
@@ -884,7 +1333,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_MASK_HARD_52), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_MASK_TEX_53() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_MASK_TEX_53)); }
+=======
+	inline static int32_t get_offset_of_Keyword_MASK_TEX_53() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_MASK_TEX_53)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_MASK_TEX_53() const { return ___Keyword_MASK_TEX_53; }
 	inline String_t** get_address_of_Keyword_MASK_TEX_53() { return &___Keyword_MASK_TEX_53; }
 	inline void set_Keyword_MASK_TEX_53(String_t* value)
@@ -893,7 +1346,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_MASK_TEX_53), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Keyword_Outline_54() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___Keyword_Outline_54)); }
+=======
+	inline static int32_t get_offset_of_Keyword_Outline_54() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___Keyword_Outline_54)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Keyword_Outline_54() const { return ___Keyword_Outline_54; }
 	inline String_t** get_address_of_Keyword_Outline_54() { return &___Keyword_Outline_54; }
 	inline void set_Keyword_Outline_54(String_t* value)
@@ -902,7 +1359,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Keyword_Outline_54), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ShaderTag_ZTestMode_55() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ShaderTag_ZTestMode_55)); }
+=======
+	inline static int32_t get_offset_of_ShaderTag_ZTestMode_55() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ShaderTag_ZTestMode_55)); }
+>>>>>>> Stashed changes
 	inline String_t* get_ShaderTag_ZTestMode_55() const { return ___ShaderTag_ZTestMode_55; }
 	inline String_t** get_address_of_ShaderTag_ZTestMode_55() { return &___ShaderTag_ZTestMode_55; }
 	inline void set_ShaderTag_ZTestMode_55(String_t* value)
@@ -911,7 +1372,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___ShaderTag_ZTestMode_55), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ShaderTag_CullMode_56() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___ShaderTag_CullMode_56)); }
+=======
+	inline static int32_t get_offset_of_ShaderTag_CullMode_56() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___ShaderTag_CullMode_56)); }
+>>>>>>> Stashed changes
 	inline String_t* get_ShaderTag_CullMode_56() const { return ___ShaderTag_CullMode_56; }
 	inline String_t** get_address_of_ShaderTag_CullMode_56() { return &___ShaderTag_CullMode_56; }
 	inline void set_ShaderTag_CullMode_56(String_t* value)
@@ -920,7 +1385,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___ShaderTag_CullMode_56), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_clamp_57() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___m_clamp_57)); }
+=======
+	inline static int32_t get_offset_of_m_clamp_57() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___m_clamp_57)); }
+>>>>>>> Stashed changes
 	inline float get_m_clamp_57() const { return ___m_clamp_57; }
 	inline float* get_address_of_m_clamp_57() { return &___m_clamp_57; }
 	inline void set_m_clamp_57(float value)
@@ -928,7 +1397,11 @@ public:
 		___m_clamp_57 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_isInitialized_58() { return static_cast<int32_t>(offsetof(ShaderUtilities_t3097637156_StaticFields, ___isInitialized_58)); }
+=======
+	inline static int32_t get_offset_of_isInitialized_58() { return static_cast<int32_t>(offsetof(ShaderUtilities_t2911717781_StaticFields, ___isInitialized_58)); }
+>>>>>>> Stashed changes
 	inline bool get_isInitialized_58() const { return ___isInitialized_58; }
 	inline bool* get_address_of_isInitialized_58() { return &___isInitialized_58; }
 	inline void set_isInitialized_58(bool value)
@@ -940,9 +1413,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // SHADERUTILITIES_T3097637156_H
 #ifndef GEOCODER_T1225858139_H
 #define GEOCODER_T1225858139_H
+=======
+#endif // SHADERUTILITIES_T2911717781_H
+#ifndef GEOCODER_T244942804_H
+#define GEOCODER_T244942804_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -950,14 +1429,22 @@ public:
 #endif
 
 // Mapbox.Geocoding.Geocoder
+<<<<<<< Updated upstream
 struct  Geocoder_t1225858139  : public RuntimeObject
+=======
+struct  Geocoder_t244942804  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// Mapbox.Platform.IFileSource Mapbox.Geocoding.Geocoder::fileSource
 	RuntimeObject* ___fileSource_0;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fileSource_0() { return static_cast<int32_t>(offsetof(Geocoder_t1225858139, ___fileSource_0)); }
+=======
+	inline static int32_t get_offset_of_fileSource_0() { return static_cast<int32_t>(offsetof(Geocoder_t244942804, ___fileSource_0)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject* get_fileSource_0() const { return ___fileSource_0; }
 	inline RuntimeObject** get_address_of_fileSource_0() { return &___fileSource_0; }
 	inline void set_fileSource_0(RuntimeObject* value)
@@ -970,9 +1457,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // GEOCODER_T1225858139_H
 #ifndef TEXTUREPACKER_T3244989705_H
 #define TEXTUREPACKER_T3244989705_H
+=======
+#endif // GEOCODER_T244942804_H
+#ifndef TEXTUREPACKER_T1234327613_H
+#define TEXTUREPACKER_T1234327613_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -980,7 +1473,11 @@ public:
 #endif
 
 // TMPro.SpriteAssetUtilities.TexturePacker
+<<<<<<< Updated upstream
 struct  TexturePacker_t3244989705  : public RuntimeObject
+=======
+struct  TexturePacker_t1234327613  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
@@ -990,9 +1487,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TEXTUREPACKER_T3244989705_H
 #ifndef ROUTINGPROFILE_T3148949097_H
 #define ROUTINGPROFILE_T3148949097_H
+=======
+#endif // TEXTUREPACKER_T1234327613_H
+#ifndef ROUTINGPROFILE_T3888477618_H
+#define ROUTINGPROFILE_T3888477618_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1000,14 +1503,22 @@ public:
 #endif
 
 // Mapbox.Directions.RoutingProfile
+<<<<<<< Updated upstream
 struct  RoutingProfile_t3148949097  : public RuntimeObject
+=======
+struct  RoutingProfile_t3888477618  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Directions.RoutingProfile::profile
 	String_t* ___profile_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_profile_3() { return static_cast<int32_t>(offsetof(RoutingProfile_t3148949097, ___profile_3)); }
+=======
+	inline static int32_t get_offset_of_profile_3() { return static_cast<int32_t>(offsetof(RoutingProfile_t3888477618, ___profile_3)); }
+>>>>>>> Stashed changes
 	inline String_t* get_profile_3() const { return ___profile_3; }
 	inline String_t** get_address_of_profile_3() { return &___profile_3; }
 	inline void set_profile_3(String_t* value)
@@ -1017,6 +1528,7 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct RoutingProfile_t3148949097_StaticFields
 {
 public:
@@ -1032,24 +1544,55 @@ public:
 	inline RoutingProfile_t3148949097 * get_Driving_0() const { return ___Driving_0; }
 	inline RoutingProfile_t3148949097 ** get_address_of_Driving_0() { return &___Driving_0; }
 	inline void set_Driving_0(RoutingProfile_t3148949097 * value)
+=======
+struct RoutingProfile_t3888477618_StaticFields
+{
+public:
+	// Mapbox.Directions.RoutingProfile Mapbox.Directions.RoutingProfile::Driving
+	RoutingProfile_t3888477618 * ___Driving_0;
+	// Mapbox.Directions.RoutingProfile Mapbox.Directions.RoutingProfile::Walking
+	RoutingProfile_t3888477618 * ___Walking_1;
+	// Mapbox.Directions.RoutingProfile Mapbox.Directions.RoutingProfile::Cycling
+	RoutingProfile_t3888477618 * ___Cycling_2;
+
+public:
+	inline static int32_t get_offset_of_Driving_0() { return static_cast<int32_t>(offsetof(RoutingProfile_t3888477618_StaticFields, ___Driving_0)); }
+	inline RoutingProfile_t3888477618 * get_Driving_0() const { return ___Driving_0; }
+	inline RoutingProfile_t3888477618 ** get_address_of_Driving_0() { return &___Driving_0; }
+	inline void set_Driving_0(RoutingProfile_t3888477618 * value)
+>>>>>>> Stashed changes
 	{
 		___Driving_0 = value;
 		Il2CppCodeGenWriteBarrier((&___Driving_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Walking_1() { return static_cast<int32_t>(offsetof(RoutingProfile_t3148949097_StaticFields, ___Walking_1)); }
 	inline RoutingProfile_t3148949097 * get_Walking_1() const { return ___Walking_1; }
 	inline RoutingProfile_t3148949097 ** get_address_of_Walking_1() { return &___Walking_1; }
 	inline void set_Walking_1(RoutingProfile_t3148949097 * value)
+=======
+	inline static int32_t get_offset_of_Walking_1() { return static_cast<int32_t>(offsetof(RoutingProfile_t3888477618_StaticFields, ___Walking_1)); }
+	inline RoutingProfile_t3888477618 * get_Walking_1() const { return ___Walking_1; }
+	inline RoutingProfile_t3888477618 ** get_address_of_Walking_1() { return &___Walking_1; }
+	inline void set_Walking_1(RoutingProfile_t3888477618 * value)
+>>>>>>> Stashed changes
 	{
 		___Walking_1 = value;
 		Il2CppCodeGenWriteBarrier((&___Walking_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Cycling_2() { return static_cast<int32_t>(offsetof(RoutingProfile_t3148949097_StaticFields, ___Cycling_2)); }
 	inline RoutingProfile_t3148949097 * get_Cycling_2() const { return ___Cycling_2; }
 	inline RoutingProfile_t3148949097 ** get_address_of_Cycling_2() { return &___Cycling_2; }
 	inline void set_Cycling_2(RoutingProfile_t3148949097 * value)
+=======
+	inline static int32_t get_offset_of_Cycling_2() { return static_cast<int32_t>(offsetof(RoutingProfile_t3888477618_StaticFields, ___Cycling_2)); }
+	inline RoutingProfile_t3888477618 * get_Cycling_2() const { return ___Cycling_2; }
+	inline RoutingProfile_t3888477618 ** get_address_of_Cycling_2() { return &___Cycling_2; }
+	inline void set_Cycling_2(RoutingProfile_t3888477618 * value)
+>>>>>>> Stashed changes
 	{
 		___Cycling_2 = value;
 		Il2CppCodeGenWriteBarrier((&___Cycling_2), value);
@@ -1059,9 +1602,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // ROUTINGPROFILE_T3148949097_H
 #ifndef STEP_T3709570660_H
 #define STEP_T3709570660_H
+=======
+#endif // ROUTINGPROFILE_T3888477618_H
+#ifndef STEP_T3916117023_H
+#define STEP_T3916117023_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1069,6 +1618,7 @@ public:
 #endif
 
 // Mapbox.Directions.Step
+<<<<<<< Updated upstream
 struct  Step_t3709570660  : public RuntimeObject
 {
 public:
@@ -1078,6 +1628,17 @@ public:
 	List_1_t1461533550 * ___U3CGeometryU3Ek__BackingField_1;
 	// Mapbox.Directions.Maneuver Mapbox.Directions.Step::<Maneuver>k__BackingField
 	Maneuver_t2092271762 * ___U3CManeuverU3Ek__BackingField_2;
+=======
+struct  Step_t3916117023  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<Mapbox.Directions.Intersection> Mapbox.Directions.Step::<Intersections>k__BackingField
+	List_1_t3907503829 * ___U3CIntersectionsU3Ek__BackingField_0;
+	// System.Collections.Generic.List`1<Mapbox.Utils.Vector2d> Mapbox.Directions.Step::<Geometry>k__BackingField
+	List_1_t2264342153 * ___U3CGeometryU3Ek__BackingField_1;
+	// Mapbox.Directions.Maneuver Mapbox.Directions.Step::<Maneuver>k__BackingField
+	Maneuver_t3595949486 * ___U3CManeuverU3Ek__BackingField_2;
+>>>>>>> Stashed changes
 	// System.Double Mapbox.Directions.Step::<Duration>k__BackingField
 	double ___U3CDurationU3Ek__BackingField_3;
 	// System.Double Mapbox.Directions.Step::<Distance>k__BackingField
@@ -1088,34 +1649,59 @@ public:
 	String_t* ___U3CModeU3Ek__BackingField_6;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CIntersectionsU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CIntersectionsU3Ek__BackingField_0)); }
 	inline List_1_t483991446 * get_U3CIntersectionsU3Ek__BackingField_0() const { return ___U3CIntersectionsU3Ek__BackingField_0; }
 	inline List_1_t483991446 ** get_address_of_U3CIntersectionsU3Ek__BackingField_0() { return &___U3CIntersectionsU3Ek__BackingField_0; }
 	inline void set_U3CIntersectionsU3Ek__BackingField_0(List_1_t483991446 * value)
+=======
+	inline static int32_t get_offset_of_U3CIntersectionsU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CIntersectionsU3Ek__BackingField_0)); }
+	inline List_1_t3907503829 * get_U3CIntersectionsU3Ek__BackingField_0() const { return ___U3CIntersectionsU3Ek__BackingField_0; }
+	inline List_1_t3907503829 ** get_address_of_U3CIntersectionsU3Ek__BackingField_0() { return &___U3CIntersectionsU3Ek__BackingField_0; }
+	inline void set_U3CIntersectionsU3Ek__BackingField_0(List_1_t3907503829 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CIntersectionsU3Ek__BackingField_0 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CIntersectionsU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CGeometryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CGeometryU3Ek__BackingField_1)); }
 	inline List_1_t1461533550 * get_U3CGeometryU3Ek__BackingField_1() const { return ___U3CGeometryU3Ek__BackingField_1; }
 	inline List_1_t1461533550 ** get_address_of_U3CGeometryU3Ek__BackingField_1() { return &___U3CGeometryU3Ek__BackingField_1; }
 	inline void set_U3CGeometryU3Ek__BackingField_1(List_1_t1461533550 * value)
+=======
+	inline static int32_t get_offset_of_U3CGeometryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CGeometryU3Ek__BackingField_1)); }
+	inline List_1_t2264342153 * get_U3CGeometryU3Ek__BackingField_1() const { return ___U3CGeometryU3Ek__BackingField_1; }
+	inline List_1_t2264342153 ** get_address_of_U3CGeometryU3Ek__BackingField_1() { return &___U3CGeometryU3Ek__BackingField_1; }
+	inline void set_U3CGeometryU3Ek__BackingField_1(List_1_t2264342153 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CGeometryU3Ek__BackingField_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CGeometryU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CManeuverU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CManeuverU3Ek__BackingField_2)); }
 	inline Maneuver_t2092271762 * get_U3CManeuverU3Ek__BackingField_2() const { return ___U3CManeuverU3Ek__BackingField_2; }
 	inline Maneuver_t2092271762 ** get_address_of_U3CManeuverU3Ek__BackingField_2() { return &___U3CManeuverU3Ek__BackingField_2; }
 	inline void set_U3CManeuverU3Ek__BackingField_2(Maneuver_t2092271762 * value)
+=======
+	inline static int32_t get_offset_of_U3CManeuverU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CManeuverU3Ek__BackingField_2)); }
+	inline Maneuver_t3595949486 * get_U3CManeuverU3Ek__BackingField_2() const { return ___U3CManeuverU3Ek__BackingField_2; }
+	inline Maneuver_t3595949486 ** get_address_of_U3CManeuverU3Ek__BackingField_2() { return &___U3CManeuverU3Ek__BackingField_2; }
+	inline void set_U3CManeuverU3Ek__BackingField_2(Maneuver_t3595949486 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CManeuverU3Ek__BackingField_2 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CManeuverU3Ek__BackingField_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CDurationU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CDurationU3Ek__BackingField_3)); }
+=======
+	inline static int32_t get_offset_of_U3CDurationU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CDurationU3Ek__BackingField_3)); }
+>>>>>>> Stashed changes
 	inline double get_U3CDurationU3Ek__BackingField_3() const { return ___U3CDurationU3Ek__BackingField_3; }
 	inline double* get_address_of_U3CDurationU3Ek__BackingField_3() { return &___U3CDurationU3Ek__BackingField_3; }
 	inline void set_U3CDurationU3Ek__BackingField_3(double value)
@@ -1123,7 +1709,11 @@ public:
 		___U3CDurationU3Ek__BackingField_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CDistanceU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CDistanceU3Ek__BackingField_4)); }
+=======
+	inline static int32_t get_offset_of_U3CDistanceU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CDistanceU3Ek__BackingField_4)); }
+>>>>>>> Stashed changes
 	inline double get_U3CDistanceU3Ek__BackingField_4() const { return ___U3CDistanceU3Ek__BackingField_4; }
 	inline double* get_address_of_U3CDistanceU3Ek__BackingField_4() { return &___U3CDistanceU3Ek__BackingField_4; }
 	inline void set_U3CDistanceU3Ek__BackingField_4(double value)
@@ -1131,7 +1721,11 @@ public:
 		___U3CDistanceU3Ek__BackingField_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CNameU3Ek__BackingField_5)); }
+=======
+	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CNameU3Ek__BackingField_5)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CNameU3Ek__BackingField_5() const { return ___U3CNameU3Ek__BackingField_5; }
 	inline String_t** get_address_of_U3CNameU3Ek__BackingField_5() { return &___U3CNameU3Ek__BackingField_5; }
 	inline void set_U3CNameU3Ek__BackingField_5(String_t* value)
@@ -1140,7 +1734,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CNameU3Ek__BackingField_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CModeU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(Step_t3709570660, ___U3CModeU3Ek__BackingField_6)); }
+=======
+	inline static int32_t get_offset_of_U3CModeU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(Step_t3916117023, ___U3CModeU3Ek__BackingField_6)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CModeU3Ek__BackingField_6() const { return ___U3CModeU3Ek__BackingField_6; }
 	inline String_t** get_address_of_U3CModeU3Ek__BackingField_6() { return &___U3CModeU3Ek__BackingField_6; }
 	inline void set_U3CModeU3Ek__BackingField_6(String_t* value)
@@ -1153,9 +1751,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // STEP_T3709570660_H
 #ifndef ROUTE_T2690666923_H
 #define ROUTE_T2690666923_H
+=======
+#endif // STEP_T3916117023_H
+#ifndef ROUTE_T1937604834_H
+#define ROUTE_T1937604834_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1163,6 +1767,7 @@ public:
 #endif
 
 // Mapbox.Directions.Route
+<<<<<<< Updated upstream
 struct  Route_t2690666923  : public RuntimeObject
 {
 public:
@@ -1170,31 +1775,58 @@ public:
 	List_1_t2237901307 * ___U3CLegsU3Ek__BackingField_0;
 	// System.Collections.Generic.List`1<Mapbox.Utils.Vector2d> Mapbox.Directions.Route::<Geometry>k__BackingField
 	List_1_t1461533550 * ___U3CGeometryU3Ek__BackingField_1;
+=======
+struct  Route_t1937604834  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<Mapbox.Directions.Leg> Mapbox.Directions.Route::<Legs>k__BackingField
+	List_1_t859934040 * ___U3CLegsU3Ek__BackingField_0;
+	// System.Collections.Generic.List`1<Mapbox.Utils.Vector2d> Mapbox.Directions.Route::<Geometry>k__BackingField
+	List_1_t2264342153 * ___U3CGeometryU3Ek__BackingField_1;
+>>>>>>> Stashed changes
 	// System.Double Mapbox.Directions.Route::<Duration>k__BackingField
 	double ___U3CDurationU3Ek__BackingField_2;
 	// System.Double Mapbox.Directions.Route::<Distance>k__BackingField
 	double ___U3CDistanceU3Ek__BackingField_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CLegsU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Route_t2690666923, ___U3CLegsU3Ek__BackingField_0)); }
 	inline List_1_t2237901307 * get_U3CLegsU3Ek__BackingField_0() const { return ___U3CLegsU3Ek__BackingField_0; }
 	inline List_1_t2237901307 ** get_address_of_U3CLegsU3Ek__BackingField_0() { return &___U3CLegsU3Ek__BackingField_0; }
 	inline void set_U3CLegsU3Ek__BackingField_0(List_1_t2237901307 * value)
+=======
+	inline static int32_t get_offset_of_U3CLegsU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Route_t1937604834, ___U3CLegsU3Ek__BackingField_0)); }
+	inline List_1_t859934040 * get_U3CLegsU3Ek__BackingField_0() const { return ___U3CLegsU3Ek__BackingField_0; }
+	inline List_1_t859934040 ** get_address_of_U3CLegsU3Ek__BackingField_0() { return &___U3CLegsU3Ek__BackingField_0; }
+	inline void set_U3CLegsU3Ek__BackingField_0(List_1_t859934040 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CLegsU3Ek__BackingField_0 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CLegsU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CGeometryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Route_t2690666923, ___U3CGeometryU3Ek__BackingField_1)); }
 	inline List_1_t1461533550 * get_U3CGeometryU3Ek__BackingField_1() const { return ___U3CGeometryU3Ek__BackingField_1; }
 	inline List_1_t1461533550 ** get_address_of_U3CGeometryU3Ek__BackingField_1() { return &___U3CGeometryU3Ek__BackingField_1; }
 	inline void set_U3CGeometryU3Ek__BackingField_1(List_1_t1461533550 * value)
+=======
+	inline static int32_t get_offset_of_U3CGeometryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Route_t1937604834, ___U3CGeometryU3Ek__BackingField_1)); }
+	inline List_1_t2264342153 * get_U3CGeometryU3Ek__BackingField_1() const { return ___U3CGeometryU3Ek__BackingField_1; }
+	inline List_1_t2264342153 ** get_address_of_U3CGeometryU3Ek__BackingField_1() { return &___U3CGeometryU3Ek__BackingField_1; }
+	inline void set_U3CGeometryU3Ek__BackingField_1(List_1_t2264342153 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CGeometryU3Ek__BackingField_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CGeometryU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CDurationU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Route_t2690666923, ___U3CDurationU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CDurationU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Route_t1937604834, ___U3CDurationU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline double get_U3CDurationU3Ek__BackingField_2() const { return ___U3CDurationU3Ek__BackingField_2; }
 	inline double* get_address_of_U3CDurationU3Ek__BackingField_2() { return &___U3CDurationU3Ek__BackingField_2; }
 	inline void set_U3CDurationU3Ek__BackingField_2(double value)
@@ -1202,7 +1834,11 @@ public:
 		___U3CDurationU3Ek__BackingField_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CDistanceU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Route_t2690666923, ___U3CDistanceU3Ek__BackingField_3)); }
+=======
+	inline static int32_t get_offset_of_U3CDistanceU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Route_t1937604834, ___U3CDistanceU3Ek__BackingField_3)); }
+>>>>>>> Stashed changes
 	inline double get_U3CDistanceU3Ek__BackingField_3() const { return ___U3CDistanceU3Ek__BackingField_3; }
 	inline double* get_address_of_U3CDistanceU3Ek__BackingField_3() { return &___U3CDistanceU3Ek__BackingField_3; }
 	inline void set_U3CDistanceU3Ek__BackingField_3(double value)
@@ -1214,9 +1850,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // ROUTE_T2690666923_H
 #ifndef SPRITEDATAOBJECT_T458459209_H
 #define SPRITEDATAOBJECT_T458459209_H
+=======
+#endif // ROUTE_T1937604834_H
+#ifndef SPRITEDATAOBJECT_T3439737116_H
+#define SPRITEDATAOBJECT_T3439737116_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1224,6 +1866,7 @@ public:
 #endif
 
 // TMPro.SpriteAssetUtilities.TexturePacker/SpriteDataObject
+<<<<<<< Updated upstream
 struct  SpriteDataObject_t458459209  : public RuntimeObject
 {
 public:
@@ -1235,6 +1878,19 @@ public:
 	inline List_1_t681623621 * get_frames_0() const { return ___frames_0; }
 	inline List_1_t681623621 ** get_address_of_frames_0() { return &___frames_0; }
 	inline void set_frames_0(List_1_t681623621 * value)
+=======
+struct  SpriteDataObject_t3439737116  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<TMPro.SpriteAssetUtilities.TexturePacker/SpriteData> TMPro.SpriteAssetUtilities.TexturePacker/SpriteDataObject::frames
+	List_1_t3430711201 * ___frames_0;
+
+public:
+	inline static int32_t get_offset_of_frames_0() { return static_cast<int32_t>(offsetof(SpriteDataObject_t3439737116, ___frames_0)); }
+	inline List_1_t3430711201 * get_frames_0() const { return ___frames_0; }
+	inline List_1_t3430711201 ** get_address_of_frames_0() { return &___frames_0; }
+	inline void set_frames_0(List_1_t3430711201 * value)
+>>>>>>> Stashed changes
 	{
 		___frames_0 = value;
 		Il2CppCodeGenWriteBarrier((&___frames_0), value);
@@ -1244,9 +1900,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // SPRITEDATAOBJECT_T458459209_H
 #ifndef LEG_T755179735_H
 #define LEG_T755179735_H
+=======
+#endif // SPRITEDATAOBJECT_T3439737116_H
+#ifndef LEG_T2083536853_H
+#define LEG_T2083536853_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1254,11 +1916,19 @@ public:
 #endif
 
 // Mapbox.Directions.Leg
+<<<<<<< Updated upstream
 struct  Leg_t755179735  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<Mapbox.Directions.Step> Mapbox.Directions.Leg::<Steps>k__BackingField
 	List_1_t897324936 * ___U3CStepsU3Ek__BackingField_0;
+=======
+struct  Leg_t2083536853  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<Mapbox.Directions.Step> Mapbox.Directions.Leg::<Steps>k__BackingField
+	List_1_t2692514210 * ___U3CStepsU3Ek__BackingField_0;
+>>>>>>> Stashed changes
 	// System.String Mapbox.Directions.Leg::<Summary>k__BackingField
 	String_t* ___U3CSummaryU3Ek__BackingField_1;
 	// System.Double Mapbox.Directions.Leg::<Duration>k__BackingField
@@ -1267,16 +1937,27 @@ public:
 	double ___U3CDistanceU3Ek__BackingField_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CStepsU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Leg_t755179735, ___U3CStepsU3Ek__BackingField_0)); }
 	inline List_1_t897324936 * get_U3CStepsU3Ek__BackingField_0() const { return ___U3CStepsU3Ek__BackingField_0; }
 	inline List_1_t897324936 ** get_address_of_U3CStepsU3Ek__BackingField_0() { return &___U3CStepsU3Ek__BackingField_0; }
 	inline void set_U3CStepsU3Ek__BackingField_0(List_1_t897324936 * value)
+=======
+	inline static int32_t get_offset_of_U3CStepsU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Leg_t2083536853, ___U3CStepsU3Ek__BackingField_0)); }
+	inline List_1_t2692514210 * get_U3CStepsU3Ek__BackingField_0() const { return ___U3CStepsU3Ek__BackingField_0; }
+	inline List_1_t2692514210 ** get_address_of_U3CStepsU3Ek__BackingField_0() { return &___U3CStepsU3Ek__BackingField_0; }
+	inline void set_U3CStepsU3Ek__BackingField_0(List_1_t2692514210 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CStepsU3Ek__BackingField_0 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CStepsU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CSummaryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Leg_t755179735, ___U3CSummaryU3Ek__BackingField_1)); }
+=======
+	inline static int32_t get_offset_of_U3CSummaryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Leg_t2083536853, ___U3CSummaryU3Ek__BackingField_1)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CSummaryU3Ek__BackingField_1() const { return ___U3CSummaryU3Ek__BackingField_1; }
 	inline String_t** get_address_of_U3CSummaryU3Ek__BackingField_1() { return &___U3CSummaryU3Ek__BackingField_1; }
 	inline void set_U3CSummaryU3Ek__BackingField_1(String_t* value)
@@ -1285,7 +1966,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CSummaryU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CDurationU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Leg_t755179735, ___U3CDurationU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CDurationU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Leg_t2083536853, ___U3CDurationU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline double get_U3CDurationU3Ek__BackingField_2() const { return ___U3CDurationU3Ek__BackingField_2; }
 	inline double* get_address_of_U3CDurationU3Ek__BackingField_2() { return &___U3CDurationU3Ek__BackingField_2; }
 	inline void set_U3CDurationU3Ek__BackingField_2(double value)
@@ -1293,7 +1978,11 @@ public:
 		___U3CDurationU3Ek__BackingField_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CDistanceU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Leg_t755179735, ___U3CDistanceU3Ek__BackingField_3)); }
+=======
+	inline static int32_t get_offset_of_U3CDistanceU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Leg_t2083536853, ___U3CDistanceU3Ek__BackingField_3)); }
+>>>>>>> Stashed changes
 	inline double get_U3CDistanceU3Ek__BackingField_3() const { return ___U3CDistanceU3Ek__BackingField_3; }
 	inline double* get_address_of_U3CDistanceU3Ek__BackingField_3() { return &___U3CDistanceU3Ek__BackingField_3; }
 	inline void set_U3CDistanceU3Ek__BackingField_3(double value)
@@ -1305,9 +1994,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LEG_T755179735_H
 #ifndef DIRECTIONSRESPONSE_T447202332_H
 #define DIRECTIONSRESPONSE_T447202332_H
+=======
+#endif // LEG_T2083536853_H
+#ifndef DIRECTIONSRESPONSE_T2416202279_H
+#define DIRECTIONSRESPONSE_T2416202279_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1315,6 +2010,7 @@ public:
 #endif
 
 // Mapbox.Directions.DirectionsResponse
+<<<<<<< Updated upstream
 struct  DirectionsResponse_t447202332  : public RuntimeObject
 {
 public:
@@ -1322,29 +2018,56 @@ public:
 	List_1_t4173388495 * ___U3CRoutesU3Ek__BackingField_0;
 	// System.Collections.Generic.List`1<Mapbox.Directions.Waypoint> Mapbox.Directions.DirectionsResponse::<Waypoints>k__BackingField
 	List_1_t3171685806 * ___U3CWaypointsU3Ek__BackingField_1;
+=======
+struct  DirectionsResponse_t2416202279  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<Mapbox.Directions.Route> Mapbox.Directions.DirectionsResponse::<Routes>k__BackingField
+	List_1_t714002021 * ___U3CRoutesU3Ek__BackingField_0;
+	// System.Collections.Generic.List`1<Mapbox.Directions.Waypoint> Mapbox.Directions.DirectionsResponse::<Waypoints>k__BackingField
+	List_1_t491863036 * ___U3CWaypointsU3Ek__BackingField_1;
+>>>>>>> Stashed changes
 	// System.String Mapbox.Directions.DirectionsResponse::<Code>k__BackingField
 	String_t* ___U3CCodeU3Ek__BackingField_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CRoutesU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(DirectionsResponse_t447202332, ___U3CRoutesU3Ek__BackingField_0)); }
 	inline List_1_t4173388495 * get_U3CRoutesU3Ek__BackingField_0() const { return ___U3CRoutesU3Ek__BackingField_0; }
 	inline List_1_t4173388495 ** get_address_of_U3CRoutesU3Ek__BackingField_0() { return &___U3CRoutesU3Ek__BackingField_0; }
 	inline void set_U3CRoutesU3Ek__BackingField_0(List_1_t4173388495 * value)
+=======
+	inline static int32_t get_offset_of_U3CRoutesU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(DirectionsResponse_t2416202279, ___U3CRoutesU3Ek__BackingField_0)); }
+	inline List_1_t714002021 * get_U3CRoutesU3Ek__BackingField_0() const { return ___U3CRoutesU3Ek__BackingField_0; }
+	inline List_1_t714002021 ** get_address_of_U3CRoutesU3Ek__BackingField_0() { return &___U3CRoutesU3Ek__BackingField_0; }
+	inline void set_U3CRoutesU3Ek__BackingField_0(List_1_t714002021 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CRoutesU3Ek__BackingField_0 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CRoutesU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CWaypointsU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(DirectionsResponse_t447202332, ___U3CWaypointsU3Ek__BackingField_1)); }
 	inline List_1_t3171685806 * get_U3CWaypointsU3Ek__BackingField_1() const { return ___U3CWaypointsU3Ek__BackingField_1; }
 	inline List_1_t3171685806 ** get_address_of_U3CWaypointsU3Ek__BackingField_1() { return &___U3CWaypointsU3Ek__BackingField_1; }
 	inline void set_U3CWaypointsU3Ek__BackingField_1(List_1_t3171685806 * value)
+=======
+	inline static int32_t get_offset_of_U3CWaypointsU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(DirectionsResponse_t2416202279, ___U3CWaypointsU3Ek__BackingField_1)); }
+	inline List_1_t491863036 * get_U3CWaypointsU3Ek__BackingField_1() const { return ___U3CWaypointsU3Ek__BackingField_1; }
+	inline List_1_t491863036 ** get_address_of_U3CWaypointsU3Ek__BackingField_1() { return &___U3CWaypointsU3Ek__BackingField_1; }
+	inline void set_U3CWaypointsU3Ek__BackingField_1(List_1_t491863036 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CWaypointsU3Ek__BackingField_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CWaypointsU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CCodeU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(DirectionsResponse_t447202332, ___U3CCodeU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CCodeU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(DirectionsResponse_t2416202279, ___U3CCodeU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CCodeU3Ek__BackingField_2() const { return ___U3CCodeU3Ek__BackingField_2; }
 	inline String_t** get_address_of_U3CCodeU3Ek__BackingField_2() { return &___U3CCodeU3Ek__BackingField_2; }
 	inline void set_U3CCodeU3Ek__BackingField_2(String_t* value)
@@ -1357,9 +2080,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // DIRECTIONSRESPONSE_T447202332_H
 #ifndef OVERVIEW_T434267123_H
 #define OVERVIEW_T434267123_H
+=======
+#endif // DIRECTIONSRESPONSE_T2416202279_H
+#ifndef OVERVIEW_T2679930399_H
+#define OVERVIEW_T2679930399_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1367,14 +2096,22 @@ public:
 #endif
 
 // Mapbox.Directions.Overview
+<<<<<<< Updated upstream
 struct  Overview_t434267123  : public RuntimeObject
+=======
+struct  Overview_t2679930399  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Directions.Overview::overview
 	String_t* ___overview_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_overview_3() { return static_cast<int32_t>(offsetof(Overview_t434267123, ___overview_3)); }
+=======
+	inline static int32_t get_offset_of_overview_3() { return static_cast<int32_t>(offsetof(Overview_t2679930399, ___overview_3)); }
+>>>>>>> Stashed changes
 	inline String_t* get_overview_3() const { return ___overview_3; }
 	inline String_t** get_address_of_overview_3() { return &___overview_3; }
 	inline void set_overview_3(String_t* value)
@@ -1384,6 +2121,7 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct Overview_t434267123_StaticFields
 {
 public:
@@ -1399,24 +2137,55 @@ public:
 	inline Overview_t434267123 * get_Full_0() const { return ___Full_0; }
 	inline Overview_t434267123 ** get_address_of_Full_0() { return &___Full_0; }
 	inline void set_Full_0(Overview_t434267123 * value)
+=======
+struct Overview_t2679930399_StaticFields
+{
+public:
+	// Mapbox.Directions.Overview Mapbox.Directions.Overview::Full
+	Overview_t2679930399 * ___Full_0;
+	// Mapbox.Directions.Overview Mapbox.Directions.Overview::Simplified
+	Overview_t2679930399 * ___Simplified_1;
+	// Mapbox.Directions.Overview Mapbox.Directions.Overview::False
+	Overview_t2679930399 * ___False_2;
+
+public:
+	inline static int32_t get_offset_of_Full_0() { return static_cast<int32_t>(offsetof(Overview_t2679930399_StaticFields, ___Full_0)); }
+	inline Overview_t2679930399 * get_Full_0() const { return ___Full_0; }
+	inline Overview_t2679930399 ** get_address_of_Full_0() { return &___Full_0; }
+	inline void set_Full_0(Overview_t2679930399 * value)
+>>>>>>> Stashed changes
 	{
 		___Full_0 = value;
 		Il2CppCodeGenWriteBarrier((&___Full_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Simplified_1() { return static_cast<int32_t>(offsetof(Overview_t434267123_StaticFields, ___Simplified_1)); }
 	inline Overview_t434267123 * get_Simplified_1() const { return ___Simplified_1; }
 	inline Overview_t434267123 ** get_address_of_Simplified_1() { return &___Simplified_1; }
 	inline void set_Simplified_1(Overview_t434267123 * value)
+=======
+	inline static int32_t get_offset_of_Simplified_1() { return static_cast<int32_t>(offsetof(Overview_t2679930399_StaticFields, ___Simplified_1)); }
+	inline Overview_t2679930399 * get_Simplified_1() const { return ___Simplified_1; }
+	inline Overview_t2679930399 ** get_address_of_Simplified_1() { return &___Simplified_1; }
+	inline void set_Simplified_1(Overview_t2679930399 * value)
+>>>>>>> Stashed changes
 	{
 		___Simplified_1 = value;
 		Il2CppCodeGenWriteBarrier((&___Simplified_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_False_2() { return static_cast<int32_t>(offsetof(Overview_t434267123_StaticFields, ___False_2)); }
 	inline Overview_t434267123 * get_False_2() const { return ___False_2; }
 	inline Overview_t434267123 ** get_address_of_False_2() { return &___False_2; }
 	inline void set_False_2(Overview_t434267123 * value)
+=======
+	inline static int32_t get_offset_of_False_2() { return static_cast<int32_t>(offsetof(Overview_t2679930399_StaticFields, ___False_2)); }
+	inline Overview_t2679930399 * get_False_2() const { return ___False_2; }
+	inline Overview_t2679930399 ** get_address_of_False_2() { return &___False_2; }
+	inline void set_False_2(Overview_t2679930399 * value)
+>>>>>>> Stashed changes
 	{
 		___False_2 = value;
 		Il2CppCodeGenWriteBarrier((&___False_2), value);
@@ -1426,9 +2195,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // OVERVIEW_T434267123_H
 #ifndef U3CQUERYU3EC__ANONSTOREY0_T3050085152_H
 #define U3CQUERYU3EC__ANONSTOREY0_T3050085152_H
+=======
+#endif // OVERVIEW_T2679930399_H
+#ifndef U3CQUERYU3EC__ANONSTOREY0_T2431799295_H
+#define U3CQUERYU3EC__ANONSTOREY0_T2431799295_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1436,6 +2211,7 @@ public:
 #endif
 
 // Mapbox.Directions.Directions/<Query>c__AnonStorey0
+<<<<<<< Updated upstream
 struct  U3CQueryU3Ec__AnonStorey0_t3050085152  : public RuntimeObject
 {
 public:
@@ -1449,15 +2225,37 @@ public:
 	inline Action_1_t2007251644 * get_callback_0() const { return ___callback_0; }
 	inline Action_1_t2007251644 ** get_address_of_callback_0() { return &___callback_0; }
 	inline void set_callback_0(Action_1_t2007251644 * value)
+=======
+struct  U3CQueryU3Ec__AnonStorey0_t2431799295  : public RuntimeObject
+{
+public:
+	// System.Action`1<Mapbox.Directions.DirectionsResponse> Mapbox.Directions.Directions/<Query>c__AnonStorey0::callback
+	Action_1_t2791528476 * ___callback_0;
+	// Mapbox.Directions.Directions Mapbox.Directions.Directions/<Query>c__AnonStorey0::$this
+	Directions_t643758552 * ___U24this_1;
+
+public:
+	inline static int32_t get_offset_of_callback_0() { return static_cast<int32_t>(offsetof(U3CQueryU3Ec__AnonStorey0_t2431799295, ___callback_0)); }
+	inline Action_1_t2791528476 * get_callback_0() const { return ___callback_0; }
+	inline Action_1_t2791528476 ** get_address_of_callback_0() { return &___callback_0; }
+	inline void set_callback_0(Action_1_t2791528476 * value)
+>>>>>>> Stashed changes
 	{
 		___callback_0 = value;
 		Il2CppCodeGenWriteBarrier((&___callback_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24this_1() { return static_cast<int32_t>(offsetof(U3CQueryU3Ec__AnonStorey0_t3050085152, ___U24this_1)); }
 	inline Directions_t1251419196 * get_U24this_1() const { return ___U24this_1; }
 	inline Directions_t1251419196 ** get_address_of_U24this_1() { return &___U24this_1; }
 	inline void set_U24this_1(Directions_t1251419196 * value)
+=======
+	inline static int32_t get_offset_of_U24this_1() { return static_cast<int32_t>(offsetof(U3CQueryU3Ec__AnonStorey0_t2431799295, ___U24this_1)); }
+	inline Directions_t643758552 * get_U24this_1() const { return ___U24this_1; }
+	inline Directions_t643758552 ** get_address_of_U24this_1() { return &___U24this_1; }
+	inline void set_U24this_1(Directions_t643758552 * value)
+>>>>>>> Stashed changes
 	{
 		___U24this_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U24this_1), value);
@@ -1467,9 +2265,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CQUERYU3EC__ANONSTOREY0_T3050085152_H
 #ifndef DIRECTIONS_T1251419196_H
 #define DIRECTIONS_T1251419196_H
+=======
+#endif // U3CQUERYU3EC__ANONSTOREY0_T2431799295_H
+#ifndef DIRECTIONS_T643758552_H
+#define DIRECTIONS_T643758552_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1477,14 +2281,22 @@ public:
 #endif
 
 // Mapbox.Directions.Directions
+<<<<<<< Updated upstream
 struct  Directions_t1251419196  : public RuntimeObject
+=======
+struct  Directions_t643758552  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// Mapbox.Platform.IFileSource Mapbox.Directions.Directions::fileSource
 	RuntimeObject* ___fileSource_0;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fileSource_0() { return static_cast<int32_t>(offsetof(Directions_t1251419196, ___fileSource_0)); }
+=======
+	inline static int32_t get_offset_of_fileSource_0() { return static_cast<int32_t>(offsetof(Directions_t643758552, ___fileSource_0)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject* get_fileSource_0() const { return ___fileSource_0; }
 	inline RuntimeObject** get_address_of_fileSource_0() { return &___fileSource_0; }
 	inline void set_fileSource_0(RuntimeObject* value)
@@ -1497,9 +2309,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // DIRECTIONS_T1251419196_H
 #ifndef U3CWAITU3EC__ITERATOR0_T1664294464_H
 #define U3CWAITU3EC__ITERATOR0_T1664294464_H
+=======
+#endif // DIRECTIONS_T643758552_H
+#ifndef U3CWAITU3EC__ITERATOR0_T1875283324_H
+#define U3CWAITU3EC__ITERATOR0_T1875283324_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1507,7 +2325,11 @@ public:
 #endif
 
 // loadDelayOutro/<Wait>c__Iterator0
+<<<<<<< Updated upstream
 struct  U3CWaitU3Ec__Iterator0_t1664294464  : public RuntimeObject
+=======
+struct  U3CWaitU3Ec__Iterator0_t1875283324  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Object loadDelayOutro/<Wait>c__Iterator0::$current
@@ -1518,7 +2340,11 @@ public:
 	int32_t ___U24PC_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24current_0() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1664294464, ___U24current_0)); }
+=======
+	inline static int32_t get_offset_of_U24current_0() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1875283324, ___U24current_0)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject * get_U24current_0() const { return ___U24current_0; }
 	inline RuntimeObject ** get_address_of_U24current_0() { return &___U24current_0; }
 	inline void set_U24current_0(RuntimeObject * value)
@@ -1527,7 +2353,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U24current_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24disposing_1() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1664294464, ___U24disposing_1)); }
+=======
+	inline static int32_t get_offset_of_U24disposing_1() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1875283324, ___U24disposing_1)); }
+>>>>>>> Stashed changes
 	inline bool get_U24disposing_1() const { return ___U24disposing_1; }
 	inline bool* get_address_of_U24disposing_1() { return &___U24disposing_1; }
 	inline void set_U24disposing_1(bool value)
@@ -1535,7 +2365,11 @@ public:
 		___U24disposing_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24PC_2() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1664294464, ___U24PC_2)); }
+=======
+	inline static int32_t get_offset_of_U24PC_2() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1875283324, ___U24PC_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_U24PC_2() const { return ___U24PC_2; }
 	inline int32_t* get_address_of_U24PC_2() { return &___U24PC_2; }
 	inline void set_U24PC_2(int32_t value)
@@ -1547,9 +2381,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CWAITU3EC__ITERATOR0_T1664294464_H
 #ifndef TMP_FONTUTILITIES_T4281448822_H
 #define TMP_FONTUTILITIES_T4281448822_H
+=======
+#endif // U3CWAITU3EC__ITERATOR0_T1875283324_H
+#ifndef TMP_FONTUTILITIES_T2825752727_H
+#define TMP_FONTUTILITIES_T2825752727_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1557,13 +2397,18 @@ public:
 #endif
 
 // TMPro.TMP_FontUtilities
+<<<<<<< Updated upstream
 struct  TMP_FontUtilities_t4281448822  : public RuntimeObject
+=======
+struct  TMP_FontUtilities_t2825752727  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct TMP_FontUtilities_t4281448822_StaticFields
 {
 public:
@@ -1575,6 +2420,19 @@ public:
 	inline List_1_t1501420957 * get_k_searchedFontAssets_0() const { return ___k_searchedFontAssets_0; }
 	inline List_1_t1501420957 ** get_address_of_k_searchedFontAssets_0() { return &___k_searchedFontAssets_0; }
 	inline void set_k_searchedFontAssets_0(List_1_t1501420957 * value)
+=======
+struct TMP_FontUtilities_t2825752727_StaticFields
+{
+public:
+	// System.Collections.Generic.List`1<System.Int32> TMPro.TMP_FontUtilities::k_searchedFontAssets
+	List_1_t188253260 * ___k_searchedFontAssets_0;
+
+public:
+	inline static int32_t get_offset_of_k_searchedFontAssets_0() { return static_cast<int32_t>(offsetof(TMP_FontUtilities_t2825752727_StaticFields, ___k_searchedFontAssets_0)); }
+	inline List_1_t188253260 * get_k_searchedFontAssets_0() const { return ___k_searchedFontAssets_0; }
+	inline List_1_t188253260 ** get_address_of_k_searchedFontAssets_0() { return &___k_searchedFontAssets_0; }
+	inline void set_k_searchedFontAssets_0(List_1_t188253260 * value)
+>>>>>>> Stashed changes
 	{
 		___k_searchedFontAssets_0 = value;
 		Il2CppCodeGenWriteBarrier((&___k_searchedFontAssets_0), value);
@@ -1584,9 +2442,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_FONTUTILITIES_T4281448822_H
 #ifndef TMP_TEXTELEMENT_T2601120933_H
 #define TMP_TEXTELEMENT_T2601120933_H
+=======
+#endif // TMP_FONTUTILITIES_T2825752727_H
+#ifndef TMP_TEXTELEMENT_T2513093388_H
+#define TMP_TEXTELEMENT_T2513093388_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1594,7 +2458,11 @@ public:
 #endif
 
 // TMPro.TMP_TextElement
+<<<<<<< Updated upstream
 struct  TMP_TextElement_t2601120933  : public RuntimeObject
+=======
+struct  TMP_TextElement_t2513093388  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TMP_TextElement::id
@@ -1617,7 +2485,11 @@ public:
 	float ___scale_8;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_id_0() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___id_0)); }
+=======
+	inline static int32_t get_offset_of_id_0() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___id_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_id_0() const { return ___id_0; }
 	inline int32_t* get_address_of_id_0() { return &___id_0; }
 	inline void set_id_0(int32_t value)
@@ -1625,7 +2497,11 @@ public:
 		___id_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___x_1)); }
+=======
+	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___x_1)); }
+>>>>>>> Stashed changes
 	inline float get_x_1() const { return ___x_1; }
 	inline float* get_address_of_x_1() { return &___x_1; }
 	inline void set_x_1(float value)
@@ -1633,7 +2509,11 @@ public:
 		___x_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___y_2)); }
+=======
+	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___y_2)); }
+>>>>>>> Stashed changes
 	inline float get_y_2() const { return ___y_2; }
 	inline float* get_address_of_y_2() { return &___y_2; }
 	inline void set_y_2(float value)
@@ -1641,7 +2521,11 @@ public:
 		___y_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_width_3() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___width_3)); }
+=======
+	inline static int32_t get_offset_of_width_3() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___width_3)); }
+>>>>>>> Stashed changes
 	inline float get_width_3() const { return ___width_3; }
 	inline float* get_address_of_width_3() { return &___width_3; }
 	inline void set_width_3(float value)
@@ -1649,7 +2533,11 @@ public:
 		___width_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_height_4() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___height_4)); }
+=======
+	inline static int32_t get_offset_of_height_4() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___height_4)); }
+>>>>>>> Stashed changes
 	inline float get_height_4() const { return ___height_4; }
 	inline float* get_address_of_height_4() { return &___height_4; }
 	inline void set_height_4(float value)
@@ -1657,7 +2545,11 @@ public:
 		___height_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_xOffset_5() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___xOffset_5)); }
+=======
+	inline static int32_t get_offset_of_xOffset_5() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___xOffset_5)); }
+>>>>>>> Stashed changes
 	inline float get_xOffset_5() const { return ___xOffset_5; }
 	inline float* get_address_of_xOffset_5() { return &___xOffset_5; }
 	inline void set_xOffset_5(float value)
@@ -1665,7 +2557,11 @@ public:
 		___xOffset_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_yOffset_6() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___yOffset_6)); }
+=======
+	inline static int32_t get_offset_of_yOffset_6() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___yOffset_6)); }
+>>>>>>> Stashed changes
 	inline float get_yOffset_6() const { return ___yOffset_6; }
 	inline float* get_address_of_yOffset_6() { return &___yOffset_6; }
 	inline void set_yOffset_6(float value)
@@ -1673,7 +2569,11 @@ public:
 		___yOffset_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_xAdvance_7() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___xAdvance_7)); }
+=======
+	inline static int32_t get_offset_of_xAdvance_7() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___xAdvance_7)); }
+>>>>>>> Stashed changes
 	inline float get_xAdvance_7() const { return ___xAdvance_7; }
 	inline float* get_address_of_xAdvance_7() { return &___xAdvance_7; }
 	inline void set_xAdvance_7(float value)
@@ -1681,7 +2581,11 @@ public:
 		___xAdvance_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_scale_8() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2601120933, ___scale_8)); }
+=======
+	inline static int32_t get_offset_of_scale_8() { return static_cast<int32_t>(offsetof(TMP_TextElement_t2513093388, ___scale_8)); }
+>>>>>>> Stashed changes
 	inline float get_scale_8() const { return ___scale_8; }
 	inline float* get_address_of_scale_8() { return &___scale_8; }
 	inline void set_scale_8(float value)
@@ -1693,9 +2597,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_TEXTELEMENT_T2601120933_H
 #ifndef U3CU3EC__DISPLAYCLASS4_0_T2167231704_H
 #define U3CU3EC__DISPLAYCLASS4_0_T2167231704_H
+=======
+#endif // TMP_TEXTELEMENT_T2513093388_H
+#ifndef U3CU3EC__DISPLAYCLASS4_0_T2294110181_H
+#define U3CU3EC__DISPLAYCLASS4_0_T2294110181_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1703,7 +2613,11 @@ public:
 #endif
 
 // TMPro.KerningTable/<>c__DisplayClass4_0
+<<<<<<< Updated upstream
 struct  U3CU3Ec__DisplayClass4_0_t2167231704  : public RuntimeObject
+=======
+struct  U3CU3Ec__DisplayClass4_0_t2294110181  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.KerningTable/<>c__DisplayClass4_0::left
@@ -1712,7 +2626,11 @@ public:
 	int32_t ___right_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_left_0() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass4_0_t2167231704, ___left_0)); }
+=======
+	inline static int32_t get_offset_of_left_0() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass4_0_t2294110181, ___left_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_left_0() const { return ___left_0; }
 	inline int32_t* get_address_of_left_0() { return &___left_0; }
 	inline void set_left_0(int32_t value)
@@ -1720,7 +2638,11 @@ public:
 		___left_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_right_1() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass4_0_t2167231704, ___right_1)); }
+=======
+	inline static int32_t get_offset_of_right_1() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass4_0_t2294110181, ___right_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_right_1() const { return ___right_1; }
 	inline int32_t* get_address_of_right_1() { return &___right_1; }
 	inline void set_right_1(int32_t value)
@@ -1732,9 +2654,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CU3EC__DISPLAYCLASS4_0_T2167231704_H
 #ifndef TMP_UPDATEMANAGER_T990052094_H
 #define TMP_UPDATEMANAGER_T990052094_H
+=======
+#endif // U3CU3EC__DISPLAYCLASS4_0_T2294110181_H
+#ifndef TMP_UPDATEMANAGER_T1018209310_H
+#define TMP_UPDATEMANAGER_T1018209310_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1742,6 +2670,7 @@ public:
 #endif
 
 // TMPro.TMP_UpdateManager
+<<<<<<< Updated upstream
 struct  TMP_UpdateManager_t990052094  : public RuntimeObject
 {
 public:
@@ -1759,39 +2688,80 @@ public:
 	inline List_1_t2036246080 * get_m_LayoutRebuildQueue_1() const { return ___m_LayoutRebuildQueue_1; }
 	inline List_1_t2036246080 ** get_address_of_m_LayoutRebuildQueue_1() { return &___m_LayoutRebuildQueue_1; }
 	inline void set_m_LayoutRebuildQueue_1(List_1_t2036246080 * value)
+=======
+struct  TMP_UpdateManager_t1018209310  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<TMPro.TMP_Text> TMPro.TMP_UpdateManager::m_LayoutRebuildQueue
+	List_1_t385044449 * ___m_LayoutRebuildQueue_1;
+	// System.Collections.Generic.Dictionary`2<System.Int32,System.Int32> TMPro.TMP_UpdateManager::m_LayoutQueueLookup
+	Dictionary_2_t2192175839 * ___m_LayoutQueueLookup_2;
+	// System.Collections.Generic.List`1<TMPro.TMP_Text> TMPro.TMP_UpdateManager::m_GraphicRebuildQueue
+	List_1_t385044449 * ___m_GraphicRebuildQueue_3;
+	// System.Collections.Generic.Dictionary`2<System.Int32,System.Int32> TMPro.TMP_UpdateManager::m_GraphicQueueLookup
+	Dictionary_2_t2192175839 * ___m_GraphicQueueLookup_4;
+
+public:
+	inline static int32_t get_offset_of_m_LayoutRebuildQueue_1() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t1018209310, ___m_LayoutRebuildQueue_1)); }
+	inline List_1_t385044449 * get_m_LayoutRebuildQueue_1() const { return ___m_LayoutRebuildQueue_1; }
+	inline List_1_t385044449 ** get_address_of_m_LayoutRebuildQueue_1() { return &___m_LayoutRebuildQueue_1; }
+	inline void set_m_LayoutRebuildQueue_1(List_1_t385044449 * value)
+>>>>>>> Stashed changes
 	{
 		___m_LayoutRebuildQueue_1 = value;
 		Il2CppCodeGenWriteBarrier((&___m_LayoutRebuildQueue_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_LayoutQueueLookup_2() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t990052094, ___m_LayoutQueueLookup_2)); }
 	inline Dictionary_2_t1871968236 * get_m_LayoutQueueLookup_2() const { return ___m_LayoutQueueLookup_2; }
 	inline Dictionary_2_t1871968236 ** get_address_of_m_LayoutQueueLookup_2() { return &___m_LayoutQueueLookup_2; }
 	inline void set_m_LayoutQueueLookup_2(Dictionary_2_t1871968236 * value)
+=======
+	inline static int32_t get_offset_of_m_LayoutQueueLookup_2() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t1018209310, ___m_LayoutQueueLookup_2)); }
+	inline Dictionary_2_t2192175839 * get_m_LayoutQueueLookup_2() const { return ___m_LayoutQueueLookup_2; }
+	inline Dictionary_2_t2192175839 ** get_address_of_m_LayoutQueueLookup_2() { return &___m_LayoutQueueLookup_2; }
+	inline void set_m_LayoutQueueLookup_2(Dictionary_2_t2192175839 * value)
+>>>>>>> Stashed changes
 	{
 		___m_LayoutQueueLookup_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_LayoutQueueLookup_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_GraphicRebuildQueue_3() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t990052094, ___m_GraphicRebuildQueue_3)); }
 	inline List_1_t2036246080 * get_m_GraphicRebuildQueue_3() const { return ___m_GraphicRebuildQueue_3; }
 	inline List_1_t2036246080 ** get_address_of_m_GraphicRebuildQueue_3() { return &___m_GraphicRebuildQueue_3; }
 	inline void set_m_GraphicRebuildQueue_3(List_1_t2036246080 * value)
+=======
+	inline static int32_t get_offset_of_m_GraphicRebuildQueue_3() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t1018209310, ___m_GraphicRebuildQueue_3)); }
+	inline List_1_t385044449 * get_m_GraphicRebuildQueue_3() const { return ___m_GraphicRebuildQueue_3; }
+	inline List_1_t385044449 ** get_address_of_m_GraphicRebuildQueue_3() { return &___m_GraphicRebuildQueue_3; }
+	inline void set_m_GraphicRebuildQueue_3(List_1_t385044449 * value)
+>>>>>>> Stashed changes
 	{
 		___m_GraphicRebuildQueue_3 = value;
 		Il2CppCodeGenWriteBarrier((&___m_GraphicRebuildQueue_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_GraphicQueueLookup_4() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t990052094, ___m_GraphicQueueLookup_4)); }
 	inline Dictionary_2_t1871968236 * get_m_GraphicQueueLookup_4() const { return ___m_GraphicQueueLookup_4; }
 	inline Dictionary_2_t1871968236 ** get_address_of_m_GraphicQueueLookup_4() { return &___m_GraphicQueueLookup_4; }
 	inline void set_m_GraphicQueueLookup_4(Dictionary_2_t1871968236 * value)
+=======
+	inline static int32_t get_offset_of_m_GraphicQueueLookup_4() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t1018209310, ___m_GraphicQueueLookup_4)); }
+	inline Dictionary_2_t2192175839 * get_m_GraphicQueueLookup_4() const { return ___m_GraphicQueueLookup_4; }
+	inline Dictionary_2_t2192175839 ** get_address_of_m_GraphicQueueLookup_4() { return &___m_GraphicQueueLookup_4; }
+	inline void set_m_GraphicQueueLookup_4(Dictionary_2_t2192175839 * value)
+>>>>>>> Stashed changes
 	{
 		___m_GraphicQueueLookup_4 = value;
 		Il2CppCodeGenWriteBarrier((&___m_GraphicQueueLookup_4), value);
 	}
 };
 
+<<<<<<< Updated upstream
 struct TMP_UpdateManager_t990052094_StaticFields
 {
 public:
@@ -1803,6 +2773,19 @@ public:
 	inline TMP_UpdateManager_t990052094 * get_s_Instance_0() const { return ___s_Instance_0; }
 	inline TMP_UpdateManager_t990052094 ** get_address_of_s_Instance_0() { return &___s_Instance_0; }
 	inline void set_s_Instance_0(TMP_UpdateManager_t990052094 * value)
+=======
+struct TMP_UpdateManager_t1018209310_StaticFields
+{
+public:
+	// TMPro.TMP_UpdateManager TMPro.TMP_UpdateManager::s_Instance
+	TMP_UpdateManager_t1018209310 * ___s_Instance_0;
+
+public:
+	inline static int32_t get_offset_of_s_Instance_0() { return static_cast<int32_t>(offsetof(TMP_UpdateManager_t1018209310_StaticFields, ___s_Instance_0)); }
+	inline TMP_UpdateManager_t1018209310 * get_s_Instance_0() const { return ___s_Instance_0; }
+	inline TMP_UpdateManager_t1018209310 ** get_address_of_s_Instance_0() { return &___s_Instance_0; }
+	inline void set_s_Instance_0(TMP_UpdateManager_t1018209310 * value)
+>>>>>>> Stashed changes
 	{
 		___s_Instance_0 = value;
 		Il2CppCodeGenWriteBarrier((&___s_Instance_0), value);
@@ -1812,9 +2795,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_UPDATEMANAGER_T990052094_H
 #ifndef TMP_UPDATEREGISTRY_T3052296847_H
 #define TMP_UPDATEREGISTRY_T3052296847_H
+=======
+#endif // TMP_UPDATEMANAGER_T1018209310_H
+#ifndef TMP_UPDATEREGISTRY_T2445202571_H
+#define TMP_UPDATEREGISTRY_T2445202571_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1822,6 +2811,7 @@ public:
 #endif
 
 // TMPro.TMP_UpdateRegistry
+<<<<<<< Updated upstream
 struct  TMP_UpdateRegistry_t3052296847  : public RuntimeObject
 {
 public:
@@ -1839,39 +2829,80 @@ public:
 	inline List_1_t1178249872 * get_m_LayoutRebuildQueue_1() const { return ___m_LayoutRebuildQueue_1; }
 	inline List_1_t1178249872 ** get_address_of_m_LayoutRebuildQueue_1() { return &___m_LayoutRebuildQueue_1; }
 	inline void set_m_LayoutRebuildQueue_1(List_1_t1178249872 * value)
+=======
+struct  TMP_UpdateRegistry_t2445202571  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<UnityEngine.UI.ICanvasElement> TMPro.TMP_UpdateRegistry::m_LayoutRebuildQueue
+	List_1_t358555936 * ___m_LayoutRebuildQueue_1;
+	// System.Collections.Generic.Dictionary`2<System.Int32,System.Int32> TMPro.TMP_UpdateRegistry::m_LayoutQueueLookup
+	Dictionary_2_t2192175839 * ___m_LayoutQueueLookup_2;
+	// System.Collections.Generic.List`1<UnityEngine.UI.ICanvasElement> TMPro.TMP_UpdateRegistry::m_GraphicRebuildQueue
+	List_1_t358555936 * ___m_GraphicRebuildQueue_3;
+	// System.Collections.Generic.Dictionary`2<System.Int32,System.Int32> TMPro.TMP_UpdateRegistry::m_GraphicQueueLookup
+	Dictionary_2_t2192175839 * ___m_GraphicQueueLookup_4;
+
+public:
+	inline static int32_t get_offset_of_m_LayoutRebuildQueue_1() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t2445202571, ___m_LayoutRebuildQueue_1)); }
+	inline List_1_t358555936 * get_m_LayoutRebuildQueue_1() const { return ___m_LayoutRebuildQueue_1; }
+	inline List_1_t358555936 ** get_address_of_m_LayoutRebuildQueue_1() { return &___m_LayoutRebuildQueue_1; }
+	inline void set_m_LayoutRebuildQueue_1(List_1_t358555936 * value)
+>>>>>>> Stashed changes
 	{
 		___m_LayoutRebuildQueue_1 = value;
 		Il2CppCodeGenWriteBarrier((&___m_LayoutRebuildQueue_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_LayoutQueueLookup_2() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t3052296847, ___m_LayoutQueueLookup_2)); }
 	inline Dictionary_2_t1871968236 * get_m_LayoutQueueLookup_2() const { return ___m_LayoutQueueLookup_2; }
 	inline Dictionary_2_t1871968236 ** get_address_of_m_LayoutQueueLookup_2() { return &___m_LayoutQueueLookup_2; }
 	inline void set_m_LayoutQueueLookup_2(Dictionary_2_t1871968236 * value)
+=======
+	inline static int32_t get_offset_of_m_LayoutQueueLookup_2() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t2445202571, ___m_LayoutQueueLookup_2)); }
+	inline Dictionary_2_t2192175839 * get_m_LayoutQueueLookup_2() const { return ___m_LayoutQueueLookup_2; }
+	inline Dictionary_2_t2192175839 ** get_address_of_m_LayoutQueueLookup_2() { return &___m_LayoutQueueLookup_2; }
+	inline void set_m_LayoutQueueLookup_2(Dictionary_2_t2192175839 * value)
+>>>>>>> Stashed changes
 	{
 		___m_LayoutQueueLookup_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_LayoutQueueLookup_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_GraphicRebuildQueue_3() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t3052296847, ___m_GraphicRebuildQueue_3)); }
 	inline List_1_t1178249872 * get_m_GraphicRebuildQueue_3() const { return ___m_GraphicRebuildQueue_3; }
 	inline List_1_t1178249872 ** get_address_of_m_GraphicRebuildQueue_3() { return &___m_GraphicRebuildQueue_3; }
 	inline void set_m_GraphicRebuildQueue_3(List_1_t1178249872 * value)
+=======
+	inline static int32_t get_offset_of_m_GraphicRebuildQueue_3() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t2445202571, ___m_GraphicRebuildQueue_3)); }
+	inline List_1_t358555936 * get_m_GraphicRebuildQueue_3() const { return ___m_GraphicRebuildQueue_3; }
+	inline List_1_t358555936 ** get_address_of_m_GraphicRebuildQueue_3() { return &___m_GraphicRebuildQueue_3; }
+	inline void set_m_GraphicRebuildQueue_3(List_1_t358555936 * value)
+>>>>>>> Stashed changes
 	{
 		___m_GraphicRebuildQueue_3 = value;
 		Il2CppCodeGenWriteBarrier((&___m_GraphicRebuildQueue_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_GraphicQueueLookup_4() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t3052296847, ___m_GraphicQueueLookup_4)); }
 	inline Dictionary_2_t1871968236 * get_m_GraphicQueueLookup_4() const { return ___m_GraphicQueueLookup_4; }
 	inline Dictionary_2_t1871968236 ** get_address_of_m_GraphicQueueLookup_4() { return &___m_GraphicQueueLookup_4; }
 	inline void set_m_GraphicQueueLookup_4(Dictionary_2_t1871968236 * value)
+=======
+	inline static int32_t get_offset_of_m_GraphicQueueLookup_4() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t2445202571, ___m_GraphicQueueLookup_4)); }
+	inline Dictionary_2_t2192175839 * get_m_GraphicQueueLookup_4() const { return ___m_GraphicQueueLookup_4; }
+	inline Dictionary_2_t2192175839 ** get_address_of_m_GraphicQueueLookup_4() { return &___m_GraphicQueueLookup_4; }
+	inline void set_m_GraphicQueueLookup_4(Dictionary_2_t2192175839 * value)
+>>>>>>> Stashed changes
 	{
 		___m_GraphicQueueLookup_4 = value;
 		Il2CppCodeGenWriteBarrier((&___m_GraphicQueueLookup_4), value);
 	}
 };
 
+<<<<<<< Updated upstream
 struct TMP_UpdateRegistry_t3052296847_StaticFields
 {
 public:
@@ -1883,6 +2914,19 @@ public:
 	inline TMP_UpdateRegistry_t3052296847 * get_s_Instance_0() const { return ___s_Instance_0; }
 	inline TMP_UpdateRegistry_t3052296847 ** get_address_of_s_Instance_0() { return &___s_Instance_0; }
 	inline void set_s_Instance_0(TMP_UpdateRegistry_t3052296847 * value)
+=======
+struct TMP_UpdateRegistry_t2445202571_StaticFields
+{
+public:
+	// TMPro.TMP_UpdateRegistry TMPro.TMP_UpdateRegistry::s_Instance
+	TMP_UpdateRegistry_t2445202571 * ___s_Instance_0;
+
+public:
+	inline static int32_t get_offset_of_s_Instance_0() { return static_cast<int32_t>(offsetof(TMP_UpdateRegistry_t2445202571_StaticFields, ___s_Instance_0)); }
+	inline TMP_UpdateRegistry_t2445202571 * get_s_Instance_0() const { return ___s_Instance_0; }
+	inline TMP_UpdateRegistry_t2445202571 ** get_address_of_s_Instance_0() { return &___s_Instance_0; }
+	inline void set_s_Instance_0(TMP_UpdateRegistry_t2445202571 * value)
+>>>>>>> Stashed changes
 	{
 		___s_Instance_0 = value;
 		Il2CppCodeGenWriteBarrier((&___s_Instance_0), value);
@@ -1892,9 +2936,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_UPDATEREGISTRY_T3052296847_H
 #ifndef TMPRO_EVENTMANAGER_T878918762_H
 #define TMPRO_EVENTMANAGER_T878918762_H
+=======
+#endif // TMP_UPDATEREGISTRY_T2445202571_H
+#ifndef TMPRO_EVENTMANAGER_T562510863_H
+#define TMPRO_EVENTMANAGER_T562510863_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1902,13 +2952,18 @@ public:
 #endif
 
 // TMPro.TMPro_EventManager
+<<<<<<< Updated upstream
 struct  TMPro_EventManager_t878918762  : public RuntimeObject
+=======
+struct  TMPro_EventManager_t562510863  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct TMPro_EventManager_t878918762_StaticFields
 {
 public:
@@ -1942,105 +2997,217 @@ public:
 	inline FastAction_2_t3014127313 * get_COMPUTE_DT_EVENT_0() const { return ___COMPUTE_DT_EVENT_0; }
 	inline FastAction_2_t3014127313 ** get_address_of_COMPUTE_DT_EVENT_0() { return &___COMPUTE_DT_EVENT_0; }
 	inline void set_COMPUTE_DT_EVENT_0(FastAction_2_t3014127313 * value)
+=======
+struct TMPro_EventManager_t562510863_StaticFields
+{
+public:
+	// TMPro.FastAction`2<System.Object,TMPro.Compute_DT_EventArgs> TMPro.TMPro_EventManager::COMPUTE_DT_EVENT
+	FastAction_2_t1524950136 * ___COMPUTE_DT_EVENT_0;
+	// TMPro.FastAction`2<System.Boolean,UnityEngine.Material> TMPro.TMPro_EventManager::MATERIAL_PROPERTY_EVENT
+	FastAction_2_t3349998051 * ___MATERIAL_PROPERTY_EVENT_1;
+	// TMPro.FastAction`2<System.Boolean,TMPro.TMP_FontAsset> TMPro.TMPro_EventManager::FONT_PROPERTY_EVENT
+	FastAction_2_t3427678009 * ___FONT_PROPERTY_EVENT_2;
+	// TMPro.FastAction`2<System.Boolean,UnityEngine.Object> TMPro.TMPro_EventManager::SPRITE_ASSET_PROPERTY_EVENT
+	FastAction_2_t223377798 * ___SPRITE_ASSET_PROPERTY_EVENT_3;
+	// TMPro.FastAction`2<System.Boolean,TMPro.TextMeshPro> TMPro.TMPro_EventManager::TEXTMESHPRO_PROPERTY_EVENT
+	FastAction_2_t664663582 * ___TEXTMESHPRO_PROPERTY_EVENT_4;
+	// TMPro.FastAction`3<UnityEngine.GameObject,UnityEngine.Material,UnityEngine.Material> TMPro.TMPro_EventManager::DRAG_AND_DROP_MATERIAL_EVENT
+	FastAction_3_t549952832 * ___DRAG_AND_DROP_MATERIAL_EVENT_5;
+	// TMPro.FastAction`1<System.Boolean> TMPro.TMPro_EventManager::TEXT_STYLE_PROPERTY_EVENT
+	FastAction_1_t3284589952 * ___TEXT_STYLE_PROPERTY_EVENT_6;
+	// TMPro.FastAction`1<TMPro.TMP_ColorGradient> TMPro.TMPro_EventManager::COLOR_GRADIENT_PROPERTY_EVENT
+	FastAction_1_t786491228 * ___COLOR_GRADIENT_PROPERTY_EVENT_7;
+	// TMPro.FastAction TMPro.TMPro_EventManager::TMP_SETTINGS_PROPERTY_EVENT
+	FastAction_t2053667667 * ___TMP_SETTINGS_PROPERTY_EVENT_8;
+	// TMPro.FastAction`2<System.Boolean,TMPro.TextMeshProUGUI> TMPro.TMPro_EventManager::TEXTMESHPRO_UGUI_PROPERTY_EVENT
+	FastAction_2_t1454047439 * ___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9;
+	// TMPro.FastAction TMPro.TMPro_EventManager::OnPreRenderObject_Event
+	FastAction_t2053667667 * ___OnPreRenderObject_Event_10;
+	// TMPro.FastAction`1<UnityEngine.Object> TMPro.TMPro_EventManager::TEXT_CHANGED_EVENT
+	FastAction_1_t125549648 * ___TEXT_CHANGED_EVENT_11;
+
+public:
+	inline static int32_t get_offset_of_COMPUTE_DT_EVENT_0() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___COMPUTE_DT_EVENT_0)); }
+	inline FastAction_2_t1524950136 * get_COMPUTE_DT_EVENT_0() const { return ___COMPUTE_DT_EVENT_0; }
+	inline FastAction_2_t1524950136 ** get_address_of_COMPUTE_DT_EVENT_0() { return &___COMPUTE_DT_EVENT_0; }
+	inline void set_COMPUTE_DT_EVENT_0(FastAction_2_t1524950136 * value)
+>>>>>>> Stashed changes
 	{
 		___COMPUTE_DT_EVENT_0 = value;
 		Il2CppCodeGenWriteBarrier((&___COMPUTE_DT_EVENT_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_MATERIAL_PROPERTY_EVENT_1() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___MATERIAL_PROPERTY_EVENT_1)); }
 	inline FastAction_2_t2957747429 * get_MATERIAL_PROPERTY_EVENT_1() const { return ___MATERIAL_PROPERTY_EVENT_1; }
 	inline FastAction_2_t2957747429 ** get_address_of_MATERIAL_PROPERTY_EVENT_1() { return &___MATERIAL_PROPERTY_EVENT_1; }
 	inline void set_MATERIAL_PROPERTY_EVENT_1(FastAction_2_t2957747429 * value)
+=======
+	inline static int32_t get_offset_of_MATERIAL_PROPERTY_EVENT_1() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___MATERIAL_PROPERTY_EVENT_1)); }
+	inline FastAction_2_t3349998051 * get_MATERIAL_PROPERTY_EVENT_1() const { return ___MATERIAL_PROPERTY_EVENT_1; }
+	inline FastAction_2_t3349998051 ** get_address_of_MATERIAL_PROPERTY_EVENT_1() { return &___MATERIAL_PROPERTY_EVENT_1; }
+	inline void set_MATERIAL_PROPERTY_EVENT_1(FastAction_2_t3349998051 * value)
+>>>>>>> Stashed changes
 	{
 		___MATERIAL_PROPERTY_EVENT_1 = value;
 		Il2CppCodeGenWriteBarrier((&___MATERIAL_PROPERTY_EVENT_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_FONT_PROPERTY_EVENT_2() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___FONT_PROPERTY_EVENT_2)); }
 	inline FastAction_2_t3112103812 * get_FONT_PROPERTY_EVENT_2() const { return ___FONT_PROPERTY_EVENT_2; }
 	inline FastAction_2_t3112103812 ** get_address_of_FONT_PROPERTY_EVENT_2() { return &___FONT_PROPERTY_EVENT_2; }
 	inline void set_FONT_PROPERTY_EVENT_2(FastAction_2_t3112103812 * value)
+=======
+	inline static int32_t get_offset_of_FONT_PROPERTY_EVENT_2() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___FONT_PROPERTY_EVENT_2)); }
+	inline FastAction_2_t3427678009 * get_FONT_PROPERTY_EVENT_2() const { return ___FONT_PROPERTY_EVENT_2; }
+	inline FastAction_2_t3427678009 ** get_address_of_FONT_PROPERTY_EVENT_2() { return &___FONT_PROPERTY_EVENT_2; }
+	inline void set_FONT_PROPERTY_EVENT_2(FastAction_2_t3427678009 * value)
+>>>>>>> Stashed changes
 	{
 		___FONT_PROPERTY_EVENT_2 = value;
 		Il2CppCodeGenWriteBarrier((&___FONT_PROPERTY_EVENT_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_SPRITE_ASSET_PROPERTY_EVENT_3() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___SPRITE_ASSET_PROPERTY_EVENT_3)); }
 	inline FastAction_2_t2894512744 * get_SPRITE_ASSET_PROPERTY_EVENT_3() const { return ___SPRITE_ASSET_PROPERTY_EVENT_3; }
 	inline FastAction_2_t2894512744 ** get_address_of_SPRITE_ASSET_PROPERTY_EVENT_3() { return &___SPRITE_ASSET_PROPERTY_EVENT_3; }
 	inline void set_SPRITE_ASSET_PROPERTY_EVENT_3(FastAction_2_t2894512744 * value)
+=======
+	inline static int32_t get_offset_of_SPRITE_ASSET_PROPERTY_EVENT_3() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___SPRITE_ASSET_PROPERTY_EVENT_3)); }
+	inline FastAction_2_t223377798 * get_SPRITE_ASSET_PROPERTY_EVENT_3() const { return ___SPRITE_ASSET_PROPERTY_EVENT_3; }
+	inline FastAction_2_t223377798 ** get_address_of_SPRITE_ASSET_PROPERTY_EVENT_3() { return &___SPRITE_ASSET_PROPERTY_EVENT_3; }
+	inline void set_SPRITE_ASSET_PROPERTY_EVENT_3(FastAction_2_t223377798 * value)
+>>>>>>> Stashed changes
 	{
 		___SPRITE_ASSET_PROPERTY_EVENT_3 = value;
 		Il2CppCodeGenWriteBarrier((&___SPRITE_ASSET_PROPERTY_EVENT_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TEXTMESHPRO_PROPERTY_EVENT_4() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___TEXTMESHPRO_PROPERTY_EVENT_4)); }
 	inline FastAction_2_t1397823336 * get_TEXTMESHPRO_PROPERTY_EVENT_4() const { return ___TEXTMESHPRO_PROPERTY_EVENT_4; }
 	inline FastAction_2_t1397823336 ** get_address_of_TEXTMESHPRO_PROPERTY_EVENT_4() { return &___TEXTMESHPRO_PROPERTY_EVENT_4; }
 	inline void set_TEXTMESHPRO_PROPERTY_EVENT_4(FastAction_2_t1397823336 * value)
+=======
+	inline static int32_t get_offset_of_TEXTMESHPRO_PROPERTY_EVENT_4() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___TEXTMESHPRO_PROPERTY_EVENT_4)); }
+	inline FastAction_2_t664663582 * get_TEXTMESHPRO_PROPERTY_EVENT_4() const { return ___TEXTMESHPRO_PROPERTY_EVENT_4; }
+	inline FastAction_2_t664663582 ** get_address_of_TEXTMESHPRO_PROPERTY_EVENT_4() { return &___TEXTMESHPRO_PROPERTY_EVENT_4; }
+	inline void set_TEXTMESHPRO_PROPERTY_EVENT_4(FastAction_2_t664663582 * value)
+>>>>>>> Stashed changes
 	{
 		___TEXTMESHPRO_PROPERTY_EVENT_4 = value;
 		Il2CppCodeGenWriteBarrier((&___TEXTMESHPRO_PROPERTY_EVENT_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_DRAG_AND_DROP_MATERIAL_EVENT_5() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___DRAG_AND_DROP_MATERIAL_EVENT_5)); }
 	inline FastAction_3_t3476749714 * get_DRAG_AND_DROP_MATERIAL_EVENT_5() const { return ___DRAG_AND_DROP_MATERIAL_EVENT_5; }
 	inline FastAction_3_t3476749714 ** get_address_of_DRAG_AND_DROP_MATERIAL_EVENT_5() { return &___DRAG_AND_DROP_MATERIAL_EVENT_5; }
 	inline void set_DRAG_AND_DROP_MATERIAL_EVENT_5(FastAction_3_t3476749714 * value)
+=======
+	inline static int32_t get_offset_of_DRAG_AND_DROP_MATERIAL_EVENT_5() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___DRAG_AND_DROP_MATERIAL_EVENT_5)); }
+	inline FastAction_3_t549952832 * get_DRAG_AND_DROP_MATERIAL_EVENT_5() const { return ___DRAG_AND_DROP_MATERIAL_EVENT_5; }
+	inline FastAction_3_t549952832 ** get_address_of_DRAG_AND_DROP_MATERIAL_EVENT_5() { return &___DRAG_AND_DROP_MATERIAL_EVENT_5; }
+	inline void set_DRAG_AND_DROP_MATERIAL_EVENT_5(FastAction_3_t549952832 * value)
+>>>>>>> Stashed changes
 	{
 		___DRAG_AND_DROP_MATERIAL_EVENT_5 = value;
 		Il2CppCodeGenWriteBarrier((&___DRAG_AND_DROP_MATERIAL_EVENT_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TEXT_STYLE_PROPERTY_EVENT_6() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___TEXT_STYLE_PROPERTY_EVENT_6)); }
 	inline FastAction_1_t3299696549 * get_TEXT_STYLE_PROPERTY_EVENT_6() const { return ___TEXT_STYLE_PROPERTY_EVENT_6; }
 	inline FastAction_1_t3299696549 ** get_address_of_TEXT_STYLE_PROPERTY_EVENT_6() { return &___TEXT_STYLE_PROPERTY_EVENT_6; }
 	inline void set_TEXT_STYLE_PROPERTY_EVENT_6(FastAction_1_t3299696549 * value)
+=======
+	inline static int32_t get_offset_of_TEXT_STYLE_PROPERTY_EVENT_6() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___TEXT_STYLE_PROPERTY_EVENT_6)); }
+	inline FastAction_1_t3284589952 * get_TEXT_STYLE_PROPERTY_EVENT_6() const { return ___TEXT_STYLE_PROPERTY_EVENT_6; }
+	inline FastAction_1_t3284589952 ** get_address_of_TEXT_STYLE_PROPERTY_EVENT_6() { return &___TEXT_STYLE_PROPERTY_EVENT_6; }
+	inline void set_TEXT_STYLE_PROPERTY_EVENT_6(FastAction_1_t3284589952 * value)
+>>>>>>> Stashed changes
 	{
 		___TEXT_STYLE_PROPERTY_EVENT_6 = value;
 		Il2CppCodeGenWriteBarrier((&___TEXT_STYLE_PROPERTY_EVENT_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_COLOR_GRADIENT_PROPERTY_EVENT_7() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___COLOR_GRADIENT_PROPERTY_EVENT_7)); }
 	inline FastAction_1_t3365968805 * get_COLOR_GRADIENT_PROPERTY_EVENT_7() const { return ___COLOR_GRADIENT_PROPERTY_EVENT_7; }
 	inline FastAction_1_t3365968805 ** get_address_of_COLOR_GRADIENT_PROPERTY_EVENT_7() { return &___COLOR_GRADIENT_PROPERTY_EVENT_7; }
 	inline void set_COLOR_GRADIENT_PROPERTY_EVENT_7(FastAction_1_t3365968805 * value)
+=======
+	inline static int32_t get_offset_of_COLOR_GRADIENT_PROPERTY_EVENT_7() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___COLOR_GRADIENT_PROPERTY_EVENT_7)); }
+	inline FastAction_1_t786491228 * get_COLOR_GRADIENT_PROPERTY_EVENT_7() const { return ___COLOR_GRADIENT_PROPERTY_EVENT_7; }
+	inline FastAction_1_t786491228 ** get_address_of_COLOR_GRADIENT_PROPERTY_EVENT_7() { return &___COLOR_GRADIENT_PROPERTY_EVENT_7; }
+	inline void set_COLOR_GRADIENT_PROPERTY_EVENT_7(FastAction_1_t786491228 * value)
+>>>>>>> Stashed changes
 	{
 		___COLOR_GRADIENT_PROPERTY_EVENT_7 = value;
 		Il2CppCodeGenWriteBarrier((&___COLOR_GRADIENT_PROPERTY_EVENT_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TMP_SETTINGS_PROPERTY_EVENT_8() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___TMP_SETTINGS_PROPERTY_EVENT_8)); }
 	inline FastAction_t2809146235 * get_TMP_SETTINGS_PROPERTY_EVENT_8() const { return ___TMP_SETTINGS_PROPERTY_EVENT_8; }
 	inline FastAction_t2809146235 ** get_address_of_TMP_SETTINGS_PROPERTY_EVENT_8() { return &___TMP_SETTINGS_PROPERTY_EVENT_8; }
 	inline void set_TMP_SETTINGS_PROPERTY_EVENT_8(FastAction_t2809146235 * value)
+=======
+	inline static int32_t get_offset_of_TMP_SETTINGS_PROPERTY_EVENT_8() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___TMP_SETTINGS_PROPERTY_EVENT_8)); }
+	inline FastAction_t2053667667 * get_TMP_SETTINGS_PROPERTY_EVENT_8() const { return ___TMP_SETTINGS_PROPERTY_EVENT_8; }
+	inline FastAction_t2053667667 ** get_address_of_TMP_SETTINGS_PROPERTY_EVENT_8() { return &___TMP_SETTINGS_PROPERTY_EVENT_8; }
+	inline void set_TMP_SETTINGS_PROPERTY_EVENT_8(FastAction_t2053667667 * value)
+>>>>>>> Stashed changes
 	{
 		___TMP_SETTINGS_PROPERTY_EVENT_8 = value;
 		Il2CppCodeGenWriteBarrier((&___TMP_SETTINGS_PROPERTY_EVENT_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9)); }
 	inline FastAction_2_t1852425179 * get_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9() const { return ___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9; }
 	inline FastAction_2_t1852425179 ** get_address_of_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9() { return &___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9; }
 	inline void set_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9(FastAction_2_t1852425179 * value)
+=======
+	inline static int32_t get_offset_of_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9)); }
+	inline FastAction_2_t1454047439 * get_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9() const { return ___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9; }
+	inline FastAction_2_t1454047439 ** get_address_of_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9() { return &___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9; }
+	inline void set_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9(FastAction_2_t1454047439 * value)
+>>>>>>> Stashed changes
 	{
 		___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9 = value;
 		Il2CppCodeGenWriteBarrier((&___TEXTMESHPRO_UGUI_PROPERTY_EVENT_9), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_OnPreRenderObject_Event_10() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___OnPreRenderObject_Event_10)); }
 	inline FastAction_t2809146235 * get_OnPreRenderObject_Event_10() const { return ___OnPreRenderObject_Event_10; }
 	inline FastAction_t2809146235 ** get_address_of_OnPreRenderObject_Event_10() { return &___OnPreRenderObject_Event_10; }
 	inline void set_OnPreRenderObject_Event_10(FastAction_t2809146235 * value)
+=======
+	inline static int32_t get_offset_of_OnPreRenderObject_Event_10() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___OnPreRenderObject_Event_10)); }
+	inline FastAction_t2053667667 * get_OnPreRenderObject_Event_10() const { return ___OnPreRenderObject_Event_10; }
+	inline FastAction_t2053667667 ** get_address_of_OnPreRenderObject_Event_10() { return &___OnPreRenderObject_Event_10; }
+	inline void set_OnPreRenderObject_Event_10(FastAction_t2053667667 * value)
+>>>>>>> Stashed changes
 	{
 		___OnPreRenderObject_Event_10 = value;
 		Il2CppCodeGenWriteBarrier((&___OnPreRenderObject_Event_10), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TEXT_CHANGED_EVENT_11() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t878918762_StaticFields, ___TEXT_CHANGED_EVENT_11)); }
 	inline FastAction_1_t2697560291 * get_TEXT_CHANGED_EVENT_11() const { return ___TEXT_CHANGED_EVENT_11; }
 	inline FastAction_1_t2697560291 ** get_address_of_TEXT_CHANGED_EVENT_11() { return &___TEXT_CHANGED_EVENT_11; }
 	inline void set_TEXT_CHANGED_EVENT_11(FastAction_1_t2697560291 * value)
+=======
+	inline static int32_t get_offset_of_TEXT_CHANGED_EVENT_11() { return static_cast<int32_t>(offsetof(TMPro_EventManager_t562510863_StaticFields, ___TEXT_CHANGED_EVENT_11)); }
+	inline FastAction_1_t125549648 * get_TEXT_CHANGED_EVENT_11() const { return ___TEXT_CHANGED_EVENT_11; }
+	inline FastAction_1_t125549648 ** get_address_of_TEXT_CHANGED_EVENT_11() { return &___TEXT_CHANGED_EVENT_11; }
+	inline void set_TEXT_CHANGED_EVENT_11(FastAction_1_t125549648 * value)
+>>>>>>> Stashed changes
 	{
 		___TEXT_CHANGED_EVENT_11 = value;
 		Il2CppCodeGenWriteBarrier((&___TEXT_CHANGED_EVENT_11), value);
@@ -2050,9 +3217,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMPRO_EVENTMANAGER_T878918762_H
 #ifndef TMPRO_EXTENSIONMETHODS_T2482918748_H
 #define TMPRO_EXTENSIONMETHODS_T2482918748_H
+=======
+#endif // TMPRO_EVENTMANAGER_T562510863_H
+#ifndef TMPRO_EXTENSIONMETHODS_T1092114783_H
+#define TMPRO_EXTENSIONMETHODS_T1092114783_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2060,7 +3233,11 @@ public:
 #endif
 
 // TMPro.TMPro_ExtensionMethods
+<<<<<<< Updated upstream
 struct  TMPro_ExtensionMethods_t2482918748  : public RuntimeObject
+=======
+struct  TMPro_ExtensionMethods_t1092114783  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
@@ -2070,9 +3247,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMPRO_EXTENSIONMETHODS_T2482918748_H
 #ifndef FACEINFO_T2183742116_H
 #define FACEINFO_T2183742116_H
+=======
+#endif // TMPRO_EXTENSIONMETHODS_T1092114783_H
+#ifndef FACEINFO_T1650088009_H
+#define FACEINFO_T1650088009_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2080,7 +3263,11 @@ public:
 #endif
 
 // TMPro.FaceInfo
+<<<<<<< Updated upstream
 struct  FaceInfo_t2183742116  : public RuntimeObject
+=======
+struct  FaceInfo_t1650088009  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String TMPro.FaceInfo::Name
@@ -2127,7 +3314,11 @@ public:
 	float ___AtlasHeight_20;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Name_0() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Name_0)); }
+=======
+	inline static int32_t get_offset_of_Name_0() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Name_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_Name_0() const { return ___Name_0; }
 	inline String_t** get_address_of_Name_0() { return &___Name_0; }
 	inline void set_Name_0(String_t* value)
@@ -2136,7 +3327,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___Name_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_PointSize_1() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___PointSize_1)); }
+=======
+	inline static int32_t get_offset_of_PointSize_1() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___PointSize_1)); }
+>>>>>>> Stashed changes
 	inline float get_PointSize_1() const { return ___PointSize_1; }
 	inline float* get_address_of_PointSize_1() { return &___PointSize_1; }
 	inline void set_PointSize_1(float value)
@@ -2144,7 +3339,11 @@ public:
 		___PointSize_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Scale_2() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Scale_2)); }
+=======
+	inline static int32_t get_offset_of_Scale_2() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Scale_2)); }
+>>>>>>> Stashed changes
 	inline float get_Scale_2() const { return ___Scale_2; }
 	inline float* get_address_of_Scale_2() { return &___Scale_2; }
 	inline void set_Scale_2(float value)
@@ -2152,7 +3351,11 @@ public:
 		___Scale_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_CharacterCount_3() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___CharacterCount_3)); }
+=======
+	inline static int32_t get_offset_of_CharacterCount_3() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___CharacterCount_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_CharacterCount_3() const { return ___CharacterCount_3; }
 	inline int32_t* get_address_of_CharacterCount_3() { return &___CharacterCount_3; }
 	inline void set_CharacterCount_3(int32_t value)
@@ -2160,7 +3363,11 @@ public:
 		___CharacterCount_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_LineHeight_4() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___LineHeight_4)); }
+=======
+	inline static int32_t get_offset_of_LineHeight_4() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___LineHeight_4)); }
+>>>>>>> Stashed changes
 	inline float get_LineHeight_4() const { return ___LineHeight_4; }
 	inline float* get_address_of_LineHeight_4() { return &___LineHeight_4; }
 	inline void set_LineHeight_4(float value)
@@ -2168,7 +3375,11 @@ public:
 		___LineHeight_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Baseline_5() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Baseline_5)); }
+=======
+	inline static int32_t get_offset_of_Baseline_5() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Baseline_5)); }
+>>>>>>> Stashed changes
 	inline float get_Baseline_5() const { return ___Baseline_5; }
 	inline float* get_address_of_Baseline_5() { return &___Baseline_5; }
 	inline void set_Baseline_5(float value)
@@ -2176,7 +3387,11 @@ public:
 		___Baseline_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Ascender_6() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Ascender_6)); }
+=======
+	inline static int32_t get_offset_of_Ascender_6() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Ascender_6)); }
+>>>>>>> Stashed changes
 	inline float get_Ascender_6() const { return ___Ascender_6; }
 	inline float* get_address_of_Ascender_6() { return &___Ascender_6; }
 	inline void set_Ascender_6(float value)
@@ -2184,7 +3399,11 @@ public:
 		___Ascender_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_CapHeight_7() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___CapHeight_7)); }
+=======
+	inline static int32_t get_offset_of_CapHeight_7() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___CapHeight_7)); }
+>>>>>>> Stashed changes
 	inline float get_CapHeight_7() const { return ___CapHeight_7; }
 	inline float* get_address_of_CapHeight_7() { return &___CapHeight_7; }
 	inline void set_CapHeight_7(float value)
@@ -2192,7 +3411,11 @@ public:
 		___CapHeight_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Descender_8() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Descender_8)); }
+=======
+	inline static int32_t get_offset_of_Descender_8() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Descender_8)); }
+>>>>>>> Stashed changes
 	inline float get_Descender_8() const { return ___Descender_8; }
 	inline float* get_address_of_Descender_8() { return &___Descender_8; }
 	inline void set_Descender_8(float value)
@@ -2200,7 +3423,11 @@ public:
 		___Descender_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_CenterLine_9() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___CenterLine_9)); }
+=======
+	inline static int32_t get_offset_of_CenterLine_9() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___CenterLine_9)); }
+>>>>>>> Stashed changes
 	inline float get_CenterLine_9() const { return ___CenterLine_9; }
 	inline float* get_address_of_CenterLine_9() { return &___CenterLine_9; }
 	inline void set_CenterLine_9(float value)
@@ -2208,7 +3435,11 @@ public:
 		___CenterLine_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_SuperscriptOffset_10() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___SuperscriptOffset_10)); }
+=======
+	inline static int32_t get_offset_of_SuperscriptOffset_10() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___SuperscriptOffset_10)); }
+>>>>>>> Stashed changes
 	inline float get_SuperscriptOffset_10() const { return ___SuperscriptOffset_10; }
 	inline float* get_address_of_SuperscriptOffset_10() { return &___SuperscriptOffset_10; }
 	inline void set_SuperscriptOffset_10(float value)
@@ -2216,7 +3447,11 @@ public:
 		___SuperscriptOffset_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_SubscriptOffset_11() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___SubscriptOffset_11)); }
+=======
+	inline static int32_t get_offset_of_SubscriptOffset_11() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___SubscriptOffset_11)); }
+>>>>>>> Stashed changes
 	inline float get_SubscriptOffset_11() const { return ___SubscriptOffset_11; }
 	inline float* get_address_of_SubscriptOffset_11() { return &___SubscriptOffset_11; }
 	inline void set_SubscriptOffset_11(float value)
@@ -2224,7 +3459,11 @@ public:
 		___SubscriptOffset_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_SubSize_12() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___SubSize_12)); }
+=======
+	inline static int32_t get_offset_of_SubSize_12() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___SubSize_12)); }
+>>>>>>> Stashed changes
 	inline float get_SubSize_12() const { return ___SubSize_12; }
 	inline float* get_address_of_SubSize_12() { return &___SubSize_12; }
 	inline void set_SubSize_12(float value)
@@ -2232,7 +3471,11 @@ public:
 		___SubSize_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Underline_13() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Underline_13)); }
+=======
+	inline static int32_t get_offset_of_Underline_13() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Underline_13)); }
+>>>>>>> Stashed changes
 	inline float get_Underline_13() const { return ___Underline_13; }
 	inline float* get_address_of_Underline_13() { return &___Underline_13; }
 	inline void set_Underline_13(float value)
@@ -2240,7 +3483,11 @@ public:
 		___Underline_13 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_UnderlineThickness_14() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___UnderlineThickness_14)); }
+=======
+	inline static int32_t get_offset_of_UnderlineThickness_14() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___UnderlineThickness_14)); }
+>>>>>>> Stashed changes
 	inline float get_UnderlineThickness_14() const { return ___UnderlineThickness_14; }
 	inline float* get_address_of_UnderlineThickness_14() { return &___UnderlineThickness_14; }
 	inline void set_UnderlineThickness_14(float value)
@@ -2248,7 +3495,11 @@ public:
 		___UnderlineThickness_14 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_strikethrough_15() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___strikethrough_15)); }
+=======
+	inline static int32_t get_offset_of_strikethrough_15() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___strikethrough_15)); }
+>>>>>>> Stashed changes
 	inline float get_strikethrough_15() const { return ___strikethrough_15; }
 	inline float* get_address_of_strikethrough_15() { return &___strikethrough_15; }
 	inline void set_strikethrough_15(float value)
@@ -2256,7 +3507,11 @@ public:
 		___strikethrough_15 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_strikethroughThickness_16() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___strikethroughThickness_16)); }
+=======
+	inline static int32_t get_offset_of_strikethroughThickness_16() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___strikethroughThickness_16)); }
+>>>>>>> Stashed changes
 	inline float get_strikethroughThickness_16() const { return ___strikethroughThickness_16; }
 	inline float* get_address_of_strikethroughThickness_16() { return &___strikethroughThickness_16; }
 	inline void set_strikethroughThickness_16(float value)
@@ -2264,7 +3519,11 @@ public:
 		___strikethroughThickness_16 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TabWidth_17() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___TabWidth_17)); }
+=======
+	inline static int32_t get_offset_of_TabWidth_17() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___TabWidth_17)); }
+>>>>>>> Stashed changes
 	inline float get_TabWidth_17() const { return ___TabWidth_17; }
 	inline float* get_address_of_TabWidth_17() { return &___TabWidth_17; }
 	inline void set_TabWidth_17(float value)
@@ -2272,7 +3531,11 @@ public:
 		___TabWidth_17 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Padding_18() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___Padding_18)); }
+=======
+	inline static int32_t get_offset_of_Padding_18() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___Padding_18)); }
+>>>>>>> Stashed changes
 	inline float get_Padding_18() const { return ___Padding_18; }
 	inline float* get_address_of_Padding_18() { return &___Padding_18; }
 	inline void set_Padding_18(float value)
@@ -2280,7 +3543,11 @@ public:
 		___Padding_18 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_AtlasWidth_19() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___AtlasWidth_19)); }
+=======
+	inline static int32_t get_offset_of_AtlasWidth_19() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___AtlasWidth_19)); }
+>>>>>>> Stashed changes
 	inline float get_AtlasWidth_19() const { return ___AtlasWidth_19; }
 	inline float* get_address_of_AtlasWidth_19() { return &___AtlasWidth_19; }
 	inline void set_AtlasWidth_19(float value)
@@ -2288,7 +3555,11 @@ public:
 		___AtlasWidth_19 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_AtlasHeight_20() { return static_cast<int32_t>(offsetof(FaceInfo_t2183742116, ___AtlasHeight_20)); }
+=======
+	inline static int32_t get_offset_of_AtlasHeight_20() { return static_cast<int32_t>(offsetof(FaceInfo_t1650088009, ___AtlasHeight_20)); }
+>>>>>>> Stashed changes
 	inline float get_AtlasHeight_20() const { return ___AtlasHeight_20; }
 	inline float* get_address_of_AtlasHeight_20() { return &___AtlasHeight_20; }
 	inline void set_AtlasHeight_20(float value)
@@ -2300,9 +3571,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACEINFO_T2183742116_H
 #ifndef RESOURCE_T2040042524_H
 #define RESOURCE_T2040042524_H
+=======
+#endif // FACEINFO_T1650088009_H
+#ifndef RESOURCE_T2364393036_H
+#define RESOURCE_T2364393036_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2310,13 +3587,18 @@ public:
 #endif
 
 // Mapbox.Platform.Resource
+<<<<<<< Updated upstream
 struct  Resource_t2040042524  : public RuntimeObject
+=======
+struct  Resource_t2364393036  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct Resource_t2040042524_StaticFields
 {
 public:
@@ -2334,33 +3616,73 @@ public:
 	inline Func_2_t3248121616 * get_U3CU3Ef__amU24cache0_0() const { return ___U3CU3Ef__amU24cache0_0; }
 	inline Func_2_t3248121616 ** get_address_of_U3CU3Ef__amU24cache0_0() { return &___U3CU3Ef__amU24cache0_0; }
 	inline void set_U3CU3Ef__amU24cache0_0(Func_2_t3248121616 * value)
+=======
+struct Resource_t2364393036_StaticFields
+{
+public:
+	// System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>> Mapbox.Platform.Resource::<>f__am$cache0
+	Func_2_t2553720059 * ___U3CU3Ef__amU24cache0_0;
+	// System.Func`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,<>__AnonType1`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,System.String>> Mapbox.Platform.Resource::<>f__am$cache1
+	Func_2_t3493150350 * ___U3CU3Ef__amU24cache1_1;
+	// System.Func`2<<>__AnonType1`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,System.String>,System.String> Mapbox.Platform.Resource::<>f__am$cache2
+	Func_2_t2128727597 * ___U3CU3Ef__amU24cache2_2;
+	// System.Func`2<<>__AnonType1`2<<>__AnonType0`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>,System.String>,System.String> Mapbox.Platform.Resource::<>f__am$cache3
+	Func_2_t2128727597 * ___U3CU3Ef__amU24cache3_3;
+
+public:
+	inline static int32_t get_offset_of_U3CU3Ef__amU24cache0_0() { return static_cast<int32_t>(offsetof(Resource_t2364393036_StaticFields, ___U3CU3Ef__amU24cache0_0)); }
+	inline Func_2_t2553720059 * get_U3CU3Ef__amU24cache0_0() const { return ___U3CU3Ef__amU24cache0_0; }
+	inline Func_2_t2553720059 ** get_address_of_U3CU3Ef__amU24cache0_0() { return &___U3CU3Ef__amU24cache0_0; }
+	inline void set_U3CU3Ef__amU24cache0_0(Func_2_t2553720059 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3Ef__amU24cache0_0 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__amU24cache0_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CU3Ef__amU24cache1_1() { return static_cast<int32_t>(offsetof(Resource_t2040042524_StaticFields, ___U3CU3Ef__amU24cache1_1)); }
 	inline Func_2_t1666370984 * get_U3CU3Ef__amU24cache1_1() const { return ___U3CU3Ef__amU24cache1_1; }
 	inline Func_2_t1666370984 ** get_address_of_U3CU3Ef__amU24cache1_1() { return &___U3CU3Ef__amU24cache1_1; }
 	inline void set_U3CU3Ef__amU24cache1_1(Func_2_t1666370984 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__amU24cache1_1() { return static_cast<int32_t>(offsetof(Resource_t2364393036_StaticFields, ___U3CU3Ef__amU24cache1_1)); }
+	inline Func_2_t3493150350 * get_U3CU3Ef__amU24cache1_1() const { return ___U3CU3Ef__amU24cache1_1; }
+	inline Func_2_t3493150350 ** get_address_of_U3CU3Ef__amU24cache1_1() { return &___U3CU3Ef__amU24cache1_1; }
+	inline void set_U3CU3Ef__amU24cache1_1(Func_2_t3493150350 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3Ef__amU24cache1_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__amU24cache1_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CU3Ef__amU24cache2_2() { return static_cast<int32_t>(offsetof(Resource_t2040042524_StaticFields, ___U3CU3Ef__amU24cache2_2)); }
 	inline Func_2_t1571351202 * get_U3CU3Ef__amU24cache2_2() const { return ___U3CU3Ef__amU24cache2_2; }
 	inline Func_2_t1571351202 ** get_address_of_U3CU3Ef__amU24cache2_2() { return &___U3CU3Ef__amU24cache2_2; }
 	inline void set_U3CU3Ef__amU24cache2_2(Func_2_t1571351202 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__amU24cache2_2() { return static_cast<int32_t>(offsetof(Resource_t2364393036_StaticFields, ___U3CU3Ef__amU24cache2_2)); }
+	inline Func_2_t2128727597 * get_U3CU3Ef__amU24cache2_2() const { return ___U3CU3Ef__amU24cache2_2; }
+	inline Func_2_t2128727597 ** get_address_of_U3CU3Ef__amU24cache2_2() { return &___U3CU3Ef__amU24cache2_2; }
+	inline void set_U3CU3Ef__amU24cache2_2(Func_2_t2128727597 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3Ef__amU24cache2_2 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__amU24cache2_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CU3Ef__amU24cache3_3() { return static_cast<int32_t>(offsetof(Resource_t2040042524_StaticFields, ___U3CU3Ef__amU24cache3_3)); }
 	inline Func_2_t1571351202 * get_U3CU3Ef__amU24cache3_3() const { return ___U3CU3Ef__amU24cache3_3; }
 	inline Func_2_t1571351202 ** get_address_of_U3CU3Ef__amU24cache3_3() { return &___U3CU3Ef__amU24cache3_3; }
 	inline void set_U3CU3Ef__amU24cache3_3(Func_2_t1571351202 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3Ef__amU24cache3_3() { return static_cast<int32_t>(offsetof(Resource_t2364393036_StaticFields, ___U3CU3Ef__amU24cache3_3)); }
+	inline Func_2_t2128727597 * get_U3CU3Ef__amU24cache3_3() const { return ___U3CU3Ef__amU24cache3_3; }
+	inline Func_2_t2128727597 ** get_address_of_U3CU3Ef__amU24cache3_3() { return &___U3CU3Ef__amU24cache3_3; }
+	inline void set_U3CU3Ef__amU24cache3_3(Func_2_t2128727597 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3Ef__amU24cache3_3 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__amU24cache3_3), value);
@@ -2370,9 +3692,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // RESOURCE_T2040042524_H
 #ifndef U3CU3EC_T2789387555_H
 #define U3CU3EC_T2789387555_H
+=======
+#endif // RESOURCE_T2364393036_H
+#ifndef U3CU3EC_T196065760_H
+#define U3CU3EC_T196065760_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2380,13 +3708,18 @@ public:
 #endif
 
 // TMPro.KerningTable/<>c
+<<<<<<< Updated upstream
 struct  U3CU3Ec_t2789387555  : public RuntimeObject
+=======
+struct  U3CU3Ec_t196065760  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct U3CU3Ec_t2789387555_StaticFields
 {
 public:
@@ -2402,24 +3735,55 @@ public:
 	inline U3CU3Ec_t2789387555 * get_U3CU3E9_0() const { return ___U3CU3E9_0; }
 	inline U3CU3Ec_t2789387555 ** get_address_of_U3CU3E9_0() { return &___U3CU3E9_0; }
 	inline void set_U3CU3E9_0(U3CU3Ec_t2789387555 * value)
+=======
+struct U3CU3Ec_t196065760_StaticFields
+{
+public:
+	// TMPro.KerningTable/<>c TMPro.KerningTable/<>c::<>9
+	U3CU3Ec_t196065760 * ___U3CU3E9_0;
+	// System.Func`2<TMPro.KerningPair,System.Int32> TMPro.KerningTable/<>c::<>9__6_0
+	Func_2_t3969952596 * ___U3CU3E9__6_0_1;
+	// System.Func`2<TMPro.KerningPair,System.Int32> TMPro.KerningTable/<>c::<>9__6_1
+	Func_2_t3969952596 * ___U3CU3E9__6_1_2;
+
+public:
+	inline static int32_t get_offset_of_U3CU3E9_0() { return static_cast<int32_t>(offsetof(U3CU3Ec_t196065760_StaticFields, ___U3CU3E9_0)); }
+	inline U3CU3Ec_t196065760 * get_U3CU3E9_0() const { return ___U3CU3E9_0; }
+	inline U3CU3Ec_t196065760 ** get_address_of_U3CU3E9_0() { return &___U3CU3E9_0; }
+	inline void set_U3CU3E9_0(U3CU3Ec_t196065760 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3E9_0 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3E9_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CU3E9__6_0_1() { return static_cast<int32_t>(offsetof(U3CU3Ec_t2789387555_StaticFields, ___U3CU3E9__6_0_1)); }
 	inline Func_2_t2761200033 * get_U3CU3E9__6_0_1() const { return ___U3CU3E9__6_0_1; }
 	inline Func_2_t2761200033 ** get_address_of_U3CU3E9__6_0_1() { return &___U3CU3E9__6_0_1; }
 	inline void set_U3CU3E9__6_0_1(Func_2_t2761200033 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3E9__6_0_1() { return static_cast<int32_t>(offsetof(U3CU3Ec_t196065760_StaticFields, ___U3CU3E9__6_0_1)); }
+	inline Func_2_t3969952596 * get_U3CU3E9__6_0_1() const { return ___U3CU3E9__6_0_1; }
+	inline Func_2_t3969952596 ** get_address_of_U3CU3E9__6_0_1() { return &___U3CU3E9__6_0_1; }
+	inline void set_U3CU3E9__6_0_1(Func_2_t3969952596 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3E9__6_0_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3E9__6_0_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CU3E9__6_1_2() { return static_cast<int32_t>(offsetof(U3CU3Ec_t2789387555_StaticFields, ___U3CU3E9__6_1_2)); }
 	inline Func_2_t2761200033 * get_U3CU3E9__6_1_2() const { return ___U3CU3E9__6_1_2; }
 	inline Func_2_t2761200033 ** get_address_of_U3CU3E9__6_1_2() { return &___U3CU3E9__6_1_2; }
 	inline void set_U3CU3E9__6_1_2(Func_2_t2761200033 * value)
+=======
+	inline static int32_t get_offset_of_U3CU3E9__6_1_2() { return static_cast<int32_t>(offsetof(U3CU3Ec_t196065760_StaticFields, ___U3CU3E9__6_1_2)); }
+	inline Func_2_t3969952596 * get_U3CU3E9__6_1_2() const { return ___U3CU3E9__6_1_2; }
+	inline Func_2_t3969952596 ** get_address_of_U3CU3E9__6_1_2() { return &___U3CU3E9__6_1_2; }
+	inline void set_U3CU3E9__6_1_2(Func_2_t3969952596 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3E9__6_1_2 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3E9__6_1_2), value);
@@ -2429,9 +3793,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CU3EC_T2789387555_H
 #ifndef KERNINGPAIR_T3141758169_H
 #define KERNINGPAIR_T3141758169_H
+=======
+#endif // U3CU3EC_T196065760_H
+#ifndef KERNINGPAIR_T1514395871_H
+#define KERNINGPAIR_T1514395871_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2439,7 +3809,11 @@ public:
 #endif
 
 // TMPro.KerningPair
+<<<<<<< Updated upstream
 struct  KerningPair_t3141758169  : public RuntimeObject
+=======
+struct  KerningPair_t1514395871  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.KerningPair::AscII_Left
@@ -2450,7 +3824,11 @@ public:
 	float ___XadvanceOffset_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_AscII_Left_0() { return static_cast<int32_t>(offsetof(KerningPair_t3141758169, ___AscII_Left_0)); }
+=======
+	inline static int32_t get_offset_of_AscII_Left_0() { return static_cast<int32_t>(offsetof(KerningPair_t1514395871, ___AscII_Left_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_AscII_Left_0() const { return ___AscII_Left_0; }
 	inline int32_t* get_address_of_AscII_Left_0() { return &___AscII_Left_0; }
 	inline void set_AscII_Left_0(int32_t value)
@@ -2458,7 +3836,11 @@ public:
 		___AscII_Left_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_AscII_Right_1() { return static_cast<int32_t>(offsetof(KerningPair_t3141758169, ___AscII_Right_1)); }
+=======
+	inline static int32_t get_offset_of_AscII_Right_1() { return static_cast<int32_t>(offsetof(KerningPair_t1514395871, ___AscII_Right_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_AscII_Right_1() const { return ___AscII_Right_1; }
 	inline int32_t* get_address_of_AscII_Right_1() { return &___AscII_Right_1; }
 	inline void set_AscII_Right_1(int32_t value)
@@ -2466,7 +3848,11 @@ public:
 		___AscII_Right_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_XadvanceOffset_2() { return static_cast<int32_t>(offsetof(KerningPair_t3141758169, ___XadvanceOffset_2)); }
+=======
+	inline static int32_t get_offset_of_XadvanceOffset_2() { return static_cast<int32_t>(offsetof(KerningPair_t1514395871, ___XadvanceOffset_2)); }
+>>>>>>> Stashed changes
 	inline float get_XadvanceOffset_2() const { return ___XadvanceOffset_2; }
 	inline float* get_address_of_XadvanceOffset_2() { return &___XadvanceOffset_2; }
 	inline void set_XadvanceOffset_2(float value)
@@ -2478,9 +3864,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // KERNINGPAIR_T3141758169_H
 #ifndef U3CWAITU3EC__ITERATOR0_T1441954720_H
 #define U3CWAITU3EC__ITERATOR0_T1441954720_H
+=======
+#endif // KERNINGPAIR_T1514395871_H
+#ifndef U3CWAITU3EC__ITERATOR0_T1312668231_H
+#define U3CWAITU3EC__ITERATOR0_T1312668231_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2488,7 +3880,11 @@ public:
 #endif
 
 // loadDelayIntro/<Wait>c__Iterator0
+<<<<<<< Updated upstream
 struct  U3CWaitU3Ec__Iterator0_t1441954720  : public RuntimeObject
+=======
+struct  U3CWaitU3Ec__Iterator0_t1312668231  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Object loadDelayIntro/<Wait>c__Iterator0::$current
@@ -2499,7 +3895,11 @@ public:
 	int32_t ___U24PC_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24current_0() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1441954720, ___U24current_0)); }
+=======
+	inline static int32_t get_offset_of_U24current_0() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1312668231, ___U24current_0)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject * get_U24current_0() const { return ___U24current_0; }
 	inline RuntimeObject ** get_address_of_U24current_0() { return &___U24current_0; }
 	inline void set_U24current_0(RuntimeObject * value)
@@ -2508,7 +3908,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U24current_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24disposing_1() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1441954720, ___U24disposing_1)); }
+=======
+	inline static int32_t get_offset_of_U24disposing_1() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1312668231, ___U24disposing_1)); }
+>>>>>>> Stashed changes
 	inline bool get_U24disposing_1() const { return ___U24disposing_1; }
 	inline bool* get_address_of_U24disposing_1() { return &___U24disposing_1; }
 	inline void set_U24disposing_1(bool value)
@@ -2516,7 +3920,11 @@ public:
 		___U24disposing_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U24PC_2() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1441954720, ___U24PC_2)); }
+=======
+	inline static int32_t get_offset_of_U24PC_2() { return static_cast<int32_t>(offsetof(U3CWaitU3Ec__Iterator0_t1312668231, ___U24PC_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_U24PC_2() const { return ___U24PC_2; }
 	inline int32_t* get_address_of_U24PC_2() { return &___U24PC_2; }
 	inline void set_U24PC_2(int32_t value)
@@ -2528,9 +3936,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CWAITU3EC__ITERATOR0_T1441954720_H
 #ifndef U3CU3EC__DISPLAYCLASS3_0_T3926809081_H
 #define U3CU3EC__DISPLAYCLASS3_0_T3926809081_H
+=======
+#endif // U3CWAITU3EC__ITERATOR0_T1312668231_H
+#ifndef U3CU3EC__DISPLAYCLASS3_0_T11130350_H
+#define U3CU3EC__DISPLAYCLASS3_0_T11130350_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2538,7 +3952,11 @@ public:
 #endif
 
 // TMPro.KerningTable/<>c__DisplayClass3_0
+<<<<<<< Updated upstream
 struct  U3CU3Ec__DisplayClass3_0_t3926809081  : public RuntimeObject
+=======
+struct  U3CU3Ec__DisplayClass3_0_t11130350  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.KerningTable/<>c__DisplayClass3_0::left
@@ -2547,7 +3965,11 @@ public:
 	int32_t ___right_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_left_0() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass3_0_t3926809081, ___left_0)); }
+=======
+	inline static int32_t get_offset_of_left_0() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass3_0_t11130350, ___left_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_left_0() const { return ___left_0; }
 	inline int32_t* get_address_of_left_0() { return &___left_0; }
 	inline void set_left_0(int32_t value)
@@ -2555,7 +3977,11 @@ public:
 		___left_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_right_1() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass3_0_t3926809081, ___right_1)); }
+=======
+	inline static int32_t get_offset_of_right_1() { return static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass3_0_t11130350, ___right_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_right_1() const { return ___right_1; }
 	inline int32_t* get_address_of_right_1() { return &___right_1; }
 	inline void set_right_1(int32_t value)
@@ -2567,9 +3993,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CU3EC__DISPLAYCLASS3_0_T3926809081_H
 #ifndef KERNINGTABLE_T10227808_H
 #define KERNINGTABLE_T10227808_H
+=======
+#endif // U3CU3EC__DISPLAYCLASS3_0_T11130350_H
+#ifndef KERNINGTABLE_T1844259280_H
+#define KERNINGTABLE_T1844259280_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2577,6 +4009,7 @@ public:
 #endif
 
 // TMPro.KerningTable
+<<<<<<< Updated upstream
 struct  KerningTable_t10227808  : public RuntimeObject
 {
 public:
@@ -2588,6 +4021,19 @@ public:
 	inline List_1_t329512445 * get_kerningPairs_0() const { return ___kerningPairs_0; }
 	inline List_1_t329512445 ** get_address_of_kerningPairs_0() { return &___kerningPairs_0; }
 	inline void set_kerningPairs_0(List_1_t329512445 * value)
+=======
+struct  KerningTable_t1844259280  : public RuntimeObject
+{
+public:
+	// System.Collections.Generic.List`1<TMPro.KerningPair> TMPro.KerningTable::kerningPairs
+	List_1_t290793058 * ___kerningPairs_0;
+
+public:
+	inline static int32_t get_offset_of_kerningPairs_0() { return static_cast<int32_t>(offsetof(KerningTable_t1844259280, ___kerningPairs_0)); }
+	inline List_1_t290793058 * get_kerningPairs_0() const { return ___kerningPairs_0; }
+	inline List_1_t290793058 ** get_address_of_kerningPairs_0() { return &___kerningPairs_0; }
+	inline void set_kerningPairs_0(List_1_t290793058 * value)
+>>>>>>> Stashed changes
 	{
 		___kerningPairs_0 = value;
 		Il2CppCodeGenWriteBarrier((&___kerningPairs_0), value);
@@ -2597,9 +4043,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // KERNINGTABLE_T10227808_H
 #ifndef MATERIALREFERENCE_T208052407_H
 #define MATERIALREFERENCE_T208052407_H
+=======
+#endif // KERNINGTABLE_T1844259280_H
+#ifndef MATERIALREFERENCE_T2016115500_H
+#define MATERIALREFERENCE_T2016115500_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2607,30 +4059,50 @@ public:
 #endif
 
 // TMPro.MaterialReference
+<<<<<<< Updated upstream
 struct  MaterialReference_t208052407 
+=======
+struct  MaterialReference_t2016115500 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.MaterialReference::index
 	int32_t ___index_0;
 	// TMPro.TMP_FontAsset TMPro.MaterialReference::fontAsset
+<<<<<<< Updated upstream
 	TMP_FontAsset_t3080744653 * ___fontAsset_1;
 	// TMPro.TMP_SpriteAsset TMPro.MaterialReference::spriteAsset
 	TMP_SpriteAsset_t530635560 * ___spriteAsset_2;
 	// UnityEngine.Material TMPro.MaterialReference::material
 	Material_t2926388270 * ___material_3;
+=======
+	TMP_FontAsset_t209860335 * ___fontAsset_1;
+	// TMPro.TMP_SpriteAsset TMPro.MaterialReference::spriteAsset
+	TMP_SpriteAsset_t147018872 * ___spriteAsset_2;
+	// UnityEngine.Material TMPro.MaterialReference::material
+	Material_t132180377 * ___material_3;
+>>>>>>> Stashed changes
 	// System.Boolean TMPro.MaterialReference::isDefaultMaterial
 	bool ___isDefaultMaterial_4;
 	// System.Boolean TMPro.MaterialReference::isFallbackMaterial
 	bool ___isFallbackMaterial_5;
 	// UnityEngine.Material TMPro.MaterialReference::fallbackMaterial
+<<<<<<< Updated upstream
 	Material_t2926388270 * ___fallbackMaterial_6;
+=======
+	Material_t132180377 * ___fallbackMaterial_6;
+>>>>>>> Stashed changes
 	// System.Single TMPro.MaterialReference::padding
 	float ___padding_7;
 	// System.Int32 TMPro.MaterialReference::referenceCount
 	int32_t ___referenceCount_8;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_0() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___index_0)); }
+=======
+	inline static int32_t get_offset_of_index_0() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___index_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_index_0() const { return ___index_0; }
 	inline int32_t* get_address_of_index_0() { return &___index_0; }
 	inline void set_index_0(int32_t value)
@@ -2638,34 +4110,59 @@ public:
 		___index_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontAsset_1() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___fontAsset_1)); }
 	inline TMP_FontAsset_t3080744653 * get_fontAsset_1() const { return ___fontAsset_1; }
 	inline TMP_FontAsset_t3080744653 ** get_address_of_fontAsset_1() { return &___fontAsset_1; }
 	inline void set_fontAsset_1(TMP_FontAsset_t3080744653 * value)
+=======
+	inline static int32_t get_offset_of_fontAsset_1() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___fontAsset_1)); }
+	inline TMP_FontAsset_t209860335 * get_fontAsset_1() const { return ___fontAsset_1; }
+	inline TMP_FontAsset_t209860335 ** get_address_of_fontAsset_1() { return &___fontAsset_1; }
+	inline void set_fontAsset_1(TMP_FontAsset_t209860335 * value)
+>>>>>>> Stashed changes
 	{
 		___fontAsset_1 = value;
 		Il2CppCodeGenWriteBarrier((&___fontAsset_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spriteAsset_2() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___spriteAsset_2)); }
 	inline TMP_SpriteAsset_t530635560 * get_spriteAsset_2() const { return ___spriteAsset_2; }
 	inline TMP_SpriteAsset_t530635560 ** get_address_of_spriteAsset_2() { return &___spriteAsset_2; }
 	inline void set_spriteAsset_2(TMP_SpriteAsset_t530635560 * value)
+=======
+	inline static int32_t get_offset_of_spriteAsset_2() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___spriteAsset_2)); }
+	inline TMP_SpriteAsset_t147018872 * get_spriteAsset_2() const { return ___spriteAsset_2; }
+	inline TMP_SpriteAsset_t147018872 ** get_address_of_spriteAsset_2() { return &___spriteAsset_2; }
+	inline void set_spriteAsset_2(TMP_SpriteAsset_t147018872 * value)
+>>>>>>> Stashed changes
 	{
 		___spriteAsset_2 = value;
 		Il2CppCodeGenWriteBarrier((&___spriteAsset_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_material_3() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___material_3)); }
 	inline Material_t2926388270 * get_material_3() const { return ___material_3; }
 	inline Material_t2926388270 ** get_address_of_material_3() { return &___material_3; }
 	inline void set_material_3(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_material_3() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___material_3)); }
+	inline Material_t132180377 * get_material_3() const { return ___material_3; }
+	inline Material_t132180377 ** get_address_of_material_3() { return &___material_3; }
+	inline void set_material_3(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___material_3 = value;
 		Il2CppCodeGenWriteBarrier((&___material_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_isDefaultMaterial_4() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___isDefaultMaterial_4)); }
+=======
+	inline static int32_t get_offset_of_isDefaultMaterial_4() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___isDefaultMaterial_4)); }
+>>>>>>> Stashed changes
 	inline bool get_isDefaultMaterial_4() const { return ___isDefaultMaterial_4; }
 	inline bool* get_address_of_isDefaultMaterial_4() { return &___isDefaultMaterial_4; }
 	inline void set_isDefaultMaterial_4(bool value)
@@ -2673,7 +4170,11 @@ public:
 		___isDefaultMaterial_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_isFallbackMaterial_5() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___isFallbackMaterial_5)); }
+=======
+	inline static int32_t get_offset_of_isFallbackMaterial_5() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___isFallbackMaterial_5)); }
+>>>>>>> Stashed changes
 	inline bool get_isFallbackMaterial_5() const { return ___isFallbackMaterial_5; }
 	inline bool* get_address_of_isFallbackMaterial_5() { return &___isFallbackMaterial_5; }
 	inline void set_isFallbackMaterial_5(bool value)
@@ -2681,16 +4182,27 @@ public:
 		___isFallbackMaterial_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fallbackMaterial_6() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___fallbackMaterial_6)); }
 	inline Material_t2926388270 * get_fallbackMaterial_6() const { return ___fallbackMaterial_6; }
 	inline Material_t2926388270 ** get_address_of_fallbackMaterial_6() { return &___fallbackMaterial_6; }
 	inline void set_fallbackMaterial_6(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_fallbackMaterial_6() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___fallbackMaterial_6)); }
+	inline Material_t132180377 * get_fallbackMaterial_6() const { return ___fallbackMaterial_6; }
+	inline Material_t132180377 ** get_address_of_fallbackMaterial_6() { return &___fallbackMaterial_6; }
+	inline void set_fallbackMaterial_6(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___fallbackMaterial_6 = value;
 		Il2CppCodeGenWriteBarrier((&___fallbackMaterial_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_padding_7() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___padding_7)); }
+=======
+	inline static int32_t get_offset_of_padding_7() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___padding_7)); }
+>>>>>>> Stashed changes
 	inline float get_padding_7() const { return ___padding_7; }
 	inline float* get_address_of_padding_7() { return &___padding_7; }
 	inline void set_padding_7(float value)
@@ -2698,7 +4210,11 @@ public:
 		___padding_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_referenceCount_8() { return static_cast<int32_t>(offsetof(MaterialReference_t208052407, ___referenceCount_8)); }
+=======
+	inline static int32_t get_offset_of_referenceCount_8() { return static_cast<int32_t>(offsetof(MaterialReference_t2016115500, ___referenceCount_8)); }
+>>>>>>> Stashed changes
 	inline int32_t get_referenceCount_8() const { return ___referenceCount_8; }
 	inline int32_t* get_address_of_referenceCount_8() { return &___referenceCount_8; }
 	inline void set_referenceCount_8(int32_t value)
@@ -2711,6 +4227,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.MaterialReference
+<<<<<<< Updated upstream
 struct MaterialReference_t208052407_marshaled_pinvoke
 {
 	int32_t ___index_0;
@@ -2720,10 +4237,22 @@ struct MaterialReference_t208052407_marshaled_pinvoke
 	int32_t ___isDefaultMaterial_4;
 	int32_t ___isFallbackMaterial_5;
 	Material_t2926388270 * ___fallbackMaterial_6;
+=======
+struct MaterialReference_t2016115500_marshaled_pinvoke
+{
+	int32_t ___index_0;
+	TMP_FontAsset_t209860335 * ___fontAsset_1;
+	TMP_SpriteAsset_t147018872 * ___spriteAsset_2;
+	Material_t132180377 * ___material_3;
+	int32_t ___isDefaultMaterial_4;
+	int32_t ___isFallbackMaterial_5;
+	Material_t132180377 * ___fallbackMaterial_6;
+>>>>>>> Stashed changes
 	float ___padding_7;
 	int32_t ___referenceCount_8;
 };
 // Native definition for COM marshalling of TMPro.MaterialReference
+<<<<<<< Updated upstream
 struct MaterialReference_t208052407_marshaled_com
 {
 	int32_t ___index_0;
@@ -2739,6 +4268,23 @@ struct MaterialReference_t208052407_marshaled_com
 #endif // MATERIALREFERENCE_T208052407_H
 #ifndef TMP_XMLTAGSTACK_1_T1464843411_H
 #define TMP_XMLTAGSTACK_1_T1464843411_H
+=======
+struct MaterialReference_t2016115500_marshaled_com
+{
+	int32_t ___index_0;
+	TMP_FontAsset_t209860335 * ___fontAsset_1;
+	TMP_SpriteAsset_t147018872 * ___spriteAsset_2;
+	Material_t132180377 * ___material_3;
+	int32_t ___isDefaultMaterial_4;
+	int32_t ___isFallbackMaterial_5;
+	Material_t132180377 * ___fallbackMaterial_6;
+	float ___padding_7;
+	int32_t ___referenceCount_8;
+};
+#endif // MATERIALREFERENCE_T2016115500_H
+#ifndef TMP_XMLTAGSTACK_1_T2224988344_H
+#define TMP_XMLTAGSTACK_1_T2224988344_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2746,11 +4292,19 @@ struct MaterialReference_t208052407_marshaled_com
 #endif
 
 // TMPro.TMP_XmlTagStack`1<System.Single>
+<<<<<<< Updated upstream
 struct  TMP_XmlTagStack_1_t1464843411 
 {
 public:
 	// T[] TMPro.TMP_XmlTagStack`1::itemStack
 	SingleU5BU5D_t4249742454* ___itemStack_0;
+=======
+struct  TMP_XmlTagStack_1_t2224988344 
+{
+public:
+	// T[] TMPro.TMP_XmlTagStack`1::itemStack
+	SingleU5BU5D_t771947276* ___itemStack_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_XmlTagStack`1::index
 	int32_t ___index_1;
 	// System.Int32 TMPro.TMP_XmlTagStack`1::m_capacity
@@ -2759,16 +4313,27 @@ public:
 	float ___m_defaultItem_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1464843411, ___itemStack_0)); }
 	inline SingleU5BU5D_t4249742454* get_itemStack_0() const { return ___itemStack_0; }
 	inline SingleU5BU5D_t4249742454** get_address_of_itemStack_0() { return &___itemStack_0; }
 	inline void set_itemStack_0(SingleU5BU5D_t4249742454* value)
+=======
+	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t2224988344, ___itemStack_0)); }
+	inline SingleU5BU5D_t771947276* get_itemStack_0() const { return ___itemStack_0; }
+	inline SingleU5BU5D_t771947276** get_address_of_itemStack_0() { return &___itemStack_0; }
+	inline void set_itemStack_0(SingleU5BU5D_t771947276* value)
+>>>>>>> Stashed changes
 	{
 		___itemStack_0 = value;
 		Il2CppCodeGenWriteBarrier((&___itemStack_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1464843411, ___index_1)); }
+=======
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t2224988344, ___index_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_index_1() const { return ___index_1; }
 	inline int32_t* get_address_of_index_1() { return &___index_1; }
 	inline void set_index_1(int32_t value)
@@ -2776,7 +4341,11 @@ public:
 		___index_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1464843411, ___m_capacity_2)); }
+=======
+	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t2224988344, ___m_capacity_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_capacity_2() const { return ___m_capacity_2; }
 	inline int32_t* get_address_of_m_capacity_2() { return &___m_capacity_2; }
 	inline void set_m_capacity_2(int32_t value)
@@ -2784,7 +4353,11 @@ public:
 		___m_capacity_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1464843411, ___m_defaultItem_3)); }
+=======
+	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t2224988344, ___m_defaultItem_3)); }
+>>>>>>> Stashed changes
 	inline float get_m_defaultItem_3() const { return ___m_defaultItem_3; }
 	inline float* get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
 	inline void set_m_defaultItem_3(float value)
@@ -2796,9 +4369,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_XMLTAGSTACK_1_T1464843411_H
 #ifndef COLOR_T635182970_H
 #define COLOR_T635182970_H
+=======
+#endif // TMP_XMLTAGSTACK_1_T2224988344_H
+#ifndef COLOR_T1429747532_H
+#define COLOR_T1429747532_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2806,7 +4385,11 @@ public:
 #endif
 
 // UnityEngine.Color
+<<<<<<< Updated upstream
 struct  Color_t635182970 
+=======
+struct  Color_t1429747532 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -2819,7 +4402,11 @@ public:
 	float ___a_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color_t635182970, ___r_0)); }
+=======
+	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color_t1429747532, ___r_0)); }
+>>>>>>> Stashed changes
 	inline float get_r_0() const { return ___r_0; }
 	inline float* get_address_of_r_0() { return &___r_0; }
 	inline void set_r_0(float value)
@@ -2827,7 +4414,11 @@ public:
 		___r_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color_t635182970, ___g_1)); }
+=======
+	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color_t1429747532, ___g_1)); }
+>>>>>>> Stashed changes
 	inline float get_g_1() const { return ___g_1; }
 	inline float* get_address_of_g_1() { return &___g_1; }
 	inline void set_g_1(float value)
@@ -2835,7 +4426,11 @@ public:
 		___g_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color_t635182970, ___b_2)); }
+=======
+	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color_t1429747532, ___b_2)); }
+>>>>>>> Stashed changes
 	inline float get_b_2() const { return ___b_2; }
 	inline float* get_address_of_b_2() { return &___b_2; }
 	inline void set_b_2(float value)
@@ -2843,7 +4438,11 @@ public:
 		___b_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color_t635182970, ___a_3)); }
+=======
+	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color_t1429747532, ___a_3)); }
+>>>>>>> Stashed changes
 	inline float get_a_3() const { return ___a_3; }
 	inline float* get_address_of_a_3() { return &___a_3; }
 	inline void set_a_3(float value)
@@ -2855,9 +4454,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // COLOR_T635182970_H
 #ifndef GEOCODERESOURCE_1_T207438851_H
 #define GEOCODERESOURCE_1_T207438851_H
+=======
+#endif // COLOR_T1429747532_H
+#ifndef GEOCODERESOURCE_1_T3497030140_H
+#define GEOCODERESOURCE_1_T3497030140_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2865,7 +4470,11 @@ public:
 #endif
 
 // Mapbox.Geocoding.GeocodeResource`1<Mapbox.Utils.Vector2d>
+<<<<<<< Updated upstream
 struct  GeocodeResource_1_t207438851  : public Resource_t2040042524
+=======
+struct  GeocodeResource_1_t3497030140  : public Resource_t2364393036
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Geocoding.GeocodeResource`1::apiEndpoint
@@ -2873,10 +4482,17 @@ public:
 	// System.String Mapbox.Geocoding.GeocodeResource`1::mode
 	String_t* ___mode_6;
 	// System.String[] Mapbox.Geocoding.GeocodeResource`1::types
+<<<<<<< Updated upstream
 	StringU5BU5D_t350477295* ___types_7;
 
 public:
 	inline static int32_t get_offset_of_apiEndpoint_5() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t207438851, ___apiEndpoint_5)); }
+=======
+	StringU5BU5D_t4053320056* ___types_7;
+
+public:
+	inline static int32_t get_offset_of_apiEndpoint_5() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3497030140, ___apiEndpoint_5)); }
+>>>>>>> Stashed changes
 	inline String_t* get_apiEndpoint_5() const { return ___apiEndpoint_5; }
 	inline String_t** get_address_of_apiEndpoint_5() { return &___apiEndpoint_5; }
 	inline void set_apiEndpoint_5(String_t* value)
@@ -2885,7 +4501,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___apiEndpoint_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_mode_6() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t207438851, ___mode_6)); }
+=======
+	inline static int32_t get_offset_of_mode_6() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3497030140, ___mode_6)); }
+>>>>>>> Stashed changes
 	inline String_t* get_mode_6() const { return ___mode_6; }
 	inline String_t** get_address_of_mode_6() { return &___mode_6; }
 	inline void set_mode_6(String_t* value)
@@ -2894,16 +4514,24 @@ public:
 		Il2CppCodeGenWriteBarrier((&___mode_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_types_7() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t207438851, ___types_7)); }
 	inline StringU5BU5D_t350477295* get_types_7() const { return ___types_7; }
 	inline StringU5BU5D_t350477295** get_address_of_types_7() { return &___types_7; }
 	inline void set_types_7(StringU5BU5D_t350477295* value)
+=======
+	inline static int32_t get_offset_of_types_7() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3497030140, ___types_7)); }
+	inline StringU5BU5D_t4053320056* get_types_7() const { return ___types_7; }
+	inline StringU5BU5D_t4053320056** get_address_of_types_7() { return &___types_7; }
+	inline void set_types_7(StringU5BU5D_t4053320056* value)
+>>>>>>> Stashed changes
 	{
 		___types_7 = value;
 		Il2CppCodeGenWriteBarrier((&___types_7), value);
 	}
 };
 
+<<<<<<< Updated upstream
 struct GeocodeResource_1_t207438851_StaticFields
 {
 public:
@@ -2915,6 +4543,19 @@ public:
 	inline List_1_t3381605710 * get_FeatureTypes_4() const { return ___FeatureTypes_4; }
 	inline List_1_t3381605710 ** get_address_of_FeatureTypes_4() { return &___FeatureTypes_4; }
 	inline void set_FeatureTypes_4(List_1_t3381605710 * value)
+=======
+struct GeocodeResource_1_t3497030140_StaticFields
+{
+public:
+	// System.Collections.Generic.List`1<System.String> Mapbox.Geocoding.GeocodeResource`1::FeatureTypes
+	List_1_t2137962008 * ___FeatureTypes_4;
+
+public:
+	inline static int32_t get_offset_of_FeatureTypes_4() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3497030140_StaticFields, ___FeatureTypes_4)); }
+	inline List_1_t2137962008 * get_FeatureTypes_4() const { return ___FeatureTypes_4; }
+	inline List_1_t2137962008 ** get_address_of_FeatureTypes_4() { return &___FeatureTypes_4; }
+	inline void set_FeatureTypes_4(List_1_t2137962008 * value)
+>>>>>>> Stashed changes
 	{
 		___FeatureTypes_4 = value;
 		Il2CppCodeGenWriteBarrier((&___FeatureTypes_4), value);
@@ -2924,9 +4565,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // GEOCODERESOURCE_1_T207438851_H
 #ifndef GEOCODERESOURCE_1_T2127511011_H
 #define GEOCODERESOURCE_1_T2127511011_H
+=======
+#endif // GEOCODERESOURCE_1_T3497030140_H
+#ifndef GEOCODERESOURCE_1_T3370649995_H
+#define GEOCODERESOURCE_1_T3370649995_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2934,7 +4581,11 @@ public:
 #endif
 
 // Mapbox.Geocoding.GeocodeResource`1<System.String>
+<<<<<<< Updated upstream
 struct  GeocodeResource_1_t2127511011  : public Resource_t2040042524
+=======
+struct  GeocodeResource_1_t3370649995  : public Resource_t2364393036
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Geocoding.GeocodeResource`1::apiEndpoint
@@ -2942,10 +4593,17 @@ public:
 	// System.String Mapbox.Geocoding.GeocodeResource`1::mode
 	String_t* ___mode_6;
 	// System.String[] Mapbox.Geocoding.GeocodeResource`1::types
+<<<<<<< Updated upstream
 	StringU5BU5D_t350477295* ___types_7;
 
 public:
 	inline static int32_t get_offset_of_apiEndpoint_5() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t2127511011, ___apiEndpoint_5)); }
+=======
+	StringU5BU5D_t4053320056* ___types_7;
+
+public:
+	inline static int32_t get_offset_of_apiEndpoint_5() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3370649995, ___apiEndpoint_5)); }
+>>>>>>> Stashed changes
 	inline String_t* get_apiEndpoint_5() const { return ___apiEndpoint_5; }
 	inline String_t** get_address_of_apiEndpoint_5() { return &___apiEndpoint_5; }
 	inline void set_apiEndpoint_5(String_t* value)
@@ -2954,7 +4612,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___apiEndpoint_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_mode_6() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t2127511011, ___mode_6)); }
+=======
+	inline static int32_t get_offset_of_mode_6() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3370649995, ___mode_6)); }
+>>>>>>> Stashed changes
 	inline String_t* get_mode_6() const { return ___mode_6; }
 	inline String_t** get_address_of_mode_6() { return &___mode_6; }
 	inline void set_mode_6(String_t* value)
@@ -2963,16 +4625,24 @@ public:
 		Il2CppCodeGenWriteBarrier((&___mode_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_types_7() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t2127511011, ___types_7)); }
 	inline StringU5BU5D_t350477295* get_types_7() const { return ___types_7; }
 	inline StringU5BU5D_t350477295** get_address_of_types_7() { return &___types_7; }
 	inline void set_types_7(StringU5BU5D_t350477295* value)
+=======
+	inline static int32_t get_offset_of_types_7() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3370649995, ___types_7)); }
+	inline StringU5BU5D_t4053320056* get_types_7() const { return ___types_7; }
+	inline StringU5BU5D_t4053320056** get_address_of_types_7() { return &___types_7; }
+	inline void set_types_7(StringU5BU5D_t4053320056* value)
+>>>>>>> Stashed changes
 	{
 		___types_7 = value;
 		Il2CppCodeGenWriteBarrier((&___types_7), value);
 	}
 };
 
+<<<<<<< Updated upstream
 struct GeocodeResource_1_t2127511011_StaticFields
 {
 public:
@@ -2984,6 +4654,19 @@ public:
 	inline List_1_t3381605710 * get_FeatureTypes_4() const { return ___FeatureTypes_4; }
 	inline List_1_t3381605710 ** get_address_of_FeatureTypes_4() { return &___FeatureTypes_4; }
 	inline void set_FeatureTypes_4(List_1_t3381605710 * value)
+=======
+struct GeocodeResource_1_t3370649995_StaticFields
+{
+public:
+	// System.Collections.Generic.List`1<System.String> Mapbox.Geocoding.GeocodeResource`1::FeatureTypes
+	List_1_t2137962008 * ___FeatureTypes_4;
+
+public:
+	inline static int32_t get_offset_of_FeatureTypes_4() { return static_cast<int32_t>(offsetof(GeocodeResource_1_t3370649995_StaticFields, ___FeatureTypes_4)); }
+	inline List_1_t2137962008 * get_FeatureTypes_4() const { return ___FeatureTypes_4; }
+	inline List_1_t2137962008 ** get_address_of_FeatureTypes_4() { return &___FeatureTypes_4; }
+	inline void set_FeatureTypes_4(List_1_t2137962008 * value)
+>>>>>>> Stashed changes
 	{
 		___FeatureTypes_4 = value;
 		Il2CppCodeGenWriteBarrier((&___FeatureTypes_4), value);
@@ -2993,9 +4676,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // GEOCODERESOURCE_1_T2127511011_H
 #ifndef COLOR32_T771166883_H
 #define COLOR32_T771166883_H
+=======
+#endif // GEOCODERESOURCE_1_T3370649995_H
+#ifndef COLOR32_T3788861462_H
+#define COLOR32_T3788861462_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3003,7 +4692,11 @@ public:
 #endif
 
 // UnityEngine.Color32
+<<<<<<< Updated upstream
 struct ALIGN_TYPE(4) Color32_t771166883 
+=======
+struct ALIGN_TYPE(4) Color32_t3788861462 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Byte UnityEngine.Color32::r
@@ -3016,7 +4709,11 @@ public:
 	uint8_t ___a_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color32_t771166883, ___r_0)); }
+=======
+	inline static int32_t get_offset_of_r_0() { return static_cast<int32_t>(offsetof(Color32_t3788861462, ___r_0)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_r_0() const { return ___r_0; }
 	inline uint8_t* get_address_of_r_0() { return &___r_0; }
 	inline void set_r_0(uint8_t value)
@@ -3024,7 +4721,11 @@ public:
 		___r_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color32_t771166883, ___g_1)); }
+=======
+	inline static int32_t get_offset_of_g_1() { return static_cast<int32_t>(offsetof(Color32_t3788861462, ___g_1)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_g_1() const { return ___g_1; }
 	inline uint8_t* get_address_of_g_1() { return &___g_1; }
 	inline void set_g_1(uint8_t value)
@@ -3032,7 +4733,11 @@ public:
 		___g_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color32_t771166883, ___b_2)); }
+=======
+	inline static int32_t get_offset_of_b_2() { return static_cast<int32_t>(offsetof(Color32_t3788861462, ___b_2)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_b_2() const { return ___b_2; }
 	inline uint8_t* get_address_of_b_2() { return &___b_2; }
 	inline void set_b_2(uint8_t value)
@@ -3040,7 +4745,11 @@ public:
 		___b_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color32_t771166883, ___a_3)); }
+=======
+	inline static int32_t get_offset_of_a_3() { return static_cast<int32_t>(offsetof(Color32_t3788861462, ___a_3)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_a_3() const { return ___a_3; }
 	inline uint8_t* get_address_of_a_3() { return &___a_3; }
 	inline void set_a_3(uint8_t value)
@@ -3052,9 +4761,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // COLOR32_T771166883_H
 #ifndef NULLABLE_1_T366382819_H
 #define NULLABLE_1_T366382819_H
+=======
+#endif // COLOR32_T3788861462_H
+#ifndef NULLABLE_1_T3068145466_H
+#define NULLABLE_1_T3068145466_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3062,7 +4777,11 @@ public:
 #endif
 
 // System.Nullable`1<System.Int32>
+<<<<<<< Updated upstream
 struct  Nullable_1_t366382819 
+=======
+struct  Nullable_1_t3068145466 
+>>>>>>> Stashed changes
 {
 public:
 	// T System.Nullable`1::value
@@ -3071,7 +4790,11 @@ public:
 	bool ___has_value_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t366382819, ___value_0)); }
+=======
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t3068145466, ___value_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value_0() const { return ___value_0; }
 	inline int32_t* get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(int32_t value)
@@ -3079,7 +4802,11 @@ public:
 		___value_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t366382819, ___has_value_1)); }
+=======
+	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t3068145466, ___has_value_1)); }
+>>>>>>> Stashed changes
 	inline bool get_has_value_1() const { return ___has_value_1; }
 	inline bool* get_address_of_has_value_1() { return &___has_value_1; }
 	inline void set_has_value_1(bool value)
@@ -3091,9 +4818,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // NULLABLE_1_T366382819_H
 #ifndef CANONICALTILEID_T916346256_H
 #define CANONICALTILEID_T916346256_H
+=======
+#endif // NULLABLE_1_T3068145466_H
+#ifndef CANONICALTILEID_T988270330_H
+#define CANONICALTILEID_T988270330_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3101,7 +4834,11 @@ public:
 #endif
 
 // Mapbox.Map.CanonicalTileId
+<<<<<<< Updated upstream
 struct  CanonicalTileId_t916346256 
+=======
+struct  CanonicalTileId_t988270330 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 Mapbox.Map.CanonicalTileId::Z
@@ -3112,7 +4849,11 @@ public:
 	int32_t ___Y_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Z_0() { return static_cast<int32_t>(offsetof(CanonicalTileId_t916346256, ___Z_0)); }
+=======
+	inline static int32_t get_offset_of_Z_0() { return static_cast<int32_t>(offsetof(CanonicalTileId_t988270330, ___Z_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_Z_0() const { return ___Z_0; }
 	inline int32_t* get_address_of_Z_0() { return &___Z_0; }
 	inline void set_Z_0(int32_t value)
@@ -3120,7 +4861,11 @@ public:
 		___Z_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_X_1() { return static_cast<int32_t>(offsetof(CanonicalTileId_t916346256, ___X_1)); }
+=======
+	inline static int32_t get_offset_of_X_1() { return static_cast<int32_t>(offsetof(CanonicalTileId_t988270330, ___X_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_X_1() const { return ___X_1; }
 	inline int32_t* get_address_of_X_1() { return &___X_1; }
 	inline void set_X_1(int32_t value)
@@ -3128,7 +4873,11 @@ public:
 		___X_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Y_2() { return static_cast<int32_t>(offsetof(CanonicalTileId_t916346256, ___Y_2)); }
+=======
+	inline static int32_t get_offset_of_Y_2() { return static_cast<int32_t>(offsetof(CanonicalTileId_t988270330, ___Y_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_Y_2() const { return ___Y_2; }
 	inline int32_t* get_address_of_Y_2() { return &___Y_2; }
 	inline void set_Y_2(int32_t value)
@@ -3140,9 +4889,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // CANONICALTILEID_T916346256_H
 #ifndef VECTOR2_T1843416549_H
 #define VECTOR2_T1843416549_H
+=======
+#endif // CANONICALTILEID_T988270330_H
+#ifndef VECTOR2_T3490028585_H
+#define VECTOR2_T3490028585_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3150,7 +4905,11 @@ public:
 #endif
 
 // UnityEngine.Vector2
+<<<<<<< Updated upstream
 struct  Vector2_t1843416549 
+=======
+struct  Vector2_t3490028585 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -3159,7 +4918,11 @@ public:
 	float ___y_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_x_0() { return static_cast<int32_t>(offsetof(Vector2_t1843416549, ___x_0)); }
+=======
+	inline static int32_t get_offset_of_x_0() { return static_cast<int32_t>(offsetof(Vector2_t3490028585, ___x_0)); }
+>>>>>>> Stashed changes
 	inline float get_x_0() const { return ___x_0; }
 	inline float* get_address_of_x_0() { return &___x_0; }
 	inline void set_x_0(float value)
@@ -3167,7 +4930,11 @@ public:
 		___x_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_y_1() { return static_cast<int32_t>(offsetof(Vector2_t1843416549, ___y_1)); }
+=======
+	inline static int32_t get_offset_of_y_1() { return static_cast<int32_t>(offsetof(Vector2_t3490028585, ___y_1)); }
+>>>>>>> Stashed changes
 	inline float get_y_1() const { return ___y_1; }
 	inline float* get_address_of_y_1() { return &___y_1; }
 	inline void set_y_1(float value)
@@ -3176,6 +4943,7 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct Vector2_t1843416549_StaticFields
 {
 public:
@@ -3201,62 +4969,138 @@ public:
 	inline Vector2_t1843416549  get_zeroVector_2() const { return ___zeroVector_2; }
 	inline Vector2_t1843416549 * get_address_of_zeroVector_2() { return &___zeroVector_2; }
 	inline void set_zeroVector_2(Vector2_t1843416549  value)
+=======
+struct Vector2_t3490028585_StaticFields
+{
+public:
+	// UnityEngine.Vector2 UnityEngine.Vector2::zeroVector
+	Vector2_t3490028585  ___zeroVector_2;
+	// UnityEngine.Vector2 UnityEngine.Vector2::oneVector
+	Vector2_t3490028585  ___oneVector_3;
+	// UnityEngine.Vector2 UnityEngine.Vector2::upVector
+	Vector2_t3490028585  ___upVector_4;
+	// UnityEngine.Vector2 UnityEngine.Vector2::downVector
+	Vector2_t3490028585  ___downVector_5;
+	// UnityEngine.Vector2 UnityEngine.Vector2::leftVector
+	Vector2_t3490028585  ___leftVector_6;
+	// UnityEngine.Vector2 UnityEngine.Vector2::rightVector
+	Vector2_t3490028585  ___rightVector_7;
+	// UnityEngine.Vector2 UnityEngine.Vector2::positiveInfinityVector
+	Vector2_t3490028585  ___positiveInfinityVector_8;
+	// UnityEngine.Vector2 UnityEngine.Vector2::negativeInfinityVector
+	Vector2_t3490028585  ___negativeInfinityVector_9;
+
+public:
+	inline static int32_t get_offset_of_zeroVector_2() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___zeroVector_2)); }
+	inline Vector2_t3490028585  get_zeroVector_2() const { return ___zeroVector_2; }
+	inline Vector2_t3490028585 * get_address_of_zeroVector_2() { return &___zeroVector_2; }
+	inline void set_zeroVector_2(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___zeroVector_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_oneVector_3() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___oneVector_3)); }
 	inline Vector2_t1843416549  get_oneVector_3() const { return ___oneVector_3; }
 	inline Vector2_t1843416549 * get_address_of_oneVector_3() { return &___oneVector_3; }
 	inline void set_oneVector_3(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_oneVector_3() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___oneVector_3)); }
+	inline Vector2_t3490028585  get_oneVector_3() const { return ___oneVector_3; }
+	inline Vector2_t3490028585 * get_address_of_oneVector_3() { return &___oneVector_3; }
+	inline void set_oneVector_3(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___oneVector_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_upVector_4() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___upVector_4)); }
 	inline Vector2_t1843416549  get_upVector_4() const { return ___upVector_4; }
 	inline Vector2_t1843416549 * get_address_of_upVector_4() { return &___upVector_4; }
 	inline void set_upVector_4(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_upVector_4() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___upVector_4)); }
+	inline Vector2_t3490028585  get_upVector_4() const { return ___upVector_4; }
+	inline Vector2_t3490028585 * get_address_of_upVector_4() { return &___upVector_4; }
+	inline void set_upVector_4(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___upVector_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_downVector_5() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___downVector_5)); }
 	inline Vector2_t1843416549  get_downVector_5() const { return ___downVector_5; }
 	inline Vector2_t1843416549 * get_address_of_downVector_5() { return &___downVector_5; }
 	inline void set_downVector_5(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_downVector_5() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___downVector_5)); }
+	inline Vector2_t3490028585  get_downVector_5() const { return ___downVector_5; }
+	inline Vector2_t3490028585 * get_address_of_downVector_5() { return &___downVector_5; }
+	inline void set_downVector_5(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___downVector_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_leftVector_6() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___leftVector_6)); }
 	inline Vector2_t1843416549  get_leftVector_6() const { return ___leftVector_6; }
 	inline Vector2_t1843416549 * get_address_of_leftVector_6() { return &___leftVector_6; }
 	inline void set_leftVector_6(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_leftVector_6() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___leftVector_6)); }
+	inline Vector2_t3490028585  get_leftVector_6() const { return ___leftVector_6; }
+	inline Vector2_t3490028585 * get_address_of_leftVector_6() { return &___leftVector_6; }
+	inline void set_leftVector_6(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___leftVector_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_rightVector_7() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___rightVector_7)); }
 	inline Vector2_t1843416549  get_rightVector_7() const { return ___rightVector_7; }
 	inline Vector2_t1843416549 * get_address_of_rightVector_7() { return &___rightVector_7; }
 	inline void set_rightVector_7(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_rightVector_7() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___rightVector_7)); }
+	inline Vector2_t3490028585  get_rightVector_7() const { return ___rightVector_7; }
+	inline Vector2_t3490028585 * get_address_of_rightVector_7() { return &___rightVector_7; }
+	inline void set_rightVector_7(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___rightVector_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_positiveInfinityVector_8() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___positiveInfinityVector_8)); }
 	inline Vector2_t1843416549  get_positiveInfinityVector_8() const { return ___positiveInfinityVector_8; }
 	inline Vector2_t1843416549 * get_address_of_positiveInfinityVector_8() { return &___positiveInfinityVector_8; }
 	inline void set_positiveInfinityVector_8(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_positiveInfinityVector_8() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___positiveInfinityVector_8)); }
+	inline Vector2_t3490028585  get_positiveInfinityVector_8() const { return ___positiveInfinityVector_8; }
+	inline Vector2_t3490028585 * get_address_of_positiveInfinityVector_8() { return &___positiveInfinityVector_8; }
+	inline void set_positiveInfinityVector_8(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___positiveInfinityVector_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_negativeInfinityVector_9() { return static_cast<int32_t>(offsetof(Vector2_t1843416549_StaticFields, ___negativeInfinityVector_9)); }
 	inline Vector2_t1843416549  get_negativeInfinityVector_9() const { return ___negativeInfinityVector_9; }
 	inline Vector2_t1843416549 * get_address_of_negativeInfinityVector_9() { return &___negativeInfinityVector_9; }
 	inline void set_negativeInfinityVector_9(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_negativeInfinityVector_9() { return static_cast<int32_t>(offsetof(Vector2_t3490028585_StaticFields, ___negativeInfinityVector_9)); }
+	inline Vector2_t3490028585  get_negativeInfinityVector_9() const { return ___negativeInfinityVector_9; }
+	inline Vector2_t3490028585 * get_address_of_negativeInfinityVector_9() { return &___negativeInfinityVector_9; }
+	inline void set_negativeInfinityVector_9(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___negativeInfinityVector_9 = value;
 	}
@@ -3265,9 +5109,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // VECTOR2_T1843416549_H
 #ifndef NULLABLE_1_T3812973277_H
 #define NULLABLE_1_T3812973277_H
+=======
+#endif // VECTOR2_T3490028585_H
+#ifndef NULLABLE_1_T1820889821_H
+#define NULLABLE_1_T1820889821_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3275,7 +5125,11 @@ public:
 #endif
 
 // System.Nullable`1<System.Boolean>
+<<<<<<< Updated upstream
 struct  Nullable_1_t3812973277 
+=======
+struct  Nullable_1_t1820889821 
+>>>>>>> Stashed changes
 {
 public:
 	// T System.Nullable`1::value
@@ -3284,7 +5138,11 @@ public:
 	bool ___has_value_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t3812973277, ___value_0)); }
+=======
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t1820889821, ___value_0)); }
+>>>>>>> Stashed changes
 	inline bool get_value_0() const { return ___value_0; }
 	inline bool* get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(bool value)
@@ -3292,7 +5150,11 @@ public:
 		___value_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t3812973277, ___has_value_1)); }
+=======
+	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t1820889821, ___has_value_1)); }
+>>>>>>> Stashed changes
 	inline bool get_has_value_1() const { return ___has_value_1; }
 	inline bool* get_address_of_has_value_1() { return &___has_value_1; }
 	inline void set_has_value_1(bool value)
@@ -3304,9 +5166,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // NULLABLE_1_T3812973277_H
 #ifndef ENUM_T364249761_H
 #define ENUM_T364249761_H
+=======
+#endif // NULLABLE_1_T1820889821_H
+#ifndef ENUM_T4252857293_H
+#define ENUM_T4252857293_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3314,13 +5182,18 @@ public:
 #endif
 
 // System.Enum
+<<<<<<< Updated upstream
 struct  Enum_t364249761  : public ValueType_t4179911041
+=======
+struct  Enum_t4252857293  : public ValueType_t3861366942
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct Enum_t364249761_StaticFields
 {
 public:
@@ -3332,6 +5205,19 @@ public:
 	inline CharU5BU5D_t815250530* get_split_char_0() const { return ___split_char_0; }
 	inline CharU5BU5D_t815250530** get_address_of_split_char_0() { return &___split_char_0; }
 	inline void set_split_char_0(CharU5BU5D_t815250530* value)
+=======
+struct Enum_t4252857293_StaticFields
+{
+public:
+	// System.Char[] System.Enum::split_char
+	CharU5BU5D_t3572321290* ___split_char_0;
+
+public:
+	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t4252857293_StaticFields, ___split_char_0)); }
+	inline CharU5BU5D_t3572321290* get_split_char_0() const { return ___split_char_0; }
+	inline CharU5BU5D_t3572321290** get_address_of_split_char_0() { return &___split_char_0; }
+	inline void set_split_char_0(CharU5BU5D_t3572321290* value)
+>>>>>>> Stashed changes
 	{
 		___split_char_0 = value;
 		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
@@ -3342,6 +5228,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.Enum
+<<<<<<< Updated upstream
 struct Enum_t364249761_marshaled_pinvoke
 {
 };
@@ -3352,6 +5239,18 @@ struct Enum_t364249761_marshaled_com
 #endif // ENUM_T364249761_H
 #ifndef VECTOR3_T3513892689_H
 #define VECTOR3_T3513892689_H
+=======
+struct Enum_t4252857293_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.Enum
+struct Enum_t4252857293_marshaled_com
+{
+};
+#endif // ENUM_T4252857293_H
+#ifndef VECTOR3_T2110634753_H
+#define VECTOR3_T2110634753_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3359,7 +5258,11 @@ struct Enum_t364249761_marshaled_com
 #endif
 
 // UnityEngine.Vector3
+<<<<<<< Updated upstream
 struct  Vector3_t3513892689 
+=======
+struct  Vector3_t2110634753 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -3370,7 +5273,11 @@ public:
 	float ___z_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector3_t3513892689, ___x_1)); }
+=======
+	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector3_t2110634753, ___x_1)); }
+>>>>>>> Stashed changes
 	inline float get_x_1() const { return ___x_1; }
 	inline float* get_address_of_x_1() { return &___x_1; }
 	inline void set_x_1(float value)
@@ -3378,7 +5285,11 @@ public:
 		___x_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector3_t3513892689, ___y_2)); }
+=======
+	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector3_t2110634753, ___y_2)); }
+>>>>>>> Stashed changes
 	inline float get_y_2() const { return ___y_2; }
 	inline float* get_address_of_y_2() { return &___y_2; }
 	inline void set_y_2(float value)
@@ -3386,7 +5297,11 @@ public:
 		___y_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_z_3() { return static_cast<int32_t>(offsetof(Vector3_t3513892689, ___z_3)); }
+=======
+	inline static int32_t get_offset_of_z_3() { return static_cast<int32_t>(offsetof(Vector3_t2110634753, ___z_3)); }
+>>>>>>> Stashed changes
 	inline float get_z_3() const { return ___z_3; }
 	inline float* get_address_of_z_3() { return &___z_3; }
 	inline void set_z_3(float value)
@@ -3395,6 +5310,7 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct Vector3_t3513892689_StaticFields
 {
 public:
@@ -3424,78 +5340,172 @@ public:
 	inline Vector3_t3513892689  get_zeroVector_4() const { return ___zeroVector_4; }
 	inline Vector3_t3513892689 * get_address_of_zeroVector_4() { return &___zeroVector_4; }
 	inline void set_zeroVector_4(Vector3_t3513892689  value)
+=======
+struct Vector3_t2110634753_StaticFields
+{
+public:
+	// UnityEngine.Vector3 UnityEngine.Vector3::zeroVector
+	Vector3_t2110634753  ___zeroVector_4;
+	// UnityEngine.Vector3 UnityEngine.Vector3::oneVector
+	Vector3_t2110634753  ___oneVector_5;
+	// UnityEngine.Vector3 UnityEngine.Vector3::upVector
+	Vector3_t2110634753  ___upVector_6;
+	// UnityEngine.Vector3 UnityEngine.Vector3::downVector
+	Vector3_t2110634753  ___downVector_7;
+	// UnityEngine.Vector3 UnityEngine.Vector3::leftVector
+	Vector3_t2110634753  ___leftVector_8;
+	// UnityEngine.Vector3 UnityEngine.Vector3::rightVector
+	Vector3_t2110634753  ___rightVector_9;
+	// UnityEngine.Vector3 UnityEngine.Vector3::forwardVector
+	Vector3_t2110634753  ___forwardVector_10;
+	// UnityEngine.Vector3 UnityEngine.Vector3::backVector
+	Vector3_t2110634753  ___backVector_11;
+	// UnityEngine.Vector3 UnityEngine.Vector3::positiveInfinityVector
+	Vector3_t2110634753  ___positiveInfinityVector_12;
+	// UnityEngine.Vector3 UnityEngine.Vector3::negativeInfinityVector
+	Vector3_t2110634753  ___negativeInfinityVector_13;
+
+public:
+	inline static int32_t get_offset_of_zeroVector_4() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___zeroVector_4)); }
+	inline Vector3_t2110634753  get_zeroVector_4() const { return ___zeroVector_4; }
+	inline Vector3_t2110634753 * get_address_of_zeroVector_4() { return &___zeroVector_4; }
+	inline void set_zeroVector_4(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___zeroVector_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_oneVector_5() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___oneVector_5)); }
 	inline Vector3_t3513892689  get_oneVector_5() const { return ___oneVector_5; }
 	inline Vector3_t3513892689 * get_address_of_oneVector_5() { return &___oneVector_5; }
 	inline void set_oneVector_5(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_oneVector_5() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___oneVector_5)); }
+	inline Vector3_t2110634753  get_oneVector_5() const { return ___oneVector_5; }
+	inline Vector3_t2110634753 * get_address_of_oneVector_5() { return &___oneVector_5; }
+	inline void set_oneVector_5(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___oneVector_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_upVector_6() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___upVector_6)); }
 	inline Vector3_t3513892689  get_upVector_6() const { return ___upVector_6; }
 	inline Vector3_t3513892689 * get_address_of_upVector_6() { return &___upVector_6; }
 	inline void set_upVector_6(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_upVector_6() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___upVector_6)); }
+	inline Vector3_t2110634753  get_upVector_6() const { return ___upVector_6; }
+	inline Vector3_t2110634753 * get_address_of_upVector_6() { return &___upVector_6; }
+	inline void set_upVector_6(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___upVector_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_downVector_7() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___downVector_7)); }
 	inline Vector3_t3513892689  get_downVector_7() const { return ___downVector_7; }
 	inline Vector3_t3513892689 * get_address_of_downVector_7() { return &___downVector_7; }
 	inline void set_downVector_7(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_downVector_7() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___downVector_7)); }
+	inline Vector3_t2110634753  get_downVector_7() const { return ___downVector_7; }
+	inline Vector3_t2110634753 * get_address_of_downVector_7() { return &___downVector_7; }
+	inline void set_downVector_7(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___downVector_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_leftVector_8() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___leftVector_8)); }
 	inline Vector3_t3513892689  get_leftVector_8() const { return ___leftVector_8; }
 	inline Vector3_t3513892689 * get_address_of_leftVector_8() { return &___leftVector_8; }
 	inline void set_leftVector_8(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_leftVector_8() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___leftVector_8)); }
+	inline Vector3_t2110634753  get_leftVector_8() const { return ___leftVector_8; }
+	inline Vector3_t2110634753 * get_address_of_leftVector_8() { return &___leftVector_8; }
+	inline void set_leftVector_8(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___leftVector_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_rightVector_9() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___rightVector_9)); }
 	inline Vector3_t3513892689  get_rightVector_9() const { return ___rightVector_9; }
 	inline Vector3_t3513892689 * get_address_of_rightVector_9() { return &___rightVector_9; }
 	inline void set_rightVector_9(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_rightVector_9() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___rightVector_9)); }
+	inline Vector3_t2110634753  get_rightVector_9() const { return ___rightVector_9; }
+	inline Vector3_t2110634753 * get_address_of_rightVector_9() { return &___rightVector_9; }
+	inline void set_rightVector_9(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___rightVector_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_forwardVector_10() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___forwardVector_10)); }
 	inline Vector3_t3513892689  get_forwardVector_10() const { return ___forwardVector_10; }
 	inline Vector3_t3513892689 * get_address_of_forwardVector_10() { return &___forwardVector_10; }
 	inline void set_forwardVector_10(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_forwardVector_10() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___forwardVector_10)); }
+	inline Vector3_t2110634753  get_forwardVector_10() const { return ___forwardVector_10; }
+	inline Vector3_t2110634753 * get_address_of_forwardVector_10() { return &___forwardVector_10; }
+	inline void set_forwardVector_10(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___forwardVector_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_backVector_11() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___backVector_11)); }
 	inline Vector3_t3513892689  get_backVector_11() const { return ___backVector_11; }
 	inline Vector3_t3513892689 * get_address_of_backVector_11() { return &___backVector_11; }
 	inline void set_backVector_11(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_backVector_11() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___backVector_11)); }
+	inline Vector3_t2110634753  get_backVector_11() const { return ___backVector_11; }
+	inline Vector3_t2110634753 * get_address_of_backVector_11() { return &___backVector_11; }
+	inline void set_backVector_11(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___backVector_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_positiveInfinityVector_12() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___positiveInfinityVector_12)); }
 	inline Vector3_t3513892689  get_positiveInfinityVector_12() const { return ___positiveInfinityVector_12; }
 	inline Vector3_t3513892689 * get_address_of_positiveInfinityVector_12() { return &___positiveInfinityVector_12; }
 	inline void set_positiveInfinityVector_12(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_positiveInfinityVector_12() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___positiveInfinityVector_12)); }
+	inline Vector3_t2110634753  get_positiveInfinityVector_12() const { return ___positiveInfinityVector_12; }
+	inline Vector3_t2110634753 * get_address_of_positiveInfinityVector_12() { return &___positiveInfinityVector_12; }
+	inline void set_positiveInfinityVector_12(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___positiveInfinityVector_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_negativeInfinityVector_13() { return static_cast<int32_t>(offsetof(Vector3_t3513892689_StaticFields, ___negativeInfinityVector_13)); }
 	inline Vector3_t3513892689  get_negativeInfinityVector_13() const { return ___negativeInfinityVector_13; }
 	inline Vector3_t3513892689 * get_address_of_negativeInfinityVector_13() { return &___negativeInfinityVector_13; }
 	inline void set_negativeInfinityVector_13(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_negativeInfinityVector_13() { return static_cast<int32_t>(offsetof(Vector3_t2110634753_StaticFields, ___negativeInfinityVector_13)); }
+	inline Vector3_t2110634753  get_negativeInfinityVector_13() const { return ___negativeInfinityVector_13; }
+	inline Vector3_t2110634753 * get_address_of_negativeInfinityVector_13() { return &___negativeInfinityVector_13; }
+	inline void set_negativeInfinityVector_13(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___negativeInfinityVector_13 = value;
 	}
@@ -3504,9 +5514,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // VECTOR3_T3513892689_H
 #ifndef TMP_XMLTAGSTACK_1_T4254386717_H
 #define TMP_XMLTAGSTACK_1_T4254386717_H
+=======
+#endif // VECTOR3_T2110634753_H
+#ifndef TMP_XMLTAGSTACK_1_T3716124656_H
+#define TMP_XMLTAGSTACK_1_T3716124656_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3514,11 +5530,19 @@ public:
 #endif
 
 // TMPro.TMP_XmlTagStack`1<System.Int32>
+<<<<<<< Updated upstream
 struct  TMP_XmlTagStack_1_t4254386717 
 {
 public:
 	// T[] TMPro.TMP_XmlTagStack`1::itemStack
 	Int32U5BU5D_t1035326852* ___itemStack_0;
+=======
+struct  TMP_XmlTagStack_1_t3716124656 
+{
+public:
+	// T[] TMPro.TMP_XmlTagStack`1::itemStack
+	Int32U5BU5D_t1249972212* ___itemStack_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_XmlTagStack`1::index
 	int32_t ___index_1;
 	// System.Int32 TMPro.TMP_XmlTagStack`1::m_capacity
@@ -3527,16 +5551,27 @@ public:
 	int32_t ___m_defaultItem_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t4254386717, ___itemStack_0)); }
 	inline Int32U5BU5D_t1035326852* get_itemStack_0() const { return ___itemStack_0; }
 	inline Int32U5BU5D_t1035326852** get_address_of_itemStack_0() { return &___itemStack_0; }
 	inline void set_itemStack_0(Int32U5BU5D_t1035326852* value)
+=======
+	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3716124656, ___itemStack_0)); }
+	inline Int32U5BU5D_t1249972212* get_itemStack_0() const { return ___itemStack_0; }
+	inline Int32U5BU5D_t1249972212** get_address_of_itemStack_0() { return &___itemStack_0; }
+	inline void set_itemStack_0(Int32U5BU5D_t1249972212* value)
+>>>>>>> Stashed changes
 	{
 		___itemStack_0 = value;
 		Il2CppCodeGenWriteBarrier((&___itemStack_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t4254386717, ___index_1)); }
+=======
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3716124656, ___index_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_index_1() const { return ___index_1; }
 	inline int32_t* get_address_of_index_1() { return &___index_1; }
 	inline void set_index_1(int32_t value)
@@ -3544,7 +5579,11 @@ public:
 		___index_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t4254386717, ___m_capacity_2)); }
+=======
+	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3716124656, ___m_capacity_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_capacity_2() const { return ___m_capacity_2; }
 	inline int32_t* get_address_of_m_capacity_2() { return &___m_capacity_2; }
 	inline void set_m_capacity_2(int32_t value)
@@ -3552,7 +5591,11 @@ public:
 		___m_capacity_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t4254386717, ___m_defaultItem_3)); }
+=======
+	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3716124656, ___m_defaultItem_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_defaultItem_3() const { return ___m_defaultItem_3; }
 	inline int32_t* get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
 	inline void set_m_defaultItem_3(int32_t value)
@@ -3564,9 +5607,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_XMLTAGSTACK_1_T4254386717_H
 #ifndef REVERSEGEOCODERESPONSE_T3618550_H
 #define REVERSEGEOCODERESPONSE_T3618550_H
+=======
+#endif // TMP_XMLTAGSTACK_1_T3716124656_H
+#ifndef REVERSEGEOCODERESPONSE_T4184629360_H
+#define REVERSEGEOCODERESPONSE_T4184629360_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3574,6 +5623,7 @@ public:
 #endif
 
 // Mapbox.Geocoding.ReverseGeocodeResponse
+<<<<<<< Updated upstream
 struct  ReverseGeocodeResponse_t3618550  : public GeocodeResponse_t2533289773
 {
 public:
@@ -3585,6 +5635,19 @@ public:
 	inline List_1_t940002729 * get_U3CQueryU3Ek__BackingField_3() const { return ___U3CQueryU3Ek__BackingField_3; }
 	inline List_1_t940002729 ** get_address_of_U3CQueryU3Ek__BackingField_3() { return &___U3CQueryU3Ek__BackingField_3; }
 	inline void set_U3CQueryU3Ek__BackingField_3(List_1_t940002729 * value)
+=======
+struct  ReverseGeocodeResponse_t4184629360  : public GeocodeResponse_t2217614762
+{
+public:
+	// System.Collections.Generic.List`1<System.Double> Mapbox.Geocoding.ReverseGeocodeResponse::<Query>k__BackingField
+	List_1_t4123802014 * ___U3CQueryU3Ek__BackingField_3;
+
+public:
+	inline static int32_t get_offset_of_U3CQueryU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(ReverseGeocodeResponse_t4184629360, ___U3CQueryU3Ek__BackingField_3)); }
+	inline List_1_t4123802014 * get_U3CQueryU3Ek__BackingField_3() const { return ___U3CQueryU3Ek__BackingField_3; }
+	inline List_1_t4123802014 ** get_address_of_U3CQueryU3Ek__BackingField_3() { return &___U3CQueryU3Ek__BackingField_3; }
+	inline void set_U3CQueryU3Ek__BackingField_3(List_1_t4123802014 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CQueryU3Ek__BackingField_3 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CQueryU3Ek__BackingField_3), value);
@@ -3594,9 +5657,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // REVERSEGEOCODERESPONSE_T3618550_H
 #ifndef FORWARDGEOCODERESPONSE_T2217079299_H
 #define FORWARDGEOCODERESPONSE_T2217079299_H
+=======
+#endif // REVERSEGEOCODERESPONSE_T4184629360_H
+#ifndef FORWARDGEOCODERESPONSE_T447946623_H
+#define FORWARDGEOCODERESPONSE_T447946623_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3604,6 +5673,7 @@ public:
 #endif
 
 // Mapbox.Geocoding.ForwardGeocodeResponse
+<<<<<<< Updated upstream
 struct  ForwardGeocodeResponse_t2217079299  : public GeocodeResponse_t2533289773
 {
 public:
@@ -3615,6 +5685,19 @@ public:
 	inline List_1_t3381605710 * get_U3CQueryU3Ek__BackingField_3() const { return ___U3CQueryU3Ek__BackingField_3; }
 	inline List_1_t3381605710 ** get_address_of_U3CQueryU3Ek__BackingField_3() { return &___U3CQueryU3Ek__BackingField_3; }
 	inline void set_U3CQueryU3Ek__BackingField_3(List_1_t3381605710 * value)
+=======
+struct  ForwardGeocodeResponse_t447946623  : public GeocodeResponse_t2217614762
+{
+public:
+	// System.Collections.Generic.List`1<System.String> Mapbox.Geocoding.ForwardGeocodeResponse::<Query>k__BackingField
+	List_1_t2137962008 * ___U3CQueryU3Ek__BackingField_3;
+
+public:
+	inline static int32_t get_offset_of_U3CQueryU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(ForwardGeocodeResponse_t447946623, ___U3CQueryU3Ek__BackingField_3)); }
+	inline List_1_t2137962008 * get_U3CQueryU3Ek__BackingField_3() const { return ___U3CQueryU3Ek__BackingField_3; }
+	inline List_1_t2137962008 ** get_address_of_U3CQueryU3Ek__BackingField_3() { return &___U3CQueryU3Ek__BackingField_3; }
+	inline void set_U3CQueryU3Ek__BackingField_3(List_1_t2137962008 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CQueryU3Ek__BackingField_3 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CQueryU3Ek__BackingField_3), value);
@@ -3624,9 +5707,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FORWARDGEOCODERESPONSE_T2217079299_H
 #ifndef VECTOR2D_T4273779274_H
 #define VECTOR2D_T4273779274_H
+=======
+#endif // FORWARDGEOCODERESPONSE_T447946623_H
+#ifndef VECTOR2D_T3487944966_H
+#define VECTOR2D_T3487944966_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3634,7 +5723,11 @@ public:
 #endif
 
 // Mapbox.Utils.Vector2d
+<<<<<<< Updated upstream
 struct  Vector2d_t4273779274 
+=======
+struct  Vector2d_t3487944966 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Double Mapbox.Utils.Vector2d::x
@@ -3643,7 +5736,11 @@ public:
 	double ___y_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector2d_t4273779274, ___x_1)); }
+=======
+	inline static int32_t get_offset_of_x_1() { return static_cast<int32_t>(offsetof(Vector2d_t3487944966, ___x_1)); }
+>>>>>>> Stashed changes
 	inline double get_x_1() const { return ___x_1; }
 	inline double* get_address_of_x_1() { return &___x_1; }
 	inline void set_x_1(double value)
@@ -3651,7 +5748,11 @@ public:
 		___x_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector2d_t4273779274, ___y_2)); }
+=======
+	inline static int32_t get_offset_of_y_2() { return static_cast<int32_t>(offsetof(Vector2d_t3487944966, ___y_2)); }
+>>>>>>> Stashed changes
 	inline double get_y_2() const { return ___y_2; }
 	inline double* get_address_of_y_2() { return &___y_2; }
 	inline void set_y_2(double value)
@@ -3663,9 +5764,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // VECTOR2D_T4273779274_H
 #ifndef LAYERMASK_T4118157874_H
 #define LAYERMASK_T4118157874_H
+=======
+#endif // VECTOR2D_T3487944966_H
+#ifndef LAYERMASK_T2083325344_H
+#define LAYERMASK_T2083325344_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3673,14 +5780,22 @@ public:
 #endif
 
 // UnityEngine.LayerMask
+<<<<<<< Updated upstream
 struct  LayerMask_t4118157874 
+=======
+struct  LayerMask_t2083325344 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 UnityEngine.LayerMask::m_Mask
 	int32_t ___m_Mask_0;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_Mask_0() { return static_cast<int32_t>(offsetof(LayerMask_t4118157874, ___m_Mask_0)); }
+=======
+	inline static int32_t get_offset_of_m_Mask_0() { return static_cast<int32_t>(offsetof(LayerMask_t2083325344, ___m_Mask_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_Mask_0() const { return ___m_Mask_0; }
 	inline int32_t* get_address_of_m_Mask_0() { return &___m_Mask_0; }
 	inline void set_m_Mask_0(int32_t value)
@@ -3692,7 +5807,11 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LAYERMASK_T4118157874_H
+=======
+#endif // LAYERMASK_T2083325344_H
+>>>>>>> Stashed changes
 #ifndef INTPTR_T_H
 #define INTPTR_T_H
 #ifdef __clang__
@@ -3738,8 +5857,13 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // INTPTR_T_H
+<<<<<<< Updated upstream
 #ifndef TMP_SPRITEINFO_T351753402_H
 #define TMP_SPRITEINFO_T351753402_H
+=======
+#ifndef TMP_SPRITEINFO_T1250914607_H
+#define TMP_SPRITEINFO_T1250914607_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3747,7 +5871,11 @@ public:
 #endif
 
 // TMPro.TMP_SpriteInfo
+<<<<<<< Updated upstream
 struct  TMP_SpriteInfo_t351753402 
+=======
+struct  TMP_SpriteInfo_t1250914607 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TMP_SpriteInfo::spriteIndex
@@ -3758,7 +5886,11 @@ public:
 	int32_t ___vertexIndex_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spriteIndex_0() { return static_cast<int32_t>(offsetof(TMP_SpriteInfo_t351753402, ___spriteIndex_0)); }
+=======
+	inline static int32_t get_offset_of_spriteIndex_0() { return static_cast<int32_t>(offsetof(TMP_SpriteInfo_t1250914607, ___spriteIndex_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_spriteIndex_0() const { return ___spriteIndex_0; }
 	inline int32_t* get_address_of_spriteIndex_0() { return &___spriteIndex_0; }
 	inline void set_spriteIndex_0(int32_t value)
@@ -3766,7 +5898,11 @@ public:
 		___spriteIndex_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_characterIndex_1() { return static_cast<int32_t>(offsetof(TMP_SpriteInfo_t351753402, ___characterIndex_1)); }
+=======
+	inline static int32_t get_offset_of_characterIndex_1() { return static_cast<int32_t>(offsetof(TMP_SpriteInfo_t1250914607, ___characterIndex_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_characterIndex_1() const { return ___characterIndex_1; }
 	inline int32_t* get_address_of_characterIndex_1() { return &___characterIndex_1; }
 	inline void set_characterIndex_1(int32_t value)
@@ -3774,7 +5910,11 @@ public:
 		___characterIndex_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertexIndex_2() { return static_cast<int32_t>(offsetof(TMP_SpriteInfo_t351753402, ___vertexIndex_2)); }
+=======
+	inline static int32_t get_offset_of_vertexIndex_2() { return static_cast<int32_t>(offsetof(TMP_SpriteInfo_t1250914607, ___vertexIndex_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_vertexIndex_2() const { return ___vertexIndex_2; }
 	inline int32_t* get_address_of_vertexIndex_2() { return &___vertexIndex_2; }
 	inline void set_vertexIndex_2(int32_t value)
@@ -3786,9 +5926,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_SPRITEINFO_T351753402_H
 #ifndef FONTCREATIONSETTING_T3717834680_H
 #define FONTCREATIONSETTING_T3717834680_H
+=======
+#endif // TMP_SPRITEINFO_T1250914607_H
+#ifndef FONTCREATIONSETTING_T2976804987_H
+#define FONTCREATIONSETTING_T2976804987_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3796,7 +5942,11 @@ public:
 #endif
 
 // TMPro.FontCreationSetting
+<<<<<<< Updated upstream
 struct  FontCreationSetting_t3717834680 
+=======
+struct  FontCreationSetting_t2976804987 
+>>>>>>> Stashed changes
 {
 public:
 	// System.String TMPro.FontCreationSetting::fontSourcePath
@@ -3825,7 +5975,11 @@ public:
 	bool ___fontKerning_11;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontSourcePath_0() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontSourcePath_0)); }
+=======
+	inline static int32_t get_offset_of_fontSourcePath_0() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontSourcePath_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_fontSourcePath_0() const { return ___fontSourcePath_0; }
 	inline String_t** get_address_of_fontSourcePath_0() { return &___fontSourcePath_0; }
 	inline void set_fontSourcePath_0(String_t* value)
@@ -3834,7 +5988,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___fontSourcePath_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontSizingMode_1() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontSizingMode_1)); }
+=======
+	inline static int32_t get_offset_of_fontSizingMode_1() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontSizingMode_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontSizingMode_1() const { return ___fontSizingMode_1; }
 	inline int32_t* get_address_of_fontSizingMode_1() { return &___fontSizingMode_1; }
 	inline void set_fontSizingMode_1(int32_t value)
@@ -3842,7 +6000,11 @@ public:
 		___fontSizingMode_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontSize_2() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontSize_2)); }
+=======
+	inline static int32_t get_offset_of_fontSize_2() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontSize_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontSize_2() const { return ___fontSize_2; }
 	inline int32_t* get_address_of_fontSize_2() { return &___fontSize_2; }
 	inline void set_fontSize_2(int32_t value)
@@ -3850,7 +6012,11 @@ public:
 		___fontSize_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontPadding_3() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontPadding_3)); }
+=======
+	inline static int32_t get_offset_of_fontPadding_3() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontPadding_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontPadding_3() const { return ___fontPadding_3; }
 	inline int32_t* get_address_of_fontPadding_3() { return &___fontPadding_3; }
 	inline void set_fontPadding_3(int32_t value)
@@ -3858,7 +6024,11 @@ public:
 		___fontPadding_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontPackingMode_4() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontPackingMode_4)); }
+=======
+	inline static int32_t get_offset_of_fontPackingMode_4() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontPackingMode_4)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontPackingMode_4() const { return ___fontPackingMode_4; }
 	inline int32_t* get_address_of_fontPackingMode_4() { return &___fontPackingMode_4; }
 	inline void set_fontPackingMode_4(int32_t value)
@@ -3866,7 +6036,11 @@ public:
 		___fontPackingMode_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontAtlasWidth_5() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontAtlasWidth_5)); }
+=======
+	inline static int32_t get_offset_of_fontAtlasWidth_5() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontAtlasWidth_5)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontAtlasWidth_5() const { return ___fontAtlasWidth_5; }
 	inline int32_t* get_address_of_fontAtlasWidth_5() { return &___fontAtlasWidth_5; }
 	inline void set_fontAtlasWidth_5(int32_t value)
@@ -3874,7 +6048,11 @@ public:
 		___fontAtlasWidth_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontAtlasHeight_6() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontAtlasHeight_6)); }
+=======
+	inline static int32_t get_offset_of_fontAtlasHeight_6() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontAtlasHeight_6)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontAtlasHeight_6() const { return ___fontAtlasHeight_6; }
 	inline int32_t* get_address_of_fontAtlasHeight_6() { return &___fontAtlasHeight_6; }
 	inline void set_fontAtlasHeight_6(int32_t value)
@@ -3882,7 +6060,11 @@ public:
 		___fontAtlasHeight_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontCharacterSet_7() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontCharacterSet_7)); }
+=======
+	inline static int32_t get_offset_of_fontCharacterSet_7() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontCharacterSet_7)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontCharacterSet_7() const { return ___fontCharacterSet_7; }
 	inline int32_t* get_address_of_fontCharacterSet_7() { return &___fontCharacterSet_7; }
 	inline void set_fontCharacterSet_7(int32_t value)
@@ -3890,7 +6072,11 @@ public:
 		___fontCharacterSet_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontStyle_8() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontStyle_8)); }
+=======
+	inline static int32_t get_offset_of_fontStyle_8() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontStyle_8)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontStyle_8() const { return ___fontStyle_8; }
 	inline int32_t* get_address_of_fontStyle_8() { return &___fontStyle_8; }
 	inline void set_fontStyle_8(int32_t value)
@@ -3898,7 +6084,11 @@ public:
 		___fontStyle_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontStlyeModifier_9() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontStlyeModifier_9)); }
+=======
+	inline static int32_t get_offset_of_fontStlyeModifier_9() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontStlyeModifier_9)); }
+>>>>>>> Stashed changes
 	inline float get_fontStlyeModifier_9() const { return ___fontStlyeModifier_9; }
 	inline float* get_address_of_fontStlyeModifier_9() { return &___fontStlyeModifier_9; }
 	inline void set_fontStlyeModifier_9(float value)
@@ -3906,7 +6096,11 @@ public:
 		___fontStlyeModifier_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontRenderMode_10() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontRenderMode_10)); }
+=======
+	inline static int32_t get_offset_of_fontRenderMode_10() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontRenderMode_10)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontRenderMode_10() const { return ___fontRenderMode_10; }
 	inline int32_t* get_address_of_fontRenderMode_10() { return &___fontRenderMode_10; }
 	inline void set_fontRenderMode_10(int32_t value)
@@ -3914,7 +6108,11 @@ public:
 		___fontRenderMode_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontKerning_11() { return static_cast<int32_t>(offsetof(FontCreationSetting_t3717834680, ___fontKerning_11)); }
+=======
+	inline static int32_t get_offset_of_fontKerning_11() { return static_cast<int32_t>(offsetof(FontCreationSetting_t2976804987, ___fontKerning_11)); }
+>>>>>>> Stashed changes
 	inline bool get_fontKerning_11() const { return ___fontKerning_11; }
 	inline bool* get_address_of_fontKerning_11() { return &___fontKerning_11; }
 	inline void set_fontKerning_11(bool value)
@@ -3927,7 +6125,11 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.FontCreationSetting
+<<<<<<< Updated upstream
 struct FontCreationSetting_t3717834680_marshaled_pinvoke
+=======
+struct FontCreationSetting_t2976804987_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	char* ___fontSourcePath_0;
 	int32_t ___fontSizingMode_1;
@@ -3943,7 +6145,11 @@ struct FontCreationSetting_t3717834680_marshaled_pinvoke
 	int32_t ___fontKerning_11;
 };
 // Native definition for COM marshalling of TMPro.FontCreationSetting
+<<<<<<< Updated upstream
 struct FontCreationSetting_t3717834680_marshaled_com
+=======
+struct FontCreationSetting_t2976804987_marshaled_com
+>>>>>>> Stashed changes
 {
 	Il2CppChar* ___fontSourcePath_0;
 	int32_t ___fontSizingMode_1;
@@ -3958,9 +6164,15 @@ struct FontCreationSetting_t3717834680_marshaled_com
 	int32_t ___fontRenderMode_10;
 	int32_t ___fontKerning_11;
 };
+<<<<<<< Updated upstream
 #endif // FONTCREATIONSETTING_T3717834680_H
 #ifndef __STATICARRAYINITTYPESIZEU3D12_T1512627339_H
 #define __STATICARRAYINITTYPESIZEU3D12_T1512627339_H
+=======
+#endif // FONTCREATIONSETTING_T2976804987_H
+#ifndef __STATICARRAYINITTYPESIZEU3D12_T129652691_H
+#define __STATICARRAYINITTYPESIZEU3D12_T129652691_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3968,7 +6180,11 @@ struct FontCreationSetting_t3717834680_marshaled_com
 #endif
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12
+<<<<<<< Updated upstream
 struct  __StaticArrayInitTypeSizeU3D12_t1512627339 
+=======
+struct  __StaticArrayInitTypeSizeU3D12_t129652691 
+>>>>>>> Stashed changes
 {
 public:
 	union
@@ -3979,7 +6195,11 @@ public:
 			{
 			};
 		};
+<<<<<<< Updated upstream
 		uint8_t __StaticArrayInitTypeSizeU3D12_t1512627339__padding[12];
+=======
+		uint8_t __StaticArrayInitTypeSizeU3D12_t129652691__padding[12];
+>>>>>>> Stashed changes
 	};
 
 public:
@@ -3988,9 +6208,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // __STATICARRAYINITTYPESIZEU3D12_T1512627339_H
 #ifndef KERNINGPAIRKEY_T3589792788_H
 #define KERNINGPAIRKEY_T3589792788_H
+=======
+#endif // __STATICARRAYINITTYPESIZEU3D12_T129652691_H
+#ifndef KERNINGPAIRKEY_T3261974684_H
+#define KERNINGPAIRKEY_T3261974684_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -3998,7 +6224,11 @@ public:
 #endif
 
 // TMPro.KerningPairKey
+<<<<<<< Updated upstream
 struct  KerningPairKey_t3589792788 
+=======
+struct  KerningPairKey_t3261974684 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.KerningPairKey::ascii_Left
@@ -4009,7 +6239,11 @@ public:
 	int32_t ___key_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ascii_Left_0() { return static_cast<int32_t>(offsetof(KerningPairKey_t3589792788, ___ascii_Left_0)); }
+=======
+	inline static int32_t get_offset_of_ascii_Left_0() { return static_cast<int32_t>(offsetof(KerningPairKey_t3261974684, ___ascii_Left_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ascii_Left_0() const { return ___ascii_Left_0; }
 	inline int32_t* get_address_of_ascii_Left_0() { return &___ascii_Left_0; }
 	inline void set_ascii_Left_0(int32_t value)
@@ -4017,7 +6251,11 @@ public:
 		___ascii_Left_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ascii_Right_1() { return static_cast<int32_t>(offsetof(KerningPairKey_t3589792788, ___ascii_Right_1)); }
+=======
+	inline static int32_t get_offset_of_ascii_Right_1() { return static_cast<int32_t>(offsetof(KerningPairKey_t3261974684, ___ascii_Right_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_ascii_Right_1() const { return ___ascii_Right_1; }
 	inline int32_t* get_address_of_ascii_Right_1() { return &___ascii_Right_1; }
 	inline void set_ascii_Right_1(int32_t value)
@@ -4025,7 +6263,11 @@ public:
 		___ascii_Right_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_key_2() { return static_cast<int32_t>(offsetof(KerningPairKey_t3589792788, ___key_2)); }
+=======
+	inline static int32_t get_offset_of_key_2() { return static_cast<int32_t>(offsetof(KerningPairKey_t3261974684, ___key_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_key_2() const { return ___key_2; }
 	inline int32_t* get_address_of_key_2() { return &___key_2; }
 	inline void set_key_2(int32_t value)
@@ -4037,9 +6279,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // KERNINGPAIRKEY_T3589792788_H
 #ifndef SPRITEFRAME_T337339620_H
 #define SPRITEFRAME_T337339620_H
+=======
+#endif // KERNINGPAIRKEY_T3261974684_H
+#ifndef SPRITEFRAME_T1478008703_H
+#define SPRITEFRAME_T1478008703_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4047,7 +6295,11 @@ public:
 #endif
 
 // TMPro.SpriteAssetUtilities.TexturePacker/SpriteFrame
+<<<<<<< Updated upstream
 struct  SpriteFrame_t337339620 
+=======
+struct  SpriteFrame_t1478008703 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single TMPro.SpriteAssetUtilities.TexturePacker/SpriteFrame::x
@@ -4060,7 +6312,11 @@ public:
 	float ___h_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_x_0() { return static_cast<int32_t>(offsetof(SpriteFrame_t337339620, ___x_0)); }
+=======
+	inline static int32_t get_offset_of_x_0() { return static_cast<int32_t>(offsetof(SpriteFrame_t1478008703, ___x_0)); }
+>>>>>>> Stashed changes
 	inline float get_x_0() const { return ___x_0; }
 	inline float* get_address_of_x_0() { return &___x_0; }
 	inline void set_x_0(float value)
@@ -4068,7 +6324,11 @@ public:
 		___x_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_y_1() { return static_cast<int32_t>(offsetof(SpriteFrame_t337339620, ___y_1)); }
+=======
+	inline static int32_t get_offset_of_y_1() { return static_cast<int32_t>(offsetof(SpriteFrame_t1478008703, ___y_1)); }
+>>>>>>> Stashed changes
 	inline float get_y_1() const { return ___y_1; }
 	inline float* get_address_of_y_1() { return &___y_1; }
 	inline void set_y_1(float value)
@@ -4076,7 +6336,11 @@ public:
 		___y_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_w_2() { return static_cast<int32_t>(offsetof(SpriteFrame_t337339620, ___w_2)); }
+=======
+	inline static int32_t get_offset_of_w_2() { return static_cast<int32_t>(offsetof(SpriteFrame_t1478008703, ___w_2)); }
+>>>>>>> Stashed changes
 	inline float get_w_2() const { return ___w_2; }
 	inline float* get_address_of_w_2() { return &___w_2; }
 	inline void set_w_2(float value)
@@ -4084,7 +6348,11 @@ public:
 		___w_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_h_3() { return static_cast<int32_t>(offsetof(SpriteFrame_t337339620, ___h_3)); }
+=======
+	inline static int32_t get_offset_of_h_3() { return static_cast<int32_t>(offsetof(SpriteFrame_t1478008703, ___h_3)); }
+>>>>>>> Stashed changes
 	inline float get_h_3() const { return ___h_3; }
 	inline float* get_address_of_h_3() { return &___h_3; }
 	inline void set_h_3(float value)
@@ -4096,9 +6364,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // SPRITEFRAME_T337339620_H
 #ifndef TMP_BASICXMLTAGSTACK_T3908517297_H
 #define TMP_BASICXMLTAGSTACK_T3908517297_H
+=======
+#endif // SPRITEFRAME_T1478008703_H
+#ifndef TMP_BASICXMLTAGSTACK_T1184639443_H
+#define TMP_BASICXMLTAGSTACK_T1184639443_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4106,7 +6380,11 @@ public:
 #endif
 
 // TMPro.TMP_BasicXmlTagStack
+<<<<<<< Updated upstream
 struct  TMP_BasicXmlTagStack_t3908517297 
+=======
+struct  TMP_BasicXmlTagStack_t1184639443 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Byte TMPro.TMP_BasicXmlTagStack::bold
@@ -4131,7 +6409,11 @@ public:
 	uint8_t ___smallcaps_9;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bold_0() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___bold_0)); }
+=======
+	inline static int32_t get_offset_of_bold_0() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___bold_0)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_bold_0() const { return ___bold_0; }
 	inline uint8_t* get_address_of_bold_0() { return &___bold_0; }
 	inline void set_bold_0(uint8_t value)
@@ -4139,7 +6421,11 @@ public:
 		___bold_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_italic_1() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___italic_1)); }
+=======
+	inline static int32_t get_offset_of_italic_1() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___italic_1)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_italic_1() const { return ___italic_1; }
 	inline uint8_t* get_address_of_italic_1() { return &___italic_1; }
 	inline void set_italic_1(uint8_t value)
@@ -4147,7 +6433,11 @@ public:
 		___italic_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_underline_2() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___underline_2)); }
+=======
+	inline static int32_t get_offset_of_underline_2() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___underline_2)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_underline_2() const { return ___underline_2; }
 	inline uint8_t* get_address_of_underline_2() { return &___underline_2; }
 	inline void set_underline_2(uint8_t value)
@@ -4155,7 +6445,11 @@ public:
 		___underline_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_strikethrough_3() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___strikethrough_3)); }
+=======
+	inline static int32_t get_offset_of_strikethrough_3() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___strikethrough_3)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_strikethrough_3() const { return ___strikethrough_3; }
 	inline uint8_t* get_address_of_strikethrough_3() { return &___strikethrough_3; }
 	inline void set_strikethrough_3(uint8_t value)
@@ -4163,7 +6457,11 @@ public:
 		___strikethrough_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_highlight_4() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___highlight_4)); }
+=======
+	inline static int32_t get_offset_of_highlight_4() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___highlight_4)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_highlight_4() const { return ___highlight_4; }
 	inline uint8_t* get_address_of_highlight_4() { return &___highlight_4; }
 	inline void set_highlight_4(uint8_t value)
@@ -4171,7 +6469,11 @@ public:
 		___highlight_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_superscript_5() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___superscript_5)); }
+=======
+	inline static int32_t get_offset_of_superscript_5() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___superscript_5)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_superscript_5() const { return ___superscript_5; }
 	inline uint8_t* get_address_of_superscript_5() { return &___superscript_5; }
 	inline void set_superscript_5(uint8_t value)
@@ -4179,7 +6481,11 @@ public:
 		___superscript_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_subscript_6() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___subscript_6)); }
+=======
+	inline static int32_t get_offset_of_subscript_6() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___subscript_6)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_subscript_6() const { return ___subscript_6; }
 	inline uint8_t* get_address_of_subscript_6() { return &___subscript_6; }
 	inline void set_subscript_6(uint8_t value)
@@ -4187,7 +6493,11 @@ public:
 		___subscript_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uppercase_7() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___uppercase_7)); }
+=======
+	inline static int32_t get_offset_of_uppercase_7() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___uppercase_7)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_uppercase_7() const { return ___uppercase_7; }
 	inline uint8_t* get_address_of_uppercase_7() { return &___uppercase_7; }
 	inline void set_uppercase_7(uint8_t value)
@@ -4195,7 +6505,11 @@ public:
 		___uppercase_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lowercase_8() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___lowercase_8)); }
+=======
+	inline static int32_t get_offset_of_lowercase_8() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___lowercase_8)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_lowercase_8() const { return ___lowercase_8; }
 	inline uint8_t* get_address_of_lowercase_8() { return &___lowercase_8; }
 	inline void set_lowercase_8(uint8_t value)
@@ -4203,7 +6517,11 @@ public:
 		___lowercase_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_smallcaps_9() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t3908517297, ___smallcaps_9)); }
+=======
+	inline static int32_t get_offset_of_smallcaps_9() { return static_cast<int32_t>(offsetof(TMP_BasicXmlTagStack_t1184639443, ___smallcaps_9)); }
+>>>>>>> Stashed changes
 	inline uint8_t get_smallcaps_9() const { return ___smallcaps_9; }
 	inline uint8_t* get_address_of_smallcaps_9() { return &___smallcaps_9; }
 	inline void set_smallcaps_9(uint8_t value)
@@ -4215,9 +6533,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_BASICXMLTAGSTACK_T3908517297_H
 #ifndef TAGATTRIBUTE_T4227375805_H
 #define TAGATTRIBUTE_T4227375805_H
+=======
+#endif // TMP_BASICXMLTAGSTACK_T1184639443_H
+#ifndef TAGATTRIBUTE_T1025893423_H
+#define TAGATTRIBUTE_T1025893423_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4225,7 +6549,11 @@ public:
 #endif
 
 // TMPro.TagAttribute
+<<<<<<< Updated upstream
 struct  TagAttribute_t4227375805 
+=======
+struct  TagAttribute_t1025893423 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TagAttribute::startIndex
@@ -4236,7 +6564,11 @@ public:
 	int32_t ___hashCode_2;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_startIndex_0() { return static_cast<int32_t>(offsetof(TagAttribute_t4227375805, ___startIndex_0)); }
+=======
+	inline static int32_t get_offset_of_startIndex_0() { return static_cast<int32_t>(offsetof(TagAttribute_t1025893423, ___startIndex_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_startIndex_0() const { return ___startIndex_0; }
 	inline int32_t* get_address_of_startIndex_0() { return &___startIndex_0; }
 	inline void set_startIndex_0(int32_t value)
@@ -4244,7 +6576,11 @@ public:
 		___startIndex_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_length_1() { return static_cast<int32_t>(offsetof(TagAttribute_t4227375805, ___length_1)); }
+=======
+	inline static int32_t get_offset_of_length_1() { return static_cast<int32_t>(offsetof(TagAttribute_t1025893423, ___length_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_length_1() const { return ___length_1; }
 	inline int32_t* get_address_of_length_1() { return &___length_1; }
 	inline void set_length_1(int32_t value)
@@ -4252,7 +6588,11 @@ public:
 		___length_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_hashCode_2() { return static_cast<int32_t>(offsetof(TagAttribute_t4227375805, ___hashCode_2)); }
+=======
+	inline static int32_t get_offset_of_hashCode_2() { return static_cast<int32_t>(offsetof(TagAttribute_t1025893423, ___hashCode_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_hashCode_2() const { return ___hashCode_2; }
 	inline int32_t* get_address_of_hashCode_2() { return &___hashCode_2; }
 	inline void set_hashCode_2(int32_t value)
@@ -4264,9 +6604,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TAGATTRIBUTE_T4227375805_H
 #ifndef TMP_GLYPH_T1936037335_H
 #define TMP_GLYPH_T1936037335_H
+=======
+#endif // TAGATTRIBUTE_T1025893423_H
+#ifndef TMP_GLYPH_T4214053046_H
+#define TMP_GLYPH_T4214053046_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4274,7 +6620,11 @@ public:
 #endif
 
 // TMPro.TMP_Glyph
+<<<<<<< Updated upstream
 struct  TMP_Glyph_t1936037335  : public TMP_TextElement_t2601120933
+=======
+struct  TMP_Glyph_t4214053046  : public TMP_TextElement_t2513093388
+>>>>>>> Stashed changes
 {
 public:
 
@@ -4284,9 +6634,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_GLYPH_T1936037335_H
 #ifndef TMP_LINKINFO_T1144450893_H
 #define TMP_LINKINFO_T1144450893_H
+=======
+#endif // TMP_GLYPH_T4214053046_H
+#ifndef TMP_LINKINFO_T2870327164_H
+#define TMP_LINKINFO_T2870327164_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4294,11 +6650,19 @@ public:
 #endif
 
 // TMPro.TMP_LinkInfo
+<<<<<<< Updated upstream
 struct  TMP_LinkInfo_t1144450893 
 {
 public:
 	// TMPro.TMP_Text TMPro.TMP_LinkInfo::textComponent
 	TMP_Text_t553524508 * ___textComponent_0;
+=======
+struct  TMP_LinkInfo_t2870327164 
+{
+public:
+	// TMPro.TMP_Text TMPro.TMP_LinkInfo::textComponent
+	TMP_Text_t1608647262 * ___textComponent_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_LinkInfo::hashCode
 	int32_t ___hashCode_1;
 	// System.Int32 TMPro.TMP_LinkInfo::linkIdFirstCharacterIndex
@@ -4310,6 +6674,7 @@ public:
 	// System.Int32 TMPro.TMP_LinkInfo::linkTextLength
 	int32_t ___linkTextLength_5;
 	// System.Char[] TMPro.TMP_LinkInfo::linkID
+<<<<<<< Updated upstream
 	CharU5BU5D_t815250530* ___linkID_6;
 
 public:
@@ -4317,12 +6682,25 @@ public:
 	inline TMP_Text_t553524508 * get_textComponent_0() const { return ___textComponent_0; }
 	inline TMP_Text_t553524508 ** get_address_of_textComponent_0() { return &___textComponent_0; }
 	inline void set_textComponent_0(TMP_Text_t553524508 * value)
+=======
+	CharU5BU5D_t3572321290* ___linkID_6;
+
+public:
+	inline static int32_t get_offset_of_textComponent_0() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___textComponent_0)); }
+	inline TMP_Text_t1608647262 * get_textComponent_0() const { return ___textComponent_0; }
+	inline TMP_Text_t1608647262 ** get_address_of_textComponent_0() { return &___textComponent_0; }
+	inline void set_textComponent_0(TMP_Text_t1608647262 * value)
+>>>>>>> Stashed changes
 	{
 		___textComponent_0 = value;
 		Il2CppCodeGenWriteBarrier((&___textComponent_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_hashCode_1() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t1144450893, ___hashCode_1)); }
+=======
+	inline static int32_t get_offset_of_hashCode_1() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___hashCode_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_hashCode_1() const { return ___hashCode_1; }
 	inline int32_t* get_address_of_hashCode_1() { return &___hashCode_1; }
 	inline void set_hashCode_1(int32_t value)
@@ -4330,7 +6708,11 @@ public:
 		___hashCode_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_linkIdFirstCharacterIndex_2() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t1144450893, ___linkIdFirstCharacterIndex_2)); }
+=======
+	inline static int32_t get_offset_of_linkIdFirstCharacterIndex_2() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___linkIdFirstCharacterIndex_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_linkIdFirstCharacterIndex_2() const { return ___linkIdFirstCharacterIndex_2; }
 	inline int32_t* get_address_of_linkIdFirstCharacterIndex_2() { return &___linkIdFirstCharacterIndex_2; }
 	inline void set_linkIdFirstCharacterIndex_2(int32_t value)
@@ -4338,7 +6720,11 @@ public:
 		___linkIdFirstCharacterIndex_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_linkIdLength_3() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t1144450893, ___linkIdLength_3)); }
+=======
+	inline static int32_t get_offset_of_linkIdLength_3() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___linkIdLength_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_linkIdLength_3() const { return ___linkIdLength_3; }
 	inline int32_t* get_address_of_linkIdLength_3() { return &___linkIdLength_3; }
 	inline void set_linkIdLength_3(int32_t value)
@@ -4346,7 +6732,11 @@ public:
 		___linkIdLength_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_linkTextfirstCharacterIndex_4() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t1144450893, ___linkTextfirstCharacterIndex_4)); }
+=======
+	inline static int32_t get_offset_of_linkTextfirstCharacterIndex_4() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___linkTextfirstCharacterIndex_4)); }
+>>>>>>> Stashed changes
 	inline int32_t get_linkTextfirstCharacterIndex_4() const { return ___linkTextfirstCharacterIndex_4; }
 	inline int32_t* get_address_of_linkTextfirstCharacterIndex_4() { return &___linkTextfirstCharacterIndex_4; }
 	inline void set_linkTextfirstCharacterIndex_4(int32_t value)
@@ -4354,7 +6744,11 @@ public:
 		___linkTextfirstCharacterIndex_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_linkTextLength_5() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t1144450893, ___linkTextLength_5)); }
+=======
+	inline static int32_t get_offset_of_linkTextLength_5() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___linkTextLength_5)); }
+>>>>>>> Stashed changes
 	inline int32_t get_linkTextLength_5() const { return ___linkTextLength_5; }
 	inline int32_t* get_address_of_linkTextLength_5() { return &___linkTextLength_5; }
 	inline void set_linkTextLength_5(int32_t value)
@@ -4362,10 +6756,17 @@ public:
 		___linkTextLength_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_linkID_6() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t1144450893, ___linkID_6)); }
 	inline CharU5BU5D_t815250530* get_linkID_6() const { return ___linkID_6; }
 	inline CharU5BU5D_t815250530** get_address_of_linkID_6() { return &___linkID_6; }
 	inline void set_linkID_6(CharU5BU5D_t815250530* value)
+=======
+	inline static int32_t get_offset_of_linkID_6() { return static_cast<int32_t>(offsetof(TMP_LinkInfo_t2870327164, ___linkID_6)); }
+	inline CharU5BU5D_t3572321290* get_linkID_6() const { return ___linkID_6; }
+	inline CharU5BU5D_t3572321290** get_address_of_linkID_6() { return &___linkID_6; }
+	inline void set_linkID_6(CharU5BU5D_t3572321290* value)
+>>>>>>> Stashed changes
 	{
 		___linkID_6 = value;
 		Il2CppCodeGenWriteBarrier((&___linkID_6), value);
@@ -4376,9 +6777,15 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.TMP_LinkInfo
+<<<<<<< Updated upstream
 struct TMP_LinkInfo_t1144450893_marshaled_pinvoke
 {
 	TMP_Text_t553524508 * ___textComponent_0;
+=======
+struct TMP_LinkInfo_t2870327164_marshaled_pinvoke
+{
+	TMP_Text_t1608647262 * ___textComponent_0;
+>>>>>>> Stashed changes
 	int32_t ___hashCode_1;
 	int32_t ___linkIdFirstCharacterIndex_2;
 	int32_t ___linkIdLength_3;
@@ -4387,9 +6794,15 @@ struct TMP_LinkInfo_t1144450893_marshaled_pinvoke
 	uint8_t* ___linkID_6;
 };
 // Native definition for COM marshalling of TMPro.TMP_LinkInfo
+<<<<<<< Updated upstream
 struct TMP_LinkInfo_t1144450893_marshaled_com
 {
 	TMP_Text_t553524508 * ___textComponent_0;
+=======
+struct TMP_LinkInfo_t2870327164_marshaled_com
+{
+	TMP_Text_t1608647262 * ___textComponent_0;
+>>>>>>> Stashed changes
 	int32_t ___hashCode_1;
 	int32_t ___linkIdFirstCharacterIndex_2;
 	int32_t ___linkIdLength_3;
@@ -4397,9 +6810,15 @@ struct TMP_LinkInfo_t1144450893_marshaled_com
 	int32_t ___linkTextLength_5;
 	uint8_t* ___linkID_6;
 };
+<<<<<<< Updated upstream
 #endif // TMP_LINKINFO_T1144450893_H
 #ifndef TMP_PAGEINFO_T2472133365_H
 #define TMP_PAGEINFO_T2472133365_H
+=======
+#endif // TMP_LINKINFO_T2870327164_H
+#ifndef TMP_PAGEINFO_T3073005237_H
+#define TMP_PAGEINFO_T3073005237_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4407,7 +6826,11 @@ struct TMP_LinkInfo_t1144450893_marshaled_com
 #endif
 
 // TMPro.TMP_PageInfo
+<<<<<<< Updated upstream
 struct  TMP_PageInfo_t2472133365 
+=======
+struct  TMP_PageInfo_t3073005237 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TMP_PageInfo::firstCharacterIndex
@@ -4422,7 +6845,11 @@ public:
 	float ___descender_4;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_firstCharacterIndex_0() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t2472133365, ___firstCharacterIndex_0)); }
+=======
+	inline static int32_t get_offset_of_firstCharacterIndex_0() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t3073005237, ___firstCharacterIndex_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_firstCharacterIndex_0() const { return ___firstCharacterIndex_0; }
 	inline int32_t* get_address_of_firstCharacterIndex_0() { return &___firstCharacterIndex_0; }
 	inline void set_firstCharacterIndex_0(int32_t value)
@@ -4430,7 +6857,11 @@ public:
 		___firstCharacterIndex_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lastCharacterIndex_1() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t2472133365, ___lastCharacterIndex_1)); }
+=======
+	inline static int32_t get_offset_of_lastCharacterIndex_1() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t3073005237, ___lastCharacterIndex_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lastCharacterIndex_1() const { return ___lastCharacterIndex_1; }
 	inline int32_t* get_address_of_lastCharacterIndex_1() { return &___lastCharacterIndex_1; }
 	inline void set_lastCharacterIndex_1(int32_t value)
@@ -4438,7 +6869,11 @@ public:
 		___lastCharacterIndex_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ascender_2() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t2472133365, ___ascender_2)); }
+=======
+	inline static int32_t get_offset_of_ascender_2() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t3073005237, ___ascender_2)); }
+>>>>>>> Stashed changes
 	inline float get_ascender_2() const { return ___ascender_2; }
 	inline float* get_address_of_ascender_2() { return &___ascender_2; }
 	inline void set_ascender_2(float value)
@@ -4446,7 +6881,11 @@ public:
 		___ascender_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_baseLine_3() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t2472133365, ___baseLine_3)); }
+=======
+	inline static int32_t get_offset_of_baseLine_3() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t3073005237, ___baseLine_3)); }
+>>>>>>> Stashed changes
 	inline float get_baseLine_3() const { return ___baseLine_3; }
 	inline float* get_address_of_baseLine_3() { return &___baseLine_3; }
 	inline void set_baseLine_3(float value)
@@ -4454,7 +6893,11 @@ public:
 		___baseLine_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_descender_4() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t2472133365, ___descender_4)); }
+=======
+	inline static int32_t get_offset_of_descender_4() { return static_cast<int32_t>(offsetof(TMP_PageInfo_t3073005237, ___descender_4)); }
+>>>>>>> Stashed changes
 	inline float get_descender_4() const { return ___descender_4; }
 	inline float* get_address_of_descender_4() { return &___descender_4; }
 	inline void set_descender_4(float value)
@@ -4466,9 +6909,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_PAGEINFO_T2472133365_H
 #ifndef SPRITESIZE_T3430676047_H
 #define SPRITESIZE_T3430676047_H
+=======
+#endif // TMP_PAGEINFO_T3073005237_H
+#ifndef SPRITESIZE_T4268474400_H
+#define SPRITESIZE_T4268474400_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4476,7 +6925,11 @@ public:
 #endif
 
 // TMPro.SpriteAssetUtilities.TexturePacker/SpriteSize
+<<<<<<< Updated upstream
 struct  SpriteSize_t3430676047 
+=======
+struct  SpriteSize_t4268474400 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single TMPro.SpriteAssetUtilities.TexturePacker/SpriteSize::w
@@ -4485,7 +6938,11 @@ public:
 	float ___h_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_w_0() { return static_cast<int32_t>(offsetof(SpriteSize_t3430676047, ___w_0)); }
+=======
+	inline static int32_t get_offset_of_w_0() { return static_cast<int32_t>(offsetof(SpriteSize_t4268474400, ___w_0)); }
+>>>>>>> Stashed changes
 	inline float get_w_0() const { return ___w_0; }
 	inline float* get_address_of_w_0() { return &___w_0; }
 	inline void set_w_0(float value)
@@ -4493,7 +6950,11 @@ public:
 		___w_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_h_1() { return static_cast<int32_t>(offsetof(SpriteSize_t3430676047, ___h_1)); }
+=======
+	inline static int32_t get_offset_of_h_1() { return static_cast<int32_t>(offsetof(SpriteSize_t4268474400, ___h_1)); }
+>>>>>>> Stashed changes
 	inline float get_h_1() const { return ___h_1; }
 	inline float* get_address_of_h_1() { return &___h_1; }
 	inline void set_h_1(float value)
@@ -4505,9 +6966,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // SPRITESIZE_T3430676047_H
 #ifndef __STATICARRAYINITTYPESIZEU3D40_T1982430241_H
 #define __STATICARRAYINITTYPESIZEU3D40_T1982430241_H
+=======
+#endif // SPRITESIZE_T4268474400_H
+#ifndef __STATICARRAYINITTYPESIZEU3D40_T1433648096_H
+#define __STATICARRAYINITTYPESIZEU3D40_T1433648096_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4515,7 +6982,11 @@ public:
 #endif
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=40
+<<<<<<< Updated upstream
 struct  __StaticArrayInitTypeSizeU3D40_t1982430241 
+=======
+struct  __StaticArrayInitTypeSizeU3D40_t1433648096 
+>>>>>>> Stashed changes
 {
 public:
 	union
@@ -4526,7 +6997,11 @@ public:
 			{
 			};
 		};
+<<<<<<< Updated upstream
 		uint8_t __StaticArrayInitTypeSizeU3D40_t1982430241__padding[40];
+=======
+		uint8_t __StaticArrayInitTypeSizeU3D40_t1433648096__padding[40];
+>>>>>>> Stashed changes
 	};
 
 public:
@@ -4535,9 +7010,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // __STATICARRAYINITTYPESIZEU3D40_T1982430241_H
 #ifndef TMP_WORDINFO_T3046469335_H
 #define TMP_WORDINFO_T3046469335_H
+=======
+#endif // __STATICARRAYINITTYPESIZEU3D40_T1433648096_H
+#ifndef TMP_WORDINFO_T1320727044_H
+#define TMP_WORDINFO_T1320727044_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4545,11 +7026,19 @@ public:
 #endif
 
 // TMPro.TMP_WordInfo
+<<<<<<< Updated upstream
 struct  TMP_WordInfo_t3046469335 
 {
 public:
 	// TMPro.TMP_Text TMPro.TMP_WordInfo::textComponent
 	TMP_Text_t553524508 * ___textComponent_0;
+=======
+struct  TMP_WordInfo_t1320727044 
+{
+public:
+	// TMPro.TMP_Text TMPro.TMP_WordInfo::textComponent
+	TMP_Text_t1608647262 * ___textComponent_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_WordInfo::firstCharacterIndex
 	int32_t ___firstCharacterIndex_1;
 	// System.Int32 TMPro.TMP_WordInfo::lastCharacterIndex
@@ -4558,16 +7047,27 @@ public:
 	int32_t ___characterCount_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_textComponent_0() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t3046469335, ___textComponent_0)); }
 	inline TMP_Text_t553524508 * get_textComponent_0() const { return ___textComponent_0; }
 	inline TMP_Text_t553524508 ** get_address_of_textComponent_0() { return &___textComponent_0; }
 	inline void set_textComponent_0(TMP_Text_t553524508 * value)
+=======
+	inline static int32_t get_offset_of_textComponent_0() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t1320727044, ___textComponent_0)); }
+	inline TMP_Text_t1608647262 * get_textComponent_0() const { return ___textComponent_0; }
+	inline TMP_Text_t1608647262 ** get_address_of_textComponent_0() { return &___textComponent_0; }
+	inline void set_textComponent_0(TMP_Text_t1608647262 * value)
+>>>>>>> Stashed changes
 	{
 		___textComponent_0 = value;
 		Il2CppCodeGenWriteBarrier((&___textComponent_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_firstCharacterIndex_1() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t3046469335, ___firstCharacterIndex_1)); }
+=======
+	inline static int32_t get_offset_of_firstCharacterIndex_1() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t1320727044, ___firstCharacterIndex_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_firstCharacterIndex_1() const { return ___firstCharacterIndex_1; }
 	inline int32_t* get_address_of_firstCharacterIndex_1() { return &___firstCharacterIndex_1; }
 	inline void set_firstCharacterIndex_1(int32_t value)
@@ -4575,7 +7075,11 @@ public:
 		___firstCharacterIndex_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lastCharacterIndex_2() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t3046469335, ___lastCharacterIndex_2)); }
+=======
+	inline static int32_t get_offset_of_lastCharacterIndex_2() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t1320727044, ___lastCharacterIndex_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lastCharacterIndex_2() const { return ___lastCharacterIndex_2; }
 	inline int32_t* get_address_of_lastCharacterIndex_2() { return &___lastCharacterIndex_2; }
 	inline void set_lastCharacterIndex_2(int32_t value)
@@ -4583,7 +7087,11 @@ public:
 		___lastCharacterIndex_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_characterCount_3() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t3046469335, ___characterCount_3)); }
+=======
+	inline static int32_t get_offset_of_characterCount_3() { return static_cast<int32_t>(offsetof(TMP_WordInfo_t1320727044, ___characterCount_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_characterCount_3() const { return ___characterCount_3; }
 	inline int32_t* get_address_of_characterCount_3() { return &___characterCount_3; }
 	inline void set_characterCount_3(int32_t value)
@@ -4596,24 +7104,42 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.TMP_WordInfo
+<<<<<<< Updated upstream
 struct TMP_WordInfo_t3046469335_marshaled_pinvoke
 {
 	TMP_Text_t553524508 * ___textComponent_0;
+=======
+struct TMP_WordInfo_t1320727044_marshaled_pinvoke
+{
+	TMP_Text_t1608647262 * ___textComponent_0;
+>>>>>>> Stashed changes
 	int32_t ___firstCharacterIndex_1;
 	int32_t ___lastCharacterIndex_2;
 	int32_t ___characterCount_3;
 };
 // Native definition for COM marshalling of TMPro.TMP_WordInfo
+<<<<<<< Updated upstream
 struct TMP_WordInfo_t3046469335_marshaled_com
 {
 	TMP_Text_t553524508 * ___textComponent_0;
+=======
+struct TMP_WordInfo_t1320727044_marshaled_com
+{
+	TMP_Text_t1608647262 * ___textComponent_0;
+>>>>>>> Stashed changes
 	int32_t ___firstCharacterIndex_1;
 	int32_t ___lastCharacterIndex_2;
 	int32_t ___characterCount_3;
 };
+<<<<<<< Updated upstream
 #endif // TMP_WORDINFO_T3046469335_H
 #ifndef WAYPOINT_T1688964234_H
 #define WAYPOINT_T1688964234_H
+=======
+#endif // TMP_WORDINFO_T1320727044_H
+#ifndef WAYPOINT_T1715465849_H
+#define WAYPOINT_T1715465849_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4621,16 +7147,27 @@ struct TMP_WordInfo_t3046469335_marshaled_com
 #endif
 
 // Mapbox.Directions.Waypoint
+<<<<<<< Updated upstream
 struct  Waypoint_t1688964234  : public RuntimeObject
+=======
+struct  Waypoint_t1715465849  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Directions.Waypoint::<Name>k__BackingField
 	String_t* ___U3CNameU3Ek__BackingField_0;
 	// Mapbox.Utils.Vector2d Mapbox.Directions.Waypoint::<Location>k__BackingField
+<<<<<<< Updated upstream
 	Vector2d_t4273779274  ___U3CLocationU3Ek__BackingField_1;
 
 public:
 	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Waypoint_t1688964234, ___U3CNameU3Ek__BackingField_0)); }
+=======
+	Vector2d_t3487944966  ___U3CLocationU3Ek__BackingField_1;
+
+public:
+	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Waypoint_t1715465849, ___U3CNameU3Ek__BackingField_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CNameU3Ek__BackingField_0() const { return ___U3CNameU3Ek__BackingField_0; }
 	inline String_t** get_address_of_U3CNameU3Ek__BackingField_0() { return &___U3CNameU3Ek__BackingField_0; }
 	inline void set_U3CNameU3Ek__BackingField_0(String_t* value)
@@ -4639,10 +7176,17 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CNameU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CLocationU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Waypoint_t1688964234, ___U3CLocationU3Ek__BackingField_1)); }
 	inline Vector2d_t4273779274  get_U3CLocationU3Ek__BackingField_1() const { return ___U3CLocationU3Ek__BackingField_1; }
 	inline Vector2d_t4273779274 * get_address_of_U3CLocationU3Ek__BackingField_1() { return &___U3CLocationU3Ek__BackingField_1; }
 	inline void set_U3CLocationU3Ek__BackingField_1(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_U3CLocationU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Waypoint_t1715465849, ___U3CLocationU3Ek__BackingField_1)); }
+	inline Vector2d_t3487944966  get_U3CLocationU3Ek__BackingField_1() const { return ___U3CLocationU3Ek__BackingField_1; }
+	inline Vector2d_t3487944966 * get_address_of_U3CLocationU3Ek__BackingField_1() { return &___U3CLocationU3Ek__BackingField_1; }
+	inline void set_U3CLocationU3Ek__BackingField_1(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___U3CLocationU3Ek__BackingField_1 = value;
 	}
@@ -4651,9 +7195,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // WAYPOINT_T1688964234_H
 #ifndef SPRITEDATA_T3493869345_H
 #define SPRITEDATA_T3493869345_H
+=======
+#endif // WAYPOINT_T1715465849_H
+#ifndef SPRITEDATA_T359346718_H
+#define SPRITEDATA_T359346718_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4661,18 +7211,27 @@ public:
 #endif
 
 // TMPro.SpriteAssetUtilities.TexturePacker/SpriteData
+<<<<<<< Updated upstream
 struct  SpriteData_t3493869345 
+=======
+struct  SpriteData_t359346718 
+>>>>>>> Stashed changes
 {
 public:
 	// System.String TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::filename
 	String_t* ___filename_0;
 	// TMPro.SpriteAssetUtilities.TexturePacker/SpriteFrame TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::frame
+<<<<<<< Updated upstream
 	SpriteFrame_t337339620  ___frame_1;
+=======
+	SpriteFrame_t1478008703  ___frame_1;
+>>>>>>> Stashed changes
 	// System.Boolean TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::rotated
 	bool ___rotated_2;
 	// System.Boolean TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::trimmed
 	bool ___trimmed_3;
 	// TMPro.SpriteAssetUtilities.TexturePacker/SpriteFrame TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::spriteSourceSize
+<<<<<<< Updated upstream
 	SpriteFrame_t337339620  ___spriteSourceSize_4;
 	// TMPro.SpriteAssetUtilities.TexturePacker/SpriteSize TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::sourceSize
 	SpriteSize_t3430676047  ___sourceSize_5;
@@ -4681,6 +7240,16 @@ public:
 
 public:
 	inline static int32_t get_offset_of_filename_0() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___filename_0)); }
+=======
+	SpriteFrame_t1478008703  ___spriteSourceSize_4;
+	// TMPro.SpriteAssetUtilities.TexturePacker/SpriteSize TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::sourceSize
+	SpriteSize_t4268474400  ___sourceSize_5;
+	// UnityEngine.Vector2 TMPro.SpriteAssetUtilities.TexturePacker/SpriteData::pivot
+	Vector2_t3490028585  ___pivot_6;
+
+public:
+	inline static int32_t get_offset_of_filename_0() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___filename_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_filename_0() const { return ___filename_0; }
 	inline String_t** get_address_of_filename_0() { return &___filename_0; }
 	inline void set_filename_0(String_t* value)
@@ -4689,15 +7258,26 @@ public:
 		Il2CppCodeGenWriteBarrier((&___filename_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_frame_1() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___frame_1)); }
 	inline SpriteFrame_t337339620  get_frame_1() const { return ___frame_1; }
 	inline SpriteFrame_t337339620 * get_address_of_frame_1() { return &___frame_1; }
 	inline void set_frame_1(SpriteFrame_t337339620  value)
+=======
+	inline static int32_t get_offset_of_frame_1() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___frame_1)); }
+	inline SpriteFrame_t1478008703  get_frame_1() const { return ___frame_1; }
+	inline SpriteFrame_t1478008703 * get_address_of_frame_1() { return &___frame_1; }
+	inline void set_frame_1(SpriteFrame_t1478008703  value)
+>>>>>>> Stashed changes
 	{
 		___frame_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_rotated_2() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___rotated_2)); }
+=======
+	inline static int32_t get_offset_of_rotated_2() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___rotated_2)); }
+>>>>>>> Stashed changes
 	inline bool get_rotated_2() const { return ___rotated_2; }
 	inline bool* get_address_of_rotated_2() { return &___rotated_2; }
 	inline void set_rotated_2(bool value)
@@ -4705,7 +7285,11 @@ public:
 		___rotated_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_trimmed_3() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___trimmed_3)); }
+=======
+	inline static int32_t get_offset_of_trimmed_3() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___trimmed_3)); }
+>>>>>>> Stashed changes
 	inline bool get_trimmed_3() const { return ___trimmed_3; }
 	inline bool* get_address_of_trimmed_3() { return &___trimmed_3; }
 	inline void set_trimmed_3(bool value)
@@ -4713,26 +7297,47 @@ public:
 		___trimmed_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spriteSourceSize_4() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___spriteSourceSize_4)); }
 	inline SpriteFrame_t337339620  get_spriteSourceSize_4() const { return ___spriteSourceSize_4; }
 	inline SpriteFrame_t337339620 * get_address_of_spriteSourceSize_4() { return &___spriteSourceSize_4; }
 	inline void set_spriteSourceSize_4(SpriteFrame_t337339620  value)
+=======
+	inline static int32_t get_offset_of_spriteSourceSize_4() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___spriteSourceSize_4)); }
+	inline SpriteFrame_t1478008703  get_spriteSourceSize_4() const { return ___spriteSourceSize_4; }
+	inline SpriteFrame_t1478008703 * get_address_of_spriteSourceSize_4() { return &___spriteSourceSize_4; }
+	inline void set_spriteSourceSize_4(SpriteFrame_t1478008703  value)
+>>>>>>> Stashed changes
 	{
 		___spriteSourceSize_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_sourceSize_5() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___sourceSize_5)); }
 	inline SpriteSize_t3430676047  get_sourceSize_5() const { return ___sourceSize_5; }
 	inline SpriteSize_t3430676047 * get_address_of_sourceSize_5() { return &___sourceSize_5; }
 	inline void set_sourceSize_5(SpriteSize_t3430676047  value)
+=======
+	inline static int32_t get_offset_of_sourceSize_5() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___sourceSize_5)); }
+	inline SpriteSize_t4268474400  get_sourceSize_5() const { return ___sourceSize_5; }
+	inline SpriteSize_t4268474400 * get_address_of_sourceSize_5() { return &___sourceSize_5; }
+	inline void set_sourceSize_5(SpriteSize_t4268474400  value)
+>>>>>>> Stashed changes
 	{
 		___sourceSize_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pivot_6() { return static_cast<int32_t>(offsetof(SpriteData_t3493869345, ___pivot_6)); }
 	inline Vector2_t1843416549  get_pivot_6() const { return ___pivot_6; }
 	inline Vector2_t1843416549 * get_address_of_pivot_6() { return &___pivot_6; }
 	inline void set_pivot_6(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_pivot_6() { return static_cast<int32_t>(offsetof(SpriteData_t359346718, ___pivot_6)); }
+	inline Vector2_t3490028585  get_pivot_6() const { return ___pivot_6; }
+	inline Vector2_t3490028585 * get_address_of_pivot_6() { return &___pivot_6; }
+	inline void set_pivot_6(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___pivot_6 = value;
 	}
@@ -4742,6 +7347,7 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.SpriteAssetUtilities.TexturePacker/SpriteData
+<<<<<<< Updated upstream
 struct SpriteData_t3493869345_marshaled_pinvoke
 {
 	char* ___filename_0;
@@ -4766,6 +7372,32 @@ struct SpriteData_t3493869345_marshaled_com
 #endif // SPRITEDATA_T3493869345_H
 #ifndef SPRITEASSETIMPORTFORMATS_T774751191_H
 #define SPRITEASSETIMPORTFORMATS_T774751191_H
+=======
+struct SpriteData_t359346718_marshaled_pinvoke
+{
+	char* ___filename_0;
+	SpriteFrame_t1478008703  ___frame_1;
+	int32_t ___rotated_2;
+	int32_t ___trimmed_3;
+	SpriteFrame_t1478008703  ___spriteSourceSize_4;
+	SpriteSize_t4268474400  ___sourceSize_5;
+	Vector2_t3490028585  ___pivot_6;
+};
+// Native definition for COM marshalling of TMPro.SpriteAssetUtilities.TexturePacker/SpriteData
+struct SpriteData_t359346718_marshaled_com
+{
+	Il2CppChar* ___filename_0;
+	SpriteFrame_t1478008703  ___frame_1;
+	int32_t ___rotated_2;
+	int32_t ___trimmed_3;
+	SpriteFrame_t1478008703  ___spriteSourceSize_4;
+	SpriteSize_t4268474400  ___sourceSize_5;
+	Vector2_t3490028585  ___pivot_6;
+};
+#endif // SPRITEDATA_T359346718_H
+#ifndef SPRITEASSETIMPORTFORMATS_T2001606766_H
+#define SPRITEASSETIMPORTFORMATS_T2001606766_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4773,14 +7405,22 @@ struct SpriteData_t3493869345_marshaled_com
 #endif
 
 // TMPro.SpriteAssetUtilities.SpriteAssetImportFormats
+<<<<<<< Updated upstream
 struct  SpriteAssetImportFormats_t774751191 
+=======
+struct  SpriteAssetImportFormats_t2001606766 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.SpriteAssetUtilities.SpriteAssetImportFormats::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(SpriteAssetImportFormats_t774751191, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(SpriteAssetImportFormats_t2001606766, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -4792,9 +7432,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // SPRITEASSETIMPORTFORMATS_T774751191_H
 #ifndef REVERSEGEOCODERESOURCE_T2064818576_H
 #define REVERSEGEOCODERESOURCE_T2064818576_H
+=======
+#endif // SPRITEASSETIMPORTFORMATS_T2001606766_H
+#ifndef REVERSEGEOCODERESOURCE_T737154022_H
+#define REVERSEGEOCODERESOURCE_T737154022_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4802,6 +7448,7 @@ public:
 #endif
 
 // Mapbox.Geocoding.ReverseGeocodeResource
+<<<<<<< Updated upstream
 struct  ReverseGeocodeResource_t2064818576  : public GeocodeResource_1_t207438851
 {
 public:
@@ -4813,6 +7460,19 @@ public:
 	inline Vector2d_t4273779274  get_query_8() const { return ___query_8; }
 	inline Vector2d_t4273779274 * get_address_of_query_8() { return &___query_8; }
 	inline void set_query_8(Vector2d_t4273779274  value)
+=======
+struct  ReverseGeocodeResource_t737154022  : public GeocodeResource_1_t3497030140
+{
+public:
+	// Mapbox.Utils.Vector2d Mapbox.Geocoding.ReverseGeocodeResource::query
+	Vector2d_t3487944966  ___query_8;
+
+public:
+	inline static int32_t get_offset_of_query_8() { return static_cast<int32_t>(offsetof(ReverseGeocodeResource_t737154022, ___query_8)); }
+	inline Vector2d_t3487944966  get_query_8() const { return ___query_8; }
+	inline Vector2d_t3487944966 * get_address_of_query_8() { return &___query_8; }
+	inline void set_query_8(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___query_8 = value;
 	}
@@ -4821,9 +7481,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // REVERSEGEOCODERESOURCE_T2064818576_H
 #ifndef MESH_EXTENTS_T1764732691_H
 #define MESH_EXTENTS_T1764732691_H
+=======
+#endif // REVERSEGEOCODERESOURCE_T737154022_H
+#ifndef MESH_EXTENTS_T1986438178_H
+#define MESH_EXTENTS_T1986438178_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4831,6 +7497,7 @@ public:
 #endif
 
 // TMPro.Mesh_Extents
+<<<<<<< Updated upstream
 struct  Mesh_Extents_t1764732691 
 {
 public:
@@ -4844,14 +7511,36 @@ public:
 	inline Vector2_t1843416549  get_min_0() const { return ___min_0; }
 	inline Vector2_t1843416549 * get_address_of_min_0() { return &___min_0; }
 	inline void set_min_0(Vector2_t1843416549  value)
+=======
+struct  Mesh_Extents_t1986438178 
+{
+public:
+	// UnityEngine.Vector2 TMPro.Mesh_Extents::min
+	Vector2_t3490028585  ___min_0;
+	// UnityEngine.Vector2 TMPro.Mesh_Extents::max
+	Vector2_t3490028585  ___max_1;
+
+public:
+	inline static int32_t get_offset_of_min_0() { return static_cast<int32_t>(offsetof(Mesh_Extents_t1986438178, ___min_0)); }
+	inline Vector2_t3490028585  get_min_0() const { return ___min_0; }
+	inline Vector2_t3490028585 * get_address_of_min_0() { return &___min_0; }
+	inline void set_min_0(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___min_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_max_1() { return static_cast<int32_t>(offsetof(Mesh_Extents_t1764732691, ___max_1)); }
 	inline Vector2_t1843416549  get_max_1() const { return ___max_1; }
 	inline Vector2_t1843416549 * get_address_of_max_1() { return &___max_1; }
 	inline void set_max_1(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_max_1() { return static_cast<int32_t>(offsetof(Mesh_Extents_t1986438178, ___max_1)); }
+	inline Vector2_t3490028585  get_max_1() const { return ___max_1; }
+	inline Vector2_t3490028585 * get_address_of_max_1() { return &___max_1; }
+	inline void set_max_1(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___max_1 = value;
 	}
@@ -4860,9 +7549,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // MESH_EXTENTS_T1764732691_H
 #ifndef TMP_XMLTAGSTACK_1_T148772443_H
 #define TMP_XMLTAGSTACK_1_T148772443_H
+=======
+#endif // MESH_EXTENTS_T1986438178_H
+#ifndef TMP_XMLTAGSTACK_1_T25416787_H
+#define TMP_XMLTAGSTACK_1_T25416787_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4870,16 +7565,25 @@ public:
 #endif
 
 // TMPro.TMP_XmlTagStack`1<TMPro.MaterialReference>
+<<<<<<< Updated upstream
 struct  TMP_XmlTagStack_1_t148772443 
 {
 public:
 	// T[] TMPro.TMP_XmlTagStack`1::itemStack
 	MaterialReferenceU5BU5D_t2218085006* ___itemStack_0;
+=======
+struct  TMP_XmlTagStack_1_t25416787 
+{
+public:
+	// T[] TMPro.TMP_XmlTagStack`1::itemStack
+	MaterialReferenceU5BU5D_t1780233893* ___itemStack_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_XmlTagStack`1::index
 	int32_t ___index_1;
 	// System.Int32 TMPro.TMP_XmlTagStack`1::m_capacity
 	int32_t ___m_capacity_2;
 	// T TMPro.TMP_XmlTagStack`1::m_defaultItem
+<<<<<<< Updated upstream
 	MaterialReference_t208052407  ___m_defaultItem_3;
 
 public:
@@ -4887,12 +7591,25 @@ public:
 	inline MaterialReferenceU5BU5D_t2218085006* get_itemStack_0() const { return ___itemStack_0; }
 	inline MaterialReferenceU5BU5D_t2218085006** get_address_of_itemStack_0() { return &___itemStack_0; }
 	inline void set_itemStack_0(MaterialReferenceU5BU5D_t2218085006* value)
+=======
+	MaterialReference_t2016115500  ___m_defaultItem_3;
+
+public:
+	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t25416787, ___itemStack_0)); }
+	inline MaterialReferenceU5BU5D_t1780233893* get_itemStack_0() const { return ___itemStack_0; }
+	inline MaterialReferenceU5BU5D_t1780233893** get_address_of_itemStack_0() { return &___itemStack_0; }
+	inline void set_itemStack_0(MaterialReferenceU5BU5D_t1780233893* value)
+>>>>>>> Stashed changes
 	{
 		___itemStack_0 = value;
 		Il2CppCodeGenWriteBarrier((&___itemStack_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t148772443, ___index_1)); }
+=======
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t25416787, ___index_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_index_1() const { return ___index_1; }
 	inline int32_t* get_address_of_index_1() { return &___index_1; }
 	inline void set_index_1(int32_t value)
@@ -4900,7 +7617,11 @@ public:
 		___index_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t148772443, ___m_capacity_2)); }
+=======
+	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t25416787, ___m_capacity_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_capacity_2() const { return ___m_capacity_2; }
 	inline int32_t* get_address_of_m_capacity_2() { return &___m_capacity_2; }
 	inline void set_m_capacity_2(int32_t value)
@@ -4908,10 +7629,17 @@ public:
 		___m_capacity_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t148772443, ___m_defaultItem_3)); }
 	inline MaterialReference_t208052407  get_m_defaultItem_3() const { return ___m_defaultItem_3; }
 	inline MaterialReference_t208052407 * get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
 	inline void set_m_defaultItem_3(MaterialReference_t208052407  value)
+=======
+	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t25416787, ___m_defaultItem_3)); }
+	inline MaterialReference_t2016115500  get_m_defaultItem_3() const { return ___m_defaultItem_3; }
+	inline MaterialReference_t2016115500 * get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
+	inline void set_m_defaultItem_3(MaterialReference_t2016115500  value)
+>>>>>>> Stashed changes
 	{
 		___m_defaultItem_3 = value;
 	}
@@ -4920,9 +7648,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_XMLTAGSTACK_1_T148772443_H
 #ifndef EXTENTS_T479935886_H
 #define EXTENTS_T479935886_H
+=======
+#endif // TMP_XMLTAGSTACK_1_T25416787_H
+#ifndef EXTENTS_T10404588_H
+#define EXTENTS_T10404588_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4930,6 +7664,7 @@ public:
 #endif
 
 // TMPro.Extents
+<<<<<<< Updated upstream
 struct  Extents_t479935886 
 {
 public:
@@ -4943,14 +7678,36 @@ public:
 	inline Vector2_t1843416549  get_min_0() const { return ___min_0; }
 	inline Vector2_t1843416549 * get_address_of_min_0() { return &___min_0; }
 	inline void set_min_0(Vector2_t1843416549  value)
+=======
+struct  Extents_t10404588 
+{
+public:
+	// UnityEngine.Vector2 TMPro.Extents::min
+	Vector2_t3490028585  ___min_0;
+	// UnityEngine.Vector2 TMPro.Extents::max
+	Vector2_t3490028585  ___max_1;
+
+public:
+	inline static int32_t get_offset_of_min_0() { return static_cast<int32_t>(offsetof(Extents_t10404588, ___min_0)); }
+	inline Vector2_t3490028585  get_min_0() const { return ___min_0; }
+	inline Vector2_t3490028585 * get_address_of_min_0() { return &___min_0; }
+	inline void set_min_0(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___min_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_max_1() { return static_cast<int32_t>(offsetof(Extents_t479935886, ___max_1)); }
 	inline Vector2_t1843416549  get_max_1() const { return ___max_1; }
 	inline Vector2_t1843416549 * get_address_of_max_1() { return &___max_1; }
 	inline void set_max_1(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_max_1() { return static_cast<int32_t>(offsetof(Extents_t10404588, ___max_1)); }
+	inline Vector2_t3490028585  get_max_1() const { return ___max_1; }
+	inline Vector2_t3490028585 * get_address_of_max_1() { return &___max_1; }
+	inline void set_max_1(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___max_1 = value;
 	}
@@ -4959,9 +7716,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // EXTENTS_T479935886_H
 #ifndef VERTEXGRADIENT_T1843771813_H
 #define VERTEXGRADIENT_T1843771813_H
+=======
+#endif // EXTENTS_T10404588_H
+#ifndef VERTEXGRADIENT_T308438391_H
+#define VERTEXGRADIENT_T308438391_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -4969,6 +7732,7 @@ public:
 #endif
 
 // TMPro.VertexGradient
+<<<<<<< Updated upstream
 struct  VertexGradient_t1843771813 
 {
 public:
@@ -4986,30 +7750,70 @@ public:
 	inline Color_t635182970  get_topLeft_0() const { return ___topLeft_0; }
 	inline Color_t635182970 * get_address_of_topLeft_0() { return &___topLeft_0; }
 	inline void set_topLeft_0(Color_t635182970  value)
+=======
+struct  VertexGradient_t308438391 
+{
+public:
+	// UnityEngine.Color TMPro.VertexGradient::topLeft
+	Color_t1429747532  ___topLeft_0;
+	// UnityEngine.Color TMPro.VertexGradient::topRight
+	Color_t1429747532  ___topRight_1;
+	// UnityEngine.Color TMPro.VertexGradient::bottomLeft
+	Color_t1429747532  ___bottomLeft_2;
+	// UnityEngine.Color TMPro.VertexGradient::bottomRight
+	Color_t1429747532  ___bottomRight_3;
+
+public:
+	inline static int32_t get_offset_of_topLeft_0() { return static_cast<int32_t>(offsetof(VertexGradient_t308438391, ___topLeft_0)); }
+	inline Color_t1429747532  get_topLeft_0() const { return ___topLeft_0; }
+	inline Color_t1429747532 * get_address_of_topLeft_0() { return &___topLeft_0; }
+	inline void set_topLeft_0(Color_t1429747532  value)
+>>>>>>> Stashed changes
 	{
 		___topLeft_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_topRight_1() { return static_cast<int32_t>(offsetof(VertexGradient_t1843771813, ___topRight_1)); }
 	inline Color_t635182970  get_topRight_1() const { return ___topRight_1; }
 	inline Color_t635182970 * get_address_of_topRight_1() { return &___topRight_1; }
 	inline void set_topRight_1(Color_t635182970  value)
+=======
+	inline static int32_t get_offset_of_topRight_1() { return static_cast<int32_t>(offsetof(VertexGradient_t308438391, ___topRight_1)); }
+	inline Color_t1429747532  get_topRight_1() const { return ___topRight_1; }
+	inline Color_t1429747532 * get_address_of_topRight_1() { return &___topRight_1; }
+	inline void set_topRight_1(Color_t1429747532  value)
+>>>>>>> Stashed changes
 	{
 		___topRight_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bottomLeft_2() { return static_cast<int32_t>(offsetof(VertexGradient_t1843771813, ___bottomLeft_2)); }
 	inline Color_t635182970  get_bottomLeft_2() const { return ___bottomLeft_2; }
 	inline Color_t635182970 * get_address_of_bottomLeft_2() { return &___bottomLeft_2; }
 	inline void set_bottomLeft_2(Color_t635182970  value)
+=======
+	inline static int32_t get_offset_of_bottomLeft_2() { return static_cast<int32_t>(offsetof(VertexGradient_t308438391, ___bottomLeft_2)); }
+	inline Color_t1429747532  get_bottomLeft_2() const { return ___bottomLeft_2; }
+	inline Color_t1429747532 * get_address_of_bottomLeft_2() { return &___bottomLeft_2; }
+	inline void set_bottomLeft_2(Color_t1429747532  value)
+>>>>>>> Stashed changes
 	{
 		___bottomLeft_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bottomRight_3() { return static_cast<int32_t>(offsetof(VertexGradient_t1843771813, ___bottomRight_3)); }
 	inline Color_t635182970  get_bottomRight_3() const { return ___bottomRight_3; }
 	inline Color_t635182970 * get_address_of_bottomRight_3() { return &___bottomRight_3; }
 	inline void set_bottomRight_3(Color_t635182970  value)
+=======
+	inline static int32_t get_offset_of_bottomRight_3() { return static_cast<int32_t>(offsetof(VertexGradient_t308438391, ___bottomRight_3)); }
+	inline Color_t1429747532  get_bottomRight_3() const { return ___bottomRight_3; }
+	inline Color_t1429747532 * get_address_of_bottomRight_3() { return &___bottomRight_3; }
+	inline void set_bottomRight_3(Color_t1429747532  value)
+>>>>>>> Stashed changes
 	{
 		___bottomRight_3 = value;
 	}
@@ -5018,9 +7822,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // VERTEXGRADIENT_T1843771813_H
 #ifndef TMP_TEXTELEMENTTYPE_T3914657446_H
 #define TMP_TEXTELEMENTTYPE_T3914657446_H
+=======
+#endif // VERTEXGRADIENT_T308438391_H
+#ifndef TMP_TEXTELEMENTTYPE_T2796937613_H
+#define TMP_TEXTELEMENTTYPE_T2796937613_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5028,14 +7838,22 @@ public:
 #endif
 
 // TMPro.TMP_TextElementType
+<<<<<<< Updated upstream
 struct  TMP_TextElementType_t3914657446 
+=======
+struct  TMP_TextElementType_t2796937613 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TMP_TextElementType::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TMP_TextElementType_t3914657446, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TMP_TextElementType_t2796937613, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -5047,9 +7865,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_TEXTELEMENTTYPE_T3914657446_H
 #ifndef TMP_VERTEX_T360648656_H
 #define TMP_VERTEX_T360648656_H
+=======
+#endif // TMP_TEXTELEMENTTYPE_T2796937613_H
+#ifndef TMP_VERTEX_T4232211731_H
+#define TMP_VERTEX_T4232211731_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5057,6 +7881,7 @@ public:
 #endif
 
 // TMPro.TMP_Vertex
+<<<<<<< Updated upstream
 struct  TMP_Vertex_t360648656 
 {
 public:
@@ -5076,38 +7901,87 @@ public:
 	inline Vector3_t3513892689  get_position_0() const { return ___position_0; }
 	inline Vector3_t3513892689 * get_address_of_position_0() { return &___position_0; }
 	inline void set_position_0(Vector3_t3513892689  value)
+=======
+struct  TMP_Vertex_t4232211731 
+{
+public:
+	// UnityEngine.Vector3 TMPro.TMP_Vertex::position
+	Vector3_t2110634753  ___position_0;
+	// UnityEngine.Vector2 TMPro.TMP_Vertex::uv
+	Vector2_t3490028585  ___uv_1;
+	// UnityEngine.Vector2 TMPro.TMP_Vertex::uv2
+	Vector2_t3490028585  ___uv2_2;
+	// UnityEngine.Vector2 TMPro.TMP_Vertex::uv4
+	Vector2_t3490028585  ___uv4_3;
+	// UnityEngine.Color32 TMPro.TMP_Vertex::color
+	Color32_t3788861462  ___color_4;
+
+public:
+	inline static int32_t get_offset_of_position_0() { return static_cast<int32_t>(offsetof(TMP_Vertex_t4232211731, ___position_0)); }
+	inline Vector3_t2110634753  get_position_0() const { return ___position_0; }
+	inline Vector3_t2110634753 * get_address_of_position_0() { return &___position_0; }
+	inline void set_position_0(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___position_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv_1() { return static_cast<int32_t>(offsetof(TMP_Vertex_t360648656, ___uv_1)); }
 	inline Vector2_t1843416549  get_uv_1() const { return ___uv_1; }
 	inline Vector2_t1843416549 * get_address_of_uv_1() { return &___uv_1; }
 	inline void set_uv_1(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv_1() { return static_cast<int32_t>(offsetof(TMP_Vertex_t4232211731, ___uv_1)); }
+	inline Vector2_t3490028585  get_uv_1() const { return ___uv_1; }
+	inline Vector2_t3490028585 * get_address_of_uv_1() { return &___uv_1; }
+	inline void set_uv_1(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv2_2() { return static_cast<int32_t>(offsetof(TMP_Vertex_t360648656, ___uv2_2)); }
 	inline Vector2_t1843416549  get_uv2_2() const { return ___uv2_2; }
 	inline Vector2_t1843416549 * get_address_of_uv2_2() { return &___uv2_2; }
 	inline void set_uv2_2(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv2_2() { return static_cast<int32_t>(offsetof(TMP_Vertex_t4232211731, ___uv2_2)); }
+	inline Vector2_t3490028585  get_uv2_2() const { return ___uv2_2; }
+	inline Vector2_t3490028585 * get_address_of_uv2_2() { return &___uv2_2; }
+	inline void set_uv2_2(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv2_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv4_3() { return static_cast<int32_t>(offsetof(TMP_Vertex_t360648656, ___uv4_3)); }
 	inline Vector2_t1843416549  get_uv4_3() const { return ___uv4_3; }
 	inline Vector2_t1843416549 * get_address_of_uv4_3() { return &___uv4_3; }
 	inline void set_uv4_3(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv4_3() { return static_cast<int32_t>(offsetof(TMP_Vertex_t4232211731, ___uv4_3)); }
+	inline Vector2_t3490028585  get_uv4_3() const { return ___uv4_3; }
+	inline Vector2_t3490028585 * get_address_of_uv4_3() { return &___uv4_3; }
+	inline void set_uv4_3(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv4_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_color_4() { return static_cast<int32_t>(offsetof(TMP_Vertex_t360648656, ___color_4)); }
 	inline Color32_t771166883  get_color_4() const { return ___color_4; }
 	inline Color32_t771166883 * get_address_of_color_4() { return &___color_4; }
 	inline void set_color_4(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_color_4() { return static_cast<int32_t>(offsetof(TMP_Vertex_t4232211731, ___color_4)); }
+	inline Color32_t3788861462  get_color_4() const { return ___color_4; }
+	inline Color32_t3788861462 * get_address_of_color_4() { return &___color_4; }
+	inline void set_color_4(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___color_4 = value;
 	}
@@ -5116,9 +7990,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_VERTEX_T360648656_H
 #ifndef FONTSTYLES_T1006064802_H
 #define FONTSTYLES_T1006064802_H
+=======
+#endif // TMP_VERTEX_T4232211731_H
+#ifndef FONTSTYLES_T875928078_H
+#define FONTSTYLES_T875928078_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5126,14 +8006,22 @@ public:
 #endif
 
 // TMPro.FontStyles
+<<<<<<< Updated upstream
 struct  FontStyles_t1006064802 
+=======
+struct  FontStyles_t875928078 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.FontStyles::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(FontStyles_t1006064802, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(FontStyles_t875928078, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -5145,9 +8033,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FONTSTYLES_T1006064802_H
 #ifndef GEOMETRY_T4085959105_H
 #define GEOMETRY_T4085959105_H
+=======
+#endif // FONTSTYLES_T875928078_H
+#ifndef GEOMETRY_T1793293810_H
+#define GEOMETRY_T1793293810_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5155,16 +8049,27 @@ public:
 #endif
 
 // Mapbox.Geocoding.Geometry
+<<<<<<< Updated upstream
 struct  Geometry_t4085959105  : public RuntimeObject
+=======
+struct  Geometry_t1793293810  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Geocoding.Geometry::<Type>k__BackingField
 	String_t* ___U3CTypeU3Ek__BackingField_0;
 	// Mapbox.Utils.Vector2d Mapbox.Geocoding.Geometry::<Coordinates>k__BackingField
+<<<<<<< Updated upstream
 	Vector2d_t4273779274  ___U3CCoordinatesU3Ek__BackingField_1;
 
 public:
 	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Geometry_t4085959105, ___U3CTypeU3Ek__BackingField_0)); }
+=======
+	Vector2d_t3487944966  ___U3CCoordinatesU3Ek__BackingField_1;
+
+public:
+	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Geometry_t1793293810, ___U3CTypeU3Ek__BackingField_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CTypeU3Ek__BackingField_0() const { return ___U3CTypeU3Ek__BackingField_0; }
 	inline String_t** get_address_of_U3CTypeU3Ek__BackingField_0() { return &___U3CTypeU3Ek__BackingField_0; }
 	inline void set_U3CTypeU3Ek__BackingField_0(String_t* value)
@@ -5173,10 +8078,17 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CTypeU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CCoordinatesU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Geometry_t4085959105, ___U3CCoordinatesU3Ek__BackingField_1)); }
 	inline Vector2d_t4273779274  get_U3CCoordinatesU3Ek__BackingField_1() const { return ___U3CCoordinatesU3Ek__BackingField_1; }
 	inline Vector2d_t4273779274 * get_address_of_U3CCoordinatesU3Ek__BackingField_1() { return &___U3CCoordinatesU3Ek__BackingField_1; }
 	inline void set_U3CCoordinatesU3Ek__BackingField_1(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_U3CCoordinatesU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Geometry_t1793293810, ___U3CCoordinatesU3Ek__BackingField_1)); }
+	inline Vector2d_t3487944966  get_U3CCoordinatesU3Ek__BackingField_1() const { return ___U3CCoordinatesU3Ek__BackingField_1; }
+	inline Vector2d_t3487944966 * get_address_of_U3CCoordinatesU3Ek__BackingField_1() { return &___U3CCoordinatesU3Ek__BackingField_1; }
+	inline void set_U3CCoordinatesU3Ek__BackingField_1(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___U3CCoordinatesU3Ek__BackingField_1 = value;
 	}
@@ -5185,9 +8097,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // GEOMETRY_T4085959105_H
 #ifndef TMP_XMLTAGSTACK_1_T711886919_H
 #define TMP_XMLTAGSTACK_1_T711886919_H
+=======
+#endif // GEOMETRY_T1793293810_H
+#ifndef TMP_XMLTAGSTACK_1_T1798162749_H
+#define TMP_XMLTAGSTACK_1_T1798162749_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5195,16 +8113,25 @@ public:
 #endif
 
 // TMPro.TMP_XmlTagStack`1<UnityEngine.Color32>
+<<<<<<< Updated upstream
 struct  TMP_XmlTagStack_1_t711886919 
 {
 public:
 	// T[] TMPro.TMP_XmlTagStack`1::itemStack
 	Color32U5BU5D_t3008763762* ___itemStack_0;
+=======
+struct  TMP_XmlTagStack_1_t1798162749 
+{
+public:
+	// T[] TMPro.TMP_XmlTagStack`1::itemStack
+	Color32U5BU5D_t536923859* ___itemStack_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_XmlTagStack`1::index
 	int32_t ___index_1;
 	// System.Int32 TMPro.TMP_XmlTagStack`1::m_capacity
 	int32_t ___m_capacity_2;
 	// T TMPro.TMP_XmlTagStack`1::m_defaultItem
+<<<<<<< Updated upstream
 	Color32_t771166883  ___m_defaultItem_3;
 
 public:
@@ -5212,12 +8139,25 @@ public:
 	inline Color32U5BU5D_t3008763762* get_itemStack_0() const { return ___itemStack_0; }
 	inline Color32U5BU5D_t3008763762** get_address_of_itemStack_0() { return &___itemStack_0; }
 	inline void set_itemStack_0(Color32U5BU5D_t3008763762* value)
+=======
+	Color32_t3788861462  ___m_defaultItem_3;
+
+public:
+	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1798162749, ___itemStack_0)); }
+	inline Color32U5BU5D_t536923859* get_itemStack_0() const { return ___itemStack_0; }
+	inline Color32U5BU5D_t536923859** get_address_of_itemStack_0() { return &___itemStack_0; }
+	inline void set_itemStack_0(Color32U5BU5D_t536923859* value)
+>>>>>>> Stashed changes
 	{
 		___itemStack_0 = value;
 		Il2CppCodeGenWriteBarrier((&___itemStack_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t711886919, ___index_1)); }
+=======
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1798162749, ___index_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_index_1() const { return ___index_1; }
 	inline int32_t* get_address_of_index_1() { return &___index_1; }
 	inline void set_index_1(int32_t value)
@@ -5225,7 +8165,11 @@ public:
 		___index_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t711886919, ___m_capacity_2)); }
+=======
+	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1798162749, ___m_capacity_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_capacity_2() const { return ___m_capacity_2; }
 	inline int32_t* get_address_of_m_capacity_2() { return &___m_capacity_2; }
 	inline void set_m_capacity_2(int32_t value)
@@ -5233,10 +8177,17 @@ public:
 		___m_capacity_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t711886919, ___m_defaultItem_3)); }
 	inline Color32_t771166883  get_m_defaultItem_3() const { return ___m_defaultItem_3; }
 	inline Color32_t771166883 * get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
 	inline void set_m_defaultItem_3(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t1798162749, ___m_defaultItem_3)); }
+	inline Color32_t3788861462  get_m_defaultItem_3() const { return ___m_defaultItem_3; }
+	inline Color32_t3788861462 * get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
+	inline void set_m_defaultItem_3(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___m_defaultItem_3 = value;
 	}
@@ -5245,9 +8196,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_XMLTAGSTACK_1_T711886919_H
 #ifndef MANEUVER_T2092271762_H
 #define MANEUVER_T2092271762_H
+=======
+#endif // TMP_XMLTAGSTACK_1_T1798162749_H
+#ifndef MANEUVER_T3595949486_H
+#define MANEUVER_T3595949486_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5255,7 +8212,11 @@ public:
 #endif
 
 // Mapbox.Directions.Maneuver
+<<<<<<< Updated upstream
 struct  Maneuver_t2092271762  : public RuntimeObject
+=======
+struct  Maneuver_t3595949486  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 Mapbox.Directions.Maneuver::<BearingAfter>k__BackingField
@@ -5267,12 +8228,20 @@ public:
 	// System.Int32 Mapbox.Directions.Maneuver::<BearingBefore>k__BackingField
 	int32_t ___U3CBearingBeforeU3Ek__BackingField_3;
 	// Mapbox.Utils.Vector2d Mapbox.Directions.Maneuver::<Location>k__BackingField
+<<<<<<< Updated upstream
 	Vector2d_t4273779274  ___U3CLocationU3Ek__BackingField_4;
+=======
+	Vector2d_t3487944966  ___U3CLocationU3Ek__BackingField_4;
+>>>>>>> Stashed changes
 	// System.String Mapbox.Directions.Maneuver::<Instruction>k__BackingField
 	String_t* ___U3CInstructionU3Ek__BackingField_5;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CBearingAfterU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Maneuver_t2092271762, ___U3CBearingAfterU3Ek__BackingField_0)); }
+=======
+	inline static int32_t get_offset_of_U3CBearingAfterU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Maneuver_t3595949486, ___U3CBearingAfterU3Ek__BackingField_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_U3CBearingAfterU3Ek__BackingField_0() const { return ___U3CBearingAfterU3Ek__BackingField_0; }
 	inline int32_t* get_address_of_U3CBearingAfterU3Ek__BackingField_0() { return &___U3CBearingAfterU3Ek__BackingField_0; }
 	inline void set_U3CBearingAfterU3Ek__BackingField_0(int32_t value)
@@ -5280,7 +8249,11 @@ public:
 		___U3CBearingAfterU3Ek__BackingField_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Maneuver_t2092271762, ___U3CTypeU3Ek__BackingField_1)); }
+=======
+	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Maneuver_t3595949486, ___U3CTypeU3Ek__BackingField_1)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CTypeU3Ek__BackingField_1() const { return ___U3CTypeU3Ek__BackingField_1; }
 	inline String_t** get_address_of_U3CTypeU3Ek__BackingField_1() { return &___U3CTypeU3Ek__BackingField_1; }
 	inline void set_U3CTypeU3Ek__BackingField_1(String_t* value)
@@ -5289,7 +8262,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CTypeU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CModifierU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Maneuver_t2092271762, ___U3CModifierU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CModifierU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Maneuver_t3595949486, ___U3CModifierU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CModifierU3Ek__BackingField_2() const { return ___U3CModifierU3Ek__BackingField_2; }
 	inline String_t** get_address_of_U3CModifierU3Ek__BackingField_2() { return &___U3CModifierU3Ek__BackingField_2; }
 	inline void set_U3CModifierU3Ek__BackingField_2(String_t* value)
@@ -5298,7 +8275,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CModifierU3Ek__BackingField_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CBearingBeforeU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Maneuver_t2092271762, ___U3CBearingBeforeU3Ek__BackingField_3)); }
+=======
+	inline static int32_t get_offset_of_U3CBearingBeforeU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Maneuver_t3595949486, ___U3CBearingBeforeU3Ek__BackingField_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_U3CBearingBeforeU3Ek__BackingField_3() const { return ___U3CBearingBeforeU3Ek__BackingField_3; }
 	inline int32_t* get_address_of_U3CBearingBeforeU3Ek__BackingField_3() { return &___U3CBearingBeforeU3Ek__BackingField_3; }
 	inline void set_U3CBearingBeforeU3Ek__BackingField_3(int32_t value)
@@ -5306,15 +8287,26 @@ public:
 		___U3CBearingBeforeU3Ek__BackingField_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CLocationU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Maneuver_t2092271762, ___U3CLocationU3Ek__BackingField_4)); }
 	inline Vector2d_t4273779274  get_U3CLocationU3Ek__BackingField_4() const { return ___U3CLocationU3Ek__BackingField_4; }
 	inline Vector2d_t4273779274 * get_address_of_U3CLocationU3Ek__BackingField_4() { return &___U3CLocationU3Ek__BackingField_4; }
 	inline void set_U3CLocationU3Ek__BackingField_4(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_U3CLocationU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Maneuver_t3595949486, ___U3CLocationU3Ek__BackingField_4)); }
+	inline Vector2d_t3487944966  get_U3CLocationU3Ek__BackingField_4() const { return ___U3CLocationU3Ek__BackingField_4; }
+	inline Vector2d_t3487944966 * get_address_of_U3CLocationU3Ek__BackingField_4() { return &___U3CLocationU3Ek__BackingField_4; }
+	inline void set_U3CLocationU3Ek__BackingField_4(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___U3CLocationU3Ek__BackingField_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CInstructionU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(Maneuver_t2092271762, ___U3CInstructionU3Ek__BackingField_5)); }
+=======
+	inline static int32_t get_offset_of_U3CInstructionU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(Maneuver_t3595949486, ___U3CInstructionU3Ek__BackingField_5)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CInstructionU3Ek__BackingField_5() const { return ___U3CInstructionU3Ek__BackingField_5; }
 	inline String_t** get_address_of_U3CInstructionU3Ek__BackingField_5() { return &___U3CInstructionU3Ek__BackingField_5; }
 	inline void set_U3CInstructionU3Ek__BackingField_5(String_t* value)
@@ -5327,9 +8319,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // MANEUVER_T2092271762_H
 #ifndef INTERSECTION_T3296237170_H
 #define INTERSECTION_T3296237170_H
+=======
+#endif // MANEUVER_T3595949486_H
+#ifndef INTERSECTION_T836139346_H
+#define INTERSECTION_T836139346_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5337,12 +8335,17 @@ public:
 #endif
 
 // Mapbox.Directions.Intersection
+<<<<<<< Updated upstream
 struct  Intersection_t3296237170  : public RuntimeObject
+=======
+struct  Intersection_t836139346  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 Mapbox.Directions.Intersection::<Out>k__BackingField
 	int32_t ___U3COutU3Ek__BackingField_0;
 	// System.Collections.Generic.List`1<System.Boolean> Mapbox.Directions.Intersection::<Entry>k__BackingField
+<<<<<<< Updated upstream
 	List_1_t653044119 * ___U3CEntryU3Ek__BackingField_1;
 	// System.Collections.Generic.List`1<System.Int32> Mapbox.Directions.Intersection::<Bearings>k__BackingField
 	List_1_t1501420957 * ___U3CBearingsU3Ek__BackingField_2;
@@ -5353,6 +8356,18 @@ public:
 
 public:
 	inline static int32_t get_offset_of_U3COutU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Intersection_t3296237170, ___U3COutU3Ek__BackingField_0)); }
+=======
+	List_1_t3235964911 * ___U3CEntryU3Ek__BackingField_1;
+	// System.Collections.Generic.List`1<System.Int32> Mapbox.Directions.Intersection::<Bearings>k__BackingField
+	List_1_t188253260 * ___U3CBearingsU3Ek__BackingField_2;
+	// Mapbox.Utils.Vector2d Mapbox.Directions.Intersection::<Location>k__BackingField
+	Vector2d_t3487944966  ___U3CLocationU3Ek__BackingField_3;
+	// System.Nullable`1<System.Int32> Mapbox.Directions.Intersection::<In>k__BackingField
+	Nullable_1_t3068145466  ___U3CInU3Ek__BackingField_4;
+
+public:
+	inline static int32_t get_offset_of_U3COutU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Intersection_t836139346, ___U3COutU3Ek__BackingField_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_U3COutU3Ek__BackingField_0() const { return ___U3COutU3Ek__BackingField_0; }
 	inline int32_t* get_address_of_U3COutU3Ek__BackingField_0() { return &___U3COutU3Ek__BackingField_0; }
 	inline void set_U3COutU3Ek__BackingField_0(int32_t value)
@@ -5360,36 +8375,64 @@ public:
 		___U3COutU3Ek__BackingField_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CEntryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Intersection_t3296237170, ___U3CEntryU3Ek__BackingField_1)); }
 	inline List_1_t653044119 * get_U3CEntryU3Ek__BackingField_1() const { return ___U3CEntryU3Ek__BackingField_1; }
 	inline List_1_t653044119 ** get_address_of_U3CEntryU3Ek__BackingField_1() { return &___U3CEntryU3Ek__BackingField_1; }
 	inline void set_U3CEntryU3Ek__BackingField_1(List_1_t653044119 * value)
+=======
+	inline static int32_t get_offset_of_U3CEntryU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Intersection_t836139346, ___U3CEntryU3Ek__BackingField_1)); }
+	inline List_1_t3235964911 * get_U3CEntryU3Ek__BackingField_1() const { return ___U3CEntryU3Ek__BackingField_1; }
+	inline List_1_t3235964911 ** get_address_of_U3CEntryU3Ek__BackingField_1() { return &___U3CEntryU3Ek__BackingField_1; }
+	inline void set_U3CEntryU3Ek__BackingField_1(List_1_t3235964911 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CEntryU3Ek__BackingField_1 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CEntryU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CBearingsU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Intersection_t3296237170, ___U3CBearingsU3Ek__BackingField_2)); }
 	inline List_1_t1501420957 * get_U3CBearingsU3Ek__BackingField_2() const { return ___U3CBearingsU3Ek__BackingField_2; }
 	inline List_1_t1501420957 ** get_address_of_U3CBearingsU3Ek__BackingField_2() { return &___U3CBearingsU3Ek__BackingField_2; }
 	inline void set_U3CBearingsU3Ek__BackingField_2(List_1_t1501420957 * value)
+=======
+	inline static int32_t get_offset_of_U3CBearingsU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Intersection_t836139346, ___U3CBearingsU3Ek__BackingField_2)); }
+	inline List_1_t188253260 * get_U3CBearingsU3Ek__BackingField_2() const { return ___U3CBearingsU3Ek__BackingField_2; }
+	inline List_1_t188253260 ** get_address_of_U3CBearingsU3Ek__BackingField_2() { return &___U3CBearingsU3Ek__BackingField_2; }
+	inline void set_U3CBearingsU3Ek__BackingField_2(List_1_t188253260 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CBearingsU3Ek__BackingField_2 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CBearingsU3Ek__BackingField_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CLocationU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Intersection_t3296237170, ___U3CLocationU3Ek__BackingField_3)); }
 	inline Vector2d_t4273779274  get_U3CLocationU3Ek__BackingField_3() const { return ___U3CLocationU3Ek__BackingField_3; }
 	inline Vector2d_t4273779274 * get_address_of_U3CLocationU3Ek__BackingField_3() { return &___U3CLocationU3Ek__BackingField_3; }
 	inline void set_U3CLocationU3Ek__BackingField_3(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_U3CLocationU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Intersection_t836139346, ___U3CLocationU3Ek__BackingField_3)); }
+	inline Vector2d_t3487944966  get_U3CLocationU3Ek__BackingField_3() const { return ___U3CLocationU3Ek__BackingField_3; }
+	inline Vector2d_t3487944966 * get_address_of_U3CLocationU3Ek__BackingField_3() { return &___U3CLocationU3Ek__BackingField_3; }
+	inline void set_U3CLocationU3Ek__BackingField_3(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___U3CLocationU3Ek__BackingField_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CInU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Intersection_t3296237170, ___U3CInU3Ek__BackingField_4)); }
 	inline Nullable_1_t366382819  get_U3CInU3Ek__BackingField_4() const { return ___U3CInU3Ek__BackingField_4; }
 	inline Nullable_1_t366382819 * get_address_of_U3CInU3Ek__BackingField_4() { return &___U3CInU3Ek__BackingField_4; }
 	inline void set_U3CInU3Ek__BackingField_4(Nullable_1_t366382819  value)
+=======
+	inline static int32_t get_offset_of_U3CInU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Intersection_t836139346, ___U3CInU3Ek__BackingField_4)); }
+	inline Nullable_1_t3068145466  get_U3CInU3Ek__BackingField_4() const { return ___U3CInU3Ek__BackingField_4; }
+	inline Nullable_1_t3068145466 * get_address_of_U3CInU3Ek__BackingField_4() { return &___U3CInU3Ek__BackingField_4; }
+	inline void set_U3CInU3Ek__BackingField_4(Nullable_1_t3068145466  value)
+>>>>>>> Stashed changes
 	{
 		___U3CInU3Ek__BackingField_4 = value;
 	}
@@ -5398,9 +8441,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // INTERSECTION_T3296237170_H
 #ifndef STATE_T2136524405_H
 #define STATE_T2136524405_H
+=======
+#endif // INTERSECTION_T836139346_H
+#ifndef STATE_T3748359570_H
+#define STATE_T3748359570_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5408,14 +8457,22 @@ public:
 #endif
 
 // Mapbox.Map.Tile/State
+<<<<<<< Updated upstream
 struct  State_t2136524405 
+=======
+struct  State_t3748359570 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 Mapbox.Map.Tile/State::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(State_t2136524405, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(State_t3748359570, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -5427,9 +8484,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // STATE_T2136524405_H
 #ifndef VECTOR2DBOUNDS_T2298342946_H
 #define VECTOR2DBOUNDS_T2298342946_H
+=======
+#endif // STATE_T3748359570_H
+#ifndef VECTOR2DBOUNDS_T3762214055_H
+#define VECTOR2DBOUNDS_T3762214055_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5437,6 +8500,7 @@ public:
 #endif
 
 // Mapbox.Utils.Vector2dBounds
+<<<<<<< Updated upstream
 struct  Vector2dBounds_t2298342946 
 {
 public:
@@ -5450,14 +8514,36 @@ public:
 	inline Vector2d_t4273779274  get_SouthWest_0() const { return ___SouthWest_0; }
 	inline Vector2d_t4273779274 * get_address_of_SouthWest_0() { return &___SouthWest_0; }
 	inline void set_SouthWest_0(Vector2d_t4273779274  value)
+=======
+struct  Vector2dBounds_t3762214055 
+{
+public:
+	// Mapbox.Utils.Vector2d Mapbox.Utils.Vector2dBounds::SouthWest
+	Vector2d_t3487944966  ___SouthWest_0;
+	// Mapbox.Utils.Vector2d Mapbox.Utils.Vector2dBounds::NorthEast
+	Vector2d_t3487944966  ___NorthEast_1;
+
+public:
+	inline static int32_t get_offset_of_SouthWest_0() { return static_cast<int32_t>(offsetof(Vector2dBounds_t3762214055, ___SouthWest_0)); }
+	inline Vector2d_t3487944966  get_SouthWest_0() const { return ___SouthWest_0; }
+	inline Vector2d_t3487944966 * get_address_of_SouthWest_0() { return &___SouthWest_0; }
+	inline void set_SouthWest_0(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___SouthWest_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_NorthEast_1() { return static_cast<int32_t>(offsetof(Vector2dBounds_t2298342946, ___NorthEast_1)); }
 	inline Vector2d_t4273779274  get_NorthEast_1() const { return ___NorthEast_1; }
 	inline Vector2d_t4273779274 * get_address_of_NorthEast_1() { return &___NorthEast_1; }
 	inline void set_NorthEast_1(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_NorthEast_1() { return static_cast<int32_t>(offsetof(Vector2dBounds_t3762214055, ___NorthEast_1)); }
+	inline Vector2d_t3487944966  get_NorthEast_1() const { return ___NorthEast_1; }
+	inline Vector2d_t3487944966 * get_address_of_NorthEast_1() { return &___NorthEast_1; }
+	inline void set_NorthEast_1(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___NorthEast_1 = value;
 	}
@@ -5466,9 +8552,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // VECTOR2DBOUNDS_T2298342946_H
 #ifndef LINESEGMENT_T2724297623_H
 #define LINESEGMENT_T2724297623_H
+=======
+#endif // VECTOR2DBOUNDS_T3762214055_H
+#ifndef LINESEGMENT_T3199456027_H
+#define LINESEGMENT_T3199456027_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5476,6 +8568,7 @@ public:
 #endif
 
 // TMPro.TMP_TextUtilities/LineSegment
+<<<<<<< Updated upstream
 struct  LineSegment_t2724297623 
 {
 public:
@@ -5489,14 +8582,36 @@ public:
 	inline Vector3_t3513892689  get_Point1_0() const { return ___Point1_0; }
 	inline Vector3_t3513892689 * get_address_of_Point1_0() { return &___Point1_0; }
 	inline void set_Point1_0(Vector3_t3513892689  value)
+=======
+struct  LineSegment_t3199456027 
+{
+public:
+	// UnityEngine.Vector3 TMPro.TMP_TextUtilities/LineSegment::Point1
+	Vector3_t2110634753  ___Point1_0;
+	// UnityEngine.Vector3 TMPro.TMP_TextUtilities/LineSegment::Point2
+	Vector3_t2110634753  ___Point2_1;
+
+public:
+	inline static int32_t get_offset_of_Point1_0() { return static_cast<int32_t>(offsetof(LineSegment_t3199456027, ___Point1_0)); }
+	inline Vector3_t2110634753  get_Point1_0() const { return ___Point1_0; }
+	inline Vector3_t2110634753 * get_address_of_Point1_0() { return &___Point1_0; }
+	inline void set_Point1_0(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___Point1_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Point2_1() { return static_cast<int32_t>(offsetof(LineSegment_t2724297623, ___Point2_1)); }
 	inline Vector3_t3513892689  get_Point2_1() const { return ___Point2_1; }
 	inline Vector3_t3513892689 * get_address_of_Point2_1() { return &___Point2_1; }
 	inline void set_Point2_1(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_Point2_1() { return static_cast<int32_t>(offsetof(LineSegment_t3199456027, ___Point2_1)); }
+	inline Vector3_t2110634753  get_Point2_1() const { return ___Point2_1; }
+	inline Vector3_t2110634753 * get_address_of_Point2_1() { return &___Point2_1; }
+	inline void set_Point2_1(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___Point2_1 = value;
 	}
@@ -5505,9 +8620,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LINESEGMENT_T2724297623_H
 #ifndef TEXTALIGNMENTOPTIONS_T487995780_H
 #define TEXTALIGNMENTOPTIONS_T487995780_H
+=======
+#endif // LINESEGMENT_T3199456027_H
+#ifndef TEXTALIGNMENTOPTIONS_T1581193433_H
+#define TEXTALIGNMENTOPTIONS_T1581193433_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5515,14 +8636,22 @@ public:
 #endif
 
 // TMPro.TextAlignmentOptions
+<<<<<<< Updated upstream
 struct  TextAlignmentOptions_t487995780 
+=======
+struct  TextAlignmentOptions_t1581193433 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TextAlignmentOptions::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TextAlignmentOptions_t487995780, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TextAlignmentOptions_t1581193433, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -5534,9 +8663,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TEXTALIGNMENTOPTIONS_T487995780_H
 #ifndef NULLABLE_1_T326495412_H
 #define NULLABLE_1_T326495412_H
+=======
+#endif // TEXTALIGNMENTOPTIONS_T1581193433_H
+#ifndef NULLABLE_1_T849267063_H
+#define NULLABLE_1_T849267063_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5544,24 +8679,43 @@ public:
 #endif
 
 // System.Nullable`1<Mapbox.Utils.Vector2d>
+<<<<<<< Updated upstream
 struct  Nullable_1_t326495412 
 {
 public:
 	// T System.Nullable`1::value
 	Vector2d_t4273779274  ___value_0;
+=======
+struct  Nullable_1_t849267063 
+{
+public:
+	// T System.Nullable`1::value
+	Vector2d_t3487944966  ___value_0;
+>>>>>>> Stashed changes
 	// System.Boolean System.Nullable`1::has_value
 	bool ___has_value_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t326495412, ___value_0)); }
 	inline Vector2d_t4273779274  get_value_0() const { return ___value_0; }
 	inline Vector2d_t4273779274 * get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t849267063, ___value_0)); }
+	inline Vector2d_t3487944966  get_value_0() const { return ___value_0; }
+	inline Vector2d_t3487944966 * get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___value_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t326495412, ___has_value_1)); }
+=======
+	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t849267063, ___has_value_1)); }
+>>>>>>> Stashed changes
 	inline bool get_has_value_1() const { return ___has_value_1; }
 	inline bool* get_address_of_has_value_1() { return &___has_value_1; }
 	inline void set_has_value_1(bool value)
@@ -5573,9 +8727,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // NULLABLE_1_T326495412_H
 #ifndef U3CPRIVATEIMPLEMENTATIONDETAILSU3E_T3211611631_H
 #define U3CPRIVATEIMPLEMENTATIONDETAILSU3E_T3211611631_H
+=======
+#endif // NULLABLE_1_T849267063_H
+#ifndef U3CPRIVATEIMPLEMENTATIONDETAILSU3E_T4000827845_H
+#define U3CPRIVATEIMPLEMENTATIONDETAILSU3E_T4000827845_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5583,13 +8743,18 @@ public:
 #endif
 
 // <PrivateImplementationDetails>
+<<<<<<< Updated upstream
 struct  U3CPrivateImplementationDetailsU3E_t3211611631  : public RuntimeObject
+=======
+struct  U3CPrivateImplementationDetailsU3E_t4000827845  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct U3CPrivateImplementationDetailsU3E_t3211611631_StaticFields
 {
 public:
@@ -5603,14 +8768,36 @@ public:
 	inline __StaticArrayInitTypeSizeU3D12_t1512627339  get_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0() const { return ___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0; }
 	inline __StaticArrayInitTypeSizeU3D12_t1512627339 * get_address_of_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0() { return &___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0; }
 	inline void set_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0(__StaticArrayInitTypeSizeU3D12_t1512627339  value)
+=======
+struct U3CPrivateImplementationDetailsU3E_t4000827845_StaticFields
+{
+public:
+	// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12 <PrivateImplementationDetails>::7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46
+	__StaticArrayInitTypeSizeU3D12_t129652691  ___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0;
+	// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=40 <PrivateImplementationDetails>::9E6378168821DBABB7EE3D0154346480FAC8AEF1
+	__StaticArrayInitTypeSizeU3D40_t1433648096  ___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1;
+
+public:
+	inline static int32_t get_offset_of_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0() { return static_cast<int32_t>(offsetof(U3CPrivateImplementationDetailsU3E_t4000827845_StaticFields, ___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0)); }
+	inline __StaticArrayInitTypeSizeU3D12_t129652691  get_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0() const { return ___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0; }
+	inline __StaticArrayInitTypeSizeU3D12_t129652691 * get_address_of_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0() { return &___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0; }
+	inline void set_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0(__StaticArrayInitTypeSizeU3D12_t129652691  value)
+>>>>>>> Stashed changes
 	{
 		___7BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1() { return static_cast<int32_t>(offsetof(U3CPrivateImplementationDetailsU3E_t3211611631_StaticFields, ___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1)); }
 	inline __StaticArrayInitTypeSizeU3D40_t1982430241  get_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1() const { return ___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1; }
 	inline __StaticArrayInitTypeSizeU3D40_t1982430241 * get_address_of_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1() { return &___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1; }
 	inline void set_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1(__StaticArrayInitTypeSizeU3D40_t1982430241  value)
+=======
+	inline static int32_t get_offset_of_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1() { return static_cast<int32_t>(offsetof(U3CPrivateImplementationDetailsU3E_t4000827845_StaticFields, ___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1)); }
+	inline __StaticArrayInitTypeSizeU3D40_t1433648096  get_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1() const { return ___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1; }
+	inline __StaticArrayInitTypeSizeU3D40_t1433648096 * get_address_of_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1() { return &___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1; }
+	inline void set_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1(__StaticArrayInitTypeSizeU3D40_t1433648096  value)
+>>>>>>> Stashed changes
 	{
 		___9E6378168821DBABB7EE3D0154346480FAC8AEF1_1 = value;
 	}
@@ -5619,9 +8806,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CPRIVATEIMPLEMENTATIONDETAILSU3E_T3211611631_H
 #ifndef COMPUTE_DISTANCETRANSFORM_EVENTTYPES_T2620149052_H
 #define COMPUTE_DISTANCETRANSFORM_EVENTTYPES_T2620149052_H
+=======
+#endif // U3CPRIVATEIMPLEMENTATIONDETAILSU3E_T4000827845_H
+#ifndef COMPUTE_DISTANCETRANSFORM_EVENTTYPES_T2516687653_H
+#define COMPUTE_DISTANCETRANSFORM_EVENTTYPES_T2516687653_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5629,14 +8822,22 @@ public:
 #endif
 
 // TMPro.Compute_DistanceTransform_EventTypes
+<<<<<<< Updated upstream
 struct  Compute_DistanceTransform_EventTypes_t2620149052 
+=======
+struct  Compute_DistanceTransform_EventTypes_t2516687653 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.Compute_DistanceTransform_EventTypes::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(Compute_DistanceTransform_EventTypes_t2620149052, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(Compute_DistanceTransform_EventTypes_t2516687653, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -5648,9 +8849,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // COMPUTE_DISTANCETRANSFORM_EVENTTYPES_T2620149052_H
 #ifndef OBJECT_T2863153585_H
 #define OBJECT_T2863153585_H
+=======
+#endif // COMPUTE_DISTANCETRANSFORM_EVENTTYPES_T2516687653_H
+#ifndef OBJECT_T1300527420_H
+#define OBJECT_T1300527420_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5658,14 +8865,22 @@ public:
 #endif
 
 // UnityEngine.Object
+<<<<<<< Updated upstream
 struct  Object_t2863153585  : public RuntimeObject
+=======
+struct  Object_t1300527420  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
 	intptr_t ___m_CachedPtr_0;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t2863153585, ___m_CachedPtr_0)); }
+=======
+	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_t1300527420, ___m_CachedPtr_0)); }
+>>>>>>> Stashed changes
 	inline intptr_t get_m_CachedPtr_0() const { return ___m_CachedPtr_0; }
 	inline intptr_t* get_address_of_m_CachedPtr_0() { return &___m_CachedPtr_0; }
 	inline void set_m_CachedPtr_0(intptr_t value)
@@ -5674,14 +8889,22 @@ public:
 	}
 };
 
+<<<<<<< Updated upstream
 struct Object_t2863153585_StaticFields
+=======
+struct Object_t1300527420_StaticFields
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
 	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t2863153585_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+=======
+	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_t1300527420_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_OffsetOfInstanceIDInCPlusPlusObject_1() const { return ___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline int32_t* get_address_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return &___OffsetOfInstanceIDInCPlusPlusObject_1; }
 	inline void set_OffsetOfInstanceIDInCPlusPlusObject_1(int32_t value)
@@ -5694,11 +8917,16 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of UnityEngine.Object
+<<<<<<< Updated upstream
 struct Object_t2863153585_marshaled_pinvoke
+=======
+struct Object_t1300527420_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	intptr_t ___m_CachedPtr_0;
 };
 // Native definition for COM marshalling of UnityEngine.Object
+<<<<<<< Updated upstream
 struct Object_t2863153585_marshaled_com
 {
 	intptr_t ___m_CachedPtr_0;
@@ -5706,6 +8934,15 @@ struct Object_t2863153585_marshaled_com
 #endif // OBJECT_T2863153585_H
 #ifndef TMP_VERTEXDATAUPDATEFLAGS_T327443084_H
 #define TMP_VERTEXDATAUPDATEFLAGS_T327443084_H
+=======
+struct Object_t1300527420_marshaled_com
+{
+	intptr_t ___m_CachedPtr_0;
+};
+#endif // OBJECT_T1300527420_H
+#ifndef TMP_VERTEXDATAUPDATEFLAGS_T1728793896_H
+#define TMP_VERTEXDATAUPDATEFLAGS_T1728793896_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5713,14 +8950,22 @@ struct Object_t2863153585_marshaled_com
 #endif
 
 // TMPro.TMP_VertexDataUpdateFlags
+<<<<<<< Updated upstream
 struct  TMP_VertexDataUpdateFlags_t327443084 
+=======
+struct  TMP_VertexDataUpdateFlags_t1728793896 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TMP_VertexDataUpdateFlags::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TMP_VertexDataUpdateFlags_t327443084, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TMP_VertexDataUpdateFlags_t1728793896, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -5732,9 +8977,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_VERTEXDATAUPDATEFLAGS_T327443084_H
 #ifndef DIRECTIONRESOURCE_T3711261521_H
 #define DIRECTIONRESOURCE_T3711261521_H
+=======
+#endif // TMP_VERTEXDATAUPDATEFLAGS_T1728793896_H
+#ifndef DIRECTIONRESOURCE_T1512606500_H
+#define DIRECTIONRESOURCE_T1512606500_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5742,12 +8993,17 @@ public:
 #endif
 
 // Mapbox.Directions.DirectionResource
+<<<<<<< Updated upstream
 struct  DirectionResource_t3711261521  : public Resource_t2040042524
+=======
+struct  DirectionResource_t1512606500  : public Resource_t2364393036
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Directions.DirectionResource::apiEndpoint
 	String_t* ___apiEndpoint_4;
 	// Mapbox.Directions.RoutingProfile Mapbox.Directions.DirectionResource::profile
+<<<<<<< Updated upstream
 	RoutingProfile_t3148949097 * ___profile_5;
 	// Mapbox.Utils.Vector2d[] Mapbox.Directions.DirectionResource::coordinates
 	Vector2dU5BU5D_t2290309455* ___coordinates_6;
@@ -5766,6 +9022,26 @@ public:
 
 public:
 	inline static int32_t get_offset_of_apiEndpoint_4() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___apiEndpoint_4)); }
+=======
+	RoutingProfile_t3888477618 * ___profile_5;
+	// Mapbox.Utils.Vector2d[] Mapbox.Directions.DirectionResource::coordinates
+	Vector2dU5BU5D_t263953443* ___coordinates_6;
+	// System.Nullable`1<System.Boolean> Mapbox.Directions.DirectionResource::alternatives
+	Nullable_1_t1820889821  ___alternatives_7;
+	// Mapbox.Utils.BearingFilter[] Mapbox.Directions.DirectionResource::bearings
+	BearingFilterU5BU5D_t4036392330* ___bearings_8;
+	// System.Nullable`1<System.Boolean> Mapbox.Directions.DirectionResource::continueStraight
+	Nullable_1_t1820889821  ___continueStraight_9;
+	// Mapbox.Directions.Overview Mapbox.Directions.DirectionResource::overview
+	Overview_t2679930399 * ___overview_10;
+	// System.Double[] Mapbox.Directions.DirectionResource::radiuses
+	DoubleU5BU5D_t2041516314* ___radiuses_11;
+	// System.Nullable`1<System.Boolean> Mapbox.Directions.DirectionResource::steps
+	Nullable_1_t1820889821  ___steps_12;
+
+public:
+	inline static int32_t get_offset_of_apiEndpoint_4() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___apiEndpoint_4)); }
+>>>>>>> Stashed changes
 	inline String_t* get_apiEndpoint_4() const { return ___apiEndpoint_4; }
 	inline String_t** get_address_of_apiEndpoint_4() { return &___apiEndpoint_4; }
 	inline void set_apiEndpoint_4(String_t* value)
@@ -5774,71 +9050,127 @@ public:
 		Il2CppCodeGenWriteBarrier((&___apiEndpoint_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_profile_5() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___profile_5)); }
 	inline RoutingProfile_t3148949097 * get_profile_5() const { return ___profile_5; }
 	inline RoutingProfile_t3148949097 ** get_address_of_profile_5() { return &___profile_5; }
 	inline void set_profile_5(RoutingProfile_t3148949097 * value)
+=======
+	inline static int32_t get_offset_of_profile_5() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___profile_5)); }
+	inline RoutingProfile_t3888477618 * get_profile_5() const { return ___profile_5; }
+	inline RoutingProfile_t3888477618 ** get_address_of_profile_5() { return &___profile_5; }
+	inline void set_profile_5(RoutingProfile_t3888477618 * value)
+>>>>>>> Stashed changes
 	{
 		___profile_5 = value;
 		Il2CppCodeGenWriteBarrier((&___profile_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_coordinates_6() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___coordinates_6)); }
 	inline Vector2dU5BU5D_t2290309455* get_coordinates_6() const { return ___coordinates_6; }
 	inline Vector2dU5BU5D_t2290309455** get_address_of_coordinates_6() { return &___coordinates_6; }
 	inline void set_coordinates_6(Vector2dU5BU5D_t2290309455* value)
+=======
+	inline static int32_t get_offset_of_coordinates_6() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___coordinates_6)); }
+	inline Vector2dU5BU5D_t263953443* get_coordinates_6() const { return ___coordinates_6; }
+	inline Vector2dU5BU5D_t263953443** get_address_of_coordinates_6() { return &___coordinates_6; }
+	inline void set_coordinates_6(Vector2dU5BU5D_t263953443* value)
+>>>>>>> Stashed changes
 	{
 		___coordinates_6 = value;
 		Il2CppCodeGenWriteBarrier((&___coordinates_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_alternatives_7() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___alternatives_7)); }
 	inline Nullable_1_t3812973277  get_alternatives_7() const { return ___alternatives_7; }
 	inline Nullable_1_t3812973277 * get_address_of_alternatives_7() { return &___alternatives_7; }
 	inline void set_alternatives_7(Nullable_1_t3812973277  value)
+=======
+	inline static int32_t get_offset_of_alternatives_7() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___alternatives_7)); }
+	inline Nullable_1_t1820889821  get_alternatives_7() const { return ___alternatives_7; }
+	inline Nullable_1_t1820889821 * get_address_of_alternatives_7() { return &___alternatives_7; }
+	inline void set_alternatives_7(Nullable_1_t1820889821  value)
+>>>>>>> Stashed changes
 	{
 		___alternatives_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bearings_8() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___bearings_8)); }
 	inline BearingFilterU5BU5D_t3440330850* get_bearings_8() const { return ___bearings_8; }
 	inline BearingFilterU5BU5D_t3440330850** get_address_of_bearings_8() { return &___bearings_8; }
 	inline void set_bearings_8(BearingFilterU5BU5D_t3440330850* value)
+=======
+	inline static int32_t get_offset_of_bearings_8() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___bearings_8)); }
+	inline BearingFilterU5BU5D_t4036392330* get_bearings_8() const { return ___bearings_8; }
+	inline BearingFilterU5BU5D_t4036392330** get_address_of_bearings_8() { return &___bearings_8; }
+	inline void set_bearings_8(BearingFilterU5BU5D_t4036392330* value)
+>>>>>>> Stashed changes
 	{
 		___bearings_8 = value;
 		Il2CppCodeGenWriteBarrier((&___bearings_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_continueStraight_9() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___continueStraight_9)); }
 	inline Nullable_1_t3812973277  get_continueStraight_9() const { return ___continueStraight_9; }
 	inline Nullable_1_t3812973277 * get_address_of_continueStraight_9() { return &___continueStraight_9; }
 	inline void set_continueStraight_9(Nullable_1_t3812973277  value)
+=======
+	inline static int32_t get_offset_of_continueStraight_9() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___continueStraight_9)); }
+	inline Nullable_1_t1820889821  get_continueStraight_9() const { return ___continueStraight_9; }
+	inline Nullable_1_t1820889821 * get_address_of_continueStraight_9() { return &___continueStraight_9; }
+	inline void set_continueStraight_9(Nullable_1_t1820889821  value)
+>>>>>>> Stashed changes
 	{
 		___continueStraight_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_overview_10() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___overview_10)); }
 	inline Overview_t434267123 * get_overview_10() const { return ___overview_10; }
 	inline Overview_t434267123 ** get_address_of_overview_10() { return &___overview_10; }
 	inline void set_overview_10(Overview_t434267123 * value)
+=======
+	inline static int32_t get_offset_of_overview_10() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___overview_10)); }
+	inline Overview_t2679930399 * get_overview_10() const { return ___overview_10; }
+	inline Overview_t2679930399 ** get_address_of_overview_10() { return &___overview_10; }
+	inline void set_overview_10(Overview_t2679930399 * value)
+>>>>>>> Stashed changes
 	{
 		___overview_10 = value;
 		Il2CppCodeGenWriteBarrier((&___overview_10), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_radiuses_11() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___radiuses_11)); }
 	inline DoubleU5BU5D_t1374177224* get_radiuses_11() const { return ___radiuses_11; }
 	inline DoubleU5BU5D_t1374177224** get_address_of_radiuses_11() { return &___radiuses_11; }
 	inline void set_radiuses_11(DoubleU5BU5D_t1374177224* value)
+=======
+	inline static int32_t get_offset_of_radiuses_11() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___radiuses_11)); }
+	inline DoubleU5BU5D_t2041516314* get_radiuses_11() const { return ___radiuses_11; }
+	inline DoubleU5BU5D_t2041516314** get_address_of_radiuses_11() { return &___radiuses_11; }
+	inline void set_radiuses_11(DoubleU5BU5D_t2041516314* value)
+>>>>>>> Stashed changes
 	{
 		___radiuses_11 = value;
 		Il2CppCodeGenWriteBarrier((&___radiuses_11), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_steps_12() { return static_cast<int32_t>(offsetof(DirectionResource_t3711261521, ___steps_12)); }
 	inline Nullable_1_t3812973277  get_steps_12() const { return ___steps_12; }
 	inline Nullable_1_t3812973277 * get_address_of_steps_12() { return &___steps_12; }
 	inline void set_steps_12(Nullable_1_t3812973277  value)
+=======
+	inline static int32_t get_offset_of_steps_12() { return static_cast<int32_t>(offsetof(DirectionResource_t1512606500, ___steps_12)); }
+	inline Nullable_1_t1820889821  get_steps_12() const { return ___steps_12; }
+	inline Nullable_1_t1820889821 * get_address_of_steps_12() { return &___steps_12; }
+	inline void set_steps_12(Nullable_1_t1820889821  value)
+>>>>>>> Stashed changes
 	{
 		___steps_12 = value;
 	}
@@ -5847,9 +9179,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // DIRECTIONRESOURCE_T3711261521_H
 #ifndef GLYPH2D_T1901040861_H
 #define GLYPH2D_T1901040861_H
+=======
+#endif // DIRECTIONRESOURCE_T1512606500_H
+#ifndef GLYPH2D_T279928030_H
+#define GLYPH2D_T279928030_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5857,6 +9195,7 @@ public:
 #endif
 
 // TMPro.Glyph2D
+<<<<<<< Updated upstream
 struct  Glyph2D_t1901040861  : public RuntimeObject
 {
 public:
@@ -5882,62 +9221,138 @@ public:
 	inline Vector3_t3513892689  get_bottomLeft_0() const { return ___bottomLeft_0; }
 	inline Vector3_t3513892689 * get_address_of_bottomLeft_0() { return &___bottomLeft_0; }
 	inline void set_bottomLeft_0(Vector3_t3513892689  value)
+=======
+struct  Glyph2D_t279928030  : public RuntimeObject
+{
+public:
+	// UnityEngine.Vector3 TMPro.Glyph2D::bottomLeft
+	Vector3_t2110634753  ___bottomLeft_0;
+	// UnityEngine.Vector3 TMPro.Glyph2D::topLeft
+	Vector3_t2110634753  ___topLeft_1;
+	// UnityEngine.Vector3 TMPro.Glyph2D::bottomRight
+	Vector3_t2110634753  ___bottomRight_2;
+	// UnityEngine.Vector3 TMPro.Glyph2D::topRight
+	Vector3_t2110634753  ___topRight_3;
+	// UnityEngine.Vector2 TMPro.Glyph2D::uv0
+	Vector2_t3490028585  ___uv0_4;
+	// UnityEngine.Vector2 TMPro.Glyph2D::uv1
+	Vector2_t3490028585  ___uv1_5;
+	// UnityEngine.Vector2 TMPro.Glyph2D::uv2
+	Vector2_t3490028585  ___uv2_6;
+	// UnityEngine.Vector2 TMPro.Glyph2D::uv3
+	Vector2_t3490028585  ___uv3_7;
+
+public:
+	inline static int32_t get_offset_of_bottomLeft_0() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___bottomLeft_0)); }
+	inline Vector3_t2110634753  get_bottomLeft_0() const { return ___bottomLeft_0; }
+	inline Vector3_t2110634753 * get_address_of_bottomLeft_0() { return &___bottomLeft_0; }
+	inline void set_bottomLeft_0(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___bottomLeft_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_topLeft_1() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___topLeft_1)); }
 	inline Vector3_t3513892689  get_topLeft_1() const { return ___topLeft_1; }
 	inline Vector3_t3513892689 * get_address_of_topLeft_1() { return &___topLeft_1; }
 	inline void set_topLeft_1(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_topLeft_1() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___topLeft_1)); }
+	inline Vector3_t2110634753  get_topLeft_1() const { return ___topLeft_1; }
+	inline Vector3_t2110634753 * get_address_of_topLeft_1() { return &___topLeft_1; }
+	inline void set_topLeft_1(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___topLeft_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bottomRight_2() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___bottomRight_2)); }
 	inline Vector3_t3513892689  get_bottomRight_2() const { return ___bottomRight_2; }
 	inline Vector3_t3513892689 * get_address_of_bottomRight_2() { return &___bottomRight_2; }
 	inline void set_bottomRight_2(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_bottomRight_2() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___bottomRight_2)); }
+	inline Vector3_t2110634753  get_bottomRight_2() const { return ___bottomRight_2; }
+	inline Vector3_t2110634753 * get_address_of_bottomRight_2() { return &___bottomRight_2; }
+	inline void set_bottomRight_2(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___bottomRight_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_topRight_3() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___topRight_3)); }
 	inline Vector3_t3513892689  get_topRight_3() const { return ___topRight_3; }
 	inline Vector3_t3513892689 * get_address_of_topRight_3() { return &___topRight_3; }
 	inline void set_topRight_3(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_topRight_3() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___topRight_3)); }
+	inline Vector3_t2110634753  get_topRight_3() const { return ___topRight_3; }
+	inline Vector3_t2110634753 * get_address_of_topRight_3() { return &___topRight_3; }
+	inline void set_topRight_3(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___topRight_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv0_4() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___uv0_4)); }
 	inline Vector2_t1843416549  get_uv0_4() const { return ___uv0_4; }
 	inline Vector2_t1843416549 * get_address_of_uv0_4() { return &___uv0_4; }
 	inline void set_uv0_4(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv0_4() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___uv0_4)); }
+	inline Vector2_t3490028585  get_uv0_4() const { return ___uv0_4; }
+	inline Vector2_t3490028585 * get_address_of_uv0_4() { return &___uv0_4; }
+	inline void set_uv0_4(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv0_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv1_5() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___uv1_5)); }
 	inline Vector2_t1843416549  get_uv1_5() const { return ___uv1_5; }
 	inline Vector2_t1843416549 * get_address_of_uv1_5() { return &___uv1_5; }
 	inline void set_uv1_5(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv1_5() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___uv1_5)); }
+	inline Vector2_t3490028585  get_uv1_5() const { return ___uv1_5; }
+	inline Vector2_t3490028585 * get_address_of_uv1_5() { return &___uv1_5; }
+	inline void set_uv1_5(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv1_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv2_6() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___uv2_6)); }
 	inline Vector2_t1843416549  get_uv2_6() const { return ___uv2_6; }
 	inline Vector2_t1843416549 * get_address_of_uv2_6() { return &___uv2_6; }
 	inline void set_uv2_6(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv2_6() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___uv2_6)); }
+	inline Vector2_t3490028585  get_uv2_6() const { return ___uv2_6; }
+	inline Vector2_t3490028585 * get_address_of_uv2_6() { return &___uv2_6; }
+	inline void set_uv2_6(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv2_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_uv3_7() { return static_cast<int32_t>(offsetof(Glyph2D_t1901040861, ___uv3_7)); }
 	inline Vector2_t1843416549  get_uv3_7() const { return ___uv3_7; }
 	inline Vector2_t1843416549 * get_address_of_uv3_7() { return &___uv3_7; }
 	inline void set_uv3_7(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_uv3_7() { return static_cast<int32_t>(offsetof(Glyph2D_t279928030, ___uv3_7)); }
+	inline Vector2_t3490028585  get_uv3_7() const { return ___uv3_7; }
+	inline Vector2_t3490028585 * get_address_of_uv3_7() { return &___uv3_7; }
+	inline void set_uv3_7(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___uv3_7 = value;
 	}
@@ -5946,9 +9361,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // GLYPH2D_T1901040861_H
 #ifndef TMP_MATH_T1426381556_H
 #define TMP_MATH_T1426381556_H
+=======
+#endif // GLYPH2D_T279928030_H
+#ifndef TMP_MATH_T3217992652_H
+#define TMP_MATH_T3217992652_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -5956,13 +9377,18 @@ public:
 #endif
 
 // TMPro.TMP_Math
+<<<<<<< Updated upstream
 struct  TMP_Math_t1426381556  : public RuntimeObject
+=======
+struct  TMP_Math_t3217992652  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 
 public:
 };
 
+<<<<<<< Updated upstream
 struct TMP_Math_t1426381556_StaticFields
 {
 public:
@@ -5976,14 +9402,36 @@ public:
 	inline Vector2_t1843416549  get_MAX_16BIT_6() const { return ___MAX_16BIT_6; }
 	inline Vector2_t1843416549 * get_address_of_MAX_16BIT_6() { return &___MAX_16BIT_6; }
 	inline void set_MAX_16BIT_6(Vector2_t1843416549  value)
+=======
+struct TMP_Math_t3217992652_StaticFields
+{
+public:
+	// UnityEngine.Vector2 TMPro.TMP_Math::MAX_16BIT
+	Vector2_t3490028585  ___MAX_16BIT_6;
+	// UnityEngine.Vector2 TMPro.TMP_Math::MIN_16BIT
+	Vector2_t3490028585  ___MIN_16BIT_7;
+
+public:
+	inline static int32_t get_offset_of_MAX_16BIT_6() { return static_cast<int32_t>(offsetof(TMP_Math_t3217992652_StaticFields, ___MAX_16BIT_6)); }
+	inline Vector2_t3490028585  get_MAX_16BIT_6() const { return ___MAX_16BIT_6; }
+	inline Vector2_t3490028585 * get_address_of_MAX_16BIT_6() { return &___MAX_16BIT_6; }
+	inline void set_MAX_16BIT_6(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___MAX_16BIT_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_MIN_16BIT_7() { return static_cast<int32_t>(offsetof(TMP_Math_t1426381556_StaticFields, ___MIN_16BIT_7)); }
 	inline Vector2_t1843416549  get_MIN_16BIT_7() const { return ___MIN_16BIT_7; }
 	inline Vector2_t1843416549 * get_address_of_MIN_16BIT_7() { return &___MIN_16BIT_7; }
 	inline void set_MIN_16BIT_7(Vector2_t1843416549  value)
+=======
+	inline static int32_t get_offset_of_MIN_16BIT_7() { return static_cast<int32_t>(offsetof(TMP_Math_t3217992652_StaticFields, ___MIN_16BIT_7)); }
+	inline Vector2_t3490028585  get_MIN_16BIT_7() const { return ___MIN_16BIT_7; }
+	inline Vector2_t3490028585 * get_address_of_MIN_16BIT_7() { return &___MIN_16BIT_7; }
+	inline void set_MIN_16BIT_7(Vector2_t3490028585  value)
+>>>>>>> Stashed changes
 	{
 		___MIN_16BIT_7 = value;
 	}
@@ -5992,9 +9440,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_MATH_T1426381556_H
 #ifndef TAGTYPE_T2038686682_H
 #define TAGTYPE_T2038686682_H
+=======
+#endif // TMP_MATH_T3217992652_H
+#ifndef TAGTYPE_T493131142_H
+#define TAGTYPE_T493131142_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6002,14 +9456,22 @@ public:
 #endif
 
 // TMPro.TagType
+<<<<<<< Updated upstream
 struct  TagType_t2038686682 
+=======
+struct  TagType_t493131142 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TagType::value__
 	int32_t ___value___1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TagType_t2038686682, ___value___1)); }
+=======
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(TagType_t493131142, ___value___1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_value___1() const { return ___value___1; }
 	inline int32_t* get_address_of_value___1() { return &___value___1; }
 	inline void set_value___1(int32_t value)
@@ -6021,9 +9483,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TAGTYPE_T2038686682_H
 #ifndef XML_TAGATTRIBUTE_T656340566_H
 #define XML_TAGATTRIBUTE_T656340566_H
+=======
+#endif // TAGTYPE_T493131142_H
+#ifndef XML_TAGATTRIBUTE_T783537170_H
+#define XML_TAGATTRIBUTE_T783537170_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6031,7 +9499,11 @@ public:
 #endif
 
 // TMPro.XML_TagAttribute
+<<<<<<< Updated upstream
 struct  XML_TagAttribute_t656340566 
+=======
+struct  XML_TagAttribute_t783537170 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.XML_TagAttribute::nameHashCode
@@ -6046,7 +9518,11 @@ public:
 	int32_t ___valueHashCode_4;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_nameHashCode_0() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t656340566, ___nameHashCode_0)); }
+=======
+	inline static int32_t get_offset_of_nameHashCode_0() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t783537170, ___nameHashCode_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_nameHashCode_0() const { return ___nameHashCode_0; }
 	inline int32_t* get_address_of_nameHashCode_0() { return &___nameHashCode_0; }
 	inline void set_nameHashCode_0(int32_t value)
@@ -6054,7 +9530,11 @@ public:
 		___nameHashCode_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_valueType_1() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t656340566, ___valueType_1)); }
+=======
+	inline static int32_t get_offset_of_valueType_1() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t783537170, ___valueType_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_valueType_1() const { return ___valueType_1; }
 	inline int32_t* get_address_of_valueType_1() { return &___valueType_1; }
 	inline void set_valueType_1(int32_t value)
@@ -6062,7 +9542,11 @@ public:
 		___valueType_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_valueStartIndex_2() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t656340566, ___valueStartIndex_2)); }
+=======
+	inline static int32_t get_offset_of_valueStartIndex_2() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t783537170, ___valueStartIndex_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_valueStartIndex_2() const { return ___valueStartIndex_2; }
 	inline int32_t* get_address_of_valueStartIndex_2() { return &___valueStartIndex_2; }
 	inline void set_valueStartIndex_2(int32_t value)
@@ -6070,7 +9554,11 @@ public:
 		___valueStartIndex_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_valueLength_3() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t656340566, ___valueLength_3)); }
+=======
+	inline static int32_t get_offset_of_valueLength_3() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t783537170, ___valueLength_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_valueLength_3() const { return ___valueLength_3; }
 	inline int32_t* get_address_of_valueLength_3() { return &___valueLength_3; }
 	inline void set_valueLength_3(int32_t value)
@@ -6078,7 +9566,11 @@ public:
 		___valueLength_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_valueHashCode_4() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t656340566, ___valueHashCode_4)); }
+=======
+	inline static int32_t get_offset_of_valueHashCode_4() { return static_cast<int32_t>(offsetof(XML_TagAttribute_t783537170, ___valueHashCode_4)); }
+>>>>>>> Stashed changes
 	inline int32_t get_valueHashCode_4() const { return ___valueHashCode_4; }
 	inline int32_t* get_address_of_valueHashCode_4() { return &___valueHashCode_4; }
 	inline void set_valueHashCode_4(int32_t value)
@@ -6090,9 +9582,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // XML_TAGATTRIBUTE_T656340566_H
 #ifndef COMPUTE_DT_EVENTARGS_T2191594229_H
 #define COMPUTE_DT_EVENTARGS_T2191594229_H
+=======
+#endif // XML_TAGATTRIBUTE_T783537170_H
+#ifndef COMPUTE_DT_EVENTARGS_T4056325816_H
+#define COMPUTE_DT_EVENTARGS_T4056325816_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6100,7 +9598,11 @@ public:
 #endif
 
 // TMPro.Compute_DT_EventArgs
+<<<<<<< Updated upstream
 struct  Compute_DT_EventArgs_t2191594229  : public RuntimeObject
+=======
+struct  Compute_DT_EventArgs_t4056325816  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// TMPro.Compute_DistanceTransform_EventTypes TMPro.Compute_DT_EventArgs::EventType
@@ -6108,10 +9610,17 @@ public:
 	// System.Single TMPro.Compute_DT_EventArgs::ProgressPercentage
 	float ___ProgressPercentage_1;
 	// UnityEngine.Color[] TMPro.Compute_DT_EventArgs::Colors
+<<<<<<< Updated upstream
 	ColorU5BU5D_t3294503263* ___Colors_2;
 
 public:
 	inline static int32_t get_offset_of_EventType_0() { return static_cast<int32_t>(offsetof(Compute_DT_EventArgs_t2191594229, ___EventType_0)); }
+=======
+	ColorU5BU5D_t3394070021* ___Colors_2;
+
+public:
+	inline static int32_t get_offset_of_EventType_0() { return static_cast<int32_t>(offsetof(Compute_DT_EventArgs_t4056325816, ___EventType_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_EventType_0() const { return ___EventType_0; }
 	inline int32_t* get_address_of_EventType_0() { return &___EventType_0; }
 	inline void set_EventType_0(int32_t value)
@@ -6119,7 +9628,11 @@ public:
 		___EventType_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ProgressPercentage_1() { return static_cast<int32_t>(offsetof(Compute_DT_EventArgs_t2191594229, ___ProgressPercentage_1)); }
+=======
+	inline static int32_t get_offset_of_ProgressPercentage_1() { return static_cast<int32_t>(offsetof(Compute_DT_EventArgs_t4056325816, ___ProgressPercentage_1)); }
+>>>>>>> Stashed changes
 	inline float get_ProgressPercentage_1() const { return ___ProgressPercentage_1; }
 	inline float* get_address_of_ProgressPercentage_1() { return &___ProgressPercentage_1; }
 	inline void set_ProgressPercentage_1(float value)
@@ -6127,10 +9640,17 @@ public:
 		___ProgressPercentage_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_Colors_2() { return static_cast<int32_t>(offsetof(Compute_DT_EventArgs_t2191594229, ___Colors_2)); }
 	inline ColorU5BU5D_t3294503263* get_Colors_2() const { return ___Colors_2; }
 	inline ColorU5BU5D_t3294503263** get_address_of_Colors_2() { return &___Colors_2; }
 	inline void set_Colors_2(ColorU5BU5D_t3294503263* value)
+=======
+	inline static int32_t get_offset_of_Colors_2() { return static_cast<int32_t>(offsetof(Compute_DT_EventArgs_t4056325816, ___Colors_2)); }
+	inline ColorU5BU5D_t3394070021* get_Colors_2() const { return ___Colors_2; }
+	inline ColorU5BU5D_t3394070021** get_address_of_Colors_2() { return &___Colors_2; }
+	inline void set_Colors_2(ColorU5BU5D_t3394070021* value)
+>>>>>>> Stashed changes
 	{
 		___Colors_2 = value;
 		Il2CppCodeGenWriteBarrier((&___Colors_2), value);
@@ -6140,9 +9660,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // COMPUTE_DT_EVENTARGS_T2191594229_H
 #ifndef TMP_LINEINFO_T242510132_H
 #define TMP_LINEINFO_T242510132_H
+=======
+#endif // COMPUTE_DT_EVENTARGS_T4056325816_H
+#ifndef TMP_LINEINFO_T3700831798_H
+#define TMP_LINEINFO_T3700831798_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6150,7 +9676,11 @@ public:
 #endif
 
 // TMPro.TMP_LineInfo
+<<<<<<< Updated upstream
 struct  TMP_LineInfo_t242510132 
+=======
+struct  TMP_LineInfo_t3700831798 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.TMP_LineInfo::characterCount
@@ -6190,10 +9720,17 @@ public:
 	// TMPro.TextAlignmentOptions TMPro.TMP_LineInfo::alignment
 	int32_t ___alignment_17;
 	// TMPro.Extents TMPro.TMP_LineInfo::lineExtents
+<<<<<<< Updated upstream
 	Extents_t479935886  ___lineExtents_18;
 
 public:
 	inline static int32_t get_offset_of_characterCount_0() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___characterCount_0)); }
+=======
+	Extents_t10404588  ___lineExtents_18;
+
+public:
+	inline static int32_t get_offset_of_characterCount_0() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___characterCount_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_characterCount_0() const { return ___characterCount_0; }
 	inline int32_t* get_address_of_characterCount_0() { return &___characterCount_0; }
 	inline void set_characterCount_0(int32_t value)
@@ -6201,7 +9738,11 @@ public:
 		___characterCount_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_visibleCharacterCount_1() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___visibleCharacterCount_1)); }
+=======
+	inline static int32_t get_offset_of_visibleCharacterCount_1() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___visibleCharacterCount_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_visibleCharacterCount_1() const { return ___visibleCharacterCount_1; }
 	inline int32_t* get_address_of_visibleCharacterCount_1() { return &___visibleCharacterCount_1; }
 	inline void set_visibleCharacterCount_1(int32_t value)
@@ -6209,7 +9750,11 @@ public:
 		___visibleCharacterCount_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spaceCount_2() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___spaceCount_2)); }
+=======
+	inline static int32_t get_offset_of_spaceCount_2() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___spaceCount_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_spaceCount_2() const { return ___spaceCount_2; }
 	inline int32_t* get_address_of_spaceCount_2() { return &___spaceCount_2; }
 	inline void set_spaceCount_2(int32_t value)
@@ -6217,7 +9762,11 @@ public:
 		___spaceCount_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_wordCount_3() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___wordCount_3)); }
+=======
+	inline static int32_t get_offset_of_wordCount_3() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___wordCount_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_wordCount_3() const { return ___wordCount_3; }
 	inline int32_t* get_address_of_wordCount_3() { return &___wordCount_3; }
 	inline void set_wordCount_3(int32_t value)
@@ -6225,7 +9774,11 @@ public:
 		___wordCount_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_firstCharacterIndex_4() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___firstCharacterIndex_4)); }
+=======
+	inline static int32_t get_offset_of_firstCharacterIndex_4() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___firstCharacterIndex_4)); }
+>>>>>>> Stashed changes
 	inline int32_t get_firstCharacterIndex_4() const { return ___firstCharacterIndex_4; }
 	inline int32_t* get_address_of_firstCharacterIndex_4() { return &___firstCharacterIndex_4; }
 	inline void set_firstCharacterIndex_4(int32_t value)
@@ -6233,7 +9786,11 @@ public:
 		___firstCharacterIndex_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_firstVisibleCharacterIndex_5() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___firstVisibleCharacterIndex_5)); }
+=======
+	inline static int32_t get_offset_of_firstVisibleCharacterIndex_5() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___firstVisibleCharacterIndex_5)); }
+>>>>>>> Stashed changes
 	inline int32_t get_firstVisibleCharacterIndex_5() const { return ___firstVisibleCharacterIndex_5; }
 	inline int32_t* get_address_of_firstVisibleCharacterIndex_5() { return &___firstVisibleCharacterIndex_5; }
 	inline void set_firstVisibleCharacterIndex_5(int32_t value)
@@ -6241,7 +9798,11 @@ public:
 		___firstVisibleCharacterIndex_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lastCharacterIndex_6() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___lastCharacterIndex_6)); }
+=======
+	inline static int32_t get_offset_of_lastCharacterIndex_6() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___lastCharacterIndex_6)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lastCharacterIndex_6() const { return ___lastCharacterIndex_6; }
 	inline int32_t* get_address_of_lastCharacterIndex_6() { return &___lastCharacterIndex_6; }
 	inline void set_lastCharacterIndex_6(int32_t value)
@@ -6249,7 +9810,11 @@ public:
 		___lastCharacterIndex_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lastVisibleCharacterIndex_7() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___lastVisibleCharacterIndex_7)); }
+=======
+	inline static int32_t get_offset_of_lastVisibleCharacterIndex_7() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___lastVisibleCharacterIndex_7)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lastVisibleCharacterIndex_7() const { return ___lastVisibleCharacterIndex_7; }
 	inline int32_t* get_address_of_lastVisibleCharacterIndex_7() { return &___lastVisibleCharacterIndex_7; }
 	inline void set_lastVisibleCharacterIndex_7(int32_t value)
@@ -6257,7 +9822,11 @@ public:
 		___lastVisibleCharacterIndex_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_length_8() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___length_8)); }
+=======
+	inline static int32_t get_offset_of_length_8() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___length_8)); }
+>>>>>>> Stashed changes
 	inline float get_length_8() const { return ___length_8; }
 	inline float* get_address_of_length_8() { return &___length_8; }
 	inline void set_length_8(float value)
@@ -6265,7 +9834,11 @@ public:
 		___length_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineHeight_9() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___lineHeight_9)); }
+=======
+	inline static int32_t get_offset_of_lineHeight_9() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___lineHeight_9)); }
+>>>>>>> Stashed changes
 	inline float get_lineHeight_9() const { return ___lineHeight_9; }
 	inline float* get_address_of_lineHeight_9() { return &___lineHeight_9; }
 	inline void set_lineHeight_9(float value)
@@ -6273,7 +9846,11 @@ public:
 		___lineHeight_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ascender_10() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___ascender_10)); }
+=======
+	inline static int32_t get_offset_of_ascender_10() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___ascender_10)); }
+>>>>>>> Stashed changes
 	inline float get_ascender_10() const { return ___ascender_10; }
 	inline float* get_address_of_ascender_10() { return &___ascender_10; }
 	inline void set_ascender_10(float value)
@@ -6281,7 +9858,11 @@ public:
 		___ascender_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_baseline_11() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___baseline_11)); }
+=======
+	inline static int32_t get_offset_of_baseline_11() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___baseline_11)); }
+>>>>>>> Stashed changes
 	inline float get_baseline_11() const { return ___baseline_11; }
 	inline float* get_address_of_baseline_11() { return &___baseline_11; }
 	inline void set_baseline_11(float value)
@@ -6289,7 +9870,11 @@ public:
 		___baseline_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_descender_12() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___descender_12)); }
+=======
+	inline static int32_t get_offset_of_descender_12() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___descender_12)); }
+>>>>>>> Stashed changes
 	inline float get_descender_12() const { return ___descender_12; }
 	inline float* get_address_of_descender_12() { return &___descender_12; }
 	inline void set_descender_12(float value)
@@ -6297,7 +9882,11 @@ public:
 		___descender_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxAdvance_13() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___maxAdvance_13)); }
+=======
+	inline static int32_t get_offset_of_maxAdvance_13() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___maxAdvance_13)); }
+>>>>>>> Stashed changes
 	inline float get_maxAdvance_13() const { return ___maxAdvance_13; }
 	inline float* get_address_of_maxAdvance_13() { return &___maxAdvance_13; }
 	inline void set_maxAdvance_13(float value)
@@ -6305,7 +9894,11 @@ public:
 		___maxAdvance_13 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_width_14() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___width_14)); }
+=======
+	inline static int32_t get_offset_of_width_14() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___width_14)); }
+>>>>>>> Stashed changes
 	inline float get_width_14() const { return ___width_14; }
 	inline float* get_address_of_width_14() { return &___width_14; }
 	inline void set_width_14(float value)
@@ -6313,7 +9906,11 @@ public:
 		___width_14 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_marginLeft_15() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___marginLeft_15)); }
+=======
+	inline static int32_t get_offset_of_marginLeft_15() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___marginLeft_15)); }
+>>>>>>> Stashed changes
 	inline float get_marginLeft_15() const { return ___marginLeft_15; }
 	inline float* get_address_of_marginLeft_15() { return &___marginLeft_15; }
 	inline void set_marginLeft_15(float value)
@@ -6321,7 +9918,11 @@ public:
 		___marginLeft_15 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_marginRight_16() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___marginRight_16)); }
+=======
+	inline static int32_t get_offset_of_marginRight_16() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___marginRight_16)); }
+>>>>>>> Stashed changes
 	inline float get_marginRight_16() const { return ___marginRight_16; }
 	inline float* get_address_of_marginRight_16() { return &___marginRight_16; }
 	inline void set_marginRight_16(float value)
@@ -6329,7 +9930,11 @@ public:
 		___marginRight_16 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_alignment_17() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___alignment_17)); }
+=======
+	inline static int32_t get_offset_of_alignment_17() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___alignment_17)); }
+>>>>>>> Stashed changes
 	inline int32_t get_alignment_17() const { return ___alignment_17; }
 	inline int32_t* get_address_of_alignment_17() { return &___alignment_17; }
 	inline void set_alignment_17(int32_t value)
@@ -6337,10 +9942,17 @@ public:
 		___alignment_17 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineExtents_18() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t242510132, ___lineExtents_18)); }
 	inline Extents_t479935886  get_lineExtents_18() const { return ___lineExtents_18; }
 	inline Extents_t479935886 * get_address_of_lineExtents_18() { return &___lineExtents_18; }
 	inline void set_lineExtents_18(Extents_t479935886  value)
+=======
+	inline static int32_t get_offset_of_lineExtents_18() { return static_cast<int32_t>(offsetof(TMP_LineInfo_t3700831798, ___lineExtents_18)); }
+	inline Extents_t10404588  get_lineExtents_18() const { return ___lineExtents_18; }
+	inline Extents_t10404588 * get_address_of_lineExtents_18() { return &___lineExtents_18; }
+	inline void set_lineExtents_18(Extents_t10404588  value)
+>>>>>>> Stashed changes
 	{
 		___lineExtents_18 = value;
 	}
@@ -6349,9 +9961,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_LINEINFO_T242510132_H
 #ifndef TMP_CHARACTERINFO_T245226124_H
 #define TMP_CHARACTERINFO_T245226124_H
+=======
+#endif // TMP_LINEINFO_T3700831798_H
+#ifndef TMP_CHARACTERINFO_T2318007706_H
+#define TMP_CHARACTERINFO_T2318007706_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6359,7 +9977,11 @@ public:
 #endif
 
 // TMPro.TMP_CharacterInfo
+<<<<<<< Updated upstream
 struct  TMP_CharacterInfo_t245226124 
+=======
+struct  TMP_CharacterInfo_t2318007706 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Char TMPro.TMP_CharacterInfo::character
@@ -6369,6 +9991,7 @@ public:
 	// TMPro.TMP_TextElementType TMPro.TMP_CharacterInfo::elementType
 	int32_t ___elementType_2;
 	// TMPro.TMP_TextElement TMPro.TMP_CharacterInfo::textElement
+<<<<<<< Updated upstream
 	TMP_TextElement_t2601120933 * ___textElement_3;
 	// TMPro.TMP_FontAsset TMPro.TMP_CharacterInfo::fontAsset
 	TMP_FontAsset_t3080744653 * ___fontAsset_4;
@@ -6378,6 +10001,17 @@ public:
 	int32_t ___spriteIndex_6;
 	// UnityEngine.Material TMPro.TMP_CharacterInfo::material
 	Material_t2926388270 * ___material_7;
+=======
+	TMP_TextElement_t2513093388 * ___textElement_3;
+	// TMPro.TMP_FontAsset TMPro.TMP_CharacterInfo::fontAsset
+	TMP_FontAsset_t209860335 * ___fontAsset_4;
+	// TMPro.TMP_SpriteAsset TMPro.TMP_CharacterInfo::spriteAsset
+	TMP_SpriteAsset_t147018872 * ___spriteAsset_5;
+	// System.Int32 TMPro.TMP_CharacterInfo::spriteIndex
+	int32_t ___spriteIndex_6;
+	// UnityEngine.Material TMPro.TMP_CharacterInfo::material
+	Material_t132180377 * ___material_7;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_CharacterInfo::materialReferenceIndex
 	int32_t ___materialReferenceIndex_8;
 	// System.Boolean TMPro.TMP_CharacterInfo::isUsingAlternateTypeface
@@ -6391,6 +10025,7 @@ public:
 	// System.Int32 TMPro.TMP_CharacterInfo::vertexIndex
 	int32_t ___vertexIndex_13;
 	// TMPro.TMP_Vertex TMPro.TMP_CharacterInfo::vertex_TL
+<<<<<<< Updated upstream
 	TMP_Vertex_t360648656  ___vertex_TL_14;
 	// TMPro.TMP_Vertex TMPro.TMP_CharacterInfo::vertex_BL
 	TMP_Vertex_t360648656  ___vertex_BL_15;
@@ -6406,6 +10041,23 @@ public:
 	Vector3_t3513892689  ___topRight_20;
 	// UnityEngine.Vector3 TMPro.TMP_CharacterInfo::bottomRight
 	Vector3_t3513892689  ___bottomRight_21;
+=======
+	TMP_Vertex_t4232211731  ___vertex_TL_14;
+	// TMPro.TMP_Vertex TMPro.TMP_CharacterInfo::vertex_BL
+	TMP_Vertex_t4232211731  ___vertex_BL_15;
+	// TMPro.TMP_Vertex TMPro.TMP_CharacterInfo::vertex_TR
+	TMP_Vertex_t4232211731  ___vertex_TR_16;
+	// TMPro.TMP_Vertex TMPro.TMP_CharacterInfo::vertex_BR
+	TMP_Vertex_t4232211731  ___vertex_BR_17;
+	// UnityEngine.Vector3 TMPro.TMP_CharacterInfo::topLeft
+	Vector3_t2110634753  ___topLeft_18;
+	// UnityEngine.Vector3 TMPro.TMP_CharacterInfo::bottomLeft
+	Vector3_t2110634753  ___bottomLeft_19;
+	// UnityEngine.Vector3 TMPro.TMP_CharacterInfo::topRight
+	Vector3_t2110634753  ___topRight_20;
+	// UnityEngine.Vector3 TMPro.TMP_CharacterInfo::bottomRight
+	Vector3_t2110634753  ___bottomRight_21;
+>>>>>>> Stashed changes
 	// System.Single TMPro.TMP_CharacterInfo::origin
 	float ___origin_22;
 	// System.Single TMPro.TMP_CharacterInfo::ascender
@@ -6421,6 +10073,7 @@ public:
 	// System.Single TMPro.TMP_CharacterInfo::scale
 	float ___scale_28;
 	// UnityEngine.Color32 TMPro.TMP_CharacterInfo::color
+<<<<<<< Updated upstream
 	Color32_t771166883  ___color_29;
 	// UnityEngine.Color32 TMPro.TMP_CharacterInfo::underlineColor
 	Color32_t771166883  ___underlineColor_30;
@@ -6428,13 +10081,26 @@ public:
 	Color32_t771166883  ___strikethroughColor_31;
 	// UnityEngine.Color32 TMPro.TMP_CharacterInfo::highlightColor
 	Color32_t771166883  ___highlightColor_32;
+=======
+	Color32_t3788861462  ___color_29;
+	// UnityEngine.Color32 TMPro.TMP_CharacterInfo::underlineColor
+	Color32_t3788861462  ___underlineColor_30;
+	// UnityEngine.Color32 TMPro.TMP_CharacterInfo::strikethroughColor
+	Color32_t3788861462  ___strikethroughColor_31;
+	// UnityEngine.Color32 TMPro.TMP_CharacterInfo::highlightColor
+	Color32_t3788861462  ___highlightColor_32;
+>>>>>>> Stashed changes
 	// TMPro.FontStyles TMPro.TMP_CharacterInfo::style
 	int32_t ___style_33;
 	// System.Boolean TMPro.TMP_CharacterInfo::isVisible
 	bool ___isVisible_34;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_character_0() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___character_0)); }
+=======
+	inline static int32_t get_offset_of_character_0() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___character_0)); }
+>>>>>>> Stashed changes
 	inline Il2CppChar get_character_0() const { return ___character_0; }
 	inline Il2CppChar* get_address_of_character_0() { return &___character_0; }
 	inline void set_character_0(Il2CppChar value)
@@ -6442,7 +10108,11 @@ public:
 		___character_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___index_1)); }
+=======
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___index_1)); }
+>>>>>>> Stashed changes
 	inline int16_t get_index_1() const { return ___index_1; }
 	inline int16_t* get_address_of_index_1() { return &___index_1; }
 	inline void set_index_1(int16_t value)
@@ -6450,7 +10120,11 @@ public:
 		___index_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_elementType_2() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___elementType_2)); }
+=======
+	inline static int32_t get_offset_of_elementType_2() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___elementType_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_elementType_2() const { return ___elementType_2; }
 	inline int32_t* get_address_of_elementType_2() { return &___elementType_2; }
 	inline void set_elementType_2(int32_t value)
@@ -6458,34 +10132,59 @@ public:
 		___elementType_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_textElement_3() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___textElement_3)); }
 	inline TMP_TextElement_t2601120933 * get_textElement_3() const { return ___textElement_3; }
 	inline TMP_TextElement_t2601120933 ** get_address_of_textElement_3() { return &___textElement_3; }
 	inline void set_textElement_3(TMP_TextElement_t2601120933 * value)
+=======
+	inline static int32_t get_offset_of_textElement_3() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___textElement_3)); }
+	inline TMP_TextElement_t2513093388 * get_textElement_3() const { return ___textElement_3; }
+	inline TMP_TextElement_t2513093388 ** get_address_of_textElement_3() { return &___textElement_3; }
+	inline void set_textElement_3(TMP_TextElement_t2513093388 * value)
+>>>>>>> Stashed changes
 	{
 		___textElement_3 = value;
 		Il2CppCodeGenWriteBarrier((&___textElement_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontAsset_4() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___fontAsset_4)); }
 	inline TMP_FontAsset_t3080744653 * get_fontAsset_4() const { return ___fontAsset_4; }
 	inline TMP_FontAsset_t3080744653 ** get_address_of_fontAsset_4() { return &___fontAsset_4; }
 	inline void set_fontAsset_4(TMP_FontAsset_t3080744653 * value)
+=======
+	inline static int32_t get_offset_of_fontAsset_4() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___fontAsset_4)); }
+	inline TMP_FontAsset_t209860335 * get_fontAsset_4() const { return ___fontAsset_4; }
+	inline TMP_FontAsset_t209860335 ** get_address_of_fontAsset_4() { return &___fontAsset_4; }
+	inline void set_fontAsset_4(TMP_FontAsset_t209860335 * value)
+>>>>>>> Stashed changes
 	{
 		___fontAsset_4 = value;
 		Il2CppCodeGenWriteBarrier((&___fontAsset_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spriteAsset_5() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___spriteAsset_5)); }
 	inline TMP_SpriteAsset_t530635560 * get_spriteAsset_5() const { return ___spriteAsset_5; }
 	inline TMP_SpriteAsset_t530635560 ** get_address_of_spriteAsset_5() { return &___spriteAsset_5; }
 	inline void set_spriteAsset_5(TMP_SpriteAsset_t530635560 * value)
+=======
+	inline static int32_t get_offset_of_spriteAsset_5() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___spriteAsset_5)); }
+	inline TMP_SpriteAsset_t147018872 * get_spriteAsset_5() const { return ___spriteAsset_5; }
+	inline TMP_SpriteAsset_t147018872 ** get_address_of_spriteAsset_5() { return &___spriteAsset_5; }
+	inline void set_spriteAsset_5(TMP_SpriteAsset_t147018872 * value)
+>>>>>>> Stashed changes
 	{
 		___spriteAsset_5 = value;
 		Il2CppCodeGenWriteBarrier((&___spriteAsset_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spriteIndex_6() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___spriteIndex_6)); }
+=======
+	inline static int32_t get_offset_of_spriteIndex_6() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___spriteIndex_6)); }
+>>>>>>> Stashed changes
 	inline int32_t get_spriteIndex_6() const { return ___spriteIndex_6; }
 	inline int32_t* get_address_of_spriteIndex_6() { return &___spriteIndex_6; }
 	inline void set_spriteIndex_6(int32_t value)
@@ -6493,16 +10192,27 @@ public:
 		___spriteIndex_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_material_7() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___material_7)); }
 	inline Material_t2926388270 * get_material_7() const { return ___material_7; }
 	inline Material_t2926388270 ** get_address_of_material_7() { return &___material_7; }
 	inline void set_material_7(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_material_7() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___material_7)); }
+	inline Material_t132180377 * get_material_7() const { return ___material_7; }
+	inline Material_t132180377 ** get_address_of_material_7() { return &___material_7; }
+	inline void set_material_7(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___material_7 = value;
 		Il2CppCodeGenWriteBarrier((&___material_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_materialReferenceIndex_8() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___materialReferenceIndex_8)); }
+=======
+	inline static int32_t get_offset_of_materialReferenceIndex_8() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___materialReferenceIndex_8)); }
+>>>>>>> Stashed changes
 	inline int32_t get_materialReferenceIndex_8() const { return ___materialReferenceIndex_8; }
 	inline int32_t* get_address_of_materialReferenceIndex_8() { return &___materialReferenceIndex_8; }
 	inline void set_materialReferenceIndex_8(int32_t value)
@@ -6510,7 +10220,11 @@ public:
 		___materialReferenceIndex_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_isUsingAlternateTypeface_9() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___isUsingAlternateTypeface_9)); }
+=======
+	inline static int32_t get_offset_of_isUsingAlternateTypeface_9() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___isUsingAlternateTypeface_9)); }
+>>>>>>> Stashed changes
 	inline bool get_isUsingAlternateTypeface_9() const { return ___isUsingAlternateTypeface_9; }
 	inline bool* get_address_of_isUsingAlternateTypeface_9() { return &___isUsingAlternateTypeface_9; }
 	inline void set_isUsingAlternateTypeface_9(bool value)
@@ -6518,7 +10232,11 @@ public:
 		___isUsingAlternateTypeface_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pointSize_10() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___pointSize_10)); }
+=======
+	inline static int32_t get_offset_of_pointSize_10() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___pointSize_10)); }
+>>>>>>> Stashed changes
 	inline float get_pointSize_10() const { return ___pointSize_10; }
 	inline float* get_address_of_pointSize_10() { return &___pointSize_10; }
 	inline void set_pointSize_10(float value)
@@ -6526,7 +10244,11 @@ public:
 		___pointSize_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineNumber_11() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___lineNumber_11)); }
+=======
+	inline static int32_t get_offset_of_lineNumber_11() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___lineNumber_11)); }
+>>>>>>> Stashed changes
 	inline int16_t get_lineNumber_11() const { return ___lineNumber_11; }
 	inline int16_t* get_address_of_lineNumber_11() { return &___lineNumber_11; }
 	inline void set_lineNumber_11(int16_t value)
@@ -6534,7 +10256,11 @@ public:
 		___lineNumber_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pageNumber_12() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___pageNumber_12)); }
+=======
+	inline static int32_t get_offset_of_pageNumber_12() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___pageNumber_12)); }
+>>>>>>> Stashed changes
 	inline int16_t get_pageNumber_12() const { return ___pageNumber_12; }
 	inline int16_t* get_address_of_pageNumber_12() { return &___pageNumber_12; }
 	inline void set_pageNumber_12(int16_t value)
@@ -6542,7 +10268,11 @@ public:
 		___pageNumber_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertexIndex_13() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___vertexIndex_13)); }
+=======
+	inline static int32_t get_offset_of_vertexIndex_13() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___vertexIndex_13)); }
+>>>>>>> Stashed changes
 	inline int32_t get_vertexIndex_13() const { return ___vertexIndex_13; }
 	inline int32_t* get_address_of_vertexIndex_13() { return &___vertexIndex_13; }
 	inline void set_vertexIndex_13(int32_t value)
@@ -6550,71 +10280,131 @@ public:
 		___vertexIndex_13 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertex_TL_14() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___vertex_TL_14)); }
 	inline TMP_Vertex_t360648656  get_vertex_TL_14() const { return ___vertex_TL_14; }
 	inline TMP_Vertex_t360648656 * get_address_of_vertex_TL_14() { return &___vertex_TL_14; }
 	inline void set_vertex_TL_14(TMP_Vertex_t360648656  value)
+=======
+	inline static int32_t get_offset_of_vertex_TL_14() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___vertex_TL_14)); }
+	inline TMP_Vertex_t4232211731  get_vertex_TL_14() const { return ___vertex_TL_14; }
+	inline TMP_Vertex_t4232211731 * get_address_of_vertex_TL_14() { return &___vertex_TL_14; }
+	inline void set_vertex_TL_14(TMP_Vertex_t4232211731  value)
+>>>>>>> Stashed changes
 	{
 		___vertex_TL_14 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertex_BL_15() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___vertex_BL_15)); }
 	inline TMP_Vertex_t360648656  get_vertex_BL_15() const { return ___vertex_BL_15; }
 	inline TMP_Vertex_t360648656 * get_address_of_vertex_BL_15() { return &___vertex_BL_15; }
 	inline void set_vertex_BL_15(TMP_Vertex_t360648656  value)
+=======
+	inline static int32_t get_offset_of_vertex_BL_15() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___vertex_BL_15)); }
+	inline TMP_Vertex_t4232211731  get_vertex_BL_15() const { return ___vertex_BL_15; }
+	inline TMP_Vertex_t4232211731 * get_address_of_vertex_BL_15() { return &___vertex_BL_15; }
+	inline void set_vertex_BL_15(TMP_Vertex_t4232211731  value)
+>>>>>>> Stashed changes
 	{
 		___vertex_BL_15 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertex_TR_16() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___vertex_TR_16)); }
 	inline TMP_Vertex_t360648656  get_vertex_TR_16() const { return ___vertex_TR_16; }
 	inline TMP_Vertex_t360648656 * get_address_of_vertex_TR_16() { return &___vertex_TR_16; }
 	inline void set_vertex_TR_16(TMP_Vertex_t360648656  value)
+=======
+	inline static int32_t get_offset_of_vertex_TR_16() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___vertex_TR_16)); }
+	inline TMP_Vertex_t4232211731  get_vertex_TR_16() const { return ___vertex_TR_16; }
+	inline TMP_Vertex_t4232211731 * get_address_of_vertex_TR_16() { return &___vertex_TR_16; }
+	inline void set_vertex_TR_16(TMP_Vertex_t4232211731  value)
+>>>>>>> Stashed changes
 	{
 		___vertex_TR_16 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertex_BR_17() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___vertex_BR_17)); }
 	inline TMP_Vertex_t360648656  get_vertex_BR_17() const { return ___vertex_BR_17; }
 	inline TMP_Vertex_t360648656 * get_address_of_vertex_BR_17() { return &___vertex_BR_17; }
 	inline void set_vertex_BR_17(TMP_Vertex_t360648656  value)
+=======
+	inline static int32_t get_offset_of_vertex_BR_17() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___vertex_BR_17)); }
+	inline TMP_Vertex_t4232211731  get_vertex_BR_17() const { return ___vertex_BR_17; }
+	inline TMP_Vertex_t4232211731 * get_address_of_vertex_BR_17() { return &___vertex_BR_17; }
+	inline void set_vertex_BR_17(TMP_Vertex_t4232211731  value)
+>>>>>>> Stashed changes
 	{
 		___vertex_BR_17 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_topLeft_18() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___topLeft_18)); }
 	inline Vector3_t3513892689  get_topLeft_18() const { return ___topLeft_18; }
 	inline Vector3_t3513892689 * get_address_of_topLeft_18() { return &___topLeft_18; }
 	inline void set_topLeft_18(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_topLeft_18() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___topLeft_18)); }
+	inline Vector3_t2110634753  get_topLeft_18() const { return ___topLeft_18; }
+	inline Vector3_t2110634753 * get_address_of_topLeft_18() { return &___topLeft_18; }
+	inline void set_topLeft_18(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___topLeft_18 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bottomLeft_19() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___bottomLeft_19)); }
 	inline Vector3_t3513892689  get_bottomLeft_19() const { return ___bottomLeft_19; }
 	inline Vector3_t3513892689 * get_address_of_bottomLeft_19() { return &___bottomLeft_19; }
 	inline void set_bottomLeft_19(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_bottomLeft_19() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___bottomLeft_19)); }
+	inline Vector3_t2110634753  get_bottomLeft_19() const { return ___bottomLeft_19; }
+	inline Vector3_t2110634753 * get_address_of_bottomLeft_19() { return &___bottomLeft_19; }
+	inline void set_bottomLeft_19(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___bottomLeft_19 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_topRight_20() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___topRight_20)); }
 	inline Vector3_t3513892689  get_topRight_20() const { return ___topRight_20; }
 	inline Vector3_t3513892689 * get_address_of_topRight_20() { return &___topRight_20; }
 	inline void set_topRight_20(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_topRight_20() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___topRight_20)); }
+	inline Vector3_t2110634753  get_topRight_20() const { return ___topRight_20; }
+	inline Vector3_t2110634753 * get_address_of_topRight_20() { return &___topRight_20; }
+	inline void set_topRight_20(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___topRight_20 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bottomRight_21() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___bottomRight_21)); }
 	inline Vector3_t3513892689  get_bottomRight_21() const { return ___bottomRight_21; }
 	inline Vector3_t3513892689 * get_address_of_bottomRight_21() { return &___bottomRight_21; }
 	inline void set_bottomRight_21(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_bottomRight_21() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___bottomRight_21)); }
+	inline Vector3_t2110634753  get_bottomRight_21() const { return ___bottomRight_21; }
+	inline Vector3_t2110634753 * get_address_of_bottomRight_21() { return &___bottomRight_21; }
+	inline void set_bottomRight_21(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___bottomRight_21 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_origin_22() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___origin_22)); }
+=======
+	inline static int32_t get_offset_of_origin_22() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___origin_22)); }
+>>>>>>> Stashed changes
 	inline float get_origin_22() const { return ___origin_22; }
 	inline float* get_address_of_origin_22() { return &___origin_22; }
 	inline void set_origin_22(float value)
@@ -6622,7 +10412,11 @@ public:
 		___origin_22 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ascender_23() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___ascender_23)); }
+=======
+	inline static int32_t get_offset_of_ascender_23() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___ascender_23)); }
+>>>>>>> Stashed changes
 	inline float get_ascender_23() const { return ___ascender_23; }
 	inline float* get_address_of_ascender_23() { return &___ascender_23; }
 	inline void set_ascender_23(float value)
@@ -6630,7 +10424,11 @@ public:
 		___ascender_23 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_baseLine_24() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___baseLine_24)); }
+=======
+	inline static int32_t get_offset_of_baseLine_24() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___baseLine_24)); }
+>>>>>>> Stashed changes
 	inline float get_baseLine_24() const { return ___baseLine_24; }
 	inline float* get_address_of_baseLine_24() { return &___baseLine_24; }
 	inline void set_baseLine_24(float value)
@@ -6638,7 +10436,11 @@ public:
 		___baseLine_24 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_descender_25() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___descender_25)); }
+=======
+	inline static int32_t get_offset_of_descender_25() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___descender_25)); }
+>>>>>>> Stashed changes
 	inline float get_descender_25() const { return ___descender_25; }
 	inline float* get_address_of_descender_25() { return &___descender_25; }
 	inline void set_descender_25(float value)
@@ -6646,7 +10448,11 @@ public:
 		___descender_25 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_xAdvance_26() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___xAdvance_26)); }
+=======
+	inline static int32_t get_offset_of_xAdvance_26() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___xAdvance_26)); }
+>>>>>>> Stashed changes
 	inline float get_xAdvance_26() const { return ___xAdvance_26; }
 	inline float* get_address_of_xAdvance_26() { return &___xAdvance_26; }
 	inline void set_xAdvance_26(float value)
@@ -6654,7 +10460,11 @@ public:
 		___xAdvance_26 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_aspectRatio_27() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___aspectRatio_27)); }
+=======
+	inline static int32_t get_offset_of_aspectRatio_27() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___aspectRatio_27)); }
+>>>>>>> Stashed changes
 	inline float get_aspectRatio_27() const { return ___aspectRatio_27; }
 	inline float* get_address_of_aspectRatio_27() { return &___aspectRatio_27; }
 	inline void set_aspectRatio_27(float value)
@@ -6662,7 +10472,11 @@ public:
 		___aspectRatio_27 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_scale_28() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___scale_28)); }
+=======
+	inline static int32_t get_offset_of_scale_28() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___scale_28)); }
+>>>>>>> Stashed changes
 	inline float get_scale_28() const { return ___scale_28; }
 	inline float* get_address_of_scale_28() { return &___scale_28; }
 	inline void set_scale_28(float value)
@@ -6670,39 +10484,71 @@ public:
 		___scale_28 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_color_29() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___color_29)); }
 	inline Color32_t771166883  get_color_29() const { return ___color_29; }
 	inline Color32_t771166883 * get_address_of_color_29() { return &___color_29; }
 	inline void set_color_29(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_color_29() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___color_29)); }
+	inline Color32_t3788861462  get_color_29() const { return ___color_29; }
+	inline Color32_t3788861462 * get_address_of_color_29() { return &___color_29; }
+	inline void set_color_29(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___color_29 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_underlineColor_30() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___underlineColor_30)); }
 	inline Color32_t771166883  get_underlineColor_30() const { return ___underlineColor_30; }
 	inline Color32_t771166883 * get_address_of_underlineColor_30() { return &___underlineColor_30; }
 	inline void set_underlineColor_30(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_underlineColor_30() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___underlineColor_30)); }
+	inline Color32_t3788861462  get_underlineColor_30() const { return ___underlineColor_30; }
+	inline Color32_t3788861462 * get_address_of_underlineColor_30() { return &___underlineColor_30; }
+	inline void set_underlineColor_30(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___underlineColor_30 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_strikethroughColor_31() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___strikethroughColor_31)); }
 	inline Color32_t771166883  get_strikethroughColor_31() const { return ___strikethroughColor_31; }
 	inline Color32_t771166883 * get_address_of_strikethroughColor_31() { return &___strikethroughColor_31; }
 	inline void set_strikethroughColor_31(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_strikethroughColor_31() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___strikethroughColor_31)); }
+	inline Color32_t3788861462  get_strikethroughColor_31() const { return ___strikethroughColor_31; }
+	inline Color32_t3788861462 * get_address_of_strikethroughColor_31() { return &___strikethroughColor_31; }
+	inline void set_strikethroughColor_31(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___strikethroughColor_31 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_highlightColor_32() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___highlightColor_32)); }
 	inline Color32_t771166883  get_highlightColor_32() const { return ___highlightColor_32; }
 	inline Color32_t771166883 * get_address_of_highlightColor_32() { return &___highlightColor_32; }
 	inline void set_highlightColor_32(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_highlightColor_32() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___highlightColor_32)); }
+	inline Color32_t3788861462  get_highlightColor_32() const { return ___highlightColor_32; }
+	inline Color32_t3788861462 * get_address_of_highlightColor_32() { return &___highlightColor_32; }
+	inline void set_highlightColor_32(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___highlightColor_32 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_style_33() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___style_33)); }
+=======
+	inline static int32_t get_offset_of_style_33() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___style_33)); }
+>>>>>>> Stashed changes
 	inline int32_t get_style_33() const { return ___style_33; }
 	inline int32_t* get_address_of_style_33() { return &___style_33; }
 	inline void set_style_33(int32_t value)
@@ -6710,7 +10556,11 @@ public:
 		___style_33 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_isVisible_34() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t245226124, ___isVisible_34)); }
+=======
+	inline static int32_t get_offset_of_isVisible_34() { return static_cast<int32_t>(offsetof(TMP_CharacterInfo_t2318007706, ___isVisible_34)); }
+>>>>>>> Stashed changes
 	inline bool get_isVisible_34() const { return ___isVisible_34; }
 	inline bool* get_address_of_isVisible_34() { return &___isVisible_34; }
 	inline void set_isVisible_34(bool value)
@@ -6723,22 +10573,35 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.TMP_CharacterInfo
+<<<<<<< Updated upstream
 struct TMP_CharacterInfo_t245226124_marshaled_pinvoke
+=======
+struct TMP_CharacterInfo_t2318007706_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	uint8_t ___character_0;
 	int16_t ___index_1;
 	int32_t ___elementType_2;
+<<<<<<< Updated upstream
 	TMP_TextElement_t2601120933 * ___textElement_3;
 	TMP_FontAsset_t3080744653 * ___fontAsset_4;
 	TMP_SpriteAsset_t530635560 * ___spriteAsset_5;
 	int32_t ___spriteIndex_6;
 	Material_t2926388270 * ___material_7;
+=======
+	TMP_TextElement_t2513093388 * ___textElement_3;
+	TMP_FontAsset_t209860335 * ___fontAsset_4;
+	TMP_SpriteAsset_t147018872 * ___spriteAsset_5;
+	int32_t ___spriteIndex_6;
+	Material_t132180377 * ___material_7;
+>>>>>>> Stashed changes
 	int32_t ___materialReferenceIndex_8;
 	int32_t ___isUsingAlternateTypeface_9;
 	float ___pointSize_10;
 	int16_t ___lineNumber_11;
 	int16_t ___pageNumber_12;
 	int32_t ___vertexIndex_13;
+<<<<<<< Updated upstream
 	TMP_Vertex_t360648656  ___vertex_TL_14;
 	TMP_Vertex_t360648656  ___vertex_BL_15;
 	TMP_Vertex_t360648656  ___vertex_TR_16;
@@ -6747,6 +10610,16 @@ struct TMP_CharacterInfo_t245226124_marshaled_pinvoke
 	Vector3_t3513892689  ___bottomLeft_19;
 	Vector3_t3513892689  ___topRight_20;
 	Vector3_t3513892689  ___bottomRight_21;
+=======
+	TMP_Vertex_t4232211731  ___vertex_TL_14;
+	TMP_Vertex_t4232211731  ___vertex_BL_15;
+	TMP_Vertex_t4232211731  ___vertex_TR_16;
+	TMP_Vertex_t4232211731  ___vertex_BR_17;
+	Vector3_t2110634753  ___topLeft_18;
+	Vector3_t2110634753  ___bottomLeft_19;
+	Vector3_t2110634753  ___topRight_20;
+	Vector3_t2110634753  ___bottomRight_21;
+>>>>>>> Stashed changes
 	float ___origin_22;
 	float ___ascender_23;
 	float ___baseLine_24;
@@ -6754,30 +10627,50 @@ struct TMP_CharacterInfo_t245226124_marshaled_pinvoke
 	float ___xAdvance_26;
 	float ___aspectRatio_27;
 	float ___scale_28;
+<<<<<<< Updated upstream
 	Color32_t771166883  ___color_29;
 	Color32_t771166883  ___underlineColor_30;
 	Color32_t771166883  ___strikethroughColor_31;
 	Color32_t771166883  ___highlightColor_32;
+=======
+	Color32_t3788861462  ___color_29;
+	Color32_t3788861462  ___underlineColor_30;
+	Color32_t3788861462  ___strikethroughColor_31;
+	Color32_t3788861462  ___highlightColor_32;
+>>>>>>> Stashed changes
 	int32_t ___style_33;
 	int32_t ___isVisible_34;
 };
 // Native definition for COM marshalling of TMPro.TMP_CharacterInfo
+<<<<<<< Updated upstream
 struct TMP_CharacterInfo_t245226124_marshaled_com
+=======
+struct TMP_CharacterInfo_t2318007706_marshaled_com
+>>>>>>> Stashed changes
 {
 	uint8_t ___character_0;
 	int16_t ___index_1;
 	int32_t ___elementType_2;
+<<<<<<< Updated upstream
 	TMP_TextElement_t2601120933 * ___textElement_3;
 	TMP_FontAsset_t3080744653 * ___fontAsset_4;
 	TMP_SpriteAsset_t530635560 * ___spriteAsset_5;
 	int32_t ___spriteIndex_6;
 	Material_t2926388270 * ___material_7;
+=======
+	TMP_TextElement_t2513093388 * ___textElement_3;
+	TMP_FontAsset_t209860335 * ___fontAsset_4;
+	TMP_SpriteAsset_t147018872 * ___spriteAsset_5;
+	int32_t ___spriteIndex_6;
+	Material_t132180377 * ___material_7;
+>>>>>>> Stashed changes
 	int32_t ___materialReferenceIndex_8;
 	int32_t ___isUsingAlternateTypeface_9;
 	float ___pointSize_10;
 	int16_t ___lineNumber_11;
 	int16_t ___pageNumber_12;
 	int32_t ___vertexIndex_13;
+<<<<<<< Updated upstream
 	TMP_Vertex_t360648656  ___vertex_TL_14;
 	TMP_Vertex_t360648656  ___vertex_BL_15;
 	TMP_Vertex_t360648656  ___vertex_TR_16;
@@ -6786,6 +10679,16 @@ struct TMP_CharacterInfo_t245226124_marshaled_com
 	Vector3_t3513892689  ___bottomLeft_19;
 	Vector3_t3513892689  ___topRight_20;
 	Vector3_t3513892689  ___bottomRight_21;
+=======
+	TMP_Vertex_t4232211731  ___vertex_TL_14;
+	TMP_Vertex_t4232211731  ___vertex_BL_15;
+	TMP_Vertex_t4232211731  ___vertex_TR_16;
+	TMP_Vertex_t4232211731  ___vertex_BR_17;
+	Vector3_t2110634753  ___topLeft_18;
+	Vector3_t2110634753  ___bottomLeft_19;
+	Vector3_t2110634753  ___topRight_20;
+	Vector3_t2110634753  ___bottomRight_21;
+>>>>>>> Stashed changes
 	float ___origin_22;
 	float ___ascender_23;
 	float ___baseLine_24;
@@ -6793,6 +10696,7 @@ struct TMP_CharacterInfo_t245226124_marshaled_com
 	float ___xAdvance_26;
 	float ___aspectRatio_27;
 	float ___scale_28;
+<<<<<<< Updated upstream
 	Color32_t771166883  ___color_29;
 	Color32_t771166883  ___underlineColor_30;
 	Color32_t771166883  ___strikethroughColor_31;
@@ -6803,6 +10707,18 @@ struct TMP_CharacterInfo_t245226124_marshaled_com
 #endif // TMP_CHARACTERINFO_T245226124_H
 #ifndef NULLABLE_1_T2646026380_H
 #define NULLABLE_1_T2646026380_H
+=======
+	Color32_t3788861462  ___color_29;
+	Color32_t3788861462  ___underlineColor_30;
+	Color32_t3788861462  ___strikethroughColor_31;
+	Color32_t3788861462  ___highlightColor_32;
+	int32_t ___style_33;
+	int32_t ___isVisible_34;
+};
+#endif // TMP_CHARACTERINFO_T2318007706_H
+#ifndef NULLABLE_1_T1123536152_H
+#define NULLABLE_1_T1123536152_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6810,24 +10726,43 @@ struct TMP_CharacterInfo_t245226124_marshaled_com
 #endif
 
 // System.Nullable`1<Mapbox.Utils.Vector2dBounds>
+<<<<<<< Updated upstream
 struct  Nullable_1_t2646026380 
 {
 public:
 	// T System.Nullable`1::value
 	Vector2dBounds_t2298342946  ___value_0;
+=======
+struct  Nullable_1_t1123536152 
+{
+public:
+	// T System.Nullable`1::value
+	Vector2dBounds_t3762214055  ___value_0;
+>>>>>>> Stashed changes
 	// System.Boolean System.Nullable`1::has_value
 	bool ___has_value_1;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t2646026380, ___value_0)); }
 	inline Vector2dBounds_t2298342946  get_value_0() const { return ___value_0; }
 	inline Vector2dBounds_t2298342946 * get_address_of_value_0() { return &___value_0; }
 	inline void set_value_0(Vector2dBounds_t2298342946  value)
+=======
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t1123536152, ___value_0)); }
+	inline Vector2dBounds_t3762214055  get_value_0() const { return ___value_0; }
+	inline Vector2dBounds_t3762214055 * get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(Vector2dBounds_t3762214055  value)
+>>>>>>> Stashed changes
 	{
 		___value_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t2646026380, ___has_value_1)); }
+=======
+	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t1123536152, ___has_value_1)); }
+>>>>>>> Stashed changes
 	inline bool get_has_value_1() const { return ___has_value_1; }
 	inline bool* get_address_of_has_value_1() { return &___has_value_1; }
 	inline void set_has_value_1(bool value)
@@ -6839,9 +10774,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // NULLABLE_1_T2646026380_H
 #ifndef TMP_XMLTAGSTACK_1_T428715816_H
 #define TMP_XMLTAGSTACK_1_T428715816_H
+=======
+#endif // NULLABLE_1_T1123536152_H
+#ifndef TMP_XMLTAGSTACK_1_T3885462016_H
+#define TMP_XMLTAGSTACK_1_T3885462016_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6849,11 +10790,19 @@ public:
 #endif
 
 // TMPro.TMP_XmlTagStack`1<TMPro.TextAlignmentOptions>
+<<<<<<< Updated upstream
 struct  TMP_XmlTagStack_1_t428715816 
 {
 public:
 	// T[] TMPro.TMP_XmlTagStack`1::itemStack
 	TextAlignmentOptionsU5BU5D_t2370878445* ___itemStack_0;
+=======
+struct  TMP_XmlTagStack_1_t3885462016 
+{
+public:
+	// T[] TMPro.TMP_XmlTagStack`1::itemStack
+	TextAlignmentOptionsU5BU5D_t2375914404* ___itemStack_0;
+>>>>>>> Stashed changes
 	// System.Int32 TMPro.TMP_XmlTagStack`1::index
 	int32_t ___index_1;
 	// System.Int32 TMPro.TMP_XmlTagStack`1::m_capacity
@@ -6862,16 +10811,27 @@ public:
 	int32_t ___m_defaultItem_3;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t428715816, ___itemStack_0)); }
 	inline TextAlignmentOptionsU5BU5D_t2370878445* get_itemStack_0() const { return ___itemStack_0; }
 	inline TextAlignmentOptionsU5BU5D_t2370878445** get_address_of_itemStack_0() { return &___itemStack_0; }
 	inline void set_itemStack_0(TextAlignmentOptionsU5BU5D_t2370878445* value)
+=======
+	inline static int32_t get_offset_of_itemStack_0() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3885462016, ___itemStack_0)); }
+	inline TextAlignmentOptionsU5BU5D_t2375914404* get_itemStack_0() const { return ___itemStack_0; }
+	inline TextAlignmentOptionsU5BU5D_t2375914404** get_address_of_itemStack_0() { return &___itemStack_0; }
+	inline void set_itemStack_0(TextAlignmentOptionsU5BU5D_t2375914404* value)
+>>>>>>> Stashed changes
 	{
 		___itemStack_0 = value;
 		Il2CppCodeGenWriteBarrier((&___itemStack_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t428715816, ___index_1)); }
+=======
+	inline static int32_t get_offset_of_index_1() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3885462016, ___index_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_index_1() const { return ___index_1; }
 	inline int32_t* get_address_of_index_1() { return &___index_1; }
 	inline void set_index_1(int32_t value)
@@ -6879,7 +10839,11 @@ public:
 		___index_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t428715816, ___m_capacity_2)); }
+=======
+	inline static int32_t get_offset_of_m_capacity_2() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3885462016, ___m_capacity_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_capacity_2() const { return ___m_capacity_2; }
 	inline int32_t* get_address_of_m_capacity_2() { return &___m_capacity_2; }
 	inline void set_m_capacity_2(int32_t value)
@@ -6887,7 +10851,11 @@ public:
 		___m_capacity_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t428715816, ___m_defaultItem_3)); }
+=======
+	inline static int32_t get_offset_of_m_defaultItem_3() { return static_cast<int32_t>(offsetof(TMP_XmlTagStack_1_t3885462016, ___m_defaultItem_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_m_defaultItem_3() const { return ___m_defaultItem_3; }
 	inline int32_t* get_address_of_m_defaultItem_3() { return &___m_defaultItem_3; }
 	inline void set_m_defaultItem_3(int32_t value)
@@ -6899,9 +10867,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TMP_XMLTAGSTACK_1_T428715816_H
 #ifndef COMPONENT_T357856507_H
 #define COMPONENT_T357856507_H
+=======
+#endif // TMP_XMLTAGSTACK_1_T3885462016_H
+#ifndef COMPONENT_T1501867926_H
+#define COMPONENT_T1501867926_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6909,7 +10883,11 @@ public:
 #endif
 
 // UnityEngine.Component
+<<<<<<< Updated upstream
 struct  Component_t357856507  : public Object_t2863153585
+=======
+struct  Component_t1501867926  : public Object_t1300527420
+>>>>>>> Stashed changes
 {
 public:
 
@@ -6919,9 +10897,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // COMPONENT_T357856507_H
 #ifndef TILE_T1685153341_H
 #define TILE_T1685153341_H
+=======
+#endif // COMPONENT_T1501867926_H
+#ifndef TILE_T190475901_H
+#define TILE_T190475901_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -6929,6 +10913,7 @@ public:
 #endif
 
 // Mapbox.Map.Tile
+<<<<<<< Updated upstream
 struct  Tile_t1685153341  : public RuntimeObject
 {
 public:
@@ -6936,11 +10921,21 @@ public:
 	CanonicalTileId_t916346256  ____id_0;
 	// System.Collections.Generic.List`1<System.Exception> Mapbox.Map.Tile::_exceptions
 	List_1_t1258374311 * ____exceptions_1;
+=======
+struct  Tile_t190475901  : public RuntimeObject
+{
+public:
+	// Mapbox.Map.CanonicalTileId Mapbox.Map.Tile::_id
+	CanonicalTileId_t988270330  ____id_0;
+	// System.Collections.Generic.List`1<System.Exception> Mapbox.Map.Tile::_exceptions
+	List_1_t397943366 * ____exceptions_1;
+>>>>>>> Stashed changes
 	// Mapbox.Map.Tile/State Mapbox.Map.Tile::_state
 	int32_t ____state_2;
 	// Mapbox.Platform.IAsyncRequest Mapbox.Map.Tile::_request
 	RuntimeObject* ____request_3;
 	// System.Action Mapbox.Map.Tile::_callback
+<<<<<<< Updated upstream
 	Action_t3179465818 * ____callback_4;
 
 public:
@@ -6948,20 +10943,40 @@ public:
 	inline CanonicalTileId_t916346256  get__id_0() const { return ____id_0; }
 	inline CanonicalTileId_t916346256 * get_address_of__id_0() { return &____id_0; }
 	inline void set__id_0(CanonicalTileId_t916346256  value)
+=======
+	Action_t3899813028 * ____callback_4;
+
+public:
+	inline static int32_t get_offset_of__id_0() { return static_cast<int32_t>(offsetof(Tile_t190475901, ____id_0)); }
+	inline CanonicalTileId_t988270330  get__id_0() const { return ____id_0; }
+	inline CanonicalTileId_t988270330 * get_address_of__id_0() { return &____id_0; }
+	inline void set__id_0(CanonicalTileId_t988270330  value)
+>>>>>>> Stashed changes
 	{
 		____id_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of__exceptions_1() { return static_cast<int32_t>(offsetof(Tile_t1685153341, ____exceptions_1)); }
 	inline List_1_t1258374311 * get__exceptions_1() const { return ____exceptions_1; }
 	inline List_1_t1258374311 ** get_address_of__exceptions_1() { return &____exceptions_1; }
 	inline void set__exceptions_1(List_1_t1258374311 * value)
+=======
+	inline static int32_t get_offset_of__exceptions_1() { return static_cast<int32_t>(offsetof(Tile_t190475901, ____exceptions_1)); }
+	inline List_1_t397943366 * get__exceptions_1() const { return ____exceptions_1; }
+	inline List_1_t397943366 ** get_address_of__exceptions_1() { return &____exceptions_1; }
+	inline void set__exceptions_1(List_1_t397943366 * value)
+>>>>>>> Stashed changes
 	{
 		____exceptions_1 = value;
 		Il2CppCodeGenWriteBarrier((&____exceptions_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of__state_2() { return static_cast<int32_t>(offsetof(Tile_t1685153341, ____state_2)); }
+=======
+	inline static int32_t get_offset_of__state_2() { return static_cast<int32_t>(offsetof(Tile_t190475901, ____state_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get__state_2() const { return ____state_2; }
 	inline int32_t* get_address_of__state_2() { return &____state_2; }
 	inline void set__state_2(int32_t value)
@@ -6969,7 +10984,11 @@ public:
 		____state_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of__request_3() { return static_cast<int32_t>(offsetof(Tile_t1685153341, ____request_3)); }
+=======
+	inline static int32_t get_offset_of__request_3() { return static_cast<int32_t>(offsetof(Tile_t190475901, ____request_3)); }
+>>>>>>> Stashed changes
 	inline RuntimeObject* get__request_3() const { return ____request_3; }
 	inline RuntimeObject** get_address_of__request_3() { return &____request_3; }
 	inline void set__request_3(RuntimeObject* value)
@@ -6978,16 +10997,24 @@ public:
 		Il2CppCodeGenWriteBarrier((&____request_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of__callback_4() { return static_cast<int32_t>(offsetof(Tile_t1685153341, ____callback_4)); }
 	inline Action_t3179465818 * get__callback_4() const { return ____callback_4; }
 	inline Action_t3179465818 ** get_address_of__callback_4() { return &____callback_4; }
 	inline void set__callback_4(Action_t3179465818 * value)
+=======
+	inline static int32_t get_offset_of__callback_4() { return static_cast<int32_t>(offsetof(Tile_t190475901, ____callback_4)); }
+	inline Action_t3899813028 * get__callback_4() const { return ____callback_4; }
+	inline Action_t3899813028 ** get_address_of__callback_4() { return &____callback_4; }
+	inline void set__callback_4(Action_t3899813028 * value)
+>>>>>>> Stashed changes
 	{
 		____callback_4 = value;
 		Il2CppCodeGenWriteBarrier((&____callback_4), value);
 	}
 };
 
+<<<<<<< Updated upstream
 struct Tile_t1685153341_StaticFields
 {
 public:
@@ -6999,6 +11026,19 @@ public:
 	inline Func_2_t3879979200 * get_U3CU3Ef__amU24cache0_5() const { return ___U3CU3Ef__amU24cache0_5; }
 	inline Func_2_t3879979200 ** get_address_of_U3CU3Ef__amU24cache0_5() { return &___U3CU3Ef__amU24cache0_5; }
 	inline void set_U3CU3Ef__amU24cache0_5(Func_2_t3879979200 * value)
+=======
+struct Tile_t190475901_StaticFields
+{
+public:
+	// System.Func`2<System.Exception,System.String> Mapbox.Map.Tile::<>f__am$cache0
+	Func_2_t1737662764 * ___U3CU3Ef__amU24cache0_5;
+
+public:
+	inline static int32_t get_offset_of_U3CU3Ef__amU24cache0_5() { return static_cast<int32_t>(offsetof(Tile_t190475901_StaticFields, ___U3CU3Ef__amU24cache0_5)); }
+	inline Func_2_t1737662764 * get_U3CU3Ef__amU24cache0_5() const { return ___U3CU3Ef__amU24cache0_5; }
+	inline Func_2_t1737662764 ** get_address_of_U3CU3Ef__amU24cache0_5() { return &___U3CU3Ef__amU24cache0_5; }
+	inline void set_U3CU3Ef__amU24cache0_5(Func_2_t1737662764 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CU3Ef__amU24cache0_5 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CU3Ef__amU24cache0_5), value);
@@ -7008,9 +11048,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // TILE_T1685153341_H
 #ifndef WORDWRAPSTATE_T1793959887_H
 #define WORDWRAPSTATE_T1793959887_H
+=======
+#endif // TILE_T190475901_H
+#ifndef WORDWRAPSTATE_T2272487395_H
+#define WORDWRAPSTATE_T2272487395_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7018,7 +11064,11 @@ public:
 #endif
 
 // TMPro.WordWrapState
+<<<<<<< Updated upstream
 struct  WordWrapState_t1793959887 
+=======
+struct  WordWrapState_t2272487395 
+>>>>>>> Stashed changes
 {
 public:
 	// System.Int32 TMPro.WordWrapState::previous_WordBreak
@@ -7076,6 +11126,7 @@ public:
 	// System.Single TMPro.WordWrapState::lineOffset
 	float ___lineOffset_26;
 	// TMPro.TMP_TextInfo TMPro.WordWrapState::textInfo
+<<<<<<< Updated upstream
 	TMP_TextInfo_t1619069872 * ___textInfo_27;
 	// TMPro.TMP_LineInfo TMPro.WordWrapState::lineInfo
 	TMP_LineInfo_t242510132  ___lineInfo_28;
@@ -7125,11 +11176,66 @@ public:
 	int32_t ___currentMaterialIndex_50;
 	// TMPro.Extents TMPro.WordWrapState::meshExtents
 	Extents_t479935886  ___meshExtents_51;
+=======
+	TMP_TextInfo_t2639825916 * ___textInfo_27;
+	// TMPro.TMP_LineInfo TMPro.WordWrapState::lineInfo
+	TMP_LineInfo_t3700831798  ___lineInfo_28;
+	// UnityEngine.Color32 TMPro.WordWrapState::vertexColor
+	Color32_t3788861462  ___vertexColor_29;
+	// UnityEngine.Color32 TMPro.WordWrapState::underlineColor
+	Color32_t3788861462  ___underlineColor_30;
+	// UnityEngine.Color32 TMPro.WordWrapState::strikethroughColor
+	Color32_t3788861462  ___strikethroughColor_31;
+	// UnityEngine.Color32 TMPro.WordWrapState::highlightColor
+	Color32_t3788861462  ___highlightColor_32;
+	// TMPro.TMP_BasicXmlTagStack TMPro.WordWrapState::basicStyleStack
+	TMP_BasicXmlTagStack_t1184639443  ___basicStyleStack_33;
+	// TMPro.TMP_XmlTagStack`1<UnityEngine.Color32> TMPro.WordWrapState::colorStack
+	TMP_XmlTagStack_1_t1798162749  ___colorStack_34;
+	// TMPro.TMP_XmlTagStack`1<UnityEngine.Color32> TMPro.WordWrapState::underlineColorStack
+	TMP_XmlTagStack_1_t1798162749  ___underlineColorStack_35;
+	// TMPro.TMP_XmlTagStack`1<UnityEngine.Color32> TMPro.WordWrapState::strikethroughColorStack
+	TMP_XmlTagStack_1_t1798162749  ___strikethroughColorStack_36;
+	// TMPro.TMP_XmlTagStack`1<UnityEngine.Color32> TMPro.WordWrapState::highlightColorStack
+	TMP_XmlTagStack_1_t1798162749  ___highlightColorStack_37;
+	// TMPro.TMP_XmlTagStack`1<System.Single> TMPro.WordWrapState::sizeStack
+	TMP_XmlTagStack_1_t2224988344  ___sizeStack_38;
+	// TMPro.TMP_XmlTagStack`1<System.Single> TMPro.WordWrapState::indentStack
+	TMP_XmlTagStack_1_t2224988344  ___indentStack_39;
+	// TMPro.TMP_XmlTagStack`1<System.Int32> TMPro.WordWrapState::fontWeightStack
+	TMP_XmlTagStack_1_t3716124656  ___fontWeightStack_40;
+	// TMPro.TMP_XmlTagStack`1<System.Int32> TMPro.WordWrapState::styleStack
+	TMP_XmlTagStack_1_t3716124656  ___styleStack_41;
+	// TMPro.TMP_XmlTagStack`1<System.Single> TMPro.WordWrapState::baselineStack
+	TMP_XmlTagStack_1_t2224988344  ___baselineStack_42;
+	// TMPro.TMP_XmlTagStack`1<System.Int32> TMPro.WordWrapState::actionStack
+	TMP_XmlTagStack_1_t3716124656  ___actionStack_43;
+	// TMPro.TMP_XmlTagStack`1<TMPro.MaterialReference> TMPro.WordWrapState::materialReferenceStack
+	TMP_XmlTagStack_1_t25416787  ___materialReferenceStack_44;
+	// TMPro.TMP_XmlTagStack`1<TMPro.TextAlignmentOptions> TMPro.WordWrapState::lineJustificationStack
+	TMP_XmlTagStack_1_t3885462016  ___lineJustificationStack_45;
+	// System.Int32 TMPro.WordWrapState::spriteAnimationID
+	int32_t ___spriteAnimationID_46;
+	// TMPro.TMP_FontAsset TMPro.WordWrapState::currentFontAsset
+	TMP_FontAsset_t209860335 * ___currentFontAsset_47;
+	// TMPro.TMP_SpriteAsset TMPro.WordWrapState::currentSpriteAsset
+	TMP_SpriteAsset_t147018872 * ___currentSpriteAsset_48;
+	// UnityEngine.Material TMPro.WordWrapState::currentMaterial
+	Material_t132180377 * ___currentMaterial_49;
+	// System.Int32 TMPro.WordWrapState::currentMaterialIndex
+	int32_t ___currentMaterialIndex_50;
+	// TMPro.Extents TMPro.WordWrapState::meshExtents
+	Extents_t10404588  ___meshExtents_51;
+>>>>>>> Stashed changes
 	// System.Boolean TMPro.WordWrapState::tagNoParsing
 	bool ___tagNoParsing_52;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_previous_WordBreak_0() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___previous_WordBreak_0)); }
+=======
+	inline static int32_t get_offset_of_previous_WordBreak_0() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___previous_WordBreak_0)); }
+>>>>>>> Stashed changes
 	inline int32_t get_previous_WordBreak_0() const { return ___previous_WordBreak_0; }
 	inline int32_t* get_address_of_previous_WordBreak_0() { return &___previous_WordBreak_0; }
 	inline void set_previous_WordBreak_0(int32_t value)
@@ -7137,7 +11243,11 @@ public:
 		___previous_WordBreak_0 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_total_CharacterCount_1() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___total_CharacterCount_1)); }
+=======
+	inline static int32_t get_offset_of_total_CharacterCount_1() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___total_CharacterCount_1)); }
+>>>>>>> Stashed changes
 	inline int32_t get_total_CharacterCount_1() const { return ___total_CharacterCount_1; }
 	inline int32_t* get_address_of_total_CharacterCount_1() { return &___total_CharacterCount_1; }
 	inline void set_total_CharacterCount_1(int32_t value)
@@ -7145,7 +11255,11 @@ public:
 		___total_CharacterCount_1 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_visible_CharacterCount_2() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___visible_CharacterCount_2)); }
+=======
+	inline static int32_t get_offset_of_visible_CharacterCount_2() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___visible_CharacterCount_2)); }
+>>>>>>> Stashed changes
 	inline int32_t get_visible_CharacterCount_2() const { return ___visible_CharacterCount_2; }
 	inline int32_t* get_address_of_visible_CharacterCount_2() { return &___visible_CharacterCount_2; }
 	inline void set_visible_CharacterCount_2(int32_t value)
@@ -7153,7 +11267,11 @@ public:
 		___visible_CharacterCount_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_visible_SpriteCount_3() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___visible_SpriteCount_3)); }
+=======
+	inline static int32_t get_offset_of_visible_SpriteCount_3() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___visible_SpriteCount_3)); }
+>>>>>>> Stashed changes
 	inline int32_t get_visible_SpriteCount_3() const { return ___visible_SpriteCount_3; }
 	inline int32_t* get_address_of_visible_SpriteCount_3() { return &___visible_SpriteCount_3; }
 	inline void set_visible_SpriteCount_3(int32_t value)
@@ -7161,7 +11279,11 @@ public:
 		___visible_SpriteCount_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_visible_LinkCount_4() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___visible_LinkCount_4)); }
+=======
+	inline static int32_t get_offset_of_visible_LinkCount_4() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___visible_LinkCount_4)); }
+>>>>>>> Stashed changes
 	inline int32_t get_visible_LinkCount_4() const { return ___visible_LinkCount_4; }
 	inline int32_t* get_address_of_visible_LinkCount_4() { return &___visible_LinkCount_4; }
 	inline void set_visible_LinkCount_4(int32_t value)
@@ -7169,7 +11291,11 @@ public:
 		___visible_LinkCount_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_firstCharacterIndex_5() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___firstCharacterIndex_5)); }
+=======
+	inline static int32_t get_offset_of_firstCharacterIndex_5() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___firstCharacterIndex_5)); }
+>>>>>>> Stashed changes
 	inline int32_t get_firstCharacterIndex_5() const { return ___firstCharacterIndex_5; }
 	inline int32_t* get_address_of_firstCharacterIndex_5() { return &___firstCharacterIndex_5; }
 	inline void set_firstCharacterIndex_5(int32_t value)
@@ -7177,7 +11303,11 @@ public:
 		___firstCharacterIndex_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_firstVisibleCharacterIndex_6() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___firstVisibleCharacterIndex_6)); }
+=======
+	inline static int32_t get_offset_of_firstVisibleCharacterIndex_6() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___firstVisibleCharacterIndex_6)); }
+>>>>>>> Stashed changes
 	inline int32_t get_firstVisibleCharacterIndex_6() const { return ___firstVisibleCharacterIndex_6; }
 	inline int32_t* get_address_of_firstVisibleCharacterIndex_6() { return &___firstVisibleCharacterIndex_6; }
 	inline void set_firstVisibleCharacterIndex_6(int32_t value)
@@ -7185,7 +11315,11 @@ public:
 		___firstVisibleCharacterIndex_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lastCharacterIndex_7() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___lastCharacterIndex_7)); }
+=======
+	inline static int32_t get_offset_of_lastCharacterIndex_7() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___lastCharacterIndex_7)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lastCharacterIndex_7() const { return ___lastCharacterIndex_7; }
 	inline int32_t* get_address_of_lastCharacterIndex_7() { return &___lastCharacterIndex_7; }
 	inline void set_lastCharacterIndex_7(int32_t value)
@@ -7193,7 +11327,11 @@ public:
 		___lastCharacterIndex_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lastVisibleCharIndex_8() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___lastVisibleCharIndex_8)); }
+=======
+	inline static int32_t get_offset_of_lastVisibleCharIndex_8() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___lastVisibleCharIndex_8)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lastVisibleCharIndex_8() const { return ___lastVisibleCharIndex_8; }
 	inline int32_t* get_address_of_lastVisibleCharIndex_8() { return &___lastVisibleCharIndex_8; }
 	inline void set_lastVisibleCharIndex_8(int32_t value)
@@ -7201,7 +11339,11 @@ public:
 		___lastVisibleCharIndex_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineNumber_9() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___lineNumber_9)); }
+=======
+	inline static int32_t get_offset_of_lineNumber_9() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___lineNumber_9)); }
+>>>>>>> Stashed changes
 	inline int32_t get_lineNumber_9() const { return ___lineNumber_9; }
 	inline int32_t* get_address_of_lineNumber_9() { return &___lineNumber_9; }
 	inline void set_lineNumber_9(int32_t value)
@@ -7209,7 +11351,11 @@ public:
 		___lineNumber_9 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxCapHeight_10() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___maxCapHeight_10)); }
+=======
+	inline static int32_t get_offset_of_maxCapHeight_10() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___maxCapHeight_10)); }
+>>>>>>> Stashed changes
 	inline float get_maxCapHeight_10() const { return ___maxCapHeight_10; }
 	inline float* get_address_of_maxCapHeight_10() { return &___maxCapHeight_10; }
 	inline void set_maxCapHeight_10(float value)
@@ -7217,7 +11363,11 @@ public:
 		___maxCapHeight_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxAscender_11() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___maxAscender_11)); }
+=======
+	inline static int32_t get_offset_of_maxAscender_11() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___maxAscender_11)); }
+>>>>>>> Stashed changes
 	inline float get_maxAscender_11() const { return ___maxAscender_11; }
 	inline float* get_address_of_maxAscender_11() { return &___maxAscender_11; }
 	inline void set_maxAscender_11(float value)
@@ -7225,7 +11375,11 @@ public:
 		___maxAscender_11 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxDescender_12() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___maxDescender_12)); }
+=======
+	inline static int32_t get_offset_of_maxDescender_12() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___maxDescender_12)); }
+>>>>>>> Stashed changes
 	inline float get_maxDescender_12() const { return ___maxDescender_12; }
 	inline float* get_address_of_maxDescender_12() { return &___maxDescender_12; }
 	inline void set_maxDescender_12(float value)
@@ -7233,7 +11387,11 @@ public:
 		___maxDescender_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxLineAscender_13() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___maxLineAscender_13)); }
+=======
+	inline static int32_t get_offset_of_maxLineAscender_13() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___maxLineAscender_13)); }
+>>>>>>> Stashed changes
 	inline float get_maxLineAscender_13() const { return ___maxLineAscender_13; }
 	inline float* get_address_of_maxLineAscender_13() { return &___maxLineAscender_13; }
 	inline void set_maxLineAscender_13(float value)
@@ -7241,7 +11399,11 @@ public:
 		___maxLineAscender_13 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxLineDescender_14() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___maxLineDescender_14)); }
+=======
+	inline static int32_t get_offset_of_maxLineDescender_14() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___maxLineDescender_14)); }
+>>>>>>> Stashed changes
 	inline float get_maxLineDescender_14() const { return ___maxLineDescender_14; }
 	inline float* get_address_of_maxLineDescender_14() { return &___maxLineDescender_14; }
 	inline void set_maxLineDescender_14(float value)
@@ -7249,7 +11411,11 @@ public:
 		___maxLineDescender_14 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_previousLineAscender_15() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___previousLineAscender_15)); }
+=======
+	inline static int32_t get_offset_of_previousLineAscender_15() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___previousLineAscender_15)); }
+>>>>>>> Stashed changes
 	inline float get_previousLineAscender_15() const { return ___previousLineAscender_15; }
 	inline float* get_address_of_previousLineAscender_15() { return &___previousLineAscender_15; }
 	inline void set_previousLineAscender_15(float value)
@@ -7257,7 +11423,11 @@ public:
 		___previousLineAscender_15 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_xAdvance_16() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___xAdvance_16)); }
+=======
+	inline static int32_t get_offset_of_xAdvance_16() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___xAdvance_16)); }
+>>>>>>> Stashed changes
 	inline float get_xAdvance_16() const { return ___xAdvance_16; }
 	inline float* get_address_of_xAdvance_16() { return &___xAdvance_16; }
 	inline void set_xAdvance_16(float value)
@@ -7265,7 +11435,11 @@ public:
 		___xAdvance_16 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_preferredWidth_17() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___preferredWidth_17)); }
+=======
+	inline static int32_t get_offset_of_preferredWidth_17() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___preferredWidth_17)); }
+>>>>>>> Stashed changes
 	inline float get_preferredWidth_17() const { return ___preferredWidth_17; }
 	inline float* get_address_of_preferredWidth_17() { return &___preferredWidth_17; }
 	inline void set_preferredWidth_17(float value)
@@ -7273,7 +11447,11 @@ public:
 		___preferredWidth_17 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_preferredHeight_18() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___preferredHeight_18)); }
+=======
+	inline static int32_t get_offset_of_preferredHeight_18() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___preferredHeight_18)); }
+>>>>>>> Stashed changes
 	inline float get_preferredHeight_18() const { return ___preferredHeight_18; }
 	inline float* get_address_of_preferredHeight_18() { return &___preferredHeight_18; }
 	inline void set_preferredHeight_18(float value)
@@ -7281,7 +11459,11 @@ public:
 		___preferredHeight_18 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_previousLineScale_19() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___previousLineScale_19)); }
+=======
+	inline static int32_t get_offset_of_previousLineScale_19() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___previousLineScale_19)); }
+>>>>>>> Stashed changes
 	inline float get_previousLineScale_19() const { return ___previousLineScale_19; }
 	inline float* get_address_of_previousLineScale_19() { return &___previousLineScale_19; }
 	inline void set_previousLineScale_19(float value)
@@ -7289,7 +11471,11 @@ public:
 		___previousLineScale_19 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_wordCount_20() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___wordCount_20)); }
+=======
+	inline static int32_t get_offset_of_wordCount_20() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___wordCount_20)); }
+>>>>>>> Stashed changes
 	inline int32_t get_wordCount_20() const { return ___wordCount_20; }
 	inline int32_t* get_address_of_wordCount_20() { return &___wordCount_20; }
 	inline void set_wordCount_20(int32_t value)
@@ -7297,7 +11483,11 @@ public:
 		___wordCount_20 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontStyle_21() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___fontStyle_21)); }
+=======
+	inline static int32_t get_offset_of_fontStyle_21() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___fontStyle_21)); }
+>>>>>>> Stashed changes
 	inline int32_t get_fontStyle_21() const { return ___fontStyle_21; }
 	inline int32_t* get_address_of_fontStyle_21() { return &___fontStyle_21; }
 	inline void set_fontStyle_21(int32_t value)
@@ -7305,7 +11495,11 @@ public:
 		___fontStyle_21 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontScale_22() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___fontScale_22)); }
+=======
+	inline static int32_t get_offset_of_fontScale_22() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___fontScale_22)); }
+>>>>>>> Stashed changes
 	inline float get_fontScale_22() const { return ___fontScale_22; }
 	inline float* get_address_of_fontScale_22() { return &___fontScale_22; }
 	inline void set_fontScale_22(float value)
@@ -7313,7 +11507,11 @@ public:
 		___fontScale_22 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontScaleMultiplier_23() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___fontScaleMultiplier_23)); }
+=======
+	inline static int32_t get_offset_of_fontScaleMultiplier_23() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___fontScaleMultiplier_23)); }
+>>>>>>> Stashed changes
 	inline float get_fontScaleMultiplier_23() const { return ___fontScaleMultiplier_23; }
 	inline float* get_address_of_fontScaleMultiplier_23() { return &___fontScaleMultiplier_23; }
 	inline void set_fontScaleMultiplier_23(float value)
@@ -7321,7 +11519,11 @@ public:
 		___fontScaleMultiplier_23 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentFontSize_24() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___currentFontSize_24)); }
+=======
+	inline static int32_t get_offset_of_currentFontSize_24() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___currentFontSize_24)); }
+>>>>>>> Stashed changes
 	inline float get_currentFontSize_24() const { return ___currentFontSize_24; }
 	inline float* get_address_of_currentFontSize_24() { return &___currentFontSize_24; }
 	inline void set_currentFontSize_24(float value)
@@ -7329,7 +11531,11 @@ public:
 		___currentFontSize_24 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_baselineOffset_25() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___baselineOffset_25)); }
+=======
+	inline static int32_t get_offset_of_baselineOffset_25() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___baselineOffset_25)); }
+>>>>>>> Stashed changes
 	inline float get_baselineOffset_25() const { return ___baselineOffset_25; }
 	inline float* get_address_of_baselineOffset_25() { return &___baselineOffset_25; }
 	inline void set_baselineOffset_25(float value)
@@ -7337,7 +11543,11 @@ public:
 		___baselineOffset_25 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineOffset_26() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___lineOffset_26)); }
+=======
+	inline static int32_t get_offset_of_lineOffset_26() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___lineOffset_26)); }
+>>>>>>> Stashed changes
 	inline float get_lineOffset_26() const { return ___lineOffset_26; }
 	inline float* get_address_of_lineOffset_26() { return &___lineOffset_26; }
 	inline void set_lineOffset_26(float value)
@@ -7345,160 +11555,297 @@ public:
 		___lineOffset_26 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_textInfo_27() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___textInfo_27)); }
 	inline TMP_TextInfo_t1619069872 * get_textInfo_27() const { return ___textInfo_27; }
 	inline TMP_TextInfo_t1619069872 ** get_address_of_textInfo_27() { return &___textInfo_27; }
 	inline void set_textInfo_27(TMP_TextInfo_t1619069872 * value)
+=======
+	inline static int32_t get_offset_of_textInfo_27() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___textInfo_27)); }
+	inline TMP_TextInfo_t2639825916 * get_textInfo_27() const { return ___textInfo_27; }
+	inline TMP_TextInfo_t2639825916 ** get_address_of_textInfo_27() { return &___textInfo_27; }
+	inline void set_textInfo_27(TMP_TextInfo_t2639825916 * value)
+>>>>>>> Stashed changes
 	{
 		___textInfo_27 = value;
 		Il2CppCodeGenWriteBarrier((&___textInfo_27), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineInfo_28() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___lineInfo_28)); }
 	inline TMP_LineInfo_t242510132  get_lineInfo_28() const { return ___lineInfo_28; }
 	inline TMP_LineInfo_t242510132 * get_address_of_lineInfo_28() { return &___lineInfo_28; }
 	inline void set_lineInfo_28(TMP_LineInfo_t242510132  value)
+=======
+	inline static int32_t get_offset_of_lineInfo_28() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___lineInfo_28)); }
+	inline TMP_LineInfo_t3700831798  get_lineInfo_28() const { return ___lineInfo_28; }
+	inline TMP_LineInfo_t3700831798 * get_address_of_lineInfo_28() { return &___lineInfo_28; }
+	inline void set_lineInfo_28(TMP_LineInfo_t3700831798  value)
+>>>>>>> Stashed changes
 	{
 		___lineInfo_28 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_vertexColor_29() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___vertexColor_29)); }
 	inline Color32_t771166883  get_vertexColor_29() const { return ___vertexColor_29; }
 	inline Color32_t771166883 * get_address_of_vertexColor_29() { return &___vertexColor_29; }
 	inline void set_vertexColor_29(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_vertexColor_29() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___vertexColor_29)); }
+	inline Color32_t3788861462  get_vertexColor_29() const { return ___vertexColor_29; }
+	inline Color32_t3788861462 * get_address_of_vertexColor_29() { return &___vertexColor_29; }
+	inline void set_vertexColor_29(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___vertexColor_29 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_underlineColor_30() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___underlineColor_30)); }
 	inline Color32_t771166883  get_underlineColor_30() const { return ___underlineColor_30; }
 	inline Color32_t771166883 * get_address_of_underlineColor_30() { return &___underlineColor_30; }
 	inline void set_underlineColor_30(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_underlineColor_30() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___underlineColor_30)); }
+	inline Color32_t3788861462  get_underlineColor_30() const { return ___underlineColor_30; }
+	inline Color32_t3788861462 * get_address_of_underlineColor_30() { return &___underlineColor_30; }
+	inline void set_underlineColor_30(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___underlineColor_30 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_strikethroughColor_31() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___strikethroughColor_31)); }
 	inline Color32_t771166883  get_strikethroughColor_31() const { return ___strikethroughColor_31; }
 	inline Color32_t771166883 * get_address_of_strikethroughColor_31() { return &___strikethroughColor_31; }
 	inline void set_strikethroughColor_31(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_strikethroughColor_31() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___strikethroughColor_31)); }
+	inline Color32_t3788861462  get_strikethroughColor_31() const { return ___strikethroughColor_31; }
+	inline Color32_t3788861462 * get_address_of_strikethroughColor_31() { return &___strikethroughColor_31; }
+	inline void set_strikethroughColor_31(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___strikethroughColor_31 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_highlightColor_32() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___highlightColor_32)); }
 	inline Color32_t771166883  get_highlightColor_32() const { return ___highlightColor_32; }
 	inline Color32_t771166883 * get_address_of_highlightColor_32() { return &___highlightColor_32; }
 	inline void set_highlightColor_32(Color32_t771166883  value)
+=======
+	inline static int32_t get_offset_of_highlightColor_32() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___highlightColor_32)); }
+	inline Color32_t3788861462  get_highlightColor_32() const { return ___highlightColor_32; }
+	inline Color32_t3788861462 * get_address_of_highlightColor_32() { return &___highlightColor_32; }
+	inline void set_highlightColor_32(Color32_t3788861462  value)
+>>>>>>> Stashed changes
 	{
 		___highlightColor_32 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_basicStyleStack_33() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___basicStyleStack_33)); }
 	inline TMP_BasicXmlTagStack_t3908517297  get_basicStyleStack_33() const { return ___basicStyleStack_33; }
 	inline TMP_BasicXmlTagStack_t3908517297 * get_address_of_basicStyleStack_33() { return &___basicStyleStack_33; }
 	inline void set_basicStyleStack_33(TMP_BasicXmlTagStack_t3908517297  value)
+=======
+	inline static int32_t get_offset_of_basicStyleStack_33() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___basicStyleStack_33)); }
+	inline TMP_BasicXmlTagStack_t1184639443  get_basicStyleStack_33() const { return ___basicStyleStack_33; }
+	inline TMP_BasicXmlTagStack_t1184639443 * get_address_of_basicStyleStack_33() { return &___basicStyleStack_33; }
+	inline void set_basicStyleStack_33(TMP_BasicXmlTagStack_t1184639443  value)
+>>>>>>> Stashed changes
 	{
 		___basicStyleStack_33 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_colorStack_34() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___colorStack_34)); }
 	inline TMP_XmlTagStack_1_t711886919  get_colorStack_34() const { return ___colorStack_34; }
 	inline TMP_XmlTagStack_1_t711886919 * get_address_of_colorStack_34() { return &___colorStack_34; }
 	inline void set_colorStack_34(TMP_XmlTagStack_1_t711886919  value)
+=======
+	inline static int32_t get_offset_of_colorStack_34() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___colorStack_34)); }
+	inline TMP_XmlTagStack_1_t1798162749  get_colorStack_34() const { return ___colorStack_34; }
+	inline TMP_XmlTagStack_1_t1798162749 * get_address_of_colorStack_34() { return &___colorStack_34; }
+	inline void set_colorStack_34(TMP_XmlTagStack_1_t1798162749  value)
+>>>>>>> Stashed changes
 	{
 		___colorStack_34 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_underlineColorStack_35() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___underlineColorStack_35)); }
 	inline TMP_XmlTagStack_1_t711886919  get_underlineColorStack_35() const { return ___underlineColorStack_35; }
 	inline TMP_XmlTagStack_1_t711886919 * get_address_of_underlineColorStack_35() { return &___underlineColorStack_35; }
 	inline void set_underlineColorStack_35(TMP_XmlTagStack_1_t711886919  value)
+=======
+	inline static int32_t get_offset_of_underlineColorStack_35() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___underlineColorStack_35)); }
+	inline TMP_XmlTagStack_1_t1798162749  get_underlineColorStack_35() const { return ___underlineColorStack_35; }
+	inline TMP_XmlTagStack_1_t1798162749 * get_address_of_underlineColorStack_35() { return &___underlineColorStack_35; }
+	inline void set_underlineColorStack_35(TMP_XmlTagStack_1_t1798162749  value)
+>>>>>>> Stashed changes
 	{
 		___underlineColorStack_35 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_strikethroughColorStack_36() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___strikethroughColorStack_36)); }
 	inline TMP_XmlTagStack_1_t711886919  get_strikethroughColorStack_36() const { return ___strikethroughColorStack_36; }
 	inline TMP_XmlTagStack_1_t711886919 * get_address_of_strikethroughColorStack_36() { return &___strikethroughColorStack_36; }
 	inline void set_strikethroughColorStack_36(TMP_XmlTagStack_1_t711886919  value)
+=======
+	inline static int32_t get_offset_of_strikethroughColorStack_36() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___strikethroughColorStack_36)); }
+	inline TMP_XmlTagStack_1_t1798162749  get_strikethroughColorStack_36() const { return ___strikethroughColorStack_36; }
+	inline TMP_XmlTagStack_1_t1798162749 * get_address_of_strikethroughColorStack_36() { return &___strikethroughColorStack_36; }
+	inline void set_strikethroughColorStack_36(TMP_XmlTagStack_1_t1798162749  value)
+>>>>>>> Stashed changes
 	{
 		___strikethroughColorStack_36 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_highlightColorStack_37() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___highlightColorStack_37)); }
 	inline TMP_XmlTagStack_1_t711886919  get_highlightColorStack_37() const { return ___highlightColorStack_37; }
 	inline TMP_XmlTagStack_1_t711886919 * get_address_of_highlightColorStack_37() { return &___highlightColorStack_37; }
 	inline void set_highlightColorStack_37(TMP_XmlTagStack_1_t711886919  value)
+=======
+	inline static int32_t get_offset_of_highlightColorStack_37() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___highlightColorStack_37)); }
+	inline TMP_XmlTagStack_1_t1798162749  get_highlightColorStack_37() const { return ___highlightColorStack_37; }
+	inline TMP_XmlTagStack_1_t1798162749 * get_address_of_highlightColorStack_37() { return &___highlightColorStack_37; }
+	inline void set_highlightColorStack_37(TMP_XmlTagStack_1_t1798162749  value)
+>>>>>>> Stashed changes
 	{
 		___highlightColorStack_37 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_sizeStack_38() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___sizeStack_38)); }
 	inline TMP_XmlTagStack_1_t1464843411  get_sizeStack_38() const { return ___sizeStack_38; }
 	inline TMP_XmlTagStack_1_t1464843411 * get_address_of_sizeStack_38() { return &___sizeStack_38; }
 	inline void set_sizeStack_38(TMP_XmlTagStack_1_t1464843411  value)
+=======
+	inline static int32_t get_offset_of_sizeStack_38() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___sizeStack_38)); }
+	inline TMP_XmlTagStack_1_t2224988344  get_sizeStack_38() const { return ___sizeStack_38; }
+	inline TMP_XmlTagStack_1_t2224988344 * get_address_of_sizeStack_38() { return &___sizeStack_38; }
+	inline void set_sizeStack_38(TMP_XmlTagStack_1_t2224988344  value)
+>>>>>>> Stashed changes
 	{
 		___sizeStack_38 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_indentStack_39() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___indentStack_39)); }
 	inline TMP_XmlTagStack_1_t1464843411  get_indentStack_39() const { return ___indentStack_39; }
 	inline TMP_XmlTagStack_1_t1464843411 * get_address_of_indentStack_39() { return &___indentStack_39; }
 	inline void set_indentStack_39(TMP_XmlTagStack_1_t1464843411  value)
+=======
+	inline static int32_t get_offset_of_indentStack_39() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___indentStack_39)); }
+	inline TMP_XmlTagStack_1_t2224988344  get_indentStack_39() const { return ___indentStack_39; }
+	inline TMP_XmlTagStack_1_t2224988344 * get_address_of_indentStack_39() { return &___indentStack_39; }
+	inline void set_indentStack_39(TMP_XmlTagStack_1_t2224988344  value)
+>>>>>>> Stashed changes
 	{
 		___indentStack_39 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fontWeightStack_40() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___fontWeightStack_40)); }
 	inline TMP_XmlTagStack_1_t4254386717  get_fontWeightStack_40() const { return ___fontWeightStack_40; }
 	inline TMP_XmlTagStack_1_t4254386717 * get_address_of_fontWeightStack_40() { return &___fontWeightStack_40; }
 	inline void set_fontWeightStack_40(TMP_XmlTagStack_1_t4254386717  value)
+=======
+	inline static int32_t get_offset_of_fontWeightStack_40() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___fontWeightStack_40)); }
+	inline TMP_XmlTagStack_1_t3716124656  get_fontWeightStack_40() const { return ___fontWeightStack_40; }
+	inline TMP_XmlTagStack_1_t3716124656 * get_address_of_fontWeightStack_40() { return &___fontWeightStack_40; }
+	inline void set_fontWeightStack_40(TMP_XmlTagStack_1_t3716124656  value)
+>>>>>>> Stashed changes
 	{
 		___fontWeightStack_40 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_styleStack_41() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___styleStack_41)); }
 	inline TMP_XmlTagStack_1_t4254386717  get_styleStack_41() const { return ___styleStack_41; }
 	inline TMP_XmlTagStack_1_t4254386717 * get_address_of_styleStack_41() { return &___styleStack_41; }
 	inline void set_styleStack_41(TMP_XmlTagStack_1_t4254386717  value)
+=======
+	inline static int32_t get_offset_of_styleStack_41() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___styleStack_41)); }
+	inline TMP_XmlTagStack_1_t3716124656  get_styleStack_41() const { return ___styleStack_41; }
+	inline TMP_XmlTagStack_1_t3716124656 * get_address_of_styleStack_41() { return &___styleStack_41; }
+	inline void set_styleStack_41(TMP_XmlTagStack_1_t3716124656  value)
+>>>>>>> Stashed changes
 	{
 		___styleStack_41 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_baselineStack_42() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___baselineStack_42)); }
 	inline TMP_XmlTagStack_1_t1464843411  get_baselineStack_42() const { return ___baselineStack_42; }
 	inline TMP_XmlTagStack_1_t1464843411 * get_address_of_baselineStack_42() { return &___baselineStack_42; }
 	inline void set_baselineStack_42(TMP_XmlTagStack_1_t1464843411  value)
+=======
+	inline static int32_t get_offset_of_baselineStack_42() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___baselineStack_42)); }
+	inline TMP_XmlTagStack_1_t2224988344  get_baselineStack_42() const { return ___baselineStack_42; }
+	inline TMP_XmlTagStack_1_t2224988344 * get_address_of_baselineStack_42() { return &___baselineStack_42; }
+	inline void set_baselineStack_42(TMP_XmlTagStack_1_t2224988344  value)
+>>>>>>> Stashed changes
 	{
 		___baselineStack_42 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_actionStack_43() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___actionStack_43)); }
 	inline TMP_XmlTagStack_1_t4254386717  get_actionStack_43() const { return ___actionStack_43; }
 	inline TMP_XmlTagStack_1_t4254386717 * get_address_of_actionStack_43() { return &___actionStack_43; }
 	inline void set_actionStack_43(TMP_XmlTagStack_1_t4254386717  value)
+=======
+	inline static int32_t get_offset_of_actionStack_43() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___actionStack_43)); }
+	inline TMP_XmlTagStack_1_t3716124656  get_actionStack_43() const { return ___actionStack_43; }
+	inline TMP_XmlTagStack_1_t3716124656 * get_address_of_actionStack_43() { return &___actionStack_43; }
+	inline void set_actionStack_43(TMP_XmlTagStack_1_t3716124656  value)
+>>>>>>> Stashed changes
 	{
 		___actionStack_43 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_materialReferenceStack_44() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___materialReferenceStack_44)); }
 	inline TMP_XmlTagStack_1_t148772443  get_materialReferenceStack_44() const { return ___materialReferenceStack_44; }
 	inline TMP_XmlTagStack_1_t148772443 * get_address_of_materialReferenceStack_44() { return &___materialReferenceStack_44; }
 	inline void set_materialReferenceStack_44(TMP_XmlTagStack_1_t148772443  value)
+=======
+	inline static int32_t get_offset_of_materialReferenceStack_44() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___materialReferenceStack_44)); }
+	inline TMP_XmlTagStack_1_t25416787  get_materialReferenceStack_44() const { return ___materialReferenceStack_44; }
+	inline TMP_XmlTagStack_1_t25416787 * get_address_of_materialReferenceStack_44() { return &___materialReferenceStack_44; }
+	inline void set_materialReferenceStack_44(TMP_XmlTagStack_1_t25416787  value)
+>>>>>>> Stashed changes
 	{
 		___materialReferenceStack_44 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lineJustificationStack_45() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___lineJustificationStack_45)); }
 	inline TMP_XmlTagStack_1_t428715816  get_lineJustificationStack_45() const { return ___lineJustificationStack_45; }
 	inline TMP_XmlTagStack_1_t428715816 * get_address_of_lineJustificationStack_45() { return &___lineJustificationStack_45; }
 	inline void set_lineJustificationStack_45(TMP_XmlTagStack_1_t428715816  value)
+=======
+	inline static int32_t get_offset_of_lineJustificationStack_45() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___lineJustificationStack_45)); }
+	inline TMP_XmlTagStack_1_t3885462016  get_lineJustificationStack_45() const { return ___lineJustificationStack_45; }
+	inline TMP_XmlTagStack_1_t3885462016 * get_address_of_lineJustificationStack_45() { return &___lineJustificationStack_45; }
+	inline void set_lineJustificationStack_45(TMP_XmlTagStack_1_t3885462016  value)
+>>>>>>> Stashed changes
 	{
 		___lineJustificationStack_45 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spriteAnimationID_46() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___spriteAnimationID_46)); }
+=======
+	inline static int32_t get_offset_of_spriteAnimationID_46() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___spriteAnimationID_46)); }
+>>>>>>> Stashed changes
 	inline int32_t get_spriteAnimationID_46() const { return ___spriteAnimationID_46; }
 	inline int32_t* get_address_of_spriteAnimationID_46() { return &___spriteAnimationID_46; }
 	inline void set_spriteAnimationID_46(int32_t value)
@@ -7506,34 +11853,59 @@ public:
 		___spriteAnimationID_46 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentFontAsset_47() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___currentFontAsset_47)); }
 	inline TMP_FontAsset_t3080744653 * get_currentFontAsset_47() const { return ___currentFontAsset_47; }
 	inline TMP_FontAsset_t3080744653 ** get_address_of_currentFontAsset_47() { return &___currentFontAsset_47; }
 	inline void set_currentFontAsset_47(TMP_FontAsset_t3080744653 * value)
+=======
+	inline static int32_t get_offset_of_currentFontAsset_47() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___currentFontAsset_47)); }
+	inline TMP_FontAsset_t209860335 * get_currentFontAsset_47() const { return ___currentFontAsset_47; }
+	inline TMP_FontAsset_t209860335 ** get_address_of_currentFontAsset_47() { return &___currentFontAsset_47; }
+	inline void set_currentFontAsset_47(TMP_FontAsset_t209860335 * value)
+>>>>>>> Stashed changes
 	{
 		___currentFontAsset_47 = value;
 		Il2CppCodeGenWriteBarrier((&___currentFontAsset_47), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentSpriteAsset_48() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___currentSpriteAsset_48)); }
 	inline TMP_SpriteAsset_t530635560 * get_currentSpriteAsset_48() const { return ___currentSpriteAsset_48; }
 	inline TMP_SpriteAsset_t530635560 ** get_address_of_currentSpriteAsset_48() { return &___currentSpriteAsset_48; }
 	inline void set_currentSpriteAsset_48(TMP_SpriteAsset_t530635560 * value)
+=======
+	inline static int32_t get_offset_of_currentSpriteAsset_48() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___currentSpriteAsset_48)); }
+	inline TMP_SpriteAsset_t147018872 * get_currentSpriteAsset_48() const { return ___currentSpriteAsset_48; }
+	inline TMP_SpriteAsset_t147018872 ** get_address_of_currentSpriteAsset_48() { return &___currentSpriteAsset_48; }
+	inline void set_currentSpriteAsset_48(TMP_SpriteAsset_t147018872 * value)
+>>>>>>> Stashed changes
 	{
 		___currentSpriteAsset_48 = value;
 		Il2CppCodeGenWriteBarrier((&___currentSpriteAsset_48), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentMaterial_49() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___currentMaterial_49)); }
 	inline Material_t2926388270 * get_currentMaterial_49() const { return ___currentMaterial_49; }
 	inline Material_t2926388270 ** get_address_of_currentMaterial_49() { return &___currentMaterial_49; }
 	inline void set_currentMaterial_49(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_currentMaterial_49() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___currentMaterial_49)); }
+	inline Material_t132180377 * get_currentMaterial_49() const { return ___currentMaterial_49; }
+	inline Material_t132180377 ** get_address_of_currentMaterial_49() { return &___currentMaterial_49; }
+	inline void set_currentMaterial_49(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___currentMaterial_49 = value;
 		Il2CppCodeGenWriteBarrier((&___currentMaterial_49), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentMaterialIndex_50() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___currentMaterialIndex_50)); }
+=======
+	inline static int32_t get_offset_of_currentMaterialIndex_50() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___currentMaterialIndex_50)); }
+>>>>>>> Stashed changes
 	inline int32_t get_currentMaterialIndex_50() const { return ___currentMaterialIndex_50; }
 	inline int32_t* get_address_of_currentMaterialIndex_50() { return &___currentMaterialIndex_50; }
 	inline void set_currentMaterialIndex_50(int32_t value)
@@ -7541,15 +11913,26 @@ public:
 		___currentMaterialIndex_50 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_meshExtents_51() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___meshExtents_51)); }
 	inline Extents_t479935886  get_meshExtents_51() const { return ___meshExtents_51; }
 	inline Extents_t479935886 * get_address_of_meshExtents_51() { return &___meshExtents_51; }
 	inline void set_meshExtents_51(Extents_t479935886  value)
+=======
+	inline static int32_t get_offset_of_meshExtents_51() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___meshExtents_51)); }
+	inline Extents_t10404588  get_meshExtents_51() const { return ___meshExtents_51; }
+	inline Extents_t10404588 * get_address_of_meshExtents_51() { return &___meshExtents_51; }
+	inline void set_meshExtents_51(Extents_t10404588  value)
+>>>>>>> Stashed changes
 	{
 		___meshExtents_51 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_tagNoParsing_52() { return static_cast<int32_t>(offsetof(WordWrapState_t1793959887, ___tagNoParsing_52)); }
+=======
+	inline static int32_t get_offset_of_tagNoParsing_52() { return static_cast<int32_t>(offsetof(WordWrapState_t2272487395, ___tagNoParsing_52)); }
+>>>>>>> Stashed changes
 	inline bool get_tagNoParsing_52() const { return ___tagNoParsing_52; }
 	inline bool* get_address_of_tagNoParsing_52() { return &___tagNoParsing_52; }
 	inline void set_tagNoParsing_52(bool value)
@@ -7562,7 +11945,11 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of TMPro.WordWrapState
+<<<<<<< Updated upstream
 struct WordWrapState_t1793959887_marshaled_pinvoke
+=======
+struct WordWrapState_t2272487395_marshaled_pinvoke
+>>>>>>> Stashed changes
 {
 	int32_t ___previous_WordBreak_0;
 	int32_t ___total_CharacterCount_1;
@@ -7591,6 +11978,7 @@ struct WordWrapState_t1793959887_marshaled_pinvoke
 	float ___currentFontSize_24;
 	float ___baselineOffset_25;
 	float ___lineOffset_26;
+<<<<<<< Updated upstream
 	TMP_TextInfo_t1619069872 * ___textInfo_27;
 	TMP_LineInfo_t242510132  ___lineInfo_28;
 	Color32_t771166883  ___vertexColor_29;
@@ -7620,6 +12008,37 @@ struct WordWrapState_t1793959887_marshaled_pinvoke
 };
 // Native definition for COM marshalling of TMPro.WordWrapState
 struct WordWrapState_t1793959887_marshaled_com
+=======
+	TMP_TextInfo_t2639825916 * ___textInfo_27;
+	TMP_LineInfo_t3700831798  ___lineInfo_28;
+	Color32_t3788861462  ___vertexColor_29;
+	Color32_t3788861462  ___underlineColor_30;
+	Color32_t3788861462  ___strikethroughColor_31;
+	Color32_t3788861462  ___highlightColor_32;
+	TMP_BasicXmlTagStack_t1184639443  ___basicStyleStack_33;
+	TMP_XmlTagStack_1_t1798162749  ___colorStack_34;
+	TMP_XmlTagStack_1_t1798162749  ___underlineColorStack_35;
+	TMP_XmlTagStack_1_t1798162749  ___strikethroughColorStack_36;
+	TMP_XmlTagStack_1_t1798162749  ___highlightColorStack_37;
+	TMP_XmlTagStack_1_t2224988344  ___sizeStack_38;
+	TMP_XmlTagStack_1_t2224988344  ___indentStack_39;
+	TMP_XmlTagStack_1_t3716124656  ___fontWeightStack_40;
+	TMP_XmlTagStack_1_t3716124656  ___styleStack_41;
+	TMP_XmlTagStack_1_t2224988344  ___baselineStack_42;
+	TMP_XmlTagStack_1_t3716124656  ___actionStack_43;
+	TMP_XmlTagStack_1_t25416787  ___materialReferenceStack_44;
+	TMP_XmlTagStack_1_t3885462016  ___lineJustificationStack_45;
+	int32_t ___spriteAnimationID_46;
+	TMP_FontAsset_t209860335 * ___currentFontAsset_47;
+	TMP_SpriteAsset_t147018872 * ___currentSpriteAsset_48;
+	Material_t132180377 * ___currentMaterial_49;
+	int32_t ___currentMaterialIndex_50;
+	Extents_t10404588  ___meshExtents_51;
+	int32_t ___tagNoParsing_52;
+};
+// Native definition for COM marshalling of TMPro.WordWrapState
+struct WordWrapState_t2272487395_marshaled_com
+>>>>>>> Stashed changes
 {
 	int32_t ___previous_WordBreak_0;
 	int32_t ___total_CharacterCount_1;
@@ -7648,6 +12067,7 @@ struct WordWrapState_t1793959887_marshaled_com
 	float ___currentFontSize_24;
 	float ___baselineOffset_25;
 	float ___lineOffset_26;
+<<<<<<< Updated upstream
 	TMP_TextInfo_t1619069872 * ___textInfo_27;
 	TMP_LineInfo_t242510132  ___lineInfo_28;
 	Color32_t771166883  ___vertexColor_29;
@@ -7678,6 +12098,38 @@ struct WordWrapState_t1793959887_marshaled_com
 #endif // WORDWRAPSTATE_T1793959887_H
 #ifndef RASTERTILE_T2968510387_H
 #define RASTERTILE_T2968510387_H
+=======
+	TMP_TextInfo_t2639825916 * ___textInfo_27;
+	TMP_LineInfo_t3700831798  ___lineInfo_28;
+	Color32_t3788861462  ___vertexColor_29;
+	Color32_t3788861462  ___underlineColor_30;
+	Color32_t3788861462  ___strikethroughColor_31;
+	Color32_t3788861462  ___highlightColor_32;
+	TMP_BasicXmlTagStack_t1184639443  ___basicStyleStack_33;
+	TMP_XmlTagStack_1_t1798162749  ___colorStack_34;
+	TMP_XmlTagStack_1_t1798162749  ___underlineColorStack_35;
+	TMP_XmlTagStack_1_t1798162749  ___strikethroughColorStack_36;
+	TMP_XmlTagStack_1_t1798162749  ___highlightColorStack_37;
+	TMP_XmlTagStack_1_t2224988344  ___sizeStack_38;
+	TMP_XmlTagStack_1_t2224988344  ___indentStack_39;
+	TMP_XmlTagStack_1_t3716124656  ___fontWeightStack_40;
+	TMP_XmlTagStack_1_t3716124656  ___styleStack_41;
+	TMP_XmlTagStack_1_t2224988344  ___baselineStack_42;
+	TMP_XmlTagStack_1_t3716124656  ___actionStack_43;
+	TMP_XmlTagStack_1_t25416787  ___materialReferenceStack_44;
+	TMP_XmlTagStack_1_t3885462016  ___lineJustificationStack_45;
+	int32_t ___spriteAnimationID_46;
+	TMP_FontAsset_t209860335 * ___currentFontAsset_47;
+	TMP_SpriteAsset_t147018872 * ___currentSpriteAsset_48;
+	Material_t132180377 * ___currentMaterial_49;
+	int32_t ___currentMaterialIndex_50;
+	Extents_t10404588  ___meshExtents_51;
+	int32_t ___tagNoParsing_52;
+};
+#endif // WORDWRAPSTATE_T2272487395_H
+#ifndef RASTERTILE_T3151105318_H
+#define RASTERTILE_T3151105318_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7685,6 +12137,7 @@ struct WordWrapState_t1793959887_marshaled_com
 #endif
 
 // Mapbox.Map.RasterTile
+<<<<<<< Updated upstream
 struct  RasterTile_t2968510387  : public Tile_t1685153341
 {
 public:
@@ -7696,6 +12149,19 @@ public:
 	inline ByteU5BU5D_t2724152930* get_data_6() const { return ___data_6; }
 	inline ByteU5BU5D_t2724152930** get_address_of_data_6() { return &___data_6; }
 	inline void set_data_6(ByteU5BU5D_t2724152930* value)
+=======
+struct  RasterTile_t3151105318  : public Tile_t190475901
+{
+public:
+	// System.Byte[] Mapbox.Map.RasterTile::data
+	ByteU5BU5D_t2322282968* ___data_6;
+
+public:
+	inline static int32_t get_offset_of_data_6() { return static_cast<int32_t>(offsetof(RasterTile_t3151105318, ___data_6)); }
+	inline ByteU5BU5D_t2322282968* get_data_6() const { return ___data_6; }
+	inline ByteU5BU5D_t2322282968** get_address_of_data_6() { return &___data_6; }
+	inline void set_data_6(ByteU5BU5D_t2322282968* value)
+>>>>>>> Stashed changes
 	{
 		___data_6 = value;
 		Il2CppCodeGenWriteBarrier((&___data_6), value);
@@ -7705,9 +12171,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // RASTERTILE_T2968510387_H
 #ifndef FORWARDGEOCODERESOURCE_T3922827448_H
 #define FORWARDGEOCODERESOURCE_T3922827448_H
+=======
+#endif // RASTERTILE_T3151105318_H
+#ifndef FORWARDGEOCODERESOURCE_T1026807403_H
+#define FORWARDGEOCODERESOURCE_T1026807403_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7715,12 +12187,17 @@ public:
 #endif
 
 // Mapbox.Geocoding.ForwardGeocodeResource
+<<<<<<< Updated upstream
 struct  ForwardGeocodeResource_t3922827448  : public GeocodeResource_1_t2127511011
+=======
+struct  ForwardGeocodeResource_t1026807403  : public GeocodeResource_1_t3370649995
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Geocoding.ForwardGeocodeResource::query
 	String_t* ___query_9;
 	// System.Nullable`1<System.Boolean> Mapbox.Geocoding.ForwardGeocodeResource::autocomplete
+<<<<<<< Updated upstream
 	Nullable_1_t3812973277  ___autocomplete_10;
 	// System.String[] Mapbox.Geocoding.ForwardGeocodeResource::country
 	StringU5BU5D_t350477295* ___country_11;
@@ -7731,6 +12208,18 @@ public:
 
 public:
 	inline static int32_t get_offset_of_query_9() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t3922827448, ___query_9)); }
+=======
+	Nullable_1_t1820889821  ___autocomplete_10;
+	// System.String[] Mapbox.Geocoding.ForwardGeocodeResource::country
+	StringU5BU5D_t4053320056* ___country_11;
+	// System.Nullable`1<Mapbox.Utils.Vector2d> Mapbox.Geocoding.ForwardGeocodeResource::proximity
+	Nullable_1_t849267063  ___proximity_12;
+	// System.Nullable`1<Mapbox.Utils.Vector2dBounds> Mapbox.Geocoding.ForwardGeocodeResource::bbox
+	Nullable_1_t1123536152  ___bbox_13;
+
+public:
+	inline static int32_t get_offset_of_query_9() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t1026807403, ___query_9)); }
+>>>>>>> Stashed changes
 	inline String_t* get_query_9() const { return ___query_9; }
 	inline String_t** get_address_of_query_9() { return &___query_9; }
 	inline void set_query_9(String_t* value)
@@ -7739,40 +12228,69 @@ public:
 		Il2CppCodeGenWriteBarrier((&___query_9), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_autocomplete_10() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t3922827448, ___autocomplete_10)); }
 	inline Nullable_1_t3812973277  get_autocomplete_10() const { return ___autocomplete_10; }
 	inline Nullable_1_t3812973277 * get_address_of_autocomplete_10() { return &___autocomplete_10; }
 	inline void set_autocomplete_10(Nullable_1_t3812973277  value)
+=======
+	inline static int32_t get_offset_of_autocomplete_10() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t1026807403, ___autocomplete_10)); }
+	inline Nullable_1_t1820889821  get_autocomplete_10() const { return ___autocomplete_10; }
+	inline Nullable_1_t1820889821 * get_address_of_autocomplete_10() { return &___autocomplete_10; }
+	inline void set_autocomplete_10(Nullable_1_t1820889821  value)
+>>>>>>> Stashed changes
 	{
 		___autocomplete_10 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_country_11() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t3922827448, ___country_11)); }
 	inline StringU5BU5D_t350477295* get_country_11() const { return ___country_11; }
 	inline StringU5BU5D_t350477295** get_address_of_country_11() { return &___country_11; }
 	inline void set_country_11(StringU5BU5D_t350477295* value)
+=======
+	inline static int32_t get_offset_of_country_11() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t1026807403, ___country_11)); }
+	inline StringU5BU5D_t4053320056* get_country_11() const { return ___country_11; }
+	inline StringU5BU5D_t4053320056** get_address_of_country_11() { return &___country_11; }
+	inline void set_country_11(StringU5BU5D_t4053320056* value)
+>>>>>>> Stashed changes
 	{
 		___country_11 = value;
 		Il2CppCodeGenWriteBarrier((&___country_11), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_proximity_12() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t3922827448, ___proximity_12)); }
 	inline Nullable_1_t326495412  get_proximity_12() const { return ___proximity_12; }
 	inline Nullable_1_t326495412 * get_address_of_proximity_12() { return &___proximity_12; }
 	inline void set_proximity_12(Nullable_1_t326495412  value)
+=======
+	inline static int32_t get_offset_of_proximity_12() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t1026807403, ___proximity_12)); }
+	inline Nullable_1_t849267063  get_proximity_12() const { return ___proximity_12; }
+	inline Nullable_1_t849267063 * get_address_of_proximity_12() { return &___proximity_12; }
+	inline void set_proximity_12(Nullable_1_t849267063  value)
+>>>>>>> Stashed changes
 	{
 		___proximity_12 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_bbox_13() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t3922827448, ___bbox_13)); }
 	inline Nullable_1_t2646026380  get_bbox_13() const { return ___bbox_13; }
 	inline Nullable_1_t2646026380 * get_address_of_bbox_13() { return &___bbox_13; }
 	inline void set_bbox_13(Nullable_1_t2646026380  value)
+=======
+	inline static int32_t get_offset_of_bbox_13() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t1026807403, ___bbox_13)); }
+	inline Nullable_1_t1123536152  get_bbox_13() const { return ___bbox_13; }
+	inline Nullable_1_t1123536152 * get_address_of_bbox_13() { return &___bbox_13; }
+	inline void set_bbox_13(Nullable_1_t1123536152  value)
+>>>>>>> Stashed changes
 	{
 		___bbox_13 = value;
 	}
 };
 
+<<<<<<< Updated upstream
 struct ForwardGeocodeResource_t3922827448_StaticFields
 {
 public:
@@ -7784,6 +12302,19 @@ public:
 	inline List_1_t3381605710 * get_CountryCodes_8() const { return ___CountryCodes_8; }
 	inline List_1_t3381605710 ** get_address_of_CountryCodes_8() { return &___CountryCodes_8; }
 	inline void set_CountryCodes_8(List_1_t3381605710 * value)
+=======
+struct ForwardGeocodeResource_t1026807403_StaticFields
+{
+public:
+	// System.Collections.Generic.List`1<System.String> Mapbox.Geocoding.ForwardGeocodeResource::CountryCodes
+	List_1_t2137962008 * ___CountryCodes_8;
+
+public:
+	inline static int32_t get_offset_of_CountryCodes_8() { return static_cast<int32_t>(offsetof(ForwardGeocodeResource_t1026807403_StaticFields, ___CountryCodes_8)); }
+	inline List_1_t2137962008 * get_CountryCodes_8() const { return ___CountryCodes_8; }
+	inline List_1_t2137962008 ** get_address_of_CountryCodes_8() { return &___CountryCodes_8; }
+	inline void set_CountryCodes_8(List_1_t2137962008 * value)
+>>>>>>> Stashed changes
 	{
 		___CountryCodes_8 = value;
 		Il2CppCodeGenWriteBarrier((&___CountryCodes_8), value);
@@ -7793,9 +12324,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FORWARDGEOCODERESOURCE_T3922827448_H
 #ifndef FEATURE_T1857248423_H
 #define FEATURE_T1857248423_H
+=======
+#endif // FORWARDGEOCODERESOURCE_T1026807403_H
+#ifndef FEATURE_T2102481049_H
+#define FEATURE_T2102481049_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7803,7 +12340,11 @@ public:
 #endif
 
 // Mapbox.Geocoding.Feature
+<<<<<<< Updated upstream
 struct  Feature_t1857248423  : public RuntimeObject
+=======
+struct  Feature_t2102481049  : public RuntimeObject
+>>>>>>> Stashed changes
 {
 public:
 	// System.String Mapbox.Geocoding.Feature::<Id>k__BackingField
@@ -7817,6 +12358,7 @@ public:
 	// System.Double Mapbox.Geocoding.Feature::<Relevance>k__BackingField
 	double ___U3CRelevanceU3Ek__BackingField_4;
 	// System.Collections.Generic.Dictionary`2<System.String,System.Object> Mapbox.Geocoding.Feature::<Properties>k__BackingField
+<<<<<<< Updated upstream
 	Dictionary_2_t964109392 * ___U3CPropertiesU3Ek__BackingField_5;
 	// System.Nullable`1<Mapbox.Utils.Vector2dBounds> Mapbox.Geocoding.Feature::<Bbox>k__BackingField
 	Nullable_1_t2646026380  ___U3CBboxU3Ek__BackingField_6;
@@ -7831,6 +12373,22 @@ public:
 
 public:
 	inline static int32_t get_offset_of_U3CIdU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CIdU3Ek__BackingField_0)); }
+=======
+	Dictionary_2_t1458484040 * ___U3CPropertiesU3Ek__BackingField_5;
+	// System.Nullable`1<Mapbox.Utils.Vector2dBounds> Mapbox.Geocoding.Feature::<Bbox>k__BackingField
+	Nullable_1_t1123536152  ___U3CBboxU3Ek__BackingField_6;
+	// Mapbox.Utils.Vector2d Mapbox.Geocoding.Feature::<Center>k__BackingField
+	Vector2d_t3487944966  ___U3CCenterU3Ek__BackingField_7;
+	// Mapbox.Geocoding.Geometry Mapbox.Geocoding.Feature::<Geometry>k__BackingField
+	Geometry_t1793293810 * ___U3CGeometryU3Ek__BackingField_8;
+	// System.String Mapbox.Geocoding.Feature::<Address>k__BackingField
+	String_t* ___U3CAddressU3Ek__BackingField_9;
+	// System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.String>> Mapbox.Geocoding.Feature::<Context>k__BackingField
+	List_1_t1426662322 * ___U3CContextU3Ek__BackingField_10;
+
+public:
+	inline static int32_t get_offset_of_U3CIdU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CIdU3Ek__BackingField_0)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CIdU3Ek__BackingField_0() const { return ___U3CIdU3Ek__BackingField_0; }
 	inline String_t** get_address_of_U3CIdU3Ek__BackingField_0() { return &___U3CIdU3Ek__BackingField_0; }
 	inline void set_U3CIdU3Ek__BackingField_0(String_t* value)
@@ -7839,7 +12397,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CIdU3Ek__BackingField_0), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CTypeU3Ek__BackingField_1)); }
+=======
+	inline static int32_t get_offset_of_U3CTypeU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CTypeU3Ek__BackingField_1)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CTypeU3Ek__BackingField_1() const { return ___U3CTypeU3Ek__BackingField_1; }
 	inline String_t** get_address_of_U3CTypeU3Ek__BackingField_1() { return &___U3CTypeU3Ek__BackingField_1; }
 	inline void set_U3CTypeU3Ek__BackingField_1(String_t* value)
@@ -7848,7 +12410,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CTypeU3Ek__BackingField_1), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CTextU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CTextU3Ek__BackingField_2)); }
+=======
+	inline static int32_t get_offset_of_U3CTextU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CTextU3Ek__BackingField_2)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CTextU3Ek__BackingField_2() const { return ___U3CTextU3Ek__BackingField_2; }
 	inline String_t** get_address_of_U3CTextU3Ek__BackingField_2() { return &___U3CTextU3Ek__BackingField_2; }
 	inline void set_U3CTextU3Ek__BackingField_2(String_t* value)
@@ -7857,7 +12423,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CTextU3Ek__BackingField_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CPlaceNameU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CPlaceNameU3Ek__BackingField_3)); }
+=======
+	inline static int32_t get_offset_of_U3CPlaceNameU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CPlaceNameU3Ek__BackingField_3)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CPlaceNameU3Ek__BackingField_3() const { return ___U3CPlaceNameU3Ek__BackingField_3; }
 	inline String_t** get_address_of_U3CPlaceNameU3Ek__BackingField_3() { return &___U3CPlaceNameU3Ek__BackingField_3; }
 	inline void set_U3CPlaceNameU3Ek__BackingField_3(String_t* value)
@@ -7866,7 +12436,11 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CPlaceNameU3Ek__BackingField_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CRelevanceU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CRelevanceU3Ek__BackingField_4)); }
+=======
+	inline static int32_t get_offset_of_U3CRelevanceU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CRelevanceU3Ek__BackingField_4)); }
+>>>>>>> Stashed changes
 	inline double get_U3CRelevanceU3Ek__BackingField_4() const { return ___U3CRelevanceU3Ek__BackingField_4; }
 	inline double* get_address_of_U3CRelevanceU3Ek__BackingField_4() { return &___U3CRelevanceU3Ek__BackingField_4; }
 	inline void set_U3CRelevanceU3Ek__BackingField_4(double value)
@@ -7874,41 +12448,73 @@ public:
 		___U3CRelevanceU3Ek__BackingField_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CPropertiesU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CPropertiesU3Ek__BackingField_5)); }
 	inline Dictionary_2_t964109392 * get_U3CPropertiesU3Ek__BackingField_5() const { return ___U3CPropertiesU3Ek__BackingField_5; }
 	inline Dictionary_2_t964109392 ** get_address_of_U3CPropertiesU3Ek__BackingField_5() { return &___U3CPropertiesU3Ek__BackingField_5; }
 	inline void set_U3CPropertiesU3Ek__BackingField_5(Dictionary_2_t964109392 * value)
+=======
+	inline static int32_t get_offset_of_U3CPropertiesU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CPropertiesU3Ek__BackingField_5)); }
+	inline Dictionary_2_t1458484040 * get_U3CPropertiesU3Ek__BackingField_5() const { return ___U3CPropertiesU3Ek__BackingField_5; }
+	inline Dictionary_2_t1458484040 ** get_address_of_U3CPropertiesU3Ek__BackingField_5() { return &___U3CPropertiesU3Ek__BackingField_5; }
+	inline void set_U3CPropertiesU3Ek__BackingField_5(Dictionary_2_t1458484040 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CPropertiesU3Ek__BackingField_5 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CPropertiesU3Ek__BackingField_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CBboxU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CBboxU3Ek__BackingField_6)); }
 	inline Nullable_1_t2646026380  get_U3CBboxU3Ek__BackingField_6() const { return ___U3CBboxU3Ek__BackingField_6; }
 	inline Nullable_1_t2646026380 * get_address_of_U3CBboxU3Ek__BackingField_6() { return &___U3CBboxU3Ek__BackingField_6; }
 	inline void set_U3CBboxU3Ek__BackingField_6(Nullable_1_t2646026380  value)
+=======
+	inline static int32_t get_offset_of_U3CBboxU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CBboxU3Ek__BackingField_6)); }
+	inline Nullable_1_t1123536152  get_U3CBboxU3Ek__BackingField_6() const { return ___U3CBboxU3Ek__BackingField_6; }
+	inline Nullable_1_t1123536152 * get_address_of_U3CBboxU3Ek__BackingField_6() { return &___U3CBboxU3Ek__BackingField_6; }
+	inline void set_U3CBboxU3Ek__BackingField_6(Nullable_1_t1123536152  value)
+>>>>>>> Stashed changes
 	{
 		___U3CBboxU3Ek__BackingField_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CCenterU3Ek__BackingField_7() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CCenterU3Ek__BackingField_7)); }
 	inline Vector2d_t4273779274  get_U3CCenterU3Ek__BackingField_7() const { return ___U3CCenterU3Ek__BackingField_7; }
 	inline Vector2d_t4273779274 * get_address_of_U3CCenterU3Ek__BackingField_7() { return &___U3CCenterU3Ek__BackingField_7; }
 	inline void set_U3CCenterU3Ek__BackingField_7(Vector2d_t4273779274  value)
+=======
+	inline static int32_t get_offset_of_U3CCenterU3Ek__BackingField_7() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CCenterU3Ek__BackingField_7)); }
+	inline Vector2d_t3487944966  get_U3CCenterU3Ek__BackingField_7() const { return ___U3CCenterU3Ek__BackingField_7; }
+	inline Vector2d_t3487944966 * get_address_of_U3CCenterU3Ek__BackingField_7() { return &___U3CCenterU3Ek__BackingField_7; }
+	inline void set_U3CCenterU3Ek__BackingField_7(Vector2d_t3487944966  value)
+>>>>>>> Stashed changes
 	{
 		___U3CCenterU3Ek__BackingField_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CGeometryU3Ek__BackingField_8() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CGeometryU3Ek__BackingField_8)); }
 	inline Geometry_t4085959105 * get_U3CGeometryU3Ek__BackingField_8() const { return ___U3CGeometryU3Ek__BackingField_8; }
 	inline Geometry_t4085959105 ** get_address_of_U3CGeometryU3Ek__BackingField_8() { return &___U3CGeometryU3Ek__BackingField_8; }
 	inline void set_U3CGeometryU3Ek__BackingField_8(Geometry_t4085959105 * value)
+=======
+	inline static int32_t get_offset_of_U3CGeometryU3Ek__BackingField_8() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CGeometryU3Ek__BackingField_8)); }
+	inline Geometry_t1793293810 * get_U3CGeometryU3Ek__BackingField_8() const { return ___U3CGeometryU3Ek__BackingField_8; }
+	inline Geometry_t1793293810 ** get_address_of_U3CGeometryU3Ek__BackingField_8() { return &___U3CGeometryU3Ek__BackingField_8; }
+	inline void set_U3CGeometryU3Ek__BackingField_8(Geometry_t1793293810 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CGeometryU3Ek__BackingField_8 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CGeometryU3Ek__BackingField_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CAddressU3Ek__BackingField_9() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CAddressU3Ek__BackingField_9)); }
+=======
+	inline static int32_t get_offset_of_U3CAddressU3Ek__BackingField_9() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CAddressU3Ek__BackingField_9)); }
+>>>>>>> Stashed changes
 	inline String_t* get_U3CAddressU3Ek__BackingField_9() const { return ___U3CAddressU3Ek__BackingField_9; }
 	inline String_t** get_address_of_U3CAddressU3Ek__BackingField_9() { return &___U3CAddressU3Ek__BackingField_9; }
 	inline void set_U3CAddressU3Ek__BackingField_9(String_t* value)
@@ -7917,10 +12523,17 @@ public:
 		Il2CppCodeGenWriteBarrier((&___U3CAddressU3Ek__BackingField_9), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_U3CContextU3Ek__BackingField_10() { return static_cast<int32_t>(offsetof(Feature_t1857248423, ___U3CContextU3Ek__BackingField_10)); }
 	inline List_1_t255057708 * get_U3CContextU3Ek__BackingField_10() const { return ___U3CContextU3Ek__BackingField_10; }
 	inline List_1_t255057708 ** get_address_of_U3CContextU3Ek__BackingField_10() { return &___U3CContextU3Ek__BackingField_10; }
 	inline void set_U3CContextU3Ek__BackingField_10(List_1_t255057708 * value)
+=======
+	inline static int32_t get_offset_of_U3CContextU3Ek__BackingField_10() { return static_cast<int32_t>(offsetof(Feature_t2102481049, ___U3CContextU3Ek__BackingField_10)); }
+	inline List_1_t1426662322 * get_U3CContextU3Ek__BackingField_10() const { return ___U3CContextU3Ek__BackingField_10; }
+	inline List_1_t1426662322 ** get_address_of_U3CContextU3Ek__BackingField_10() { return &___U3CContextU3Ek__BackingField_10; }
+	inline void set_U3CContextU3Ek__BackingField_10(List_1_t1426662322 * value)
+>>>>>>> Stashed changes
 	{
 		___U3CContextU3Ek__BackingField_10 = value;
 		Il2CppCodeGenWriteBarrier((&___U3CContextU3Ek__BackingField_10), value);
@@ -7930,9 +12543,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FEATURE_T1857248423_H
 #ifndef BEHAVIOUR_T2716470110_H
 #define BEHAVIOUR_T2716470110_H
+=======
+#endif // FEATURE_T2102481049_H
+#ifndef BEHAVIOUR_T1241810485_H
+#define BEHAVIOUR_T1241810485_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7940,7 +12559,11 @@ public:
 #endif
 
 // UnityEngine.Behaviour
+<<<<<<< Updated upstream
 struct  Behaviour_t2716470110  : public Component_t357856507
+=======
+struct  Behaviour_t1241810485  : public Component_t1501867926
+>>>>>>> Stashed changes
 {
 public:
 
@@ -7950,9 +12573,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // BEHAVIOUR_T2716470110_H
 #ifndef MONOBEHAVIOUR_T3474225292_H
 #define MONOBEHAVIOUR_T3474225292_H
+=======
+#endif // BEHAVIOUR_T1241810485_H
+#ifndef MONOBEHAVIOUR_T4068272582_H
+#define MONOBEHAVIOUR_T4068272582_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7960,7 +12589,11 @@ public:
 #endif
 
 // UnityEngine.MonoBehaviour
+<<<<<<< Updated upstream
 struct  MonoBehaviour_t3474225292  : public Behaviour_t2716470110
+=======
+struct  MonoBehaviour_t4068272582  : public Behaviour_t1241810485
+>>>>>>> Stashed changes
 {
 public:
 
@@ -7970,9 +12603,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // MONOBEHAVIOUR_T3474225292_H
 #ifndef CLASSICRASTERTILE_T2730773483_H
 #define CLASSICRASTERTILE_T2730773483_H
+=======
+#endif // MONOBEHAVIOUR_T4068272582_H
+#ifndef CLASSICRASTERTILE_T45596224_H
+#define CLASSICRASTERTILE_T45596224_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -7980,7 +12619,11 @@ public:
 #endif
 
 // Mapbox.Map.ClassicRasterTile
+<<<<<<< Updated upstream
 struct  ClassicRasterTile_t2730773483  : public RasterTile_t2968510387
+=======
+struct  ClassicRasterTile_t45596224  : public RasterTile_t3151105318
+>>>>>>> Stashed changes
 {
 public:
 
@@ -7990,9 +12633,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // CLASSICRASTERTILE_T2730773483_H
 #ifndef FACTHIT2_T3342535842_H
 #define FACTHIT2_T3342535842_H
+=======
+#endif // CLASSICRASTERTILE_T45596224_H
+#ifndef FACTHIT2_T665655721_H
+#define FACTHIT2_T665655721_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8000,6 +12649,7 @@ public:
 #endif
 
 // FactHit2
+<<<<<<< Updated upstream
 struct  FactHit2_t3342535842  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8025,67 +12675,143 @@ public:
 	inline Vector3_t3513892689  get_fact2OrigPos_2() const { return ___fact2OrigPos_2; }
 	inline Vector3_t3513892689 * get_address_of_fact2OrigPos_2() { return &___fact2OrigPos_2; }
 	inline void set_fact2OrigPos_2(Vector3_t3513892689  value)
+=======
+struct  FactHit2_t665655721  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Vector3 FactHit2::fact2OrigPos
+	Vector3_t2110634753  ___fact2OrigPos_2;
+	// UnityEngine.Vector3 FactHit2::fact2NewPos
+	Vector3_t2110634753  ___fact2NewPos_3;
+	// UnityEngine.GameObject FactHit2::spotlightObject
+	GameObject_t2000580331 * ___spotlightObject_4;
+	// UnityEngine.GameObject FactHit2::spotlightObject1
+	GameObject_t2000580331 * ___spotlightObject1_5;
+	// UnityEngine.GameObject FactHit2::TapToText
+	GameObject_t2000580331 * ___TapToText_6;
+	// UnityEngine.GameObject FactHit2::SmokeParent
+	GameObject_t2000580331 * ___SmokeParent_7;
+	// UnityEngine.GameObject FactHit2::SmokeParentLite
+	GameObject_t2000580331 * ___SmokeParentLite_8;
+	// UnityEngine.GameObject FactHit2::buildingsText
+	GameObject_t2000580331 * ___buildingsText_9;
+
+public:
+	inline static int32_t get_offset_of_fact2OrigPos_2() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___fact2OrigPos_2)); }
+	inline Vector3_t2110634753  get_fact2OrigPos_2() const { return ___fact2OrigPos_2; }
+	inline Vector3_t2110634753 * get_address_of_fact2OrigPos_2() { return &___fact2OrigPos_2; }
+	inline void set_fact2OrigPos_2(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact2OrigPos_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fact2NewPos_3() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___fact2NewPos_3)); }
 	inline Vector3_t3513892689  get_fact2NewPos_3() const { return ___fact2NewPos_3; }
 	inline Vector3_t3513892689 * get_address_of_fact2NewPos_3() { return &___fact2NewPos_3; }
 	inline void set_fact2NewPos_3(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_fact2NewPos_3() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___fact2NewPos_3)); }
+	inline Vector3_t2110634753  get_fact2NewPos_3() const { return ___fact2NewPos_3; }
+	inline Vector3_t2110634753 * get_address_of_fact2NewPos_3() { return &___fact2NewPos_3; }
+	inline void set_fact2NewPos_3(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact2NewPos_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spotlightObject_4() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___spotlightObject_4)); }
 	inline GameObject_t3669940079 * get_spotlightObject_4() const { return ___spotlightObject_4; }
 	inline GameObject_t3669940079 ** get_address_of_spotlightObject_4() { return &___spotlightObject_4; }
 	inline void set_spotlightObject_4(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_spotlightObject_4() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___spotlightObject_4)); }
+	inline GameObject_t2000580331 * get_spotlightObject_4() const { return ___spotlightObject_4; }
+	inline GameObject_t2000580331 ** get_address_of_spotlightObject_4() { return &___spotlightObject_4; }
+	inline void set_spotlightObject_4(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___spotlightObject_4 = value;
 		Il2CppCodeGenWriteBarrier((&___spotlightObject_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_spotlightObject1_5() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___spotlightObject1_5)); }
 	inline GameObject_t3669940079 * get_spotlightObject1_5() const { return ___spotlightObject1_5; }
 	inline GameObject_t3669940079 ** get_address_of_spotlightObject1_5() { return &___spotlightObject1_5; }
 	inline void set_spotlightObject1_5(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_spotlightObject1_5() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___spotlightObject1_5)); }
+	inline GameObject_t2000580331 * get_spotlightObject1_5() const { return ___spotlightObject1_5; }
+	inline GameObject_t2000580331 ** get_address_of_spotlightObject1_5() { return &___spotlightObject1_5; }
+	inline void set_spotlightObject1_5(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___spotlightObject1_5 = value;
 		Il2CppCodeGenWriteBarrier((&___spotlightObject1_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TapToText_6() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___TapToText_6)); }
 	inline GameObject_t3669940079 * get_TapToText_6() const { return ___TapToText_6; }
 	inline GameObject_t3669940079 ** get_address_of_TapToText_6() { return &___TapToText_6; }
 	inline void set_TapToText_6(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_TapToText_6() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___TapToText_6)); }
+	inline GameObject_t2000580331 * get_TapToText_6() const { return ___TapToText_6; }
+	inline GameObject_t2000580331 ** get_address_of_TapToText_6() { return &___TapToText_6; }
+	inline void set_TapToText_6(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___TapToText_6 = value;
 		Il2CppCodeGenWriteBarrier((&___TapToText_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_SmokeParent_7() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___SmokeParent_7)); }
 	inline GameObject_t3669940079 * get_SmokeParent_7() const { return ___SmokeParent_7; }
 	inline GameObject_t3669940079 ** get_address_of_SmokeParent_7() { return &___SmokeParent_7; }
 	inline void set_SmokeParent_7(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_SmokeParent_7() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___SmokeParent_7)); }
+	inline GameObject_t2000580331 * get_SmokeParent_7() const { return ___SmokeParent_7; }
+	inline GameObject_t2000580331 ** get_address_of_SmokeParent_7() { return &___SmokeParent_7; }
+	inline void set_SmokeParent_7(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___SmokeParent_7 = value;
 		Il2CppCodeGenWriteBarrier((&___SmokeParent_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_SmokeParentLite_8() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___SmokeParentLite_8)); }
 	inline GameObject_t3669940079 * get_SmokeParentLite_8() const { return ___SmokeParentLite_8; }
 	inline GameObject_t3669940079 ** get_address_of_SmokeParentLite_8() { return &___SmokeParentLite_8; }
 	inline void set_SmokeParentLite_8(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_SmokeParentLite_8() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___SmokeParentLite_8)); }
+	inline GameObject_t2000580331 * get_SmokeParentLite_8() const { return ___SmokeParentLite_8; }
+	inline GameObject_t2000580331 ** get_address_of_SmokeParentLite_8() { return &___SmokeParentLite_8; }
+	inline void set_SmokeParentLite_8(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___SmokeParentLite_8 = value;
 		Il2CppCodeGenWriteBarrier((&___SmokeParentLite_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_buildingsText_9() { return static_cast<int32_t>(offsetof(FactHit2_t3342535842, ___buildingsText_9)); }
 	inline GameObject_t3669940079 * get_buildingsText_9() const { return ___buildingsText_9; }
 	inline GameObject_t3669940079 ** get_address_of_buildingsText_9() { return &___buildingsText_9; }
 	inline void set_buildingsText_9(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_buildingsText_9() { return static_cast<int32_t>(offsetof(FactHit2_t665655721, ___buildingsText_9)); }
+	inline GameObject_t2000580331 * get_buildingsText_9() const { return ___buildingsText_9; }
+	inline GameObject_t2000580331 ** get_address_of_buildingsText_9() { return &___buildingsText_9; }
+	inline void set_buildingsText_9(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___buildingsText_9 = value;
 		Il2CppCodeGenWriteBarrier((&___buildingsText_9), value);
@@ -8095,9 +12821,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACTHIT2_T3342535842_H
 #ifndef FACTHIT1_T4096136430_H
 #define FACTHIT1_T4096136430_H
+=======
+#endif // FACTHIT2_T665655721_H
+#ifndef FACTHIT1_T3426035946_H
+#define FACTHIT1_T3426035946_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8105,6 +12837,7 @@ public:
 #endif
 
 // FactHit1
+<<<<<<< Updated upstream
 struct  FactHit1_t4096136430  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8118,14 +12851,36 @@ public:
 	inline Vector3_t3513892689  get_fact1OrigPos_2() const { return ___fact1OrigPos_2; }
 	inline Vector3_t3513892689 * get_address_of_fact1OrigPos_2() { return &___fact1OrigPos_2; }
 	inline void set_fact1OrigPos_2(Vector3_t3513892689  value)
+=======
+struct  FactHit1_t3426035946  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Vector3 FactHit1::fact1OrigPos
+	Vector3_t2110634753  ___fact1OrigPos_2;
+	// UnityEngine.Vector3 FactHit1::fact1NewPos
+	Vector3_t2110634753  ___fact1NewPos_3;
+
+public:
+	inline static int32_t get_offset_of_fact1OrigPos_2() { return static_cast<int32_t>(offsetof(FactHit1_t3426035946, ___fact1OrigPos_2)); }
+	inline Vector3_t2110634753  get_fact1OrigPos_2() const { return ___fact1OrigPos_2; }
+	inline Vector3_t2110634753 * get_address_of_fact1OrigPos_2() { return &___fact1OrigPos_2; }
+	inline void set_fact1OrigPos_2(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact1OrigPos_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fact1NewPos_3() { return static_cast<int32_t>(offsetof(FactHit1_t4096136430, ___fact1NewPos_3)); }
 	inline Vector3_t3513892689  get_fact1NewPos_3() const { return ___fact1NewPos_3; }
 	inline Vector3_t3513892689 * get_address_of_fact1NewPos_3() { return &___fact1NewPos_3; }
 	inline void set_fact1NewPos_3(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_fact1NewPos_3() { return static_cast<int32_t>(offsetof(FactHit1_t3426035946, ___fact1NewPos_3)); }
+	inline Vector3_t2110634753  get_fact1NewPos_3() const { return ___fact1NewPos_3; }
+	inline Vector3_t2110634753 * get_address_of_fact1NewPos_3() { return &___fact1NewPos_3; }
+	inline void set_fact1NewPos_3(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact1NewPos_3 = value;
 	}
@@ -8134,9 +12889,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACTHIT1_T4096136430_H
 #ifndef FACTHIT3_T1069603800_H
 #define FACTHIT3_T1069603800_H
+=======
+#endif // FACTHIT1_T3426035946_H
+#ifndef FACTHIT3_T2887514825_H
+#define FACTHIT3_T2887514825_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8144,6 +12905,7 @@ public:
 #endif
 
 // FactHit3
+<<<<<<< Updated upstream
 struct  FactHit3_t1069603800  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8157,14 +12919,36 @@ public:
 	inline Vector3_t3513892689  get_fact3OrigPos_2() const { return ___fact3OrigPos_2; }
 	inline Vector3_t3513892689 * get_address_of_fact3OrigPos_2() { return &___fact3OrigPos_2; }
 	inline void set_fact3OrigPos_2(Vector3_t3513892689  value)
+=======
+struct  FactHit3_t2887514825  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Vector3 FactHit3::fact3OrigPos
+	Vector3_t2110634753  ___fact3OrigPos_2;
+	// UnityEngine.Vector3 FactHit3::fact3NewPos
+	Vector3_t2110634753  ___fact3NewPos_3;
+
+public:
+	inline static int32_t get_offset_of_fact3OrigPos_2() { return static_cast<int32_t>(offsetof(FactHit3_t2887514825, ___fact3OrigPos_2)); }
+	inline Vector3_t2110634753  get_fact3OrigPos_2() const { return ___fact3OrigPos_2; }
+	inline Vector3_t2110634753 * get_address_of_fact3OrigPos_2() { return &___fact3OrigPos_2; }
+	inline void set_fact3OrigPos_2(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact3OrigPos_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fact3NewPos_3() { return static_cast<int32_t>(offsetof(FactHit3_t1069603800, ___fact3NewPos_3)); }
 	inline Vector3_t3513892689  get_fact3NewPos_3() const { return ___fact3NewPos_3; }
 	inline Vector3_t3513892689 * get_address_of_fact3NewPos_3() { return &___fact3NewPos_3; }
 	inline void set_fact3NewPos_3(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_fact3NewPos_3() { return static_cast<int32_t>(offsetof(FactHit3_t2887514825, ___fact3NewPos_3)); }
+	inline Vector3_t2110634753  get_fact3NewPos_3() const { return ___fact3NewPos_3; }
+	inline Vector3_t2110634753 * get_address_of_fact3NewPos_3() { return &___fact3NewPos_3; }
+	inline void set_fact3NewPos_3(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact3NewPos_3 = value;
 	}
@@ -8173,9 +12957,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACTHIT3_T1069603800_H
 #ifndef FACTHIT4_T3379204327_H
 #define FACTHIT4_T3379204327_H
+=======
+#endif // FACTHIT3_T2887514825_H
+#ifndef FACTHIT4_T2378537122_H
+#define FACTHIT4_T2378537122_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8183,6 +12973,7 @@ public:
 #endif
 
 // FactHit4
+<<<<<<< Updated upstream
 struct  FactHit4_t3379204327  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8196,14 +12987,36 @@ public:
 	inline Vector3_t3513892689  get_fact4OrigPos_2() const { return ___fact4OrigPos_2; }
 	inline Vector3_t3513892689 * get_address_of_fact4OrigPos_2() { return &___fact4OrigPos_2; }
 	inline void set_fact4OrigPos_2(Vector3_t3513892689  value)
+=======
+struct  FactHit4_t2378537122  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Vector3 FactHit4::fact4OrigPos
+	Vector3_t2110634753  ___fact4OrigPos_2;
+	// UnityEngine.Vector3 FactHit4::fact4NewPos
+	Vector3_t2110634753  ___fact4NewPos_3;
+
+public:
+	inline static int32_t get_offset_of_fact4OrigPos_2() { return static_cast<int32_t>(offsetof(FactHit4_t2378537122, ___fact4OrigPos_2)); }
+	inline Vector3_t2110634753  get_fact4OrigPos_2() const { return ___fact4OrigPos_2; }
+	inline Vector3_t2110634753 * get_address_of_fact4OrigPos_2() { return &___fact4OrigPos_2; }
+	inline void set_fact4OrigPos_2(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact4OrigPos_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fact4NewPos_3() { return static_cast<int32_t>(offsetof(FactHit4_t3379204327, ___fact4NewPos_3)); }
 	inline Vector3_t3513892689  get_fact4NewPos_3() const { return ___fact4NewPos_3; }
 	inline Vector3_t3513892689 * get_address_of_fact4NewPos_3() { return &___fact4NewPos_3; }
 	inline void set_fact4NewPos_3(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_fact4NewPos_3() { return static_cast<int32_t>(offsetof(FactHit4_t2378537122, ___fact4NewPos_3)); }
+	inline Vector3_t2110634753  get_fact4NewPos_3() const { return ___fact4NewPos_3; }
+	inline Vector3_t2110634753 * get_address_of_fact4NewPos_3() { return &___fact4NewPos_3; }
+	inline void set_fact4NewPos_3(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___fact4NewPos_3 = value;
 	}
@@ -8212,9 +13025,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACTHIT4_T3379204327_H
 #ifndef FACTTRIGGER_T2914793348_H
 #define FACTTRIGGER_T2914793348_H
+=======
+#endif // FACTHIT4_T2378537122_H
+#ifndef FACTTRIGGER_T2396128222_H
+#define FACTTRIGGER_T2396128222_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8222,6 +13041,7 @@ public:
 #endif
 
 // factTrigger
+<<<<<<< Updated upstream
 struct  factTrigger_t2914793348  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8233,6 +13053,19 @@ public:
 	inline GameObject_t3669940079 * get_fact2_2() const { return ___fact2_2; }
 	inline GameObject_t3669940079 ** get_address_of_fact2_2() { return &___fact2_2; }
 	inline void set_fact2_2(GameObject_t3669940079 * value)
+=======
+struct  factTrigger_t2396128222  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject factTrigger::fact2
+	GameObject_t2000580331 * ___fact2_2;
+
+public:
+	inline static int32_t get_offset_of_fact2_2() { return static_cast<int32_t>(offsetof(factTrigger_t2396128222, ___fact2_2)); }
+	inline GameObject_t2000580331 * get_fact2_2() const { return ___fact2_2; }
+	inline GameObject_t2000580331 ** get_address_of_fact2_2() { return &___fact2_2; }
+	inline void set_fact2_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___fact2_2 = value;
 		Il2CppCodeGenWriteBarrier((&___fact2_2), value);
@@ -8242,9 +13075,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACTTRIGGER_T2914793348_H
 #ifndef FADEAWAYSCRIPT_T3534255865_H
 #define FADEAWAYSCRIPT_T3534255865_H
+=======
+#endif // FACTTRIGGER_T2396128222_H
+#ifndef FADEAWAYSCRIPT_T4066381897_H
+#define FADEAWAYSCRIPT_T4066381897_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8252,16 +13091,27 @@ public:
 #endif
 
 // FadeAwayScript
+<<<<<<< Updated upstream
 struct  FadeAwayScript_t3534255865  : public MonoBehaviour_t3474225292
+=======
+struct  FadeAwayScript_t4066381897  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single FadeAwayScript::duration
 	float ___duration_2;
 	// UnityEngine.GameObject FadeAwayScript::TapToText
+<<<<<<< Updated upstream
 	GameObject_t3669940079 * ___TapToText_3;
 
 public:
 	inline static int32_t get_offset_of_duration_2() { return static_cast<int32_t>(offsetof(FadeAwayScript_t3534255865, ___duration_2)); }
+=======
+	GameObject_t2000580331 * ___TapToText_3;
+
+public:
+	inline static int32_t get_offset_of_duration_2() { return static_cast<int32_t>(offsetof(FadeAwayScript_t4066381897, ___duration_2)); }
+>>>>>>> Stashed changes
 	inline float get_duration_2() const { return ___duration_2; }
 	inline float* get_address_of_duration_2() { return &___duration_2; }
 	inline void set_duration_2(float value)
@@ -8269,10 +13119,17 @@ public:
 		___duration_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TapToText_3() { return static_cast<int32_t>(offsetof(FadeAwayScript_t3534255865, ___TapToText_3)); }
 	inline GameObject_t3669940079 * get_TapToText_3() const { return ___TapToText_3; }
 	inline GameObject_t3669940079 ** get_address_of_TapToText_3() { return &___TapToText_3; }
 	inline void set_TapToText_3(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_TapToText_3() { return static_cast<int32_t>(offsetof(FadeAwayScript_t4066381897, ___TapToText_3)); }
+	inline GameObject_t2000580331 * get_TapToText_3() const { return ___TapToText_3; }
+	inline GameObject_t2000580331 ** get_address_of_TapToText_3() { return &___TapToText_3; }
+	inline void set_TapToText_3(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___TapToText_3 = value;
 		Il2CppCodeGenWriteBarrier((&___TapToText_3), value);
@@ -8282,9 +13139,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FADEAWAYSCRIPT_T3534255865_H
 #ifndef FIXEDPOS_T3119468900_H
 #define FIXEDPOS_T3119468900_H
+=======
+#endif // FADEAWAYSCRIPT_T4066381897_H
+#ifndef FIXEDPOS_T720596715_H
+#define FIXEDPOS_T720596715_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8292,6 +13155,7 @@ public:
 #endif
 
 // fixedpos
+<<<<<<< Updated upstream
 struct  fixedpos_t3119468900  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8305,15 +13169,37 @@ public:
 	inline GameObject_t3669940079 * get_cfl_2() const { return ___cfl_2; }
 	inline GameObject_t3669940079 ** get_address_of_cfl_2() { return &___cfl_2; }
 	inline void set_cfl_2(GameObject_t3669940079 * value)
+=======
+struct  fixedpos_t720596715  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject fixedpos::cfl
+	GameObject_t2000580331 * ___cfl_2;
+	// UnityEngine.Vector3 fixedpos::offset
+	Vector3_t2110634753  ___offset_3;
+
+public:
+	inline static int32_t get_offset_of_cfl_2() { return static_cast<int32_t>(offsetof(fixedpos_t720596715, ___cfl_2)); }
+	inline GameObject_t2000580331 * get_cfl_2() const { return ___cfl_2; }
+	inline GameObject_t2000580331 ** get_address_of_cfl_2() { return &___cfl_2; }
+	inline void set_cfl_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___cfl_2 = value;
 		Il2CppCodeGenWriteBarrier((&___cfl_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_offset_3() { return static_cast<int32_t>(offsetof(fixedpos_t3119468900, ___offset_3)); }
 	inline Vector3_t3513892689  get_offset_3() const { return ___offset_3; }
 	inline Vector3_t3513892689 * get_address_of_offset_3() { return &___offset_3; }
 	inline void set_offset_3(Vector3_t3513892689  value)
+=======
+	inline static int32_t get_offset_of_offset_3() { return static_cast<int32_t>(offsetof(fixedpos_t720596715, ___offset_3)); }
+	inline Vector3_t2110634753  get_offset_3() const { return ___offset_3; }
+	inline Vector3_t2110634753 * get_address_of_offset_3() { return &___offset_3; }
+	inline void set_offset_3(Vector3_t2110634753  value)
+>>>>>>> Stashed changes
 	{
 		___offset_3 = value;
 	}
@@ -8322,9 +13208,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FIXEDPOS_T3119468900_H
 #ifndef FLICKER_T3491093091_H
 #define FLICKER_T3491093091_H
+=======
+#endif // FIXEDPOS_T720596715_H
+#ifndef FLICKER_T679923389_H
+#define FLICKER_T679923389_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8332,11 +13224,19 @@ public:
 #endif
 
 // flicker
+<<<<<<< Updated upstream
 struct  flicker_t3491093091  : public MonoBehaviour_t3474225292
 {
 public:
 	// UnityEngine.GameObject flicker::badLight
 	GameObject_t3669940079 * ___badLight_2;
+=======
+struct  flicker_t679923389  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject flicker::badLight
+	GameObject_t2000580331 * ___badLight_2;
+>>>>>>> Stashed changes
 	// System.Single flicker::timeOn
 	float ___timeOn_3;
 	// System.Single flicker::timeOff
@@ -8344,6 +13244,7 @@ public:
 	// System.Single flicker::changeTime
 	float ___changeTime_5;
 	// UnityEngine.Light flicker::lit
+<<<<<<< Updated upstream
 	Light_t506575256 * ___lit_6;
 
 public:
@@ -8351,12 +13252,25 @@ public:
 	inline GameObject_t3669940079 * get_badLight_2() const { return ___badLight_2; }
 	inline GameObject_t3669940079 ** get_address_of_badLight_2() { return &___badLight_2; }
 	inline void set_badLight_2(GameObject_t3669940079 * value)
+=======
+	Light_t3332268330 * ___lit_6;
+
+public:
+	inline static int32_t get_offset_of_badLight_2() { return static_cast<int32_t>(offsetof(flicker_t679923389, ___badLight_2)); }
+	inline GameObject_t2000580331 * get_badLight_2() const { return ___badLight_2; }
+	inline GameObject_t2000580331 ** get_address_of_badLight_2() { return &___badLight_2; }
+	inline void set_badLight_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___badLight_2 = value;
 		Il2CppCodeGenWriteBarrier((&___badLight_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_timeOn_3() { return static_cast<int32_t>(offsetof(flicker_t3491093091, ___timeOn_3)); }
+=======
+	inline static int32_t get_offset_of_timeOn_3() { return static_cast<int32_t>(offsetof(flicker_t679923389, ___timeOn_3)); }
+>>>>>>> Stashed changes
 	inline float get_timeOn_3() const { return ___timeOn_3; }
 	inline float* get_address_of_timeOn_3() { return &___timeOn_3; }
 	inline void set_timeOn_3(float value)
@@ -8364,7 +13278,11 @@ public:
 		___timeOn_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_timeOff_4() { return static_cast<int32_t>(offsetof(flicker_t3491093091, ___timeOff_4)); }
+=======
+	inline static int32_t get_offset_of_timeOff_4() { return static_cast<int32_t>(offsetof(flicker_t679923389, ___timeOff_4)); }
+>>>>>>> Stashed changes
 	inline float get_timeOff_4() const { return ___timeOff_4; }
 	inline float* get_address_of_timeOff_4() { return &___timeOff_4; }
 	inline void set_timeOff_4(float value)
@@ -8372,7 +13290,11 @@ public:
 		___timeOff_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_changeTime_5() { return static_cast<int32_t>(offsetof(flicker_t3491093091, ___changeTime_5)); }
+=======
+	inline static int32_t get_offset_of_changeTime_5() { return static_cast<int32_t>(offsetof(flicker_t679923389, ___changeTime_5)); }
+>>>>>>> Stashed changes
 	inline float get_changeTime_5() const { return ___changeTime_5; }
 	inline float* get_address_of_changeTime_5() { return &___changeTime_5; }
 	inline void set_changeTime_5(float value)
@@ -8380,10 +13302,17 @@ public:
 		___changeTime_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lit_6() { return static_cast<int32_t>(offsetof(flicker_t3491093091, ___lit_6)); }
 	inline Light_t506575256 * get_lit_6() const { return ___lit_6; }
 	inline Light_t506575256 ** get_address_of_lit_6() { return &___lit_6; }
 	inline void set_lit_6(Light_t506575256 * value)
+=======
+	inline static int32_t get_offset_of_lit_6() { return static_cast<int32_t>(offsetof(flicker_t679923389, ___lit_6)); }
+	inline Light_t3332268330 * get_lit_6() const { return ___lit_6; }
+	inline Light_t3332268330 ** get_address_of_lit_6() { return &___lit_6; }
+	inline void set_lit_6(Light_t3332268330 * value)
+>>>>>>> Stashed changes
 	{
 		___lit_6 = value;
 		Il2CppCodeGenWriteBarrier((&___lit_6), value);
@@ -8393,9 +13322,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FLICKER_T3491093091_H
 #ifndef FLICKERINGLIGHT_T645209213_H
 #define FLICKERINGLIGHT_T645209213_H
+=======
+#endif // FLICKER_T679923389_H
+#ifndef FLICKERINGLIGHT_T1395964630_H
+#define FLICKERINGLIGHT_T1395964630_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8403,7 +13338,11 @@ public:
 #endif
 
 // flickeringLight
+<<<<<<< Updated upstream
 struct  flickeringLight_t645209213  : public MonoBehaviour_t3474225292
+=======
+struct  flickeringLight_t1395964630  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 
@@ -8413,9 +13352,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FLICKERINGLIGHT_T645209213_H
 #ifndef HITBYRAY_T112379781_H
 #define HITBYRAY_T112379781_H
+=======
+#endif // FLICKERINGLIGHT_T1395964630_H
+#ifndef HITBYRAY_T3090899175_H
+#define HITBYRAY_T3090899175_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8423,7 +13368,11 @@ public:
 #endif
 
 // HitByRay
+<<<<<<< Updated upstream
 struct  HitByRay_t112379781  : public MonoBehaviour_t3474225292
+=======
+struct  HitByRay_t3090899175  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 
@@ -8433,9 +13382,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // HITBYRAY_T112379781_H
 #ifndef HITBYRAYCAST_T559800998_H
 #define HITBYRAYCAST_T559800998_H
+=======
+#endif // HITBYRAY_T3090899175_H
+#ifndef HITBYRAYCAST_T1263640661_H
+#define HITBYRAYCAST_T1263640661_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8443,7 +13398,11 @@ public:
 #endif
 
 // HitByRaycast
+<<<<<<< Updated upstream
 struct  HitByRaycast_t559800998  : public MonoBehaviour_t3474225292
+=======
+struct  HitByRaycast_t1263640661  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 
@@ -8453,9 +13412,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // HITBYRAYCAST_T559800998_H
 #ifndef CLASSICRETINARASTERTILE_T2135799363_H
 #define CLASSICRETINARASTERTILE_T2135799363_H
+=======
+#endif // HITBYRAYCAST_T1263640661_H
+#ifndef CLASSICRETINARASTERTILE_T12380623_H
+#define CLASSICRETINARASTERTILE_T12380623_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8463,7 +13428,11 @@ public:
 #endif
 
 // Mapbox.Map.ClassicRetinaRasterTile
+<<<<<<< Updated upstream
 struct  ClassicRetinaRasterTile_t2135799363  : public ClassicRasterTile_t2730773483
+=======
+struct  ClassicRetinaRasterTile_t12380623  : public ClassicRasterTile_t45596224
+>>>>>>> Stashed changes
 {
 public:
 
@@ -8473,9 +13442,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // CLASSICRETINARASTERTILE_T2135799363_H
 #ifndef IFANCHORADDEDSCRIPT_T3754850823_H
 #define IFANCHORADDEDSCRIPT_T3754850823_H
+=======
+#endif // CLASSICRETINARASTERTILE_T12380623_H
+#ifndef IFANCHORADDEDSCRIPT_T3447425054_H
+#define IFANCHORADDEDSCRIPT_T3447425054_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8483,6 +13458,7 @@ public:
 #endif
 
 // IfAnchorAddedScript
+<<<<<<< Updated upstream
 struct  IfAnchorAddedScript_t3754850823  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8504,51 +13480,109 @@ public:
 	inline UnityARAnchorManager_t1631446966 * get_unityARAnchorManager_2() const { return ___unityARAnchorManager_2; }
 	inline UnityARAnchorManager_t1631446966 ** get_address_of_unityARAnchorManager_2() { return &___unityARAnchorManager_2; }
 	inline void set_unityARAnchorManager_2(UnityARAnchorManager_t1631446966 * value)
+=======
+struct  IfAnchorAddedScript_t3447425054  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.XR.iOS.UnityARAnchorManager IfAnchorAddedScript::unityARAnchorManager
+	UnityARAnchorManager_t3743418602 * ___unityARAnchorManager_2;
+	// UnityEngine.GameObject IfAnchorAddedScript::FindFlatSurfaceIcon
+	GameObject_t2000580331 * ___FindFlatSurfaceIcon_3;
+	// UnityEngine.GameObject IfAnchorAddedScript::FindFlatSurfaceText
+	GameObject_t2000580331 * ___FindFlatSurfaceText_4;
+	// UnityEngine.GameObject IfAnchorAddedScript::TapToPlaceText
+	GameObject_t2000580331 * ___TapToPlaceText_5;
+	// UnityEngine.GameObject IfAnchorAddedScript::ObjectFocusSquare
+	GameObject_t2000580331 * ___ObjectFocusSquare_6;
+	// UnityEngine.Material IfAnchorAddedScript::lampShade
+	Material_t132180377 * ___lampShade_7;
+
+public:
+	inline static int32_t get_offset_of_unityARAnchorManager_2() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3447425054, ___unityARAnchorManager_2)); }
+	inline UnityARAnchorManager_t3743418602 * get_unityARAnchorManager_2() const { return ___unityARAnchorManager_2; }
+	inline UnityARAnchorManager_t3743418602 ** get_address_of_unityARAnchorManager_2() { return &___unityARAnchorManager_2; }
+	inline void set_unityARAnchorManager_2(UnityARAnchorManager_t3743418602 * value)
+>>>>>>> Stashed changes
 	{
 		___unityARAnchorManager_2 = value;
 		Il2CppCodeGenWriteBarrier((&___unityARAnchorManager_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_FindFlatSurfaceIcon_3() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3754850823, ___FindFlatSurfaceIcon_3)); }
 	inline GameObject_t3669940079 * get_FindFlatSurfaceIcon_3() const { return ___FindFlatSurfaceIcon_3; }
 	inline GameObject_t3669940079 ** get_address_of_FindFlatSurfaceIcon_3() { return &___FindFlatSurfaceIcon_3; }
 	inline void set_FindFlatSurfaceIcon_3(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_FindFlatSurfaceIcon_3() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3447425054, ___FindFlatSurfaceIcon_3)); }
+	inline GameObject_t2000580331 * get_FindFlatSurfaceIcon_3() const { return ___FindFlatSurfaceIcon_3; }
+	inline GameObject_t2000580331 ** get_address_of_FindFlatSurfaceIcon_3() { return &___FindFlatSurfaceIcon_3; }
+	inline void set_FindFlatSurfaceIcon_3(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___FindFlatSurfaceIcon_3 = value;
 		Il2CppCodeGenWriteBarrier((&___FindFlatSurfaceIcon_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_FindFlatSurfaceText_4() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3754850823, ___FindFlatSurfaceText_4)); }
 	inline GameObject_t3669940079 * get_FindFlatSurfaceText_4() const { return ___FindFlatSurfaceText_4; }
 	inline GameObject_t3669940079 ** get_address_of_FindFlatSurfaceText_4() { return &___FindFlatSurfaceText_4; }
 	inline void set_FindFlatSurfaceText_4(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_FindFlatSurfaceText_4() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3447425054, ___FindFlatSurfaceText_4)); }
+	inline GameObject_t2000580331 * get_FindFlatSurfaceText_4() const { return ___FindFlatSurfaceText_4; }
+	inline GameObject_t2000580331 ** get_address_of_FindFlatSurfaceText_4() { return &___FindFlatSurfaceText_4; }
+	inline void set_FindFlatSurfaceText_4(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___FindFlatSurfaceText_4 = value;
 		Il2CppCodeGenWriteBarrier((&___FindFlatSurfaceText_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TapToPlaceText_5() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3754850823, ___TapToPlaceText_5)); }
 	inline GameObject_t3669940079 * get_TapToPlaceText_5() const { return ___TapToPlaceText_5; }
 	inline GameObject_t3669940079 ** get_address_of_TapToPlaceText_5() { return &___TapToPlaceText_5; }
 	inline void set_TapToPlaceText_5(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_TapToPlaceText_5() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3447425054, ___TapToPlaceText_5)); }
+	inline GameObject_t2000580331 * get_TapToPlaceText_5() const { return ___TapToPlaceText_5; }
+	inline GameObject_t2000580331 ** get_address_of_TapToPlaceText_5() { return &___TapToPlaceText_5; }
+	inline void set_TapToPlaceText_5(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___TapToPlaceText_5 = value;
 		Il2CppCodeGenWriteBarrier((&___TapToPlaceText_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_ObjectFocusSquare_6() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3754850823, ___ObjectFocusSquare_6)); }
 	inline GameObject_t3669940079 * get_ObjectFocusSquare_6() const { return ___ObjectFocusSquare_6; }
 	inline GameObject_t3669940079 ** get_address_of_ObjectFocusSquare_6() { return &___ObjectFocusSquare_6; }
 	inline void set_ObjectFocusSquare_6(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_ObjectFocusSquare_6() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3447425054, ___ObjectFocusSquare_6)); }
+	inline GameObject_t2000580331 * get_ObjectFocusSquare_6() const { return ___ObjectFocusSquare_6; }
+	inline GameObject_t2000580331 ** get_address_of_ObjectFocusSquare_6() { return &___ObjectFocusSquare_6; }
+	inline void set_ObjectFocusSquare_6(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___ObjectFocusSquare_6 = value;
 		Il2CppCodeGenWriteBarrier((&___ObjectFocusSquare_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lampShade_7() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3754850823, ___lampShade_7)); }
 	inline Material_t2926388270 * get_lampShade_7() const { return ___lampShade_7; }
 	inline Material_t2926388270 ** get_address_of_lampShade_7() { return &___lampShade_7; }
 	inline void set_lampShade_7(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_lampShade_7() { return static_cast<int32_t>(offsetof(IfAnchorAddedScript_t3447425054, ___lampShade_7)); }
+	inline Material_t132180377 * get_lampShade_7() const { return ___lampShade_7; }
+	inline Material_t132180377 ** get_address_of_lampShade_7() { return &___lampShade_7; }
+	inline void set_lampShade_7(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___lampShade_7 = value;
 		Il2CppCodeGenWriteBarrier((&___lampShade_7), value);
@@ -8558,9 +13592,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // IFANCHORADDEDSCRIPT_T3754850823_H
 #ifndef LAMPBTNS_T1789522844_H
 #define LAMPBTNS_T1789522844_H
+=======
+#endif // IFANCHORADDEDSCRIPT_T3447425054_H
+#ifndef LAMPBTNS_T2848953541_H
+#define LAMPBTNS_T2848953541_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8568,6 +13608,7 @@ public:
 #endif
 
 // lampBtns
+<<<<<<< Updated upstream
 struct  lampBtns_t1789522844  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8587,42 +13628,91 @@ public:
 	inline GameObject_t3669940079 * get_BuildingFactTop_2() const { return ___BuildingFactTop_2; }
 	inline GameObject_t3669940079 ** get_address_of_BuildingFactTop_2() { return &___BuildingFactTop_2; }
 	inline void set_BuildingFactTop_2(GameObject_t3669940079 * value)
+=======
+struct  lampBtns_t2848953541  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject lampBtns::BuildingFactTop
+	GameObject_t2000580331 * ___BuildingFactTop_2;
+	// UnityEngine.GameObject lampBtns::BuildingFactBot
+	GameObject_t2000580331 * ___BuildingFactBot_3;
+	// UnityEngine.GameObject lampBtns::dontForget
+	GameObject_t2000580331 * ___dontForget_4;
+	// UnityEngine.GameObject lampBtns::turnOff
+	GameObject_t2000580331 * ___turnOff_5;
+	// UnityEngine.GameObject lampBtns::pointer
+	GameObject_t2000580331 * ___pointer_6;
+
+public:
+	inline static int32_t get_offset_of_BuildingFactTop_2() { return static_cast<int32_t>(offsetof(lampBtns_t2848953541, ___BuildingFactTop_2)); }
+	inline GameObject_t2000580331 * get_BuildingFactTop_2() const { return ___BuildingFactTop_2; }
+	inline GameObject_t2000580331 ** get_address_of_BuildingFactTop_2() { return &___BuildingFactTop_2; }
+	inline void set_BuildingFactTop_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BuildingFactTop_2 = value;
 		Il2CppCodeGenWriteBarrier((&___BuildingFactTop_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_BuildingFactBot_3() { return static_cast<int32_t>(offsetof(lampBtns_t1789522844, ___BuildingFactBot_3)); }
 	inline GameObject_t3669940079 * get_BuildingFactBot_3() const { return ___BuildingFactBot_3; }
 	inline GameObject_t3669940079 ** get_address_of_BuildingFactBot_3() { return &___BuildingFactBot_3; }
 	inline void set_BuildingFactBot_3(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_BuildingFactBot_3() { return static_cast<int32_t>(offsetof(lampBtns_t2848953541, ___BuildingFactBot_3)); }
+	inline GameObject_t2000580331 * get_BuildingFactBot_3() const { return ___BuildingFactBot_3; }
+	inline GameObject_t2000580331 ** get_address_of_BuildingFactBot_3() { return &___BuildingFactBot_3; }
+	inline void set_BuildingFactBot_3(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BuildingFactBot_3 = value;
 		Il2CppCodeGenWriteBarrier((&___BuildingFactBot_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_dontForget_4() { return static_cast<int32_t>(offsetof(lampBtns_t1789522844, ___dontForget_4)); }
 	inline GameObject_t3669940079 * get_dontForget_4() const { return ___dontForget_4; }
 	inline GameObject_t3669940079 ** get_address_of_dontForget_4() { return &___dontForget_4; }
 	inline void set_dontForget_4(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_dontForget_4() { return static_cast<int32_t>(offsetof(lampBtns_t2848953541, ___dontForget_4)); }
+	inline GameObject_t2000580331 * get_dontForget_4() const { return ___dontForget_4; }
+	inline GameObject_t2000580331 ** get_address_of_dontForget_4() { return &___dontForget_4; }
+	inline void set_dontForget_4(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___dontForget_4 = value;
 		Il2CppCodeGenWriteBarrier((&___dontForget_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_turnOff_5() { return static_cast<int32_t>(offsetof(lampBtns_t1789522844, ___turnOff_5)); }
 	inline GameObject_t3669940079 * get_turnOff_5() const { return ___turnOff_5; }
 	inline GameObject_t3669940079 ** get_address_of_turnOff_5() { return &___turnOff_5; }
 	inline void set_turnOff_5(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_turnOff_5() { return static_cast<int32_t>(offsetof(lampBtns_t2848953541, ___turnOff_5)); }
+	inline GameObject_t2000580331 * get_turnOff_5() const { return ___turnOff_5; }
+	inline GameObject_t2000580331 ** get_address_of_turnOff_5() { return &___turnOff_5; }
+	inline void set_turnOff_5(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___turnOff_5 = value;
 		Il2CppCodeGenWriteBarrier((&___turnOff_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pointer_6() { return static_cast<int32_t>(offsetof(lampBtns_t1789522844, ___pointer_6)); }
 	inline GameObject_t3669940079 * get_pointer_6() const { return ___pointer_6; }
 	inline GameObject_t3669940079 ** get_address_of_pointer_6() { return &___pointer_6; }
 	inline void set_pointer_6(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_pointer_6() { return static_cast<int32_t>(offsetof(lampBtns_t2848953541, ___pointer_6)); }
+	inline GameObject_t2000580331 * get_pointer_6() const { return ___pointer_6; }
+	inline GameObject_t2000580331 ** get_address_of_pointer_6() { return &___pointer_6; }
+	inline void set_pointer_6(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___pointer_6 = value;
 		Il2CppCodeGenWriteBarrier((&___pointer_6), value);
@@ -8632,9 +13722,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LAMPBTNS_T1789522844_H
 #ifndef LAMPHIT_T3088379780_H
 #define LAMPHIT_T3088379780_H
+=======
+#endif // LAMPBTNS_T2848953541_H
+#ifndef LAMPHIT_T3118229875_H
+#define LAMPHIT_T3118229875_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8642,6 +13738,7 @@ public:
 #endif
 
 // LampHit
+<<<<<<< Updated upstream
 struct  LampHit_t3088379780  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8681,132 +13778,271 @@ public:
 	inline GameObject_t3669940079 * get_lampSpotlight_2() const { return ___lampSpotlight_2; }
 	inline GameObject_t3669940079 ** get_address_of_lampSpotlight_2() { return &___lampSpotlight_2; }
 	inline void set_lampSpotlight_2(GameObject_t3669940079 * value)
+=======
+struct  LampHit_t3118229875  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject LampHit::lampSpotlight
+	GameObject_t2000580331 * ___lampSpotlight_2;
+	// UnityEngine.Material LampHit::lampShade
+	Material_t132180377 * ___lampShade_3;
+	// UnityEngine.GameObject LampHit::BuildingFactTop
+	GameObject_t2000580331 * ___BuildingFactTop_4;
+	// UnityEngine.GameObject LampHit::BuildingFactBot
+	GameObject_t2000580331 * ___BuildingFactBot_5;
+	// UnityEngine.Material LampHit::smokeHigh
+	Material_t132180377 * ___smokeHigh_6;
+	// UnityEngine.GameObject LampHit::nextButton
+	GameObject_t2000580331 * ___nextButton_7;
+	// UnityEngine.GameObject LampHit::cflBulb
+	GameObject_t2000580331 * ___cflBulb_8;
+	// UnityEngine.GameObject LampHit::badBulb
+	GameObject_t2000580331 * ___badBulb_9;
+	// UnityEngine.GameObject LampHit::replaceBulb
+	GameObject_t2000580331 * ___replaceBulb_10;
+	// UnityEngine.GameObject LampHit::cflTrans
+	GameObject_t2000580331 * ___cflTrans_11;
+	// UnityEngine.GameObject LampHit::pointer
+	GameObject_t2000580331 * ___pointer_12;
+	// UnityEngine.GameObject LampHit::dontForget
+	GameObject_t2000580331 * ___dontForget_13;
+	// UnityEngine.GameObject LampHit::turnOff
+	GameObject_t2000580331 * ___turnOff_14;
+	// UnityEngine.GameObject LampHit::exampleCube
+	GameObject_t2000580331 * ___exampleCube_15;
+	// UnityEngine.GameObject LampHit::newPlacedLamp
+	GameObject_t2000580331 * ___newPlacedLamp_16;
+
+public:
+	inline static int32_t get_offset_of_lampSpotlight_2() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___lampSpotlight_2)); }
+	inline GameObject_t2000580331 * get_lampSpotlight_2() const { return ___lampSpotlight_2; }
+	inline GameObject_t2000580331 ** get_address_of_lampSpotlight_2() { return &___lampSpotlight_2; }
+	inline void set_lampSpotlight_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___lampSpotlight_2 = value;
 		Il2CppCodeGenWriteBarrier((&___lampSpotlight_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lampShade_3() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___lampShade_3)); }
 	inline Material_t2926388270 * get_lampShade_3() const { return ___lampShade_3; }
 	inline Material_t2926388270 ** get_address_of_lampShade_3() { return &___lampShade_3; }
 	inline void set_lampShade_3(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_lampShade_3() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___lampShade_3)); }
+	inline Material_t132180377 * get_lampShade_3() const { return ___lampShade_3; }
+	inline Material_t132180377 ** get_address_of_lampShade_3() { return &___lampShade_3; }
+	inline void set_lampShade_3(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___lampShade_3 = value;
 		Il2CppCodeGenWriteBarrier((&___lampShade_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_BuildingFactTop_4() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___BuildingFactTop_4)); }
 	inline GameObject_t3669940079 * get_BuildingFactTop_4() const { return ___BuildingFactTop_4; }
 	inline GameObject_t3669940079 ** get_address_of_BuildingFactTop_4() { return &___BuildingFactTop_4; }
 	inline void set_BuildingFactTop_4(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_BuildingFactTop_4() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___BuildingFactTop_4)); }
+	inline GameObject_t2000580331 * get_BuildingFactTop_4() const { return ___BuildingFactTop_4; }
+	inline GameObject_t2000580331 ** get_address_of_BuildingFactTop_4() { return &___BuildingFactTop_4; }
+	inline void set_BuildingFactTop_4(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BuildingFactTop_4 = value;
 		Il2CppCodeGenWriteBarrier((&___BuildingFactTop_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_BuildingFactBot_5() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___BuildingFactBot_5)); }
 	inline GameObject_t3669940079 * get_BuildingFactBot_5() const { return ___BuildingFactBot_5; }
 	inline GameObject_t3669940079 ** get_address_of_BuildingFactBot_5() { return &___BuildingFactBot_5; }
 	inline void set_BuildingFactBot_5(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_BuildingFactBot_5() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___BuildingFactBot_5)); }
+	inline GameObject_t2000580331 * get_BuildingFactBot_5() const { return ___BuildingFactBot_5; }
+	inline GameObject_t2000580331 ** get_address_of_BuildingFactBot_5() { return &___BuildingFactBot_5; }
+	inline void set_BuildingFactBot_5(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BuildingFactBot_5 = value;
 		Il2CppCodeGenWriteBarrier((&___BuildingFactBot_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_smokeHigh_6() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___smokeHigh_6)); }
 	inline Material_t2926388270 * get_smokeHigh_6() const { return ___smokeHigh_6; }
 	inline Material_t2926388270 ** get_address_of_smokeHigh_6() { return &___smokeHigh_6; }
 	inline void set_smokeHigh_6(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_smokeHigh_6() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___smokeHigh_6)); }
+	inline Material_t132180377 * get_smokeHigh_6() const { return ___smokeHigh_6; }
+	inline Material_t132180377 ** get_address_of_smokeHigh_6() { return &___smokeHigh_6; }
+	inline void set_smokeHigh_6(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___smokeHigh_6 = value;
 		Il2CppCodeGenWriteBarrier((&___smokeHigh_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_nextButton_7() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___nextButton_7)); }
 	inline GameObject_t3669940079 * get_nextButton_7() const { return ___nextButton_7; }
 	inline GameObject_t3669940079 ** get_address_of_nextButton_7() { return &___nextButton_7; }
 	inline void set_nextButton_7(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_nextButton_7() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___nextButton_7)); }
+	inline GameObject_t2000580331 * get_nextButton_7() const { return ___nextButton_7; }
+	inline GameObject_t2000580331 ** get_address_of_nextButton_7() { return &___nextButton_7; }
+	inline void set_nextButton_7(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___nextButton_7 = value;
 		Il2CppCodeGenWriteBarrier((&___nextButton_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_cflBulb_8() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___cflBulb_8)); }
 	inline GameObject_t3669940079 * get_cflBulb_8() const { return ___cflBulb_8; }
 	inline GameObject_t3669940079 ** get_address_of_cflBulb_8() { return &___cflBulb_8; }
 	inline void set_cflBulb_8(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_cflBulb_8() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___cflBulb_8)); }
+	inline GameObject_t2000580331 * get_cflBulb_8() const { return ___cflBulb_8; }
+	inline GameObject_t2000580331 ** get_address_of_cflBulb_8() { return &___cflBulb_8; }
+	inline void set_cflBulb_8(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___cflBulb_8 = value;
 		Il2CppCodeGenWriteBarrier((&___cflBulb_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_badBulb_9() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___badBulb_9)); }
 	inline GameObject_t3669940079 * get_badBulb_9() const { return ___badBulb_9; }
 	inline GameObject_t3669940079 ** get_address_of_badBulb_9() { return &___badBulb_9; }
 	inline void set_badBulb_9(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_badBulb_9() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___badBulb_9)); }
+	inline GameObject_t2000580331 * get_badBulb_9() const { return ___badBulb_9; }
+	inline GameObject_t2000580331 ** get_address_of_badBulb_9() { return &___badBulb_9; }
+	inline void set_badBulb_9(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___badBulb_9 = value;
 		Il2CppCodeGenWriteBarrier((&___badBulb_9), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_replaceBulb_10() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___replaceBulb_10)); }
 	inline GameObject_t3669940079 * get_replaceBulb_10() const { return ___replaceBulb_10; }
 	inline GameObject_t3669940079 ** get_address_of_replaceBulb_10() { return &___replaceBulb_10; }
 	inline void set_replaceBulb_10(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_replaceBulb_10() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___replaceBulb_10)); }
+	inline GameObject_t2000580331 * get_replaceBulb_10() const { return ___replaceBulb_10; }
+	inline GameObject_t2000580331 ** get_address_of_replaceBulb_10() { return &___replaceBulb_10; }
+	inline void set_replaceBulb_10(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___replaceBulb_10 = value;
 		Il2CppCodeGenWriteBarrier((&___replaceBulb_10), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_cflTrans_11() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___cflTrans_11)); }
 	inline GameObject_t3669940079 * get_cflTrans_11() const { return ___cflTrans_11; }
 	inline GameObject_t3669940079 ** get_address_of_cflTrans_11() { return &___cflTrans_11; }
 	inline void set_cflTrans_11(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_cflTrans_11() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___cflTrans_11)); }
+	inline GameObject_t2000580331 * get_cflTrans_11() const { return ___cflTrans_11; }
+	inline GameObject_t2000580331 ** get_address_of_cflTrans_11() { return &___cflTrans_11; }
+	inline void set_cflTrans_11(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___cflTrans_11 = value;
 		Il2CppCodeGenWriteBarrier((&___cflTrans_11), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pointer_12() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___pointer_12)); }
 	inline GameObject_t3669940079 * get_pointer_12() const { return ___pointer_12; }
 	inline GameObject_t3669940079 ** get_address_of_pointer_12() { return &___pointer_12; }
 	inline void set_pointer_12(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_pointer_12() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___pointer_12)); }
+	inline GameObject_t2000580331 * get_pointer_12() const { return ___pointer_12; }
+	inline GameObject_t2000580331 ** get_address_of_pointer_12() { return &___pointer_12; }
+	inline void set_pointer_12(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___pointer_12 = value;
 		Il2CppCodeGenWriteBarrier((&___pointer_12), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_dontForget_13() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___dontForget_13)); }
 	inline GameObject_t3669940079 * get_dontForget_13() const { return ___dontForget_13; }
 	inline GameObject_t3669940079 ** get_address_of_dontForget_13() { return &___dontForget_13; }
 	inline void set_dontForget_13(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_dontForget_13() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___dontForget_13)); }
+	inline GameObject_t2000580331 * get_dontForget_13() const { return ___dontForget_13; }
+	inline GameObject_t2000580331 ** get_address_of_dontForget_13() { return &___dontForget_13; }
+	inline void set_dontForget_13(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___dontForget_13 = value;
 		Il2CppCodeGenWriteBarrier((&___dontForget_13), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_turnOff_14() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___turnOff_14)); }
 	inline GameObject_t3669940079 * get_turnOff_14() const { return ___turnOff_14; }
 	inline GameObject_t3669940079 ** get_address_of_turnOff_14() { return &___turnOff_14; }
 	inline void set_turnOff_14(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_turnOff_14() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___turnOff_14)); }
+	inline GameObject_t2000580331 * get_turnOff_14() const { return ___turnOff_14; }
+	inline GameObject_t2000580331 ** get_address_of_turnOff_14() { return &___turnOff_14; }
+	inline void set_turnOff_14(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___turnOff_14 = value;
 		Il2CppCodeGenWriteBarrier((&___turnOff_14), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_exampleCube_15() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___exampleCube_15)); }
 	inline GameObject_t3669940079 * get_exampleCube_15() const { return ___exampleCube_15; }
 	inline GameObject_t3669940079 ** get_address_of_exampleCube_15() { return &___exampleCube_15; }
 	inline void set_exampleCube_15(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_exampleCube_15() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___exampleCube_15)); }
+	inline GameObject_t2000580331 * get_exampleCube_15() const { return ___exampleCube_15; }
+	inline GameObject_t2000580331 ** get_address_of_exampleCube_15() { return &___exampleCube_15; }
+	inline void set_exampleCube_15(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___exampleCube_15 = value;
 		Il2CppCodeGenWriteBarrier((&___exampleCube_15), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_newPlacedLamp_16() { return static_cast<int32_t>(offsetof(LampHit_t3088379780, ___newPlacedLamp_16)); }
 	inline GameObject_t3669940079 * get_newPlacedLamp_16() const { return ___newPlacedLamp_16; }
 	inline GameObject_t3669940079 ** get_address_of_newPlacedLamp_16() { return &___newPlacedLamp_16; }
 	inline void set_newPlacedLamp_16(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_newPlacedLamp_16() { return static_cast<int32_t>(offsetof(LampHit_t3118229875, ___newPlacedLamp_16)); }
+	inline GameObject_t2000580331 * get_newPlacedLamp_16() const { return ___newPlacedLamp_16; }
+	inline GameObject_t2000580331 ** get_address_of_newPlacedLamp_16() { return &___newPlacedLamp_16; }
+	inline void set_newPlacedLamp_16(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___newPlacedLamp_16 = value;
 		Il2CppCodeGenWriteBarrier((&___newPlacedLamp_16), value);
@@ -8816,9 +14052,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LAMPHIT_T3088379780_H
 #ifndef EXAMPLESCENESCRIPT_T2546752903_H
 #define EXAMPLESCENESCRIPT_T2546752903_H
+=======
+#endif // LAMPHIT_T3118229875_H
+#ifndef EXAMPLESCENESCRIPT_T508446507_H
+#define EXAMPLESCENESCRIPT_T508446507_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8826,7 +14068,11 @@ public:
 #endif
 
 // exampleSceneScript
+<<<<<<< Updated upstream
 struct  exampleSceneScript_t2546752903  : public MonoBehaviour_t3474225292
+=======
+struct  exampleSceneScript_t508446507  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 	// System.Single exampleSceneScript::scale
@@ -8840,12 +14086,21 @@ public:
 	// System.Single exampleSceneScript::pow
 	float ___pow_6;
 	// UnityEngine.Color exampleSceneScript::color
+<<<<<<< Updated upstream
 	Color_t635182970  ___color_7;
 	// UnityEngine.Material exampleSceneScript::fogMaterial
 	Material_t2926388270 * ___fogMaterial_8;
 
 public:
 	inline static int32_t get_offset_of_scale_2() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___scale_2)); }
+=======
+	Color_t1429747532  ___color_7;
+	// UnityEngine.Material exampleSceneScript::fogMaterial
+	Material_t132180377 * ___fogMaterial_8;
+
+public:
+	inline static int32_t get_offset_of_scale_2() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___scale_2)); }
+>>>>>>> Stashed changes
 	inline float get_scale_2() const { return ___scale_2; }
 	inline float* get_address_of_scale_2() { return &___scale_2; }
 	inline void set_scale_2(float value)
@@ -8853,7 +14108,11 @@ public:
 		___scale_2 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_intensity_3() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___intensity_3)); }
+=======
+	inline static int32_t get_offset_of_intensity_3() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___intensity_3)); }
+>>>>>>> Stashed changes
 	inline float get_intensity_3() const { return ___intensity_3; }
 	inline float* get_address_of_intensity_3() { return &___intensity_3; }
 	inline void set_intensity_3(float value)
@@ -8861,7 +14120,11 @@ public:
 		___intensity_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_alpha_4() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___alpha_4)); }
+=======
+	inline static int32_t get_offset_of_alpha_4() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___alpha_4)); }
+>>>>>>> Stashed changes
 	inline float get_alpha_4() const { return ___alpha_4; }
 	inline float* get_address_of_alpha_4() { return &___alpha_4; }
 	inline void set_alpha_4(float value)
@@ -8869,7 +14132,11 @@ public:
 		___alpha_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_alphasub_5() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___alphasub_5)); }
+=======
+	inline static int32_t get_offset_of_alphasub_5() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___alphasub_5)); }
+>>>>>>> Stashed changes
 	inline float get_alphasub_5() const { return ___alphasub_5; }
 	inline float* get_address_of_alphasub_5() { return &___alphasub_5; }
 	inline void set_alphasub_5(float value)
@@ -8877,7 +14144,11 @@ public:
 		___alphasub_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pow_6() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___pow_6)); }
+=======
+	inline static int32_t get_offset_of_pow_6() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___pow_6)); }
+>>>>>>> Stashed changes
 	inline float get_pow_6() const { return ___pow_6; }
 	inline float* get_address_of_pow_6() { return &___pow_6; }
 	inline void set_pow_6(float value)
@@ -8885,18 +14156,32 @@ public:
 		___pow_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_color_7() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___color_7)); }
 	inline Color_t635182970  get_color_7() const { return ___color_7; }
 	inline Color_t635182970 * get_address_of_color_7() { return &___color_7; }
 	inline void set_color_7(Color_t635182970  value)
+=======
+	inline static int32_t get_offset_of_color_7() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___color_7)); }
+	inline Color_t1429747532  get_color_7() const { return ___color_7; }
+	inline Color_t1429747532 * get_address_of_color_7() { return &___color_7; }
+	inline void set_color_7(Color_t1429747532  value)
+>>>>>>> Stashed changes
 	{
 		___color_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_fogMaterial_8() { return static_cast<int32_t>(offsetof(exampleSceneScript_t2546752903, ___fogMaterial_8)); }
 	inline Material_t2926388270 * get_fogMaterial_8() const { return ___fogMaterial_8; }
 	inline Material_t2926388270 ** get_address_of_fogMaterial_8() { return &___fogMaterial_8; }
 	inline void set_fogMaterial_8(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_fogMaterial_8() { return static_cast<int32_t>(offsetof(exampleSceneScript_t508446507, ___fogMaterial_8)); }
+	inline Material_t132180377 * get_fogMaterial_8() const { return ___fogMaterial_8; }
+	inline Material_t132180377 ** get_address_of_fogMaterial_8() { return &___fogMaterial_8; }
+	inline void set_fogMaterial_8(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___fogMaterial_8 = value;
 		Il2CppCodeGenWriteBarrier((&___fogMaterial_8), value);
@@ -8906,9 +14191,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // EXAMPLESCENESCRIPT_T2546752903_H
 #ifndef LOADDELAYINTRO_T2329536778_H
 #define LOADDELAYINTRO_T2329536778_H
+=======
+#endif // EXAMPLESCENESCRIPT_T508446507_H
+#ifndef LOADDELAYINTRO_T82458994_H
+#define LOADDELAYINTRO_T82458994_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8916,7 +14207,11 @@ public:
 #endif
 
 // loadDelayIntro
+<<<<<<< Updated upstream
 struct  loadDelayIntro_t2329536778  : public MonoBehaviour_t3474225292
+=======
+struct  loadDelayIntro_t82458994  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 
@@ -8926,9 +14221,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LOADDELAYINTRO_T2329536778_H
 #ifndef FACT1_SCRIPT_T47914944_H
 #define FACT1_SCRIPT_T47914944_H
+=======
+#endif // LOADDELAYINTRO_T82458994_H
+#ifndef FACT1_SCRIPT_T2633949218_H
+#define FACT1_SCRIPT_T2633949218_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8936,6 +14237,7 @@ public:
 #endif
 
 // fact1_script
+<<<<<<< Updated upstream
 struct  fact1_script_t47914944  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8947,6 +14249,19 @@ public:
 	inline GameObject_t3669940079 * get_fact1_2() const { return ___fact1_2; }
 	inline GameObject_t3669940079 ** get_address_of_fact1_2() { return &___fact1_2; }
 	inline void set_fact1_2(GameObject_t3669940079 * value)
+=======
+struct  fact1_script_t2633949218  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject fact1_script::fact1
+	GameObject_t2000580331 * ___fact1_2;
+
+public:
+	inline static int32_t get_offset_of_fact1_2() { return static_cast<int32_t>(offsetof(fact1_script_t2633949218, ___fact1_2)); }
+	inline GameObject_t2000580331 * get_fact1_2() const { return ___fact1_2; }
+	inline GameObject_t2000580331 ** get_address_of_fact1_2() { return &___fact1_2; }
+	inline void set_fact1_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___fact1_2 = value;
 		Il2CppCodeGenWriteBarrier((&___fact1_2), value);
@@ -8956,9 +14271,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // FACT1_SCRIPT_T47914944_H
 #ifndef LOADDELAYOUTRO_T853822678_H
 #define LOADDELAYOUTRO_T853822678_H
+=======
+#endif // FACT1_SCRIPT_T2633949218_H
+#ifndef LOADDELAYOUTRO_T3458220387_H
+#define LOADDELAYOUTRO_T3458220387_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8966,7 +14287,11 @@ public:
 #endif
 
 // loadDelayOutro
+<<<<<<< Updated upstream
 struct  loadDelayOutro_t853822678  : public MonoBehaviour_t3474225292
+=======
+struct  loadDelayOutro_t3458220387  : public MonoBehaviour_t4068272582
+>>>>>>> Stashed changes
 {
 public:
 
@@ -8976,9 +14301,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LOADDELAYOUTRO_T853822678_H
 #ifndef COLLIDESCRIPT_T3931350807_H
 #define COLLIDESCRIPT_T3931350807_H
+=======
+#endif // LOADDELAYOUTRO_T3458220387_H
+#ifndef COLLIDESCRIPT_T878038026_H
+#define COLLIDESCRIPT_T878038026_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -8986,6 +14317,7 @@ public:
 #endif
 
 // collideScript
+<<<<<<< Updated upstream
 struct  collideScript_t3931350807  : public MonoBehaviour_t3474225292
 {
 public:
@@ -8997,6 +14329,19 @@ public:
 	inline GameObject_t3669940079 * get_showCube_2() const { return ___showCube_2; }
 	inline GameObject_t3669940079 ** get_address_of_showCube_2() { return &___showCube_2; }
 	inline void set_showCube_2(GameObject_t3669940079 * value)
+=======
+struct  collideScript_t878038026  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject collideScript::showCube
+	GameObject_t2000580331 * ___showCube_2;
+
+public:
+	inline static int32_t get_offset_of_showCube_2() { return static_cast<int32_t>(offsetof(collideScript_t878038026, ___showCube_2)); }
+	inline GameObject_t2000580331 * get_showCube_2() const { return ___showCube_2; }
+	inline GameObject_t2000580331 ** get_address_of_showCube_2() { return &___showCube_2; }
+	inline void set_showCube_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___showCube_2 = value;
 		Il2CppCodeGenWriteBarrier((&___showCube_2), value);
@@ -9006,9 +14351,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // COLLIDESCRIPT_T3931350807_H
 #ifndef CAMERASCRIPT_T72915839_H
 #define CAMERASCRIPT_T72915839_H
+=======
+#endif // COLLIDESCRIPT_T878038026_H
+#ifndef CAMERASCRIPT_T4008311210_H
+#define CAMERASCRIPT_T4008311210_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -9016,6 +14367,7 @@ public:
 #endif
 
 // CameraScript
+<<<<<<< Updated upstream
 struct  CameraScript_t72915839  : public MonoBehaviour_t3474225292
 {
 public:
@@ -9025,6 +14377,17 @@ public:
 	Transform_t1462574985 * ___camTransform_3;
 	// UnityEngine.Camera CameraScript::cam
 	Camera_t1756852828 * ___cam_4;
+=======
+struct  CameraScript_t4008311210  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Transform CameraScript::lookAt
+	Transform_t2833398713 * ___lookAt_2;
+	// UnityEngine.Transform CameraScript::camTransform
+	Transform_t2833398713 * ___camTransform_3;
+	// UnityEngine.Camera CameraScript::cam
+	Camera_t2801636965 * ___cam_4;
+>>>>>>> Stashed changes
 	// System.Single CameraScript::distance
 	float ___distance_5;
 	// System.Single CameraScript::currentX
@@ -9037,34 +14400,59 @@ public:
 	float ___sensivityY_9;
 
 public:
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lookAt_2() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___lookAt_2)); }
 	inline Transform_t1462574985 * get_lookAt_2() const { return ___lookAt_2; }
 	inline Transform_t1462574985 ** get_address_of_lookAt_2() { return &___lookAt_2; }
 	inline void set_lookAt_2(Transform_t1462574985 * value)
+=======
+	inline static int32_t get_offset_of_lookAt_2() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___lookAt_2)); }
+	inline Transform_t2833398713 * get_lookAt_2() const { return ___lookAt_2; }
+	inline Transform_t2833398713 ** get_address_of_lookAt_2() { return &___lookAt_2; }
+	inline void set_lookAt_2(Transform_t2833398713 * value)
+>>>>>>> Stashed changes
 	{
 		___lookAt_2 = value;
 		Il2CppCodeGenWriteBarrier((&___lookAt_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_camTransform_3() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___camTransform_3)); }
 	inline Transform_t1462574985 * get_camTransform_3() const { return ___camTransform_3; }
 	inline Transform_t1462574985 ** get_address_of_camTransform_3() { return &___camTransform_3; }
 	inline void set_camTransform_3(Transform_t1462574985 * value)
+=======
+	inline static int32_t get_offset_of_camTransform_3() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___camTransform_3)); }
+	inline Transform_t2833398713 * get_camTransform_3() const { return ___camTransform_3; }
+	inline Transform_t2833398713 ** get_address_of_camTransform_3() { return &___camTransform_3; }
+	inline void set_camTransform_3(Transform_t2833398713 * value)
+>>>>>>> Stashed changes
 	{
 		___camTransform_3 = value;
 		Il2CppCodeGenWriteBarrier((&___camTransform_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_cam_4() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___cam_4)); }
 	inline Camera_t1756852828 * get_cam_4() const { return ___cam_4; }
 	inline Camera_t1756852828 ** get_address_of_cam_4() { return &___cam_4; }
 	inline void set_cam_4(Camera_t1756852828 * value)
+=======
+	inline static int32_t get_offset_of_cam_4() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___cam_4)); }
+	inline Camera_t2801636965 * get_cam_4() const { return ___cam_4; }
+	inline Camera_t2801636965 ** get_address_of_cam_4() { return &___cam_4; }
+	inline void set_cam_4(Camera_t2801636965 * value)
+>>>>>>> Stashed changes
 	{
 		___cam_4 = value;
 		Il2CppCodeGenWriteBarrier((&___cam_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_distance_5() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___distance_5)); }
+=======
+	inline static int32_t get_offset_of_distance_5() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___distance_5)); }
+>>>>>>> Stashed changes
 	inline float get_distance_5() const { return ___distance_5; }
 	inline float* get_address_of_distance_5() { return &___distance_5; }
 	inline void set_distance_5(float value)
@@ -9072,7 +14460,11 @@ public:
 		___distance_5 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentX_6() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___currentX_6)); }
+=======
+	inline static int32_t get_offset_of_currentX_6() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___currentX_6)); }
+>>>>>>> Stashed changes
 	inline float get_currentX_6() const { return ___currentX_6; }
 	inline float* get_address_of_currentX_6() { return &___currentX_6; }
 	inline void set_currentX_6(float value)
@@ -9080,7 +14472,11 @@ public:
 		___currentX_6 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_currentY_7() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___currentY_7)); }
+=======
+	inline static int32_t get_offset_of_currentY_7() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___currentY_7)); }
+>>>>>>> Stashed changes
 	inline float get_currentY_7() const { return ___currentY_7; }
 	inline float* get_address_of_currentY_7() { return &___currentY_7; }
 	inline void set_currentY_7(float value)
@@ -9088,7 +14484,11 @@ public:
 		___currentY_7 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_sensivityX_8() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___sensivityX_8)); }
+=======
+	inline static int32_t get_offset_of_sensivityX_8() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___sensivityX_8)); }
+>>>>>>> Stashed changes
 	inline float get_sensivityX_8() const { return ___sensivityX_8; }
 	inline float* get_address_of_sensivityX_8() { return &___sensivityX_8; }
 	inline void set_sensivityX_8(float value)
@@ -9096,7 +14496,11 @@ public:
 		___sensivityX_8 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_sensivityY_9() { return static_cast<int32_t>(offsetof(CameraScript_t72915839, ___sensivityY_9)); }
+=======
+	inline static int32_t get_offset_of_sensivityY_9() { return static_cast<int32_t>(offsetof(CameraScript_t4008311210, ___sensivityY_9)); }
+>>>>>>> Stashed changes
 	inline float get_sensivityY_9() const { return ___sensivityY_9; }
 	inline float* get_address_of_sensivityY_9() { return &___sensivityY_9; }
 	inline void set_sensivityY_9(float value)
@@ -9108,9 +14512,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // CAMERASCRIPT_T72915839_H
 #ifndef CO2ARHITTEST_T1204104591_H
 #define CO2ARHITTEST_T1204104591_H
+=======
+#endif // CAMERASCRIPT_T4008311210_H
+#ifndef CO2ARHITTEST_T425922184_H
+#define CO2ARHITTEST_T425922184_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -9118,6 +14528,7 @@ public:
 #endif
 
 // UnityEngine.XR.iOS.Co2ARHitTest
+<<<<<<< Updated upstream
 struct  Co2ARHitTest_t1204104591  : public MonoBehaviour_t3474225292
 {
 public:
@@ -9147,12 +14558,47 @@ public:
 	inline Transform_t1462574985 * get_m_HitTransform_2() const { return ___m_HitTransform_2; }
 	inline Transform_t1462574985 ** get_address_of_m_HitTransform_2() { return &___m_HitTransform_2; }
 	inline void set_m_HitTransform_2(Transform_t1462574985 * value)
+=======
+struct  Co2ARHitTest_t425922184  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Transform UnityEngine.XR.iOS.Co2ARHitTest::m_HitTransform
+	Transform_t2833398713 * ___m_HitTransform_2;
+	// System.Single UnityEngine.XR.iOS.Co2ARHitTest::maxRayDistance
+	float ___maxRayDistance_3;
+	// UnityEngine.LayerMask UnityEngine.XR.iOS.Co2ARHitTest::collisionLayer
+	LayerMask_t2083325344  ___collisionLayer_4;
+	// UnityEngine.GameObject UnityEngine.XR.iOS.Co2ARHitTest::BlueFocusSquare
+	GameObject_t2000580331 * ___BlueFocusSquare_5;
+	// UnityEngine.GameObject UnityEngine.XR.iOS.Co2ARHitTest::FocusedSquare
+	GameObject_t2000580331 * ___FocusedSquare_6;
+	// UnityEngine.GameObject UnityEngine.XR.iOS.Co2ARHitTest::WholeLamp
+	GameObject_t2000580331 * ___WholeLamp_7;
+	// UnityEngine.GameObject UnityEngine.XR.iOS.Co2ARHitTest::TapToText
+	GameObject_t2000580331 * ___TapToText_8;
+	// UnityEngine.GameObject UnityEngine.XR.iOS.Co2ARHitTest::lampNewCollider
+	GameObject_t2000580331 * ___lampNewCollider_9;
+	// UnityEngine.Material UnityEngine.XR.iOS.Co2ARHitTest::lampShade
+	Material_t132180377 * ___lampShade_10;
+	// UnityEngine.Collider UnityEngine.XR.iOS.Co2ARHitTest::m_Collider
+	Collider_t2900334382 * ___m_Collider_11;
+
+public:
+	inline static int32_t get_offset_of_m_HitTransform_2() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___m_HitTransform_2)); }
+	inline Transform_t2833398713 * get_m_HitTransform_2() const { return ___m_HitTransform_2; }
+	inline Transform_t2833398713 ** get_address_of_m_HitTransform_2() { return &___m_HitTransform_2; }
+	inline void set_m_HitTransform_2(Transform_t2833398713 * value)
+>>>>>>> Stashed changes
 	{
 		___m_HitTransform_2 = value;
 		Il2CppCodeGenWriteBarrier((&___m_HitTransform_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_maxRayDistance_3() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___maxRayDistance_3)); }
+=======
+	inline static int32_t get_offset_of_maxRayDistance_3() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___maxRayDistance_3)); }
+>>>>>>> Stashed changes
 	inline float get_maxRayDistance_3() const { return ___maxRayDistance_3; }
 	inline float* get_address_of_maxRayDistance_3() { return &___maxRayDistance_3; }
 	inline void set_maxRayDistance_3(float value)
@@ -9160,72 +14606,128 @@ public:
 		___maxRayDistance_3 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_collisionLayer_4() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___collisionLayer_4)); }
 	inline LayerMask_t4118157874  get_collisionLayer_4() const { return ___collisionLayer_4; }
 	inline LayerMask_t4118157874 * get_address_of_collisionLayer_4() { return &___collisionLayer_4; }
 	inline void set_collisionLayer_4(LayerMask_t4118157874  value)
+=======
+	inline static int32_t get_offset_of_collisionLayer_4() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___collisionLayer_4)); }
+	inline LayerMask_t2083325344  get_collisionLayer_4() const { return ___collisionLayer_4; }
+	inline LayerMask_t2083325344 * get_address_of_collisionLayer_4() { return &___collisionLayer_4; }
+	inline void set_collisionLayer_4(LayerMask_t2083325344  value)
+>>>>>>> Stashed changes
 	{
 		___collisionLayer_4 = value;
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_BlueFocusSquare_5() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___BlueFocusSquare_5)); }
 	inline GameObject_t3669940079 * get_BlueFocusSquare_5() const { return ___BlueFocusSquare_5; }
 	inline GameObject_t3669940079 ** get_address_of_BlueFocusSquare_5() { return &___BlueFocusSquare_5; }
 	inline void set_BlueFocusSquare_5(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_BlueFocusSquare_5() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___BlueFocusSquare_5)); }
+	inline GameObject_t2000580331 * get_BlueFocusSquare_5() const { return ___BlueFocusSquare_5; }
+	inline GameObject_t2000580331 ** get_address_of_BlueFocusSquare_5() { return &___BlueFocusSquare_5; }
+	inline void set_BlueFocusSquare_5(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BlueFocusSquare_5 = value;
 		Il2CppCodeGenWriteBarrier((&___BlueFocusSquare_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_FocusedSquare_6() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___FocusedSquare_6)); }
 	inline GameObject_t3669940079 * get_FocusedSquare_6() const { return ___FocusedSquare_6; }
 	inline GameObject_t3669940079 ** get_address_of_FocusedSquare_6() { return &___FocusedSquare_6; }
 	inline void set_FocusedSquare_6(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_FocusedSquare_6() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___FocusedSquare_6)); }
+	inline GameObject_t2000580331 * get_FocusedSquare_6() const { return ___FocusedSquare_6; }
+	inline GameObject_t2000580331 ** get_address_of_FocusedSquare_6() { return &___FocusedSquare_6; }
+	inline void set_FocusedSquare_6(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___FocusedSquare_6 = value;
 		Il2CppCodeGenWriteBarrier((&___FocusedSquare_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_WholeLamp_7() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___WholeLamp_7)); }
 	inline GameObject_t3669940079 * get_WholeLamp_7() const { return ___WholeLamp_7; }
 	inline GameObject_t3669940079 ** get_address_of_WholeLamp_7() { return &___WholeLamp_7; }
 	inline void set_WholeLamp_7(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_WholeLamp_7() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___WholeLamp_7)); }
+	inline GameObject_t2000580331 * get_WholeLamp_7() const { return ___WholeLamp_7; }
+	inline GameObject_t2000580331 ** get_address_of_WholeLamp_7() { return &___WholeLamp_7; }
+	inline void set_WholeLamp_7(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___WholeLamp_7 = value;
 		Il2CppCodeGenWriteBarrier((&___WholeLamp_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_TapToText_8() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___TapToText_8)); }
 	inline GameObject_t3669940079 * get_TapToText_8() const { return ___TapToText_8; }
 	inline GameObject_t3669940079 ** get_address_of_TapToText_8() { return &___TapToText_8; }
 	inline void set_TapToText_8(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_TapToText_8() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___TapToText_8)); }
+	inline GameObject_t2000580331 * get_TapToText_8() const { return ___TapToText_8; }
+	inline GameObject_t2000580331 ** get_address_of_TapToText_8() { return &___TapToText_8; }
+	inline void set_TapToText_8(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___TapToText_8 = value;
 		Il2CppCodeGenWriteBarrier((&___TapToText_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lampNewCollider_9() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___lampNewCollider_9)); }
 	inline GameObject_t3669940079 * get_lampNewCollider_9() const { return ___lampNewCollider_9; }
 	inline GameObject_t3669940079 ** get_address_of_lampNewCollider_9() { return &___lampNewCollider_9; }
 	inline void set_lampNewCollider_9(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_lampNewCollider_9() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___lampNewCollider_9)); }
+	inline GameObject_t2000580331 * get_lampNewCollider_9() const { return ___lampNewCollider_9; }
+	inline GameObject_t2000580331 ** get_address_of_lampNewCollider_9() { return &___lampNewCollider_9; }
+	inline void set_lampNewCollider_9(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___lampNewCollider_9 = value;
 		Il2CppCodeGenWriteBarrier((&___lampNewCollider_9), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lampShade_10() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___lampShade_10)); }
 	inline Material_t2926388270 * get_lampShade_10() const { return ___lampShade_10; }
 	inline Material_t2926388270 ** get_address_of_lampShade_10() { return &___lampShade_10; }
 	inline void set_lampShade_10(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_lampShade_10() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___lampShade_10)); }
+	inline Material_t132180377 * get_lampShade_10() const { return ___lampShade_10; }
+	inline Material_t132180377 ** get_address_of_lampShade_10() { return &___lampShade_10; }
+	inline void set_lampShade_10(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___lampShade_10 = value;
 		Il2CppCodeGenWriteBarrier((&___lampShade_10), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_m_Collider_11() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t1204104591, ___m_Collider_11)); }
 	inline Collider_t4274572055 * get_m_Collider_11() const { return ___m_Collider_11; }
 	inline Collider_t4274572055 ** get_address_of_m_Collider_11() { return &___m_Collider_11; }
 	inline void set_m_Collider_11(Collider_t4274572055 * value)
+=======
+	inline static int32_t get_offset_of_m_Collider_11() { return static_cast<int32_t>(offsetof(Co2ARHitTest_t425922184, ___m_Collider_11)); }
+	inline Collider_t2900334382 * get_m_Collider_11() const { return ___m_Collider_11; }
+	inline Collider_t2900334382 ** get_address_of_m_Collider_11() { return &___m_Collider_11; }
+	inline void set_m_Collider_11(Collider_t2900334382 * value)
+>>>>>>> Stashed changes
 	{
 		___m_Collider_11 = value;
 		Il2CppCodeGenWriteBarrier((&___m_Collider_11), value);
@@ -9235,9 +14737,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // CO2ARHITTEST_T1204104591_H
 #ifndef IGNORECOLLISION_T189551262_H
 #define IGNORECOLLISION_T189551262_H
+=======
+#endif // CO2ARHITTEST_T425922184_H
+#ifndef IGNORECOLLISION_T450671221_H
+#define IGNORECOLLISION_T450671221_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -9245,6 +14753,7 @@ public:
 #endif
 
 // ignoreCollision
+<<<<<<< Updated upstream
 struct  ignoreCollision_t189551262  : public MonoBehaviour_t3474225292
 {
 public:
@@ -9256,6 +14765,19 @@ public:
 	inline Transform_t1462574985 * get_goodTrash_2() const { return ___goodTrash_2; }
 	inline Transform_t1462574985 ** get_address_of_goodTrash_2() { return &___goodTrash_2; }
 	inline void set_goodTrash_2(Transform_t1462574985 * value)
+=======
+struct  ignoreCollision_t450671221  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.Transform ignoreCollision::goodTrash
+	Transform_t2833398713 * ___goodTrash_2;
+
+public:
+	inline static int32_t get_offset_of_goodTrash_2() { return static_cast<int32_t>(offsetof(ignoreCollision_t450671221, ___goodTrash_2)); }
+	inline Transform_t2833398713 * get_goodTrash_2() const { return ___goodTrash_2; }
+	inline Transform_t2833398713 ** get_address_of_goodTrash_2() { return &___goodTrash_2; }
+	inline void set_goodTrash_2(Transform_t2833398713 * value)
+>>>>>>> Stashed changes
 	{
 		___goodTrash_2 = value;
 		Il2CppCodeGenWriteBarrier((&___goodTrash_2), value);
@@ -9265,9 +14787,15 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // IGNORECOLLISION_T189551262_H
 #ifndef LAMPHIT2_T3029352665_H
 #define LAMPHIT2_T3029352665_H
+=======
+#endif // IGNORECOLLISION_T450671221_H
+#ifndef LAMPHIT2_T593760067_H
+#define LAMPHIT2_T593760067_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -9275,6 +14803,7 @@ public:
 #endif
 
 // LampHit2
+<<<<<<< Updated upstream
 struct  LampHit2_t3029352665  : public MonoBehaviour_t3474225292
 {
 public:
@@ -9314,100 +14843,204 @@ public:
 	inline GameObject_t3669940079 * get_replaceBulb_2() const { return ___replaceBulb_2; }
 	inline GameObject_t3669940079 ** get_address_of_replaceBulb_2() { return &___replaceBulb_2; }
 	inline void set_replaceBulb_2(GameObject_t3669940079 * value)
+=======
+struct  LampHit2_t593760067  : public MonoBehaviour_t4068272582
+{
+public:
+	// UnityEngine.GameObject LampHit2::replaceBulb
+	GameObject_t2000580331 * ___replaceBulb_2;
+	// UnityEngine.GameObject LampHit2::badBulb
+	GameObject_t2000580331 * ___badBulb_3;
+	// UnityEngine.GameObject LampHit2::cflTrans
+	GameObject_t2000580331 * ___cflTrans_4;
+	// UnityEngine.GameObject LampHit2::cflBulb
+	GameObject_t2000580331 * ___cflBulb_5;
+	// UnityEngine.GameObject LampHit2::BuildingFactTop
+	GameObject_t2000580331 * ___BuildingFactTop_6;
+	// UnityEngine.GameObject LampHit2::pointer
+	GameObject_t2000580331 * ___pointer_7;
+	// UnityEngine.GameObject LampHit2::BuildingFactBot
+	GameObject_t2000580331 * ___BuildingFactBot_8;
+	// UnityEngine.GameObject LampHit2::dontForget
+	GameObject_t2000580331 * ___dontForget_9;
+	// UnityEngine.GameObject LampHit2::turnOff
+	GameObject_t2000580331 * ___turnOff_10;
+	// UnityEngine.GameObject LampHit2::lampSpotlight
+	GameObject_t2000580331 * ___lampSpotlight_11;
+	// UnityEngine.Material LampHit2::smokeHigh
+	Material_t132180377 * ___smokeHigh_12;
+
+public:
+	inline static int32_t get_offset_of_replaceBulb_2() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___replaceBulb_2)); }
+	inline GameObject_t2000580331 * get_replaceBulb_2() const { return ___replaceBulb_2; }
+	inline GameObject_t2000580331 ** get_address_of_replaceBulb_2() { return &___replaceBulb_2; }
+	inline void set_replaceBulb_2(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___replaceBulb_2 = value;
 		Il2CppCodeGenWriteBarrier((&___replaceBulb_2), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_badBulb_3() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___badBulb_3)); }
 	inline GameObject_t3669940079 * get_badBulb_3() const { return ___badBulb_3; }
 	inline GameObject_t3669940079 ** get_address_of_badBulb_3() { return &___badBulb_3; }
 	inline void set_badBulb_3(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_badBulb_3() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___badBulb_3)); }
+	inline GameObject_t2000580331 * get_badBulb_3() const { return ___badBulb_3; }
+	inline GameObject_t2000580331 ** get_address_of_badBulb_3() { return &___badBulb_3; }
+	inline void set_badBulb_3(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___badBulb_3 = value;
 		Il2CppCodeGenWriteBarrier((&___badBulb_3), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_cflTrans_4() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___cflTrans_4)); }
 	inline GameObject_t3669940079 * get_cflTrans_4() const { return ___cflTrans_4; }
 	inline GameObject_t3669940079 ** get_address_of_cflTrans_4() { return &___cflTrans_4; }
 	inline void set_cflTrans_4(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_cflTrans_4() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___cflTrans_4)); }
+	inline GameObject_t2000580331 * get_cflTrans_4() const { return ___cflTrans_4; }
+	inline GameObject_t2000580331 ** get_address_of_cflTrans_4() { return &___cflTrans_4; }
+	inline void set_cflTrans_4(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___cflTrans_4 = value;
 		Il2CppCodeGenWriteBarrier((&___cflTrans_4), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_cflBulb_5() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___cflBulb_5)); }
 	inline GameObject_t3669940079 * get_cflBulb_5() const { return ___cflBulb_5; }
 	inline GameObject_t3669940079 ** get_address_of_cflBulb_5() { return &___cflBulb_5; }
 	inline void set_cflBulb_5(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_cflBulb_5() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___cflBulb_5)); }
+	inline GameObject_t2000580331 * get_cflBulb_5() const { return ___cflBulb_5; }
+	inline GameObject_t2000580331 ** get_address_of_cflBulb_5() { return &___cflBulb_5; }
+	inline void set_cflBulb_5(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___cflBulb_5 = value;
 		Il2CppCodeGenWriteBarrier((&___cflBulb_5), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_BuildingFactTop_6() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___BuildingFactTop_6)); }
 	inline GameObject_t3669940079 * get_BuildingFactTop_6() const { return ___BuildingFactTop_6; }
 	inline GameObject_t3669940079 ** get_address_of_BuildingFactTop_6() { return &___BuildingFactTop_6; }
 	inline void set_BuildingFactTop_6(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_BuildingFactTop_6() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___BuildingFactTop_6)); }
+	inline GameObject_t2000580331 * get_BuildingFactTop_6() const { return ___BuildingFactTop_6; }
+	inline GameObject_t2000580331 ** get_address_of_BuildingFactTop_6() { return &___BuildingFactTop_6; }
+	inline void set_BuildingFactTop_6(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BuildingFactTop_6 = value;
 		Il2CppCodeGenWriteBarrier((&___BuildingFactTop_6), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_pointer_7() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___pointer_7)); }
 	inline GameObject_t3669940079 * get_pointer_7() const { return ___pointer_7; }
 	inline GameObject_t3669940079 ** get_address_of_pointer_7() { return &___pointer_7; }
 	inline void set_pointer_7(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_pointer_7() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___pointer_7)); }
+	inline GameObject_t2000580331 * get_pointer_7() const { return ___pointer_7; }
+	inline GameObject_t2000580331 ** get_address_of_pointer_7() { return &___pointer_7; }
+	inline void set_pointer_7(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___pointer_7 = value;
 		Il2CppCodeGenWriteBarrier((&___pointer_7), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_BuildingFactBot_8() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___BuildingFactBot_8)); }
 	inline GameObject_t3669940079 * get_BuildingFactBot_8() const { return ___BuildingFactBot_8; }
 	inline GameObject_t3669940079 ** get_address_of_BuildingFactBot_8() { return &___BuildingFactBot_8; }
 	inline void set_BuildingFactBot_8(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_BuildingFactBot_8() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___BuildingFactBot_8)); }
+	inline GameObject_t2000580331 * get_BuildingFactBot_8() const { return ___BuildingFactBot_8; }
+	inline GameObject_t2000580331 ** get_address_of_BuildingFactBot_8() { return &___BuildingFactBot_8; }
+	inline void set_BuildingFactBot_8(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___BuildingFactBot_8 = value;
 		Il2CppCodeGenWriteBarrier((&___BuildingFactBot_8), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_dontForget_9() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___dontForget_9)); }
 	inline GameObject_t3669940079 * get_dontForget_9() const { return ___dontForget_9; }
 	inline GameObject_t3669940079 ** get_address_of_dontForget_9() { return &___dontForget_9; }
 	inline void set_dontForget_9(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_dontForget_9() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___dontForget_9)); }
+	inline GameObject_t2000580331 * get_dontForget_9() const { return ___dontForget_9; }
+	inline GameObject_t2000580331 ** get_address_of_dontForget_9() { return &___dontForget_9; }
+	inline void set_dontForget_9(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___dontForget_9 = value;
 		Il2CppCodeGenWriteBarrier((&___dontForget_9), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_turnOff_10() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___turnOff_10)); }
 	inline GameObject_t3669940079 * get_turnOff_10() const { return ___turnOff_10; }
 	inline GameObject_t3669940079 ** get_address_of_turnOff_10() { return &___turnOff_10; }
 	inline void set_turnOff_10(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_turnOff_10() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___turnOff_10)); }
+	inline GameObject_t2000580331 * get_turnOff_10() const { return ___turnOff_10; }
+	inline GameObject_t2000580331 ** get_address_of_turnOff_10() { return &___turnOff_10; }
+	inline void set_turnOff_10(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___turnOff_10 = value;
 		Il2CppCodeGenWriteBarrier((&___turnOff_10), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_lampSpotlight_11() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___lampSpotlight_11)); }
 	inline GameObject_t3669940079 * get_lampSpotlight_11() const { return ___lampSpotlight_11; }
 	inline GameObject_t3669940079 ** get_address_of_lampSpotlight_11() { return &___lampSpotlight_11; }
 	inline void set_lampSpotlight_11(GameObject_t3669940079 * value)
+=======
+	inline static int32_t get_offset_of_lampSpotlight_11() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___lampSpotlight_11)); }
+	inline GameObject_t2000580331 * get_lampSpotlight_11() const { return ___lampSpotlight_11; }
+	inline GameObject_t2000580331 ** get_address_of_lampSpotlight_11() { return &___lampSpotlight_11; }
+	inline void set_lampSpotlight_11(GameObject_t2000580331 * value)
+>>>>>>> Stashed changes
 	{
 		___lampSpotlight_11 = value;
 		Il2CppCodeGenWriteBarrier((&___lampSpotlight_11), value);
 	}
 
+<<<<<<< Updated upstream
 	inline static int32_t get_offset_of_smokeHigh_12() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___smokeHigh_12)); }
 	inline Material_t2926388270 * get_smokeHigh_12() const { return ___smokeHigh_12; }
 	inline Material_t2926388270 ** get_address_of_smokeHigh_12() { return &___smokeHigh_12; }
 	inline void set_smokeHigh_12(Material_t2926388270 * value)
+=======
+	inline static int32_t get_offset_of_smokeHigh_12() { return static_cast<int32_t>(offsetof(LampHit2_t593760067, ___smokeHigh_12)); }
+	inline Material_t132180377 * get_smokeHigh_12() const { return ___smokeHigh_12; }
+	inline Material_t132180377 ** get_address_of_smokeHigh_12() { return &___smokeHigh_12; }
+	inline void set_smokeHigh_12(Material_t132180377 * value)
+>>>>>>> Stashed changes
 	{
 		___smokeHigh_12 = value;
 		Il2CppCodeGenWriteBarrier((&___smokeHigh_12), value);
 	}
+<<<<<<< Updated upstream
 
 	inline static int32_t get_offset_of_exampleCube_13() { return static_cast<int32_t>(offsetof(LampHit2_t3029352665, ___exampleCube_13)); }
 	inline GameObject_t3669940079 * get_exampleCube_13() const { return ___exampleCube_13; }
@@ -9444,12 +15077,18 @@ public:
 		___newLightBulb_16 = value;
 		Il2CppCodeGenWriteBarrier((&___newLightBulb_16), value);
 	}
+=======
+>>>>>>> Stashed changes
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // LAMPHIT2_T3029352665_H
+=======
+#endif // LAMPHIT2_T593760067_H
+>>>>>>> Stashed changes
 
 
 
@@ -9460,6 +15099,7 @@ public:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+<<<<<<< Updated upstream
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3000 = { sizeof (TMP_TextUtilities_t1654853105), -1, sizeof(TMP_TextUtilities_t1654853105_StaticFields), 0 };
 extern const int32_t g_FieldOffsetTable3000[3] = 
 {
@@ -9504,6 +15144,52 @@ extern const int32_t g_FieldOffsetTable3004[10] =
 	TMP_BasicXmlTagStack_t3908517297::get_offset_of_uppercase_7() + static_cast<int32_t>(sizeof(RuntimeObject)),
 	TMP_BasicXmlTagStack_t3908517297::get_offset_of_lowercase_8() + static_cast<int32_t>(sizeof(RuntimeObject)),
 	TMP_BasicXmlTagStack_t3908517297::get_offset_of_smallcaps_9() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3000 = { sizeof (TMP_TextUtilities_t3222917929), -1, sizeof(TMP_TextUtilities_t3222917929_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3000[3] = 
+{
+	TMP_TextUtilities_t3222917929_StaticFields::get_offset_of_m_rectWorldCorners_0(),
+	0,
+	0,
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3001 = { sizeof (LineSegment_t3199456027)+ sizeof (RuntimeObject), sizeof(LineSegment_t3199456027 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3001[2] = 
+{
+	LineSegment_t3199456027::get_offset_of_Point1_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	LineSegment_t3199456027::get_offset_of_Point2_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3002 = { sizeof (TMP_UpdateManager_t1018209310), -1, sizeof(TMP_UpdateManager_t1018209310_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3002[5] = 
+{
+	TMP_UpdateManager_t1018209310_StaticFields::get_offset_of_s_Instance_0(),
+	TMP_UpdateManager_t1018209310::get_offset_of_m_LayoutRebuildQueue_1(),
+	TMP_UpdateManager_t1018209310::get_offset_of_m_LayoutQueueLookup_2(),
+	TMP_UpdateManager_t1018209310::get_offset_of_m_GraphicRebuildQueue_3(),
+	TMP_UpdateManager_t1018209310::get_offset_of_m_GraphicQueueLookup_4(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3003 = { sizeof (TMP_UpdateRegistry_t2445202571), -1, sizeof(TMP_UpdateRegistry_t2445202571_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3003[5] = 
+{
+	TMP_UpdateRegistry_t2445202571_StaticFields::get_offset_of_s_Instance_0(),
+	TMP_UpdateRegistry_t2445202571::get_offset_of_m_LayoutRebuildQueue_1(),
+	TMP_UpdateRegistry_t2445202571::get_offset_of_m_LayoutQueueLookup_2(),
+	TMP_UpdateRegistry_t2445202571::get_offset_of_m_GraphicRebuildQueue_3(),
+	TMP_UpdateRegistry_t2445202571::get_offset_of_m_GraphicQueueLookup_4(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3004 = { sizeof (TMP_BasicXmlTagStack_t1184639443)+ sizeof (RuntimeObject), sizeof(TMP_BasicXmlTagStack_t1184639443 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3004[10] = 
+{
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_bold_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_italic_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_underline_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_strikethrough_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_highlight_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_superscript_5() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_subscript_6() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_uppercase_7() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_lowercase_8() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_BasicXmlTagStack_t1184639443::get_offset_of_smallcaps_9() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> Stashed changes
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3005 = { 0, 0, 0, 0 };
 extern const int32_t g_FieldOffsetTable3005[5] = 
@@ -9514,6 +15200,7 @@ extern const int32_t g_FieldOffsetTable3005[5] =
 	0,
 	0,
 };
+<<<<<<< Updated upstream
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3006 = { sizeof (Compute_DistanceTransform_EventTypes_t2620149052)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const int32_t g_FieldOffsetTable3006[3] = 
 {
@@ -9546,6 +15233,40 @@ extern const int32_t g_FieldOffsetTable3008[3] =
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3009 = { sizeof (TMPro_ExtensionMethods_t2482918748), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3010 = { sizeof (TMP_Math_t1426381556), -1, sizeof(TMP_Math_t1426381556_StaticFields), 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3006 = { sizeof (Compute_DistanceTransform_EventTypes_t2516687653)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable3006[3] = 
+{
+	Compute_DistanceTransform_EventTypes_t2516687653::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	0,
+	0,
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3007 = { sizeof (TMPro_EventManager_t562510863), -1, sizeof(TMPro_EventManager_t562510863_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3007[12] = 
+{
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_COMPUTE_DT_EVENT_0(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_MATERIAL_PROPERTY_EVENT_1(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_FONT_PROPERTY_EVENT_2(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_SPRITE_ASSET_PROPERTY_EVENT_3(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_TEXTMESHPRO_PROPERTY_EVENT_4(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_DRAG_AND_DROP_MATERIAL_EVENT_5(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_TEXT_STYLE_PROPERTY_EVENT_6(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_COLOR_GRADIENT_PROPERTY_EVENT_7(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_TMP_SETTINGS_PROPERTY_EVENT_8(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_TEXTMESHPRO_UGUI_PROPERTY_EVENT_9(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_OnPreRenderObject_Event_10(),
+	TMPro_EventManager_t562510863_StaticFields::get_offset_of_TEXT_CHANGED_EVENT_11(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3008 = { sizeof (Compute_DT_EventArgs_t4056325816), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3008[3] = 
+{
+	Compute_DT_EventArgs_t4056325816::get_offset_of_EventType_0(),
+	Compute_DT_EventArgs_t4056325816::get_offset_of_ProgressPercentage_1(),
+	Compute_DT_EventArgs_t4056325816::get_offset_of_Colors_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3009 = { sizeof (TMPro_ExtensionMethods_t1092114783), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3010 = { sizeof (TMP_Math_t3217992652), -1, sizeof(TMP_Math_t3217992652_StaticFields), 0 };
+>>>>>>> Stashed changes
 extern const int32_t g_FieldOffsetTable3010[8] = 
 {
 	0,
@@ -9554,6 +15275,7 @@ extern const int32_t g_FieldOffsetTable3010[8] =
 	0,
 	0,
 	0,
+<<<<<<< Updated upstream
 	TMP_Math_t1426381556_StaticFields::get_offset_of_MAX_16BIT_6(),
 	TMP_Math_t1426381556_StaticFields::get_offset_of_MIN_16BIT_7(),
 };
@@ -9658,6 +15380,112 @@ extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3022 = { sizeof (TMP_
 extern const int32_t g_FieldOffsetTable3022[8] = 
 {
 	TMP_VertexDataUpdateFlags_t327443084::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+=======
+	TMP_Math_t3217992652_StaticFields::get_offset_of_MAX_16BIT_6(),
+	TMP_Math_t3217992652_StaticFields::get_offset_of_MIN_16BIT_7(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3011 = { sizeof (FaceInfo_t1650088009), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3011[21] = 
+{
+	FaceInfo_t1650088009::get_offset_of_Name_0(),
+	FaceInfo_t1650088009::get_offset_of_PointSize_1(),
+	FaceInfo_t1650088009::get_offset_of_Scale_2(),
+	FaceInfo_t1650088009::get_offset_of_CharacterCount_3(),
+	FaceInfo_t1650088009::get_offset_of_LineHeight_4(),
+	FaceInfo_t1650088009::get_offset_of_Baseline_5(),
+	FaceInfo_t1650088009::get_offset_of_Ascender_6(),
+	FaceInfo_t1650088009::get_offset_of_CapHeight_7(),
+	FaceInfo_t1650088009::get_offset_of_Descender_8(),
+	FaceInfo_t1650088009::get_offset_of_CenterLine_9(),
+	FaceInfo_t1650088009::get_offset_of_SuperscriptOffset_10(),
+	FaceInfo_t1650088009::get_offset_of_SubscriptOffset_11(),
+	FaceInfo_t1650088009::get_offset_of_SubSize_12(),
+	FaceInfo_t1650088009::get_offset_of_Underline_13(),
+	FaceInfo_t1650088009::get_offset_of_UnderlineThickness_14(),
+	FaceInfo_t1650088009::get_offset_of_strikethrough_15(),
+	FaceInfo_t1650088009::get_offset_of_strikethroughThickness_16(),
+	FaceInfo_t1650088009::get_offset_of_TabWidth_17(),
+	FaceInfo_t1650088009::get_offset_of_Padding_18(),
+	FaceInfo_t1650088009::get_offset_of_AtlasWidth_19(),
+	FaceInfo_t1650088009::get_offset_of_AtlasHeight_20(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3012 = { sizeof (TMP_Glyph_t4214053046), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3013 = { sizeof (FontCreationSetting_t2976804987)+ sizeof (RuntimeObject), sizeof(FontCreationSetting_t2976804987_marshaled_pinvoke), 0, 0 };
+extern const int32_t g_FieldOffsetTable3013[12] = 
+{
+	FontCreationSetting_t2976804987::get_offset_of_fontSourcePath_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontSizingMode_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontSize_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontPadding_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontPackingMode_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontAtlasWidth_5() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontAtlasHeight_6() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontCharacterSet_7() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontStyle_8() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontStlyeModifier_9() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontRenderMode_10() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	FontCreationSetting_t2976804987::get_offset_of_fontKerning_11() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3014 = { sizeof (Glyph2D_t279928030), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3014[8] = 
+{
+	Glyph2D_t279928030::get_offset_of_bottomLeft_0(),
+	Glyph2D_t279928030::get_offset_of_topLeft_1(),
+	Glyph2D_t279928030::get_offset_of_bottomRight_2(),
+	Glyph2D_t279928030::get_offset_of_topRight_3(),
+	Glyph2D_t279928030::get_offset_of_uv0_4(),
+	Glyph2D_t279928030::get_offset_of_uv1_5(),
+	Glyph2D_t279928030::get_offset_of_uv2_6(),
+	Glyph2D_t279928030::get_offset_of_uv3_7(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3015 = { sizeof (KerningPairKey_t3261974684)+ sizeof (RuntimeObject), sizeof(KerningPairKey_t3261974684 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3015[3] = 
+{
+	KerningPairKey_t3261974684::get_offset_of_ascii_Left_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	KerningPairKey_t3261974684::get_offset_of_ascii_Right_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	KerningPairKey_t3261974684::get_offset_of_key_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3016 = { sizeof (KerningPair_t1514395871), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3016[3] = 
+{
+	KerningPair_t1514395871::get_offset_of_AscII_Left_0(),
+	KerningPair_t1514395871::get_offset_of_AscII_Right_1(),
+	KerningPair_t1514395871::get_offset_of_XadvanceOffset_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3017 = { sizeof (KerningTable_t1844259280), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3017[1] = 
+{
+	KerningTable_t1844259280::get_offset_of_kerningPairs_0(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3018 = { sizeof (U3CU3Ec__DisplayClass3_0_t11130350), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3018[2] = 
+{
+	U3CU3Ec__DisplayClass3_0_t11130350::get_offset_of_left_0(),
+	U3CU3Ec__DisplayClass3_0_t11130350::get_offset_of_right_1(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3019 = { sizeof (U3CU3Ec__DisplayClass4_0_t2294110181), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3019[2] = 
+{
+	U3CU3Ec__DisplayClass4_0_t2294110181::get_offset_of_left_0(),
+	U3CU3Ec__DisplayClass4_0_t2294110181::get_offset_of_right_1(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3020 = { sizeof (U3CU3Ec_t196065760), -1, sizeof(U3CU3Ec_t196065760_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3020[3] = 
+{
+	U3CU3Ec_t196065760_StaticFields::get_offset_of_U3CU3E9_0(),
+	U3CU3Ec_t196065760_StaticFields::get_offset_of_U3CU3E9__6_0_1(),
+	U3CU3Ec_t196065760_StaticFields::get_offset_of_U3CU3E9__6_1_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3021 = { sizeof (TMP_FontUtilities_t2825752727), -1, sizeof(TMP_FontUtilities_t2825752727_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3021[1] = 
+{
+	TMP_FontUtilities_t2825752727_StaticFields::get_offset_of_k_searchedFontAssets_0(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3022 = { sizeof (TMP_VertexDataUpdateFlags_t1728793896)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable3022[8] = 
+{
+	TMP_VertexDataUpdateFlags_t1728793896::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+>>>>>>> Stashed changes
 	0,
 	0,
 	0,
@@ -9666,6 +15494,7 @@ extern const int32_t g_FieldOffsetTable3022[8] =
 	0,
 	0,
 };
+<<<<<<< Updated upstream
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3023 = { sizeof (TMP_CharacterInfo_t245226124)+ sizeof (RuntimeObject), -1, 0, 0 };
 extern const int32_t g_FieldOffsetTable3023[35] = 
 {
@@ -10249,6 +16078,587 @@ extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3084 = { sizeof (Geoc
 extern const int32_t g_FieldOffsetTable3084[1] = 
 {
 	Geocoder_t1225858139::get_offset_of_fileSource_0(),
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3023 = { sizeof (TMP_CharacterInfo_t2318007706)+ sizeof (RuntimeObject), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3023[35] = 
+{
+	TMP_CharacterInfo_t2318007706::get_offset_of_character_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_index_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_elementType_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_textElement_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_fontAsset_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_spriteAsset_5() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_spriteIndex_6() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_material_7() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_materialReferenceIndex_8() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_isUsingAlternateTypeface_9() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_pointSize_10() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_lineNumber_11() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_pageNumber_12() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_vertexIndex_13() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_vertex_TL_14() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_vertex_BL_15() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_vertex_TR_16() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_vertex_BR_17() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_topLeft_18() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_bottomLeft_19() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_topRight_20() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_bottomRight_21() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_origin_22() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_ascender_23() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_baseLine_24() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_descender_25() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_xAdvance_26() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_aspectRatio_27() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_scale_28() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_color_29() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_underlineColor_30() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_strikethroughColor_31() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_highlightColor_32() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_style_33() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_CharacterInfo_t2318007706::get_offset_of_isVisible_34() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3024 = { sizeof (TMP_Vertex_t4232211731)+ sizeof (RuntimeObject), sizeof(TMP_Vertex_t4232211731 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3024[5] = 
+{
+	TMP_Vertex_t4232211731::get_offset_of_position_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_Vertex_t4232211731::get_offset_of_uv_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_Vertex_t4232211731::get_offset_of_uv2_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_Vertex_t4232211731::get_offset_of_uv4_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_Vertex_t4232211731::get_offset_of_color_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3025 = { sizeof (VertexGradient_t308438391)+ sizeof (RuntimeObject), sizeof(VertexGradient_t308438391 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3025[4] = 
+{
+	VertexGradient_t308438391::get_offset_of_topLeft_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	VertexGradient_t308438391::get_offset_of_topRight_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	VertexGradient_t308438391::get_offset_of_bottomLeft_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	VertexGradient_t308438391::get_offset_of_bottomRight_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3026 = { sizeof (TMP_PageInfo_t3073005237)+ sizeof (RuntimeObject), sizeof(TMP_PageInfo_t3073005237 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3026[5] = 
+{
+	TMP_PageInfo_t3073005237::get_offset_of_firstCharacterIndex_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_PageInfo_t3073005237::get_offset_of_lastCharacterIndex_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_PageInfo_t3073005237::get_offset_of_ascender_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_PageInfo_t3073005237::get_offset_of_baseLine_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_PageInfo_t3073005237::get_offset_of_descender_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3027 = { sizeof (TMP_LinkInfo_t2870327164)+ sizeof (RuntimeObject), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3027[7] = 
+{
+	TMP_LinkInfo_t2870327164::get_offset_of_textComponent_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_LinkInfo_t2870327164::get_offset_of_hashCode_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_LinkInfo_t2870327164::get_offset_of_linkIdFirstCharacterIndex_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_LinkInfo_t2870327164::get_offset_of_linkIdLength_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_LinkInfo_t2870327164::get_offset_of_linkTextfirstCharacterIndex_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_LinkInfo_t2870327164::get_offset_of_linkTextLength_5() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_LinkInfo_t2870327164::get_offset_of_linkID_6() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3028 = { sizeof (TMP_WordInfo_t1320727044)+ sizeof (RuntimeObject), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3028[4] = 
+{
+	TMP_WordInfo_t1320727044::get_offset_of_textComponent_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_WordInfo_t1320727044::get_offset_of_firstCharacterIndex_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_WordInfo_t1320727044::get_offset_of_lastCharacterIndex_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_WordInfo_t1320727044::get_offset_of_characterCount_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3029 = { sizeof (TMP_SpriteInfo_t1250914607)+ sizeof (RuntimeObject), sizeof(TMP_SpriteInfo_t1250914607 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3029[3] = 
+{
+	TMP_SpriteInfo_t1250914607::get_offset_of_spriteIndex_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_SpriteInfo_t1250914607::get_offset_of_characterIndex_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TMP_SpriteInfo_t1250914607::get_offset_of_vertexIndex_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3030 = { sizeof (Extents_t10404588)+ sizeof (RuntimeObject), sizeof(Extents_t10404588 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3030[2] = 
+{
+	Extents_t10404588::get_offset_of_min_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	Extents_t10404588::get_offset_of_max_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3031 = { sizeof (Mesh_Extents_t1986438178)+ sizeof (RuntimeObject), sizeof(Mesh_Extents_t1986438178 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3031[2] = 
+{
+	Mesh_Extents_t1986438178::get_offset_of_min_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	Mesh_Extents_t1986438178::get_offset_of_max_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3032 = { sizeof (WordWrapState_t2272487395)+ sizeof (RuntimeObject), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3032[53] = 
+{
+	WordWrapState_t2272487395::get_offset_of_previous_WordBreak_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_total_CharacterCount_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_visible_CharacterCount_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_visible_SpriteCount_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_visible_LinkCount_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_firstCharacterIndex_5() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_firstVisibleCharacterIndex_6() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_lastCharacterIndex_7() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_lastVisibleCharIndex_8() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_lineNumber_9() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_maxCapHeight_10() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_maxAscender_11() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_maxDescender_12() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_maxLineAscender_13() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_maxLineDescender_14() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_previousLineAscender_15() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_xAdvance_16() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_preferredWidth_17() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_preferredHeight_18() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_previousLineScale_19() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_wordCount_20() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_fontStyle_21() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_fontScale_22() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_fontScaleMultiplier_23() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_currentFontSize_24() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_baselineOffset_25() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_lineOffset_26() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_textInfo_27() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_lineInfo_28() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_vertexColor_29() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_underlineColor_30() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_strikethroughColor_31() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_highlightColor_32() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_basicStyleStack_33() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_colorStack_34() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_underlineColorStack_35() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_strikethroughColorStack_36() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_highlightColorStack_37() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_sizeStack_38() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_indentStack_39() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_fontWeightStack_40() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_styleStack_41() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_baselineStack_42() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_actionStack_43() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_materialReferenceStack_44() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_lineJustificationStack_45() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_spriteAnimationID_46() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_currentFontAsset_47() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_currentSpriteAsset_48() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_currentMaterial_49() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_currentMaterialIndex_50() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_meshExtents_51() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	WordWrapState_t2272487395::get_offset_of_tagNoParsing_52() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3033 = { sizeof (TagAttribute_t1025893423)+ sizeof (RuntimeObject), sizeof(TagAttribute_t1025893423 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3033[3] = 
+{
+	TagAttribute_t1025893423::get_offset_of_startIndex_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TagAttribute_t1025893423::get_offset_of_length_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	TagAttribute_t1025893423::get_offset_of_hashCode_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3034 = { sizeof (XML_TagAttribute_t783537170)+ sizeof (RuntimeObject), sizeof(XML_TagAttribute_t783537170 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3034[5] = 
+{
+	XML_TagAttribute_t783537170::get_offset_of_nameHashCode_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	XML_TagAttribute_t783537170::get_offset_of_valueType_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	XML_TagAttribute_t783537170::get_offset_of_valueStartIndex_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	XML_TagAttribute_t783537170::get_offset_of_valueLength_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	XML_TagAttribute_t783537170::get_offset_of_valueHashCode_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3035 = { sizeof (ShaderUtilities_t2911717781), -1, sizeof(ShaderUtilities_t2911717781_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3035[59] = 
+{
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_MainTex_0(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_FaceTex_1(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_FaceColor_2(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_FaceDilate_3(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_Shininess_4(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_UnderlayColor_5(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_UnderlayOffsetX_6(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_UnderlayOffsetY_7(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_UnderlayDilate_8(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_UnderlaySoftness_9(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_WeightNormal_10(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_WeightBold_11(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_OutlineTex_12(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_OutlineWidth_13(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_OutlineSoftness_14(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_OutlineColor_15(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_GradientScale_16(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ScaleX_17(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ScaleY_18(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_PerspectiveFilter_19(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_TextureWidth_20(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_TextureHeight_21(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_BevelAmount_22(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_GlowColor_23(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_GlowOffset_24(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_GlowPower_25(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_GlowOuter_26(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_LightAngle_27(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_EnvMap_28(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_EnvMatrix_29(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_EnvMatrixRotation_30(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_MaskCoord_31(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ClipRect_32(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_MaskSoftnessX_33(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_MaskSoftnessY_34(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_VertexOffsetX_35(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_VertexOffsetY_36(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_UseClipRect_37(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_StencilID_38(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_StencilOp_39(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_StencilComp_40(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_StencilReadMask_41(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_StencilWriteMask_42(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ShaderFlags_43(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ScaleRatio_A_44(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ScaleRatio_B_45(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ID_ScaleRatio_C_46(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_Bevel_47(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_Glow_48(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_Underlay_49(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_Ratios_50(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_MASK_SOFT_51(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_MASK_HARD_52(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_MASK_TEX_53(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_Keyword_Outline_54(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ShaderTag_ZTestMode_55(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_ShaderTag_CullMode_56(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_m_clamp_57(),
+	ShaderUtilities_t2911717781_StaticFields::get_offset_of_isInitialized_58(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3036 = { sizeof (SpriteAssetImportFormats_t2001606766)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable3036[3] = 
+{
+	SpriteAssetImportFormats_t2001606766::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	0,
+	0,
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3037 = { sizeof (TexturePacker_t1234327613), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3038 = { sizeof (SpriteFrame_t1478008703)+ sizeof (RuntimeObject), sizeof(SpriteFrame_t1478008703 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3038[4] = 
+{
+	SpriteFrame_t1478008703::get_offset_of_x_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteFrame_t1478008703::get_offset_of_y_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteFrame_t1478008703::get_offset_of_w_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteFrame_t1478008703::get_offset_of_h_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3039 = { sizeof (SpriteSize_t4268474400)+ sizeof (RuntimeObject), sizeof(SpriteSize_t4268474400 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3039[2] = 
+{
+	SpriteSize_t4268474400::get_offset_of_w_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteSize_t4268474400::get_offset_of_h_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3040 = { sizeof (SpriteData_t359346718)+ sizeof (RuntimeObject), sizeof(SpriteData_t359346718_marshaled_pinvoke), 0, 0 };
+extern const int32_t g_FieldOffsetTable3040[7] = 
+{
+	SpriteData_t359346718::get_offset_of_filename_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteData_t359346718::get_offset_of_frame_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteData_t359346718::get_offset_of_rotated_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteData_t359346718::get_offset_of_trimmed_3() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteData_t359346718::get_offset_of_spriteSourceSize_4() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteData_t359346718::get_offset_of_sourceSize_5() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	SpriteData_t359346718::get_offset_of_pivot_6() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3041 = { sizeof (SpriteDataObject_t3439737116), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3041[1] = 
+{
+	SpriteDataObject_t3439737116::get_offset_of_frames_0(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3042 = { sizeof (U3CPrivateImplementationDetailsU3E_t4000827845), -1, sizeof(U3CPrivateImplementationDetailsU3E_t4000827845_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3042[2] = 
+{
+	U3CPrivateImplementationDetailsU3E_t4000827845_StaticFields::get_offset_of_U37BBE37982E6C057ED87163CAFC7FD6E5E42EEA46_0(),
+	U3CPrivateImplementationDetailsU3E_t4000827845_StaticFields::get_offset_of_U39E6378168821DBABB7EE3D0154346480FAC8AEF1_1(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3043 = { sizeof (__StaticArrayInitTypeSizeU3D12_t129652691)+ sizeof (RuntimeObject), sizeof(__StaticArrayInitTypeSizeU3D12_t129652691 ), 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3044 = { sizeof (__StaticArrayInitTypeSizeU3D40_t1433648096)+ sizeof (RuntimeObject), sizeof(__StaticArrayInitTypeSizeU3D40_t1433648096 ), 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3045 = { sizeof (U3CModuleU3E_t3585700758), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3046 = { sizeof (Co2ARHitTest_t425922184), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3046[10] = 
+{
+	Co2ARHitTest_t425922184::get_offset_of_m_HitTransform_2(),
+	Co2ARHitTest_t425922184::get_offset_of_maxRayDistance_3(),
+	Co2ARHitTest_t425922184::get_offset_of_collisionLayer_4(),
+	Co2ARHitTest_t425922184::get_offset_of_BlueFocusSquare_5(),
+	Co2ARHitTest_t425922184::get_offset_of_FocusedSquare_6(),
+	Co2ARHitTest_t425922184::get_offset_of_WholeLamp_7(),
+	Co2ARHitTest_t425922184::get_offset_of_TapToText_8(),
+	Co2ARHitTest_t425922184::get_offset_of_lampNewCollider_9(),
+	Co2ARHitTest_t425922184::get_offset_of_lampShade_10(),
+	Co2ARHitTest_t425922184::get_offset_of_m_Collider_11(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3047 = { sizeof (CameraScript_t4008311210), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3047[8] = 
+{
+	CameraScript_t4008311210::get_offset_of_lookAt_2(),
+	CameraScript_t4008311210::get_offset_of_camTransform_3(),
+	CameraScript_t4008311210::get_offset_of_cam_4(),
+	CameraScript_t4008311210::get_offset_of_distance_5(),
+	CameraScript_t4008311210::get_offset_of_currentX_6(),
+	CameraScript_t4008311210::get_offset_of_currentY_7(),
+	CameraScript_t4008311210::get_offset_of_sensivityX_8(),
+	CameraScript_t4008311210::get_offset_of_sensivityY_9(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3048 = { sizeof (collideScript_t878038026), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3048[1] = 
+{
+	collideScript_t878038026::get_offset_of_showCube_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3049 = { sizeof (fact1_script_t2633949218), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3049[1] = 
+{
+	fact1_script_t2633949218::get_offset_of_fact1_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3050 = { sizeof (FactHit1_t3426035946), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3050[2] = 
+{
+	FactHit1_t3426035946::get_offset_of_fact1OrigPos_2(),
+	FactHit1_t3426035946::get_offset_of_fact1NewPos_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3051 = { sizeof (FactHit2_t665655721), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3051[8] = 
+{
+	FactHit2_t665655721::get_offset_of_fact2OrigPos_2(),
+	FactHit2_t665655721::get_offset_of_fact2NewPos_3(),
+	FactHit2_t665655721::get_offset_of_spotlightObject_4(),
+	FactHit2_t665655721::get_offset_of_spotlightObject1_5(),
+	FactHit2_t665655721::get_offset_of_TapToText_6(),
+	FactHit2_t665655721::get_offset_of_SmokeParent_7(),
+	FactHit2_t665655721::get_offset_of_SmokeParentLite_8(),
+	FactHit2_t665655721::get_offset_of_buildingsText_9(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3052 = { sizeof (FactHit3_t2887514825), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3052[2] = 
+{
+	FactHit3_t2887514825::get_offset_of_fact3OrigPos_2(),
+	FactHit3_t2887514825::get_offset_of_fact3NewPos_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3053 = { sizeof (FactHit4_t2378537122), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3053[2] = 
+{
+	FactHit4_t2378537122::get_offset_of_fact4OrigPos_2(),
+	FactHit4_t2378537122::get_offset_of_fact4NewPos_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3054 = { sizeof (factTrigger_t2396128222), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3054[1] = 
+{
+	factTrigger_t2396128222::get_offset_of_fact2_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3055 = { sizeof (FadeAwayScript_t4066381897), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3055[2] = 
+{
+	FadeAwayScript_t4066381897::get_offset_of_duration_2(),
+	FadeAwayScript_t4066381897::get_offset_of_TapToText_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3056 = { sizeof (fixedpos_t720596715), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3056[2] = 
+{
+	fixedpos_t720596715::get_offset_of_cfl_2(),
+	fixedpos_t720596715::get_offset_of_offset_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3057 = { sizeof (flicker_t679923389), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3057[5] = 
+{
+	flicker_t679923389::get_offset_of_badLight_2(),
+	flicker_t679923389::get_offset_of_timeOn_3(),
+	flicker_t679923389::get_offset_of_timeOff_4(),
+	flicker_t679923389::get_offset_of_changeTime_5(),
+	flicker_t679923389::get_offset_of_lit_6(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3058 = { sizeof (flickeringLight_t1395964630), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3059 = { sizeof (HitByRay_t3090899175), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3060 = { sizeof (HitByRaycast_t1263640661), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3061 = { sizeof (IfAnchorAddedScript_t3447425054), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3061[6] = 
+{
+	IfAnchorAddedScript_t3447425054::get_offset_of_unityARAnchorManager_2(),
+	IfAnchorAddedScript_t3447425054::get_offset_of_FindFlatSurfaceIcon_3(),
+	IfAnchorAddedScript_t3447425054::get_offset_of_FindFlatSurfaceText_4(),
+	IfAnchorAddedScript_t3447425054::get_offset_of_TapToPlaceText_5(),
+	IfAnchorAddedScript_t3447425054::get_offset_of_ObjectFocusSquare_6(),
+	IfAnchorAddedScript_t3447425054::get_offset_of_lampShade_7(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3062 = { sizeof (ignoreCollision_t450671221), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3062[1] = 
+{
+	ignoreCollision_t450671221::get_offset_of_goodTrash_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3063 = { sizeof (lampBtns_t2848953541), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3063[5] = 
+{
+	lampBtns_t2848953541::get_offset_of_BuildingFactTop_2(),
+	lampBtns_t2848953541::get_offset_of_BuildingFactBot_3(),
+	lampBtns_t2848953541::get_offset_of_dontForget_4(),
+	lampBtns_t2848953541::get_offset_of_turnOff_5(),
+	lampBtns_t2848953541::get_offset_of_pointer_6(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3064 = { sizeof (LampHit_t3118229875), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3064[15] = 
+{
+	LampHit_t3118229875::get_offset_of_lampSpotlight_2(),
+	LampHit_t3118229875::get_offset_of_lampShade_3(),
+	LampHit_t3118229875::get_offset_of_BuildingFactTop_4(),
+	LampHit_t3118229875::get_offset_of_BuildingFactBot_5(),
+	LampHit_t3118229875::get_offset_of_smokeHigh_6(),
+	LampHit_t3118229875::get_offset_of_nextButton_7(),
+	LampHit_t3118229875::get_offset_of_cflBulb_8(),
+	LampHit_t3118229875::get_offset_of_badBulb_9(),
+	LampHit_t3118229875::get_offset_of_replaceBulb_10(),
+	LampHit_t3118229875::get_offset_of_cflTrans_11(),
+	LampHit_t3118229875::get_offset_of_pointer_12(),
+	LampHit_t3118229875::get_offset_of_dontForget_13(),
+	LampHit_t3118229875::get_offset_of_turnOff_14(),
+	LampHit_t3118229875::get_offset_of_exampleCube_15(),
+	LampHit_t3118229875::get_offset_of_newPlacedLamp_16(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3065 = { sizeof (LampHit2_t593760067), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3065[11] = 
+{
+	LampHit2_t593760067::get_offset_of_replaceBulb_2(),
+	LampHit2_t593760067::get_offset_of_badBulb_3(),
+	LampHit2_t593760067::get_offset_of_cflTrans_4(),
+	LampHit2_t593760067::get_offset_of_cflBulb_5(),
+	LampHit2_t593760067::get_offset_of_BuildingFactTop_6(),
+	LampHit2_t593760067::get_offset_of_pointer_7(),
+	LampHit2_t593760067::get_offset_of_BuildingFactBot_8(),
+	LampHit2_t593760067::get_offset_of_dontForget_9(),
+	LampHit2_t593760067::get_offset_of_turnOff_10(),
+	LampHit2_t593760067::get_offset_of_lampSpotlight_11(),
+	LampHit2_t593760067::get_offset_of_smokeHigh_12(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3066 = { sizeof (exampleSceneScript_t508446507), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3066[7] = 
+{
+	exampleSceneScript_t508446507::get_offset_of_scale_2(),
+	exampleSceneScript_t508446507::get_offset_of_intensity_3(),
+	exampleSceneScript_t508446507::get_offset_of_alpha_4(),
+	exampleSceneScript_t508446507::get_offset_of_alphasub_5(),
+	exampleSceneScript_t508446507::get_offset_of_pow_6(),
+	exampleSceneScript_t508446507::get_offset_of_color_7(),
+	exampleSceneScript_t508446507::get_offset_of_fogMaterial_8(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3067 = { sizeof (loadDelayIntro_t82458994), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3068 = { sizeof (U3CWaitU3Ec__Iterator0_t1312668231), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3068[3] = 
+{
+	U3CWaitU3Ec__Iterator0_t1312668231::get_offset_of_U24current_0(),
+	U3CWaitU3Ec__Iterator0_t1312668231::get_offset_of_U24disposing_1(),
+	U3CWaitU3Ec__Iterator0_t1312668231::get_offset_of_U24PC_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3069 = { sizeof (loadDelayOutro_t3458220387), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3070 = { sizeof (U3CWaitU3Ec__Iterator0_t1875283324), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3070[3] = 
+{
+	U3CWaitU3Ec__Iterator0_t1875283324::get_offset_of_U24current_0(),
+	U3CWaitU3Ec__Iterator0_t1875283324::get_offset_of_U24disposing_1(),
+	U3CWaitU3Ec__Iterator0_t1875283324::get_offset_of_U24PC_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3071 = { sizeof (DirectionResource_t1512606500), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3071[9] = 
+{
+	DirectionResource_t1512606500::get_offset_of_apiEndpoint_4(),
+	DirectionResource_t1512606500::get_offset_of_profile_5(),
+	DirectionResource_t1512606500::get_offset_of_coordinates_6(),
+	DirectionResource_t1512606500::get_offset_of_alternatives_7(),
+	DirectionResource_t1512606500::get_offset_of_bearings_8(),
+	DirectionResource_t1512606500::get_offset_of_continueStraight_9(),
+	DirectionResource_t1512606500::get_offset_of_overview_10(),
+	DirectionResource_t1512606500::get_offset_of_radiuses_11(),
+	DirectionResource_t1512606500::get_offset_of_steps_12(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3072 = { sizeof (Directions_t643758552), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3072[1] = 
+{
+	Directions_t643758552::get_offset_of_fileSource_0(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3073 = { sizeof (U3CQueryU3Ec__AnonStorey0_t2431799295), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3073[2] = 
+{
+	U3CQueryU3Ec__AnonStorey0_t2431799295::get_offset_of_callback_0(),
+	U3CQueryU3Ec__AnonStorey0_t2431799295::get_offset_of_U24this_1(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3074 = { sizeof (Overview_t2679930399), -1, sizeof(Overview_t2679930399_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3074[4] = 
+{
+	Overview_t2679930399_StaticFields::get_offset_of_Full_0(),
+	Overview_t2679930399_StaticFields::get_offset_of_Simplified_1(),
+	Overview_t2679930399_StaticFields::get_offset_of_False_2(),
+	Overview_t2679930399::get_offset_of_overview_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3075 = { sizeof (DirectionsResponse_t2416202279), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3075[3] = 
+{
+	DirectionsResponse_t2416202279::get_offset_of_U3CRoutesU3Ek__BackingField_0(),
+	DirectionsResponse_t2416202279::get_offset_of_U3CWaypointsU3Ek__BackingField_1(),
+	DirectionsResponse_t2416202279::get_offset_of_U3CCodeU3Ek__BackingField_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3076 = { sizeof (Intersection_t836139346), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3076[5] = 
+{
+	Intersection_t836139346::get_offset_of_U3COutU3Ek__BackingField_0(),
+	Intersection_t836139346::get_offset_of_U3CEntryU3Ek__BackingField_1(),
+	Intersection_t836139346::get_offset_of_U3CBearingsU3Ek__BackingField_2(),
+	Intersection_t836139346::get_offset_of_U3CLocationU3Ek__BackingField_3(),
+	Intersection_t836139346::get_offset_of_U3CInU3Ek__BackingField_4(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3077 = { sizeof (Leg_t2083536853), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3077[4] = 
+{
+	Leg_t2083536853::get_offset_of_U3CStepsU3Ek__BackingField_0(),
+	Leg_t2083536853::get_offset_of_U3CSummaryU3Ek__BackingField_1(),
+	Leg_t2083536853::get_offset_of_U3CDurationU3Ek__BackingField_2(),
+	Leg_t2083536853::get_offset_of_U3CDistanceU3Ek__BackingField_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3078 = { sizeof (Maneuver_t3595949486), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3078[6] = 
+{
+	Maneuver_t3595949486::get_offset_of_U3CBearingAfterU3Ek__BackingField_0(),
+	Maneuver_t3595949486::get_offset_of_U3CTypeU3Ek__BackingField_1(),
+	Maneuver_t3595949486::get_offset_of_U3CModifierU3Ek__BackingField_2(),
+	Maneuver_t3595949486::get_offset_of_U3CBearingBeforeU3Ek__BackingField_3(),
+	Maneuver_t3595949486::get_offset_of_U3CLocationU3Ek__BackingField_4(),
+	Maneuver_t3595949486::get_offset_of_U3CInstructionU3Ek__BackingField_5(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3079 = { sizeof (Route_t1937604834), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3079[4] = 
+{
+	Route_t1937604834::get_offset_of_U3CLegsU3Ek__BackingField_0(),
+	Route_t1937604834::get_offset_of_U3CGeometryU3Ek__BackingField_1(),
+	Route_t1937604834::get_offset_of_U3CDurationU3Ek__BackingField_2(),
+	Route_t1937604834::get_offset_of_U3CDistanceU3Ek__BackingField_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3080 = { sizeof (Step_t3916117023), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3080[7] = 
+{
+	Step_t3916117023::get_offset_of_U3CIntersectionsU3Ek__BackingField_0(),
+	Step_t3916117023::get_offset_of_U3CGeometryU3Ek__BackingField_1(),
+	Step_t3916117023::get_offset_of_U3CManeuverU3Ek__BackingField_2(),
+	Step_t3916117023::get_offset_of_U3CDurationU3Ek__BackingField_3(),
+	Step_t3916117023::get_offset_of_U3CDistanceU3Ek__BackingField_4(),
+	Step_t3916117023::get_offset_of_U3CNameU3Ek__BackingField_5(),
+	Step_t3916117023::get_offset_of_U3CModeU3Ek__BackingField_6(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3081 = { sizeof (Waypoint_t1715465849), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3081[2] = 
+{
+	Waypoint_t1715465849::get_offset_of_U3CNameU3Ek__BackingField_0(),
+	Waypoint_t1715465849::get_offset_of_U3CLocationU3Ek__BackingField_1(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3082 = { sizeof (RoutingProfile_t3888477618), -1, sizeof(RoutingProfile_t3888477618_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3082[4] = 
+{
+	RoutingProfile_t3888477618_StaticFields::get_offset_of_Driving_0(),
+	RoutingProfile_t3888477618_StaticFields::get_offset_of_Walking_1(),
+	RoutingProfile_t3888477618_StaticFields::get_offset_of_Cycling_2(),
+	RoutingProfile_t3888477618::get_offset_of_profile_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3083 = { sizeof (ForwardGeocodeResource_t1026807403), -1, sizeof(ForwardGeocodeResource_t1026807403_StaticFields), 0 };
+extern const int32_t g_FieldOffsetTable3083[6] = 
+{
+	ForwardGeocodeResource_t1026807403_StaticFields::get_offset_of_CountryCodes_8(),
+	ForwardGeocodeResource_t1026807403::get_offset_of_query_9(),
+	ForwardGeocodeResource_t1026807403::get_offset_of_autocomplete_10(),
+	ForwardGeocodeResource_t1026807403::get_offset_of_country_11(),
+	ForwardGeocodeResource_t1026807403::get_offset_of_proximity_12(),
+	ForwardGeocodeResource_t1026807403::get_offset_of_bbox_13(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3084 = { sizeof (Geocoder_t244942804), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3084[1] = 
+{
+	Geocoder_t244942804::get_offset_of_fileSource_0(),
+>>>>>>> Stashed changes
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3085 = { 0, 0, 0, 0 };
 extern const int32_t g_FieldOffsetTable3085[2] = 
@@ -10270,6 +16680,7 @@ extern const int32_t g_FieldOffsetTable3087[4] =
 	0,
 	0,
 };
+<<<<<<< Updated upstream
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3088 = { sizeof (Feature_t1857248423), -1, 0, 0 };
 extern const int32_t g_FieldOffsetTable3088[11] = 
 {
@@ -10322,6 +16733,60 @@ extern const int32_t g_FieldOffsetTable3094[3] =
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3095 = { sizeof (ClassicRasterTile_t2730773483), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3096 = { sizeof (ClassicRetinaRasterTile_t2135799363), -1, 0, 0 };
+=======
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3088 = { sizeof (Feature_t2102481049), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3088[11] = 
+{
+	Feature_t2102481049::get_offset_of_U3CIdU3Ek__BackingField_0(),
+	Feature_t2102481049::get_offset_of_U3CTypeU3Ek__BackingField_1(),
+	Feature_t2102481049::get_offset_of_U3CTextU3Ek__BackingField_2(),
+	Feature_t2102481049::get_offset_of_U3CPlaceNameU3Ek__BackingField_3(),
+	Feature_t2102481049::get_offset_of_U3CRelevanceU3Ek__BackingField_4(),
+	Feature_t2102481049::get_offset_of_U3CPropertiesU3Ek__BackingField_5(),
+	Feature_t2102481049::get_offset_of_U3CBboxU3Ek__BackingField_6(),
+	Feature_t2102481049::get_offset_of_U3CCenterU3Ek__BackingField_7(),
+	Feature_t2102481049::get_offset_of_U3CGeometryU3Ek__BackingField_8(),
+	Feature_t2102481049::get_offset_of_U3CAddressU3Ek__BackingField_9(),
+	Feature_t2102481049::get_offset_of_U3CContextU3Ek__BackingField_10(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3089 = { sizeof (GeocodeResponse_t2217614762), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3089[3] = 
+{
+	GeocodeResponse_t2217614762::get_offset_of_U3CTypeU3Ek__BackingField_0(),
+	GeocodeResponse_t2217614762::get_offset_of_U3CFeaturesU3Ek__BackingField_1(),
+	GeocodeResponse_t2217614762::get_offset_of_U3CAttributionU3Ek__BackingField_2(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3090 = { sizeof (ReverseGeocodeResponse_t4184629360), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3090[1] = 
+{
+	ReverseGeocodeResponse_t4184629360::get_offset_of_U3CQueryU3Ek__BackingField_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3091 = { sizeof (ForwardGeocodeResponse_t447946623), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3091[1] = 
+{
+	ForwardGeocodeResponse_t447946623::get_offset_of_U3CQueryU3Ek__BackingField_3(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3092 = { sizeof (Geometry_t1793293810), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3092[2] = 
+{
+	Geometry_t1793293810::get_offset_of_U3CTypeU3Ek__BackingField_0(),
+	Geometry_t1793293810::get_offset_of_U3CCoordinatesU3Ek__BackingField_1(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3093 = { sizeof (ReverseGeocodeResource_t737154022), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3093[1] = 
+{
+	ReverseGeocodeResource_t737154022::get_offset_of_query_8(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3094 = { sizeof (CanonicalTileId_t988270330)+ sizeof (RuntimeObject), sizeof(CanonicalTileId_t988270330 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3094[3] = 
+{
+	CanonicalTileId_t988270330::get_offset_of_Z_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	CanonicalTileId_t988270330::get_offset_of_X_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	CanonicalTileId_t988270330::get_offset_of_Y_2() + static_cast<int32_t>(sizeof(RuntimeObject)),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3095 = { sizeof (ClassicRasterTile_t45596224), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3096 = { sizeof (ClassicRetinaRasterTile_t12380623), -1, 0, 0 };
+>>>>>>> Stashed changes
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3097 = { 0, 0, 0, 0 };
 extern const int32_t g_FieldOffsetTable3097[7] = 
 {

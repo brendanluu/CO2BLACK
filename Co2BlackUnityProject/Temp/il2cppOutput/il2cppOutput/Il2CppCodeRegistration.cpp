@@ -33,7 +33,11 @@ extern const Il2CppMethodPointer g_UnresolvedVirtualMethodPointers[];
 extern Il2CppInteropData g_Il2CppInteropData[];
 extern const Il2CppCodeRegistration g_CodeRegistration = 
 {
+<<<<<<< Updated upstream
 	23791,
+=======
+	23790,
+>>>>>>> Stashed changes
 	g_MethodPointers,
 	13,
 	g_ReversePInvokeWrapperPointers,
