@@ -134,6 +134,9 @@ af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RayHit
 c1465577256149eb2fdaaf3754ab7da9 Assembly-CSharp.dll:.TiltWindow
 <<<<<<< HEAD
+9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtns
+=======
+<<<<<<< HEAD
 5051a9225dde59f27c5f489425b1f63c Assembly-CSharp.dll:.lampBtns
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -152,6 +155,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 =======
 9638d107df613ea3e7d13424e6db1393 Assembly-CSharp.dll:.lampBtns
 >>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+>>>>>>> 78f496ba93fe497d18748d9592933400e6eb4b21
 7d5b8986d788d51c21bcecec760e0129 Assembly-CSharp.dll:.Screen3
 1de2e2cbb104e97d6c51bb8790db321c Assembly-CSharp.dll:Mapbox.Examples.Voxels.VoxelFetcher
 78a2a366a0a3b585e1178d2dd9d006ab Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointProgressTracker
@@ -200,7 +204,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 e2e091e79326ed57efb2fdff2a3013f9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.FeatureBehaviour
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.start
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DragRigidbody
-0054132f992dda1ad6f69ccca280b007 Assembly-CSharp.dll:.toggleTrash
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.PoiMarkerHelper
 78ebae5ed9b3edeb216da437b99754a4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.Joystick
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Move
@@ -295,7 +298,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 0ab1bbed85b44e2f039b237552baefdc Assembly-CSharp.dll:.rejectionBadTrash
 bb2c736a6bf82df1138b83fbd7e29067 Assembly-CSharp.dll:Mapbox.Examples.PositionWithLocationProvider
 f6dccfc611980e48234f29ac86dfc6a1 Assembly-CSharp.dll:Mapbox.Examples.Scripts.Utilities.DragRotate
-37cf3d900d5933924f948556e133b203 Assembly-CSharp.dll:.LampHit2
+abd89a8b136959a4fd4d685a93fc1cf5 Assembly-CSharp.dll:.LampHit2
 c3bbced3b920c972296954f059b11c2e Assembly-CSharp.dll:UnityEngine.UI.BoxSlider
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 7317d05fdc27591726053b234b9ea5ee Assembly-CSharp.dll:.ColorSliderImage
@@ -520,4 +523,8 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
+<<<<<<< HEAD
+0054132f992dda1ad6f69ccca280b007 Assembly-CSharp.dll:.toggleTrash
+=======
 >>>>>>> cf60945cbc5617ca689f7500106263bf99990762
+>>>>>>> 78f496ba93fe497d18748d9592933400e6eb4b21
