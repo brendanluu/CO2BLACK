@@ -4,12 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-<<<<<<< HEAD
-    path: Assets/_Scenes/erinLampUI_duplicate.unity
-    guid: 0a2578cdad4fc4c4ba5edcf34ddd1f7c
-=======
-    path: Assets/_Scenes/WiegmanRussoContrast.unity
-    guid: 49bf403695bd74c1fbfab63f1b510d7d
->>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
+  m_Scenes: []
