@@ -23,6 +23,8 @@ public class LampHit2 : MonoBehaviour {
 	//fifth screen
 	public GameObject turnOff;
 	public GameObject lampSpotlight;
+	public GameObject lampSpotlight2;
+
 
 
 	public Material smokeHigh;

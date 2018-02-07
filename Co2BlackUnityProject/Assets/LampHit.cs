@@ -5,6 +5,7 @@ using UnityEngine;
 public class LampHit : MonoBehaviour {
 
 	public GameObject lampSpotlight;
+	public GameObject lampSpotlight2;
 	public Material lampShade;
 	public GameObject BuildingFactTop;
 	public GameObject BuildingFactBot;
@@ -50,6 +51,7 @@ public class LampHit : MonoBehaviour {
 		if (badBulb.activeInHierarchy) {
 //		lampShade.DisableKeyword ("_EMISSION");
 //		lampSpotlight.SetActive (false);
+
 			BuildingFactTop.SetActive (true);
 			pointer.SetActive (true);
 			BuildingFactBot.SetActive (true);
