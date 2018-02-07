@@ -13,11 +13,14 @@ public class EnergyHit : MonoBehaviour {
 	public GameObject energyFact;
 	public GameObject pointer;
 
+	public GameObject energyFact2;
+
+	public GameObject seeImpact;
+
+
 	public Material smokeHigh;
 
-	void HitByRay () {
-		//first screen
-		Debug.Log ("I was hit by a Ray");
+	public void chosenEnergy() {
 
 		coal.SetActive (false);
 		//trigger animation of solar pamphlet getting larger and centered
@@ -27,6 +30,16 @@ public class EnergyHit : MonoBehaviour {
 
 		smokeHigh.SetFloat ("_Alpha", 0.15f);
 
+	}
+
+	public void energyFactbtn() {
+		energyFact2.SetActive (true);
+		energyFact.SetActive (false);
+	}
+
+	public void energyFact2btn() {
+		energyFact2.SetActive (false);
+		seeImpact.SetActive (true);
 	}
 
 }

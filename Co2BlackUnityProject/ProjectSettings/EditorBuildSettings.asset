@@ -9,8 +9,11 @@ EditorBuildSettings:
     path: Assets/_Scenes/Grabbing05.unity
     guid: 1789357335acc4209a7ad55dc263f885
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/_Scenes/erinLampUI_duplicate.unity
     guid: 0a2578cdad4fc4c4ba5edcf34ddd1f7c
   - enabled: 0
+=======
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
     path: Assets/_Scenes/thirdModule.unity
     guid: cf54d5f4289cf4e24bfc96ee89fb19e1

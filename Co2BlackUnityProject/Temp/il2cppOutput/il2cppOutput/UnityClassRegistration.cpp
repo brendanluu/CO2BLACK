@@ -184,14 +184,26 @@ class AudioMixerGroup;
 class AudioMixerGroupController; 
 class AudioMixerSnapshot; 
 class AudioMixerSnapshotController; 
+<<<<<<< HEAD
 class Avatar; template <> void RegisterClass<Avatar>();
+=======
+class Avatar; 
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 class AvatarMask; 
 class BillboardAsset; 
 class ComputeShader; 
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
+<<<<<<< HEAD
 class LightProbes; template <> void RegisterClass<LightProbes>();
+=======
+<<<<<<< HEAD
+class LightProbes; template <> void RegisterClass<LightProbes>();
+=======
+class LightProbes; 
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -200,7 +212,15 @@ class AnimationClip; template <> void RegisterClass<AnimationClip>();
 class PreviewAnimationClip; 
 class NavMeshData; 
 class OcclusionCullingData; 
+<<<<<<< HEAD
 class PhysicMaterial; template <> void RegisterClass<PhysicMaterial>();
+=======
+<<<<<<< HEAD
+class PhysicMaterial; 
+=======
+class PhysicMaterial; template <> void RegisterClass<PhysicMaterial>();
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 class PhysicsMaterial2D; 
 class PreloadData; template <> void RegisterClass<PreloadData>();
 class RuntimeAnimatorController; template <> void RegisterClass<RuntimeAnimatorController>();
@@ -270,7 +290,11 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
+<<<<<<< HEAD
 	//Total: 87 non stripped classes
+=======
+	//Total: 85 non stripped classes
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -427,6 +451,21 @@ RegisterBuiltinTypes();
 	RegisterClass<LightmapSettings>();
 	//77. CGProgram
 	RegisterClass<CGProgram>();
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	//78. Motion
+	RegisterClass<Motion>();
+	//79. AnimatorController
+	RegisterClass<AnimatorController>();
+	//80. RuntimeAnimatorController
+	RegisterClass<RuntimeAnimatorController>();
+	//81. ParticleSystemRenderer
+	RegisterClass<ParticleSystemRenderer>();
+	//82. LightProbes
+	RegisterClass<LightProbes>();
+=======
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 	//78. PhysicMaterial
 	RegisterClass<PhysicMaterial>();
 	//79. Motion
@@ -437,6 +476,7 @@ RegisterBuiltinTypes();
 	RegisterClass<RuntimeAnimatorController>();
 	//82. ParticleSystemRenderer
 	RegisterClass<ParticleSystemRenderer>();
+<<<<<<< HEAD
 	//83. Avatar
 	RegisterClass<Avatar>();
 	//84. LightProbes
@@ -444,6 +484,12 @@ RegisterBuiltinTypes();
 	//85. AnimationClip
 	RegisterClass<AnimationClip>();
 	//86. NavMeshSettings
+=======
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
+	//83. AnimationClip
+	RegisterClass<AnimationClip>();
+	//84. NavMeshSettings
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 	RegisterClass<NavMeshSettings>();
 
 }

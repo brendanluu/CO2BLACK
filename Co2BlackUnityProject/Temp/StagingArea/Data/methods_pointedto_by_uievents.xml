@@ -1,4 +1,5 @@
 <linker>
+<<<<<<< HEAD
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="lampBtns">
 			<method name="BuildingFactTopBtn"/>
@@ -9,4 +10,16 @@
 			<method name="nextBtn"/>
 		</type>
 	</assembly>
+=======
+<<<<<<< HEAD
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="EnergyHit">
+			<method name="chosenEnergy"/>
+			<method name="energyFact2btn"/>
+			<method name="energyFactbtn"/>
+		</type>
+	</assembly>
+=======
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
 </linker>

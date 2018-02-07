@@ -18,7 +18,11 @@
       <string>AppIcon76x76~ipad.png</string>
     </array>
     <key>CFBundleIdentifier</key>
+<<<<<<< HEAD
     <string>com.marty.${PRODUCT_NAME}</string>
+=======
+    <string>com.brendan.${PRODUCT_NAME}</string>
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
@@ -72,6 +76,10 @@
     <key>UnityCloudProjectID</key>
     <string></string>
     <key>UnityCrashSubmissionURL</key>
+<<<<<<< HEAD
     <string>https://a:b@perf-events.cloud.unity3d.com/symbolicate</string>
+=======
+    <string>https://perf-events.cloud.unity3d.com/symbolicate</string>
+>>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
   </dict>
 </plist>
