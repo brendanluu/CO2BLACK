@@ -1,10 +1,12 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
-		<type fullname="lampBtns">
-			<method name="BuildingFactTopBtn"/>
-			<method name="dontForgetBtn"/>
-			<method name="BuildingFactBotBtn"/>
+		<type fullname="screen2btns">
+			<method name="desc1btn"/>
+			<method name="desc2btn"/>
+			<method name="desc1btn"/>
+			<method name="desc2btn"/>
 		</type>
+<<<<<<< HEAD
 		<type fullname="LampHit2">
 			<method name="thirdModuleBtn"/>
 			<method name="nextBtn"/>
@@ -13,6 +15,24 @@
 			<method name="chosenEnergy"/>
 			<method name="energyFact2btn"/>
 			<method name="energyFactbtn"/>
+=======
+		<type fullname="newScreen">
+			<method name="visualize"/>
+			<method name="visualize"/>
+		</type>
+		<type fullname="loadDelay">
+			<method name="ModeSelect"/>
+			<method name="ModeSelect"/>
+		</type>
+		<type fullname="Screen3">
+			<method name="deActivate"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+			<method name="Play"/>
+>>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
 		</type>
 	</assembly>
 </linker>

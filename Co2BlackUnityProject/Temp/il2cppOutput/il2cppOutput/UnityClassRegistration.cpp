@@ -184,7 +184,11 @@ class AudioMixerGroup;
 class AudioMixerGroupController; 
 class AudioMixerSnapshot; 
 class AudioMixerSnapshotController; 
+<<<<<<< HEAD
 class Avatar; template <> void RegisterClass<Avatar>();
+=======
+class Avatar; 
+>>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
 class AvatarMask; 
 class BillboardAsset; 
 class ComputeShader; 
@@ -200,7 +204,11 @@ class AnimationClip; template <> void RegisterClass<AnimationClip>();
 class PreviewAnimationClip; 
 class NavMeshData; 
 class OcclusionCullingData; 
+<<<<<<< HEAD
 class PhysicMaterial; template <> void RegisterClass<PhysicMaterial>();
+=======
+class PhysicMaterial; 
+>>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
 class PhysicsMaterial2D; 
 class PreloadData; template <> void RegisterClass<PreloadData>();
 class RuntimeAnimatorController; template <> void RegisterClass<RuntimeAnimatorController>();
@@ -270,7 +278,11 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
+<<<<<<< HEAD
 	//Total: 87 non stripped classes
+=======
+	//Total: 85 non stripped classes
+>>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -427,6 +439,7 @@ RegisterBuiltinTypes();
 	RegisterClass<LightmapSettings>();
 	//77. CGProgram
 	RegisterClass<CGProgram>();
+<<<<<<< HEAD
 	//78. PhysicMaterial
 	RegisterClass<PhysicMaterial>();
 	//79. Motion
@@ -444,6 +457,21 @@ RegisterBuiltinTypes();
 	//85. AnimationClip
 	RegisterClass<AnimationClip>();
 	//86. NavMeshSettings
+=======
+	//78. Motion
+	RegisterClass<Motion>();
+	//79. AnimatorController
+	RegisterClass<AnimatorController>();
+	//80. RuntimeAnimatorController
+	RegisterClass<RuntimeAnimatorController>();
+	//81. ParticleSystemRenderer
+	RegisterClass<ParticleSystemRenderer>();
+	//82. LightProbes
+	RegisterClass<LightProbes>();
+	//83. AnimationClip
+	RegisterClass<AnimationClip>();
+	//84. NavMeshSettings
+>>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
 	RegisterClass<NavMeshSettings>();
 
 }

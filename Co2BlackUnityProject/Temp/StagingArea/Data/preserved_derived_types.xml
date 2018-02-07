@@ -167,6 +167,7 @@
 <type fullname="rejectionBadTrash" preserve="all"/>
 <type fullname="replay" preserve="all"/>
 <type fullname="sceneChange" preserve="all"/>
+<type fullname="screen2btns" preserve="all"/>
 <type fullname="ballDrop" preserve="all"/>
 <type fullname="collideFreeze" preserve="all"/>
 <type fullname="createBalls" preserve="all"/>
