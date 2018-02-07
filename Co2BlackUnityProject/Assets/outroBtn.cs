@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class outroBtn : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
+	public void ModeSelect(){
+		StartCoroutine ("Wait");
+		Initiate.Fade("Outro2",Color.black,1.0f);
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+
+	IEnumerator Wait(){
+		yield return new WaitForSeconds (1.3f);
+		Application.LoadLevel ("Outro2");
 	}
 }
