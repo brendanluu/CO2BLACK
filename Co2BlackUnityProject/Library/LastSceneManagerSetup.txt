@@ -1,4 +1,5 @@
 sceneSetups:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/_Scenes/WiegmanRussoContrast.unity
 =======
@@ -16,5 +17,8 @@ sceneSetups:
 >>>>>>> d42f6982cdf8a55f387e49bc45508e939b9d3b73
 >>>>>>> 1da8a36c81520ec21c35767be43af01e62895f2d
 >>>>>>> c3c611734b130eaca1ecfbf3a90c0c016de94e53
+=======
+- path: Assets/_Scenes/Grabbing05.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1

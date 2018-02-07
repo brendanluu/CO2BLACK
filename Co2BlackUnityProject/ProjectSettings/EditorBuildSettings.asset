@@ -6,10 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-<<<<<<< Updated upstream
-    path: Assets/_Scenes/erinLampUI_duplicate.unity
-    guid: 0a2578cdad4fc4c4ba5edcf34ddd1f7c
-=======
-    path: Assets/_Scenes/Grabbing03.unity
-    guid: 657c7d4b3c72a4a6ab95eaf62622b407
->>>>>>> Stashed changes
+    path: Assets/_Scenes/Grabbing05.unity
+    guid: 1789357335acc4209a7ad55dc263f885
