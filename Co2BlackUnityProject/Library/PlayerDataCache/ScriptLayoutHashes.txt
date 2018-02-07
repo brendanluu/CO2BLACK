@@ -367,17 +367,7 @@ c93728c2de7be1bdc64a28d1233525e7 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.sceneChange
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
 f4322fc0f64b38fe7809a75cfdc78866 Assembly-CSharp.dll:Mapbox.Examples.Voxels.VoxelTile
-<<<<<<< HEAD
 b30b1b0d4e503af076a6b78f43488d0f Assembly-CSharp.dll:.EnergyHit
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-b30b1b0d4e503af076a6b78f43488d0f Assembly-CSharp.dll:.EnergyHit
-=======
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
->>>>>>> e643df2e6c6f9fd3bfbcd05b3926ef6adadaa01c
->>>>>>> dade08eada8c410bfb314d166b0df39bf70d9190
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Examples.ObjectInspectorModifier
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.replay
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelayIntro
@@ -392,3 +382,4 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+971a922a947f778f2fdd72a60ccf2e8d Assembly-CSharp.dll:.screen2btns

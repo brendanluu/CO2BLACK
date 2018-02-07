@@ -15413,34 +15413,36 @@ struct  LampHit_t3156350675  : public MonoBehaviour_t1158329972
 public:
 	// UnityEngine.GameObject LampHit::lampSpotlight
 	GameObject_t1756533147 * ___lampSpotlight_2;
+	// UnityEngine.GameObject LampHit::lampSpotlight2
+	GameObject_t1756533147 * ___lampSpotlight2_3;
 	// UnityEngine.Material LampHit::lampShade
-	Material_t193706927 * ___lampShade_3;
+	Material_t193706927 * ___lampShade_4;
 	// UnityEngine.GameObject LampHit::BuildingFactTop
-	GameObject_t1756533147 * ___BuildingFactTop_4;
+	GameObject_t1756533147 * ___BuildingFactTop_5;
 	// UnityEngine.GameObject LampHit::BuildingFactBot
-	GameObject_t1756533147 * ___BuildingFactBot_5;
+	GameObject_t1756533147 * ___BuildingFactBot_6;
 	// UnityEngine.Material LampHit::smokeHigh
-	Material_t193706927 * ___smokeHigh_6;
+	Material_t193706927 * ___smokeHigh_7;
 	// UnityEngine.GameObject LampHit::nextButton
-	GameObject_t1756533147 * ___nextButton_7;
+	GameObject_t1756533147 * ___nextButton_8;
 	// UnityEngine.GameObject LampHit::cflBulb
-	GameObject_t1756533147 * ___cflBulb_8;
+	GameObject_t1756533147 * ___cflBulb_9;
 	// UnityEngine.GameObject LampHit::badBulb
-	GameObject_t1756533147 * ___badBulb_9;
+	GameObject_t1756533147 * ___badBulb_10;
 	// UnityEngine.GameObject LampHit::replaceBulb
-	GameObject_t1756533147 * ___replaceBulb_10;
+	GameObject_t1756533147 * ___replaceBulb_11;
 	// UnityEngine.GameObject LampHit::cflTrans
-	GameObject_t1756533147 * ___cflTrans_11;
+	GameObject_t1756533147 * ___cflTrans_12;
 	// UnityEngine.GameObject LampHit::pointer
-	GameObject_t1756533147 * ___pointer_12;
+	GameObject_t1756533147 * ___pointer_13;
 	// UnityEngine.GameObject LampHit::dontForget
-	GameObject_t1756533147 * ___dontForget_13;
+	GameObject_t1756533147 * ___dontForget_14;
 	// UnityEngine.GameObject LampHit::turnOff
-	GameObject_t1756533147 * ___turnOff_14;
+	GameObject_t1756533147 * ___turnOff_15;
 	// UnityEngine.GameObject LampHit::exampleCube
-	GameObject_t1756533147 * ___exampleCube_15;
+	GameObject_t1756533147 * ___exampleCube_16;
 	// UnityEngine.GameObject LampHit::newPlacedLamp
-	GameObject_t1756533147 * ___newPlacedLamp_16;
+	GameObject_t1756533147 * ___newPlacedLamp_17;
 
 public:
 	inline static int32_t get_offset_of_lampSpotlight_2() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___lampSpotlight_2)); }
@@ -15452,130 +15454,139 @@ public:
 		Il2CppCodeGenWriteBarrier((&___lampSpotlight_2), value);
 	}
 
-	inline static int32_t get_offset_of_lampShade_3() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___lampShade_3)); }
-	inline Material_t193706927 * get_lampShade_3() const { return ___lampShade_3; }
-	inline Material_t193706927 ** get_address_of_lampShade_3() { return &___lampShade_3; }
-	inline void set_lampShade_3(Material_t193706927 * value)
+	inline static int32_t get_offset_of_lampSpotlight2_3() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___lampSpotlight2_3)); }
+	inline GameObject_t1756533147 * get_lampSpotlight2_3() const { return ___lampSpotlight2_3; }
+	inline GameObject_t1756533147 ** get_address_of_lampSpotlight2_3() { return &___lampSpotlight2_3; }
+	inline void set_lampSpotlight2_3(GameObject_t1756533147 * value)
 	{
-		___lampShade_3 = value;
-		Il2CppCodeGenWriteBarrier((&___lampShade_3), value);
+		___lampSpotlight2_3 = value;
+		Il2CppCodeGenWriteBarrier((&___lampSpotlight2_3), value);
 	}
 
-	inline static int32_t get_offset_of_BuildingFactTop_4() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___BuildingFactTop_4)); }
-	inline GameObject_t1756533147 * get_BuildingFactTop_4() const { return ___BuildingFactTop_4; }
-	inline GameObject_t1756533147 ** get_address_of_BuildingFactTop_4() { return &___BuildingFactTop_4; }
-	inline void set_BuildingFactTop_4(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_lampShade_4() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___lampShade_4)); }
+	inline Material_t193706927 * get_lampShade_4() const { return ___lampShade_4; }
+	inline Material_t193706927 ** get_address_of_lampShade_4() { return &___lampShade_4; }
+	inline void set_lampShade_4(Material_t193706927 * value)
 	{
-		___BuildingFactTop_4 = value;
-		Il2CppCodeGenWriteBarrier((&___BuildingFactTop_4), value);
+		___lampShade_4 = value;
+		Il2CppCodeGenWriteBarrier((&___lampShade_4), value);
 	}
 
-	inline static int32_t get_offset_of_BuildingFactBot_5() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___BuildingFactBot_5)); }
-	inline GameObject_t1756533147 * get_BuildingFactBot_5() const { return ___BuildingFactBot_5; }
-	inline GameObject_t1756533147 ** get_address_of_BuildingFactBot_5() { return &___BuildingFactBot_5; }
-	inline void set_BuildingFactBot_5(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_BuildingFactTop_5() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___BuildingFactTop_5)); }
+	inline GameObject_t1756533147 * get_BuildingFactTop_5() const { return ___BuildingFactTop_5; }
+	inline GameObject_t1756533147 ** get_address_of_BuildingFactTop_5() { return &___BuildingFactTop_5; }
+	inline void set_BuildingFactTop_5(GameObject_t1756533147 * value)
 	{
-		___BuildingFactBot_5 = value;
-		Il2CppCodeGenWriteBarrier((&___BuildingFactBot_5), value);
+		___BuildingFactTop_5 = value;
+		Il2CppCodeGenWriteBarrier((&___BuildingFactTop_5), value);
 	}
 
-	inline static int32_t get_offset_of_smokeHigh_6() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___smokeHigh_6)); }
-	inline Material_t193706927 * get_smokeHigh_6() const { return ___smokeHigh_6; }
-	inline Material_t193706927 ** get_address_of_smokeHigh_6() { return &___smokeHigh_6; }
-	inline void set_smokeHigh_6(Material_t193706927 * value)
+	inline static int32_t get_offset_of_BuildingFactBot_6() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___BuildingFactBot_6)); }
+	inline GameObject_t1756533147 * get_BuildingFactBot_6() const { return ___BuildingFactBot_6; }
+	inline GameObject_t1756533147 ** get_address_of_BuildingFactBot_6() { return &___BuildingFactBot_6; }
+	inline void set_BuildingFactBot_6(GameObject_t1756533147 * value)
 	{
-		___smokeHigh_6 = value;
-		Il2CppCodeGenWriteBarrier((&___smokeHigh_6), value);
+		___BuildingFactBot_6 = value;
+		Il2CppCodeGenWriteBarrier((&___BuildingFactBot_6), value);
 	}
 
-	inline static int32_t get_offset_of_nextButton_7() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___nextButton_7)); }
-	inline GameObject_t1756533147 * get_nextButton_7() const { return ___nextButton_7; }
-	inline GameObject_t1756533147 ** get_address_of_nextButton_7() { return &___nextButton_7; }
-	inline void set_nextButton_7(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_smokeHigh_7() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___smokeHigh_7)); }
+	inline Material_t193706927 * get_smokeHigh_7() const { return ___smokeHigh_7; }
+	inline Material_t193706927 ** get_address_of_smokeHigh_7() { return &___smokeHigh_7; }
+	inline void set_smokeHigh_7(Material_t193706927 * value)
 	{
-		___nextButton_7 = value;
-		Il2CppCodeGenWriteBarrier((&___nextButton_7), value);
+		___smokeHigh_7 = value;
+		Il2CppCodeGenWriteBarrier((&___smokeHigh_7), value);
 	}
 
-	inline static int32_t get_offset_of_cflBulb_8() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___cflBulb_8)); }
-	inline GameObject_t1756533147 * get_cflBulb_8() const { return ___cflBulb_8; }
-	inline GameObject_t1756533147 ** get_address_of_cflBulb_8() { return &___cflBulb_8; }
-	inline void set_cflBulb_8(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_nextButton_8() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___nextButton_8)); }
+	inline GameObject_t1756533147 * get_nextButton_8() const { return ___nextButton_8; }
+	inline GameObject_t1756533147 ** get_address_of_nextButton_8() { return &___nextButton_8; }
+	inline void set_nextButton_8(GameObject_t1756533147 * value)
 	{
-		___cflBulb_8 = value;
-		Il2CppCodeGenWriteBarrier((&___cflBulb_8), value);
+		___nextButton_8 = value;
+		Il2CppCodeGenWriteBarrier((&___nextButton_8), value);
 	}
 
-	inline static int32_t get_offset_of_badBulb_9() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___badBulb_9)); }
-	inline GameObject_t1756533147 * get_badBulb_9() const { return ___badBulb_9; }
-	inline GameObject_t1756533147 ** get_address_of_badBulb_9() { return &___badBulb_9; }
-	inline void set_badBulb_9(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_cflBulb_9() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___cflBulb_9)); }
+	inline GameObject_t1756533147 * get_cflBulb_9() const { return ___cflBulb_9; }
+	inline GameObject_t1756533147 ** get_address_of_cflBulb_9() { return &___cflBulb_9; }
+	inline void set_cflBulb_9(GameObject_t1756533147 * value)
 	{
-		___badBulb_9 = value;
-		Il2CppCodeGenWriteBarrier((&___badBulb_9), value);
+		___cflBulb_9 = value;
+		Il2CppCodeGenWriteBarrier((&___cflBulb_9), value);
 	}
 
-	inline static int32_t get_offset_of_replaceBulb_10() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___replaceBulb_10)); }
-	inline GameObject_t1756533147 * get_replaceBulb_10() const { return ___replaceBulb_10; }
-	inline GameObject_t1756533147 ** get_address_of_replaceBulb_10() { return &___replaceBulb_10; }
-	inline void set_replaceBulb_10(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_badBulb_10() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___badBulb_10)); }
+	inline GameObject_t1756533147 * get_badBulb_10() const { return ___badBulb_10; }
+	inline GameObject_t1756533147 ** get_address_of_badBulb_10() { return &___badBulb_10; }
+	inline void set_badBulb_10(GameObject_t1756533147 * value)
 	{
-		___replaceBulb_10 = value;
-		Il2CppCodeGenWriteBarrier((&___replaceBulb_10), value);
+		___badBulb_10 = value;
+		Il2CppCodeGenWriteBarrier((&___badBulb_10), value);
 	}
 
-	inline static int32_t get_offset_of_cflTrans_11() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___cflTrans_11)); }
-	inline GameObject_t1756533147 * get_cflTrans_11() const { return ___cflTrans_11; }
-	inline GameObject_t1756533147 ** get_address_of_cflTrans_11() { return &___cflTrans_11; }
-	inline void set_cflTrans_11(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_replaceBulb_11() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___replaceBulb_11)); }
+	inline GameObject_t1756533147 * get_replaceBulb_11() const { return ___replaceBulb_11; }
+	inline GameObject_t1756533147 ** get_address_of_replaceBulb_11() { return &___replaceBulb_11; }
+	inline void set_replaceBulb_11(GameObject_t1756533147 * value)
 	{
-		___cflTrans_11 = value;
-		Il2CppCodeGenWriteBarrier((&___cflTrans_11), value);
+		___replaceBulb_11 = value;
+		Il2CppCodeGenWriteBarrier((&___replaceBulb_11), value);
 	}
 
-	inline static int32_t get_offset_of_pointer_12() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___pointer_12)); }
-	inline GameObject_t1756533147 * get_pointer_12() const { return ___pointer_12; }
-	inline GameObject_t1756533147 ** get_address_of_pointer_12() { return &___pointer_12; }
-	inline void set_pointer_12(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_cflTrans_12() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___cflTrans_12)); }
+	inline GameObject_t1756533147 * get_cflTrans_12() const { return ___cflTrans_12; }
+	inline GameObject_t1756533147 ** get_address_of_cflTrans_12() { return &___cflTrans_12; }
+	inline void set_cflTrans_12(GameObject_t1756533147 * value)
 	{
-		___pointer_12 = value;
-		Il2CppCodeGenWriteBarrier((&___pointer_12), value);
+		___cflTrans_12 = value;
+		Il2CppCodeGenWriteBarrier((&___cflTrans_12), value);
 	}
 
-	inline static int32_t get_offset_of_dontForget_13() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___dontForget_13)); }
-	inline GameObject_t1756533147 * get_dontForget_13() const { return ___dontForget_13; }
-	inline GameObject_t1756533147 ** get_address_of_dontForget_13() { return &___dontForget_13; }
-	inline void set_dontForget_13(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_pointer_13() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___pointer_13)); }
+	inline GameObject_t1756533147 * get_pointer_13() const { return ___pointer_13; }
+	inline GameObject_t1756533147 ** get_address_of_pointer_13() { return &___pointer_13; }
+	inline void set_pointer_13(GameObject_t1756533147 * value)
 	{
-		___dontForget_13 = value;
-		Il2CppCodeGenWriteBarrier((&___dontForget_13), value);
+		___pointer_13 = value;
+		Il2CppCodeGenWriteBarrier((&___pointer_13), value);
 	}
 
-	inline static int32_t get_offset_of_turnOff_14() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___turnOff_14)); }
-	inline GameObject_t1756533147 * get_turnOff_14() const { return ___turnOff_14; }
-	inline GameObject_t1756533147 ** get_address_of_turnOff_14() { return &___turnOff_14; }
-	inline void set_turnOff_14(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_dontForget_14() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___dontForget_14)); }
+	inline GameObject_t1756533147 * get_dontForget_14() const { return ___dontForget_14; }
+	inline GameObject_t1756533147 ** get_address_of_dontForget_14() { return &___dontForget_14; }
+	inline void set_dontForget_14(GameObject_t1756533147 * value)
 	{
-		___turnOff_14 = value;
-		Il2CppCodeGenWriteBarrier((&___turnOff_14), value);
+		___dontForget_14 = value;
+		Il2CppCodeGenWriteBarrier((&___dontForget_14), value);
 	}
 
-	inline static int32_t get_offset_of_exampleCube_15() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___exampleCube_15)); }
-	inline GameObject_t1756533147 * get_exampleCube_15() const { return ___exampleCube_15; }
-	inline GameObject_t1756533147 ** get_address_of_exampleCube_15() { return &___exampleCube_15; }
-	inline void set_exampleCube_15(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_turnOff_15() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___turnOff_15)); }
+	inline GameObject_t1756533147 * get_turnOff_15() const { return ___turnOff_15; }
+	inline GameObject_t1756533147 ** get_address_of_turnOff_15() { return &___turnOff_15; }
+	inline void set_turnOff_15(GameObject_t1756533147 * value)
 	{
-		___exampleCube_15 = value;
-		Il2CppCodeGenWriteBarrier((&___exampleCube_15), value);
+		___turnOff_15 = value;
+		Il2CppCodeGenWriteBarrier((&___turnOff_15), value);
 	}
 
-	inline static int32_t get_offset_of_newPlacedLamp_16() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___newPlacedLamp_16)); }
-	inline GameObject_t1756533147 * get_newPlacedLamp_16() const { return ___newPlacedLamp_16; }
-	inline GameObject_t1756533147 ** get_address_of_newPlacedLamp_16() { return &___newPlacedLamp_16; }
-	inline void set_newPlacedLamp_16(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_exampleCube_16() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___exampleCube_16)); }
+	inline GameObject_t1756533147 * get_exampleCube_16() const { return ___exampleCube_16; }
+	inline GameObject_t1756533147 ** get_address_of_exampleCube_16() { return &___exampleCube_16; }
+	inline void set_exampleCube_16(GameObject_t1756533147 * value)
 	{
-		___newPlacedLamp_16 = value;
-		Il2CppCodeGenWriteBarrier((&___newPlacedLamp_16), value);
+		___exampleCube_16 = value;
+		Il2CppCodeGenWriteBarrier((&___exampleCube_16), value);
+	}
+
+	inline static int32_t get_offset_of_newPlacedLamp_17() { return static_cast<int32_t>(offsetof(LampHit_t3156350675, ___newPlacedLamp_17)); }
+	inline GameObject_t1756533147 * get_newPlacedLamp_17() const { return ___newPlacedLamp_17; }
+	inline GameObject_t1756533147 ** get_address_of_newPlacedLamp_17() { return &___newPlacedLamp_17; }
+	inline void set_newPlacedLamp_17(GameObject_t1756533147 * value)
+	{
+		___newPlacedLamp_17 = value;
+		Il2CppCodeGenWriteBarrier((&___newPlacedLamp_17), value);
 	}
 };
 
@@ -15615,16 +15626,18 @@ public:
 	GameObject_t1756533147 * ___turnOff_10;
 	// UnityEngine.GameObject LampHit2::lampSpotlight
 	GameObject_t1756533147 * ___lampSpotlight_11;
+	// UnityEngine.GameObject LampHit2::lampSpotlight2
+	GameObject_t1756533147 * ___lampSpotlight2_12;
 	// UnityEngine.Material LampHit2::smokeHigh
-	Material_t193706927 * ___smokeHigh_12;
+	Material_t193706927 * ___smokeHigh_13;
 	// UnityEngine.GameObject LampHit2::exampleCube
-	GameObject_t1756533147 * ___exampleCube_13;
+	GameObject_t1756533147 * ___exampleCube_14;
 	// UnityEngine.GameObject LampHit2::newPlacedLamp
-	GameObject_t1756533147 * ___newPlacedLamp_14;
+	GameObject_t1756533147 * ___newPlacedLamp_15;
 	// UnityEngine.GameObject LampHit2::nextButton
-	GameObject_t1756533147 * ___nextButton_15;
+	GameObject_t1756533147 * ___nextButton_16;
 	// UnityEngine.GameObject LampHit2::newLightBulb
-	GameObject_t1756533147 * ___newLightBulb_16;
+	GameObject_t1756533147 * ___newLightBulb_17;
 
 public:
 	inline static int32_t get_offset_of_replaceBulb_2() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___replaceBulb_2)); }
@@ -15717,49 +15730,58 @@ public:
 		Il2CppCodeGenWriteBarrier((&___lampSpotlight_11), value);
 	}
 
-	inline static int32_t get_offset_of_smokeHigh_12() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___smokeHigh_12)); }
-	inline Material_t193706927 * get_smokeHigh_12() const { return ___smokeHigh_12; }
-	inline Material_t193706927 ** get_address_of_smokeHigh_12() { return &___smokeHigh_12; }
-	inline void set_smokeHigh_12(Material_t193706927 * value)
+	inline static int32_t get_offset_of_lampSpotlight2_12() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___lampSpotlight2_12)); }
+	inline GameObject_t1756533147 * get_lampSpotlight2_12() const { return ___lampSpotlight2_12; }
+	inline GameObject_t1756533147 ** get_address_of_lampSpotlight2_12() { return &___lampSpotlight2_12; }
+	inline void set_lampSpotlight2_12(GameObject_t1756533147 * value)
 	{
-		___smokeHigh_12 = value;
-		Il2CppCodeGenWriteBarrier((&___smokeHigh_12), value);
+		___lampSpotlight2_12 = value;
+		Il2CppCodeGenWriteBarrier((&___lampSpotlight2_12), value);
 	}
 
-	inline static int32_t get_offset_of_exampleCube_13() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___exampleCube_13)); }
-	inline GameObject_t1756533147 * get_exampleCube_13() const { return ___exampleCube_13; }
-	inline GameObject_t1756533147 ** get_address_of_exampleCube_13() { return &___exampleCube_13; }
-	inline void set_exampleCube_13(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_smokeHigh_13() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___smokeHigh_13)); }
+	inline Material_t193706927 * get_smokeHigh_13() const { return ___smokeHigh_13; }
+	inline Material_t193706927 ** get_address_of_smokeHigh_13() { return &___smokeHigh_13; }
+	inline void set_smokeHigh_13(Material_t193706927 * value)
 	{
-		___exampleCube_13 = value;
-		Il2CppCodeGenWriteBarrier((&___exampleCube_13), value);
+		___smokeHigh_13 = value;
+		Il2CppCodeGenWriteBarrier((&___smokeHigh_13), value);
 	}
 
-	inline static int32_t get_offset_of_newPlacedLamp_14() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___newPlacedLamp_14)); }
-	inline GameObject_t1756533147 * get_newPlacedLamp_14() const { return ___newPlacedLamp_14; }
-	inline GameObject_t1756533147 ** get_address_of_newPlacedLamp_14() { return &___newPlacedLamp_14; }
-	inline void set_newPlacedLamp_14(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_exampleCube_14() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___exampleCube_14)); }
+	inline GameObject_t1756533147 * get_exampleCube_14() const { return ___exampleCube_14; }
+	inline GameObject_t1756533147 ** get_address_of_exampleCube_14() { return &___exampleCube_14; }
+	inline void set_exampleCube_14(GameObject_t1756533147 * value)
 	{
-		___newPlacedLamp_14 = value;
-		Il2CppCodeGenWriteBarrier((&___newPlacedLamp_14), value);
+		___exampleCube_14 = value;
+		Il2CppCodeGenWriteBarrier((&___exampleCube_14), value);
 	}
 
-	inline static int32_t get_offset_of_nextButton_15() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___nextButton_15)); }
-	inline GameObject_t1756533147 * get_nextButton_15() const { return ___nextButton_15; }
-	inline GameObject_t1756533147 ** get_address_of_nextButton_15() { return &___nextButton_15; }
-	inline void set_nextButton_15(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_newPlacedLamp_15() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___newPlacedLamp_15)); }
+	inline GameObject_t1756533147 * get_newPlacedLamp_15() const { return ___newPlacedLamp_15; }
+	inline GameObject_t1756533147 ** get_address_of_newPlacedLamp_15() { return &___newPlacedLamp_15; }
+	inline void set_newPlacedLamp_15(GameObject_t1756533147 * value)
 	{
-		___nextButton_15 = value;
-		Il2CppCodeGenWriteBarrier((&___nextButton_15), value);
+		___newPlacedLamp_15 = value;
+		Il2CppCodeGenWriteBarrier((&___newPlacedLamp_15), value);
 	}
 
-	inline static int32_t get_offset_of_newLightBulb_16() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___newLightBulb_16)); }
-	inline GameObject_t1756533147 * get_newLightBulb_16() const { return ___newLightBulb_16; }
-	inline GameObject_t1756533147 ** get_address_of_newLightBulb_16() { return &___newLightBulb_16; }
-	inline void set_newLightBulb_16(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_nextButton_16() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___nextButton_16)); }
+	inline GameObject_t1756533147 * get_nextButton_16() const { return ___nextButton_16; }
+	inline GameObject_t1756533147 ** get_address_of_nextButton_16() { return &___nextButton_16; }
+	inline void set_nextButton_16(GameObject_t1756533147 * value)
 	{
-		___newLightBulb_16 = value;
-		Il2CppCodeGenWriteBarrier((&___newLightBulb_16), value);
+		___nextButton_16 = value;
+		Il2CppCodeGenWriteBarrier((&___nextButton_16), value);
+	}
+
+	inline static int32_t get_offset_of_newLightBulb_17() { return static_cast<int32_t>(offsetof(LampHit2_t1454657741, ___newLightBulb_17)); }
+	inline GameObject_t1756533147 * get_newLightBulb_17() const { return ___newLightBulb_17; }
+	inline GameObject_t1756533147 ** get_address_of_newLightBulb_17() { return &___newLightBulb_17; }
+	inline void set_newLightBulb_17(GameObject_t1756533147 * value)
+	{
+		___newLightBulb_17 = value;
+		Il2CppCodeGenWriteBarrier((&___newLightBulb_17), value);
 	}
 };
 
@@ -31390,7 +31412,7 @@ extern "C"  void LampHit__ctor_m4075772738 (LampHit_t3156350675 * __this, const 
 extern "C"  void LampHit_Update_m2197777175 (LampHit_t3156350675 * __this, const RuntimeMethod* method)
 {
 	{
-		GameObject_t1756533147 * L_0 = __this->get_replaceBulb_10();
+		GameObject_t1756533147 * L_0 = __this->get_replaceBulb_11();
 		NullCheck(L_0);
 		bool L_1 = GameObject_get_activeInHierarchy_m2532098784(L_0, /*hidden argument*/NULL);
 		if (!L_1)
@@ -31399,14 +31421,14 @@ extern "C"  void LampHit_Update_m2197777175 (LampHit_t3156350675 * __this, const
 		}
 	}
 	{
-		GameObject_t1756533147 * L_2 = __this->get_cflTrans_11();
+		GameObject_t1756533147 * L_2 = __this->get_cflTrans_12();
 		NullCheck(L_2);
 		GameObject_SetActive_m2693135142(L_2, (bool)1, /*hidden argument*/NULL);
 	}
 
 IL_001c:
 	{
-		GameObject_t1756533147 * L_3 = __this->get_cflBulb_8();
+		GameObject_t1756533147 * L_3 = __this->get_cflBulb_9();
 		NullCheck(L_3);
 		bool L_4 = GameObject_get_activeInHierarchy_m2532098784(L_3, /*hidden argument*/NULL);
 		if (!L_4)
@@ -31415,7 +31437,7 @@ IL_001c:
 		}
 	}
 	{
-		GameObject_t1756533147 * L_5 = __this->get_cflTrans_11();
+		GameObject_t1756533147 * L_5 = __this->get_cflTrans_12();
 		NullCheck(L_5);
 		GameObject_SetActive_m2693135142(L_5, (bool)0, /*hidden argument*/NULL);
 	}
@@ -31437,7 +31459,7 @@ extern "C"  void LampHit_HitByRay_m1689220528 (LampHit_t3156350675 * __this, con
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t1368543263_il2cpp_TypeInfo_var);
 		Debug_Log_m2923680153(NULL /*static, unused*/, _stringLiteral3123677613, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_0 = __this->get_badBulb_9();
+		GameObject_t1756533147 * L_0 = __this->get_badBulb_10();
 		NullCheck(L_0);
 		bool L_1 = GameObject_get_activeInHierarchy_m2532098784(L_0, /*hidden argument*/NULL);
 		if (!L_1)
@@ -31446,35 +31468,35 @@ extern "C"  void LampHit_HitByRay_m1689220528 (LampHit_t3156350675 * __this, con
 		}
 	}
 	{
-		GameObject_t1756533147 * L_2 = __this->get_BuildingFactTop_4();
+		GameObject_t1756533147 * L_2 = __this->get_BuildingFactTop_5();
 		NullCheck(L_2);
 		GameObject_SetActive_m2693135142(L_2, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_3 = __this->get_pointer_12();
+		GameObject_t1756533147 * L_3 = __this->get_pointer_13();
 		NullCheck(L_3);
 		GameObject_SetActive_m2693135142(L_3, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_4 = __this->get_BuildingFactBot_5();
+		GameObject_t1756533147 * L_4 = __this->get_BuildingFactBot_6();
 		NullCheck(L_4);
 		GameObject_SetActive_m2693135142(L_4, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_5 = __this->get_badBulb_9();
+		GameObject_t1756533147 * L_5 = __this->get_badBulb_10();
 		NullCheck(L_5);
 		GameObject_SetActive_m2693135142(L_5, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_6 = __this->get_cflBulb_8();
+		GameObject_t1756533147 * L_6 = __this->get_cflBulb_9();
 		NullCheck(L_6);
 		GameObject_SetActive_m2693135142(L_6, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_7 = __this->get_nextButton_7();
+		GameObject_t1756533147 * L_7 = __this->get_nextButton_8();
 		NullCheck(L_7);
 		GameObject_SetActive_m2693135142(L_7, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_8 = __this->get_replaceBulb_10();
+		GameObject_t1756533147 * L_8 = __this->get_replaceBulb_11();
 		NullCheck(L_8);
 		GameObject_SetActive_m2693135142(L_8, (bool)0, /*hidden argument*/NULL);
-		Material_t193706927 * L_9 = __this->get_smokeHigh_6();
+		Material_t193706927 * L_9 = __this->get_smokeHigh_7();
 		NullCheck(L_9);
 		Material_SetFloat_m1418481636(L_9, _stringLiteral2089520167, (0.15f), /*hidden argument*/NULL);
 	}
 
 IL_0083:
 	{
-		GameObject_t1756533147 * L_10 = __this->get_dontForget_13();
+		GameObject_t1756533147 * L_10 = __this->get_dontForget_14();
 		NullCheck(L_10);
 		bool L_11 = GameObject_get_activeInHierarchy_m2532098784(L_10, /*hidden argument*/NULL);
 		if (!L_11)
@@ -31505,28 +31527,28 @@ extern "C"  void LampHit_nextBtn_m3244382661 (LampHit_t3156350675 * __this, cons
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t1368543263_il2cpp_TypeInfo_var);
 		Debug_Log_m2923680153(NULL /*static, unused*/, _stringLiteral350963029, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_0 = __this->get_BuildingFactTop_4();
+		GameObject_t1756533147 * L_0 = __this->get_BuildingFactTop_5();
 		NullCheck(L_0);
 		GameObject_SetActive_m2693135142(L_0, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_1 = __this->get_BuildingFactBot_5();
+		GameObject_t1756533147 * L_1 = __this->get_BuildingFactBot_6();
 		NullCheck(L_1);
 		GameObject_SetActive_m2693135142(L_1, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_2 = __this->get_dontForget_13();
+		GameObject_t1756533147 * L_2 = __this->get_dontForget_14();
 		NullCheck(L_2);
 		GameObject_SetActive_m2693135142(L_2, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_3 = __this->get_turnOff_14();
+		GameObject_t1756533147 * L_3 = __this->get_turnOff_15();
 		NullCheck(L_3);
 		GameObject_SetActive_m2693135142(L_3, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_4 = __this->get_pointer_12();
+		GameObject_t1756533147 * L_4 = __this->get_pointer_13();
 		NullCheck(L_4);
 		GameObject_SetActive_m2693135142(L_4, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_5 = __this->get_nextButton_7();
+		GameObject_t1756533147 * L_5 = __this->get_nextButton_8();
 		NullCheck(L_5);
 		GameObject_SetActive_m2693135142(L_5, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_6 = __this->get_newPlacedLamp_16();
+		GameObject_t1756533147 * L_6 = __this->get_newPlacedLamp_17();
 		NullCheck(L_6);
 		GameObject_SetActive_m2693135142(L_6, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_7 = __this->get_newPlacedLamp_16();
+		GameObject_t1756533147 * L_7 = __this->get_newPlacedLamp_17();
 		NullCheck(L_7);
 		bool L_8 = GameObject_get_activeInHierarchy_m2532098784(L_7, /*hidden argument*/NULL);
 		if (!L_8)
@@ -31548,7 +31570,7 @@ IL_007d:
 
 IL_0087:
 	{
-		GameObject_t1756533147 * L_9 = __this->get_exampleCube_15();
+		GameObject_t1756533147 * L_9 = __this->get_exampleCube_16();
 		NullCheck(L_9);
 		GameObject_SetActive_m2693135142(L_9, (bool)1, /*hidden argument*/NULL);
 		return;
@@ -31637,7 +31659,7 @@ extern "C"  void LampHit2_HitByRay_m3177471660 (LampHit2_t1454657741 * __this, c
 		GameObject_t1756533147 * L_6 = __this->get_replaceBulb_2();
 		NullCheck(L_6);
 		GameObject_SetActive_m2693135142(L_6, (bool)0, /*hidden argument*/NULL);
-		Material_t193706927 * L_7 = __this->get_smokeHigh_12();
+		Material_t193706927 * L_7 = __this->get_smokeHigh_13();
 		NullCheck(L_7);
 		Material_SetFloat_m1418481636(L_7, _stringLiteral2089520167, (0.15f), /*hidden argument*/NULL);
 	}
@@ -31656,7 +31678,7 @@ IL_006b:
 		GameObject_t1756533147 * L_10 = __this->get_lampSpotlight_11();
 		NullCheck(L_10);
 		GameObject_SetActive_m2693135142(L_10, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_11 = __this->get_nextButton_15();
+		GameObject_t1756533147 * L_11 = __this->get_nextButton_16();
 		NullCheck(L_11);
 		GameObject_SetActive_m2693135142(L_11, (bool)1, /*hidden argument*/NULL);
 	}
@@ -31684,22 +31706,22 @@ extern "C"  void LampHit2_nextBtn_m4209837131 (LampHit2_t1454657741 * __this, co
 		GameObject_t1756533147 * L_1 = __this->get_BuildingFactBot_8();
 		NullCheck(L_1);
 		GameObject_SetActive_m2693135142(L_1, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_2 = __this->get_exampleCube_13();
+		GameObject_t1756533147 * L_2 = __this->get_exampleCube_14();
 		NullCheck(L_2);
 		GameObject_SetActive_m2693135142(L_2, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_3 = __this->get_nextButton_15();
+		GameObject_t1756533147 * L_3 = __this->get_nextButton_16();
 		NullCheck(L_3);
 		GameObject_SetActive_m2693135142(L_3, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_4 = __this->get_newPlacedLamp_14();
+		GameObject_t1756533147 * L_4 = __this->get_newPlacedLamp_15();
 		NullCheck(L_4);
 		GameObject_SetActive_m2693135142(L_4, (bool)0, /*hidden argument*/NULL);
 		GameObject_t1756533147 * L_5 = __this->get_turnOff_10();
 		NullCheck(L_5);
 		GameObject_SetActive_m2693135142(L_5, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_6 = __this->get_newLightBulb_16();
+		GameObject_t1756533147 * L_6 = __this->get_newLightBulb_17();
 		NullCheck(L_6);
 		GameObject_SetActive_m2693135142(L_6, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_7 = __this->get_newPlacedLamp_14();
+		GameObject_t1756533147 * L_7 = __this->get_newPlacedLamp_15();
 		NullCheck(L_7);
 		bool L_8 = GameObject_get_activeInHierarchy_m2532098784(L_7, /*hidden argument*/NULL);
 		if (!L_8)

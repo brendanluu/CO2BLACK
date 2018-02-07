@@ -22502,6 +22502,9 @@ extern "C" void U3CWaitU3Ec__Iterator0_Dispose_m2386946016 ();
 extern "C" void U3CWaitU3Ec__Iterator0_Reset_m3415034898 ();
 extern "C" void sceneChange__ctor_m1114375103 ();
 extern "C" void sceneChange_loadScene_m1135016419 ();
+extern "C" void screen2btns__ctor_m160212314 ();
+extern "C" void screen2btns_desc1btn_m4133591244 ();
+extern "C" void screen2btns_desc2btn_m81834653 ();
 extern "C" void Screen3__ctor_m3020186296 ();
 extern "C" void Screen3_deActivate_m1029354880 ();
 extern "C" void AutoIncrementAttribute__ctor_m1713262665 ();
@@ -23816,7 +23819,7 @@ extern "C" void BallUserControl__ctor_m1854748185 ();
 extern "C" void BallUserControl_Awake_m4216224384 ();
 extern "C" void BallUserControl_Update_m1471660078 ();
 extern "C" void BallUserControl_FixedUpdate_m1908019444 ();
-extern const Il2CppMethodPointer g_MethodPointers[23799] = 
+extern const Il2CppMethodPointer g_MethodPointers[23802] = 
 {
 	Locale_GetText_m1954433032,
 	Locale_GetText_m2553164138,
@@ -46303,6 +46306,9 @@ extern const Il2CppMethodPointer g_MethodPointers[23799] =
 	U3CWaitU3Ec__Iterator0_Reset_m3415034898,
 	sceneChange__ctor_m1114375103,
 	sceneChange_loadScene_m1135016419,
+	screen2btns__ctor_m160212314,
+	screen2btns_desc1btn_m4133591244,
+	screen2btns_desc2btn_m81834653,
 	Screen3__ctor_m3020186296,
 	Screen3_deActivate_m1029354880,
 	AutoIncrementAttribute__ctor_m1713262665,
