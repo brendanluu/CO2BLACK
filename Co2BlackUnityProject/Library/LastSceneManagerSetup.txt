@@ -1,4 +1,10 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/_Scenes/thirdModule.unity
+=======
+<<<<<<< HEAD
+- path: Assets/_Scenes/Grabbing05.unity
+=======
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/_Scenes/WiegmanRussoContrast.unity
@@ -20,5 +26,7 @@ sceneSetups:
 =======
 - path: Assets/_Scenes/Grabbing05.unity
 >>>>>>> Stashed changes
+>>>>>>> 23adae7f03ebf9dcf39a5b618b209379d0fb97b7
+>>>>>>> 18da4d547d856c477b56e68ac61678bea8ee2d77
   isLoaded: 1
   isActive: 1
