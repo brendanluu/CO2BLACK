@@ -273,6 +273,7 @@ afd30cc3b0987dcf04d73d3d1f06e49a Assembly-CSharp.dll:.ignoreCollision
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.FireLight
 f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.FlatTerrainFactory
+971a922a947f778f2fdd72a60ccf2e8d Assembly-CSharp.dll:.screen2btns
 869e5abc2271c3b618904edff22e38ef Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExplosionFireAndDebris
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -291,7 +292,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 0ab1bbed85b44e2f039b237552baefdc Assembly-CSharp.dll:.rejectionBadTrash
 bb2c736a6bf82df1138b83fbd7e29067 Assembly-CSharp.dll:Mapbox.Examples.PositionWithLocationProvider
 f6dccfc611980e48234f29ac86dfc6a1 Assembly-CSharp.dll:Mapbox.Examples.Scripts.Utilities.DragRotate
-89a721ae437af36398bbf19480eb81f8 Assembly-CSharp.dll:.LampHit2
+2480aed0ad1b075d4af2915828baca78 Assembly-CSharp.dll:.LampHit2
 c3bbced3b920c972296954f059b11c2e Assembly-CSharp.dll:UnityEngine.UI.BoxSlider
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 7317d05fdc27591726053b234b9ea5ee Assembly-CSharp.dll:.ColorSliderImage
@@ -382,7 +383,4 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
-<<<<<<< HEAD
-=======
-971a922a947f778f2fdd72a60ccf2e8d Assembly-CSharp.dll:.screen2btns
->>>>>>> 48b793129fecbeff10d96e2a9fdfee5841fa3570
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.outroBtn

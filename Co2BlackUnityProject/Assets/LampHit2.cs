@@ -39,6 +39,10 @@ public class LampHit2 : MonoBehaviour {
 	public GameObject thirdModuleObj;
 	public GameObject thirdButton;
 
+	public GameObject outroBtn;
+
+	public GameObject seeImpact;
+
 
 	void Update () {
 		if (replaceBulb.activeInHierarchy) {
@@ -84,6 +88,11 @@ public class LampHit2 : MonoBehaviour {
 		turnOff.SetActive (false);
 		newLightBulb.SetActive (false);
 		thirdButton.SetActive (true);
+		smokeHigh.SetFloat ("_Alpha", 0f);
+		replaceBulb.SetActive (false);
+		cflTrans.SetActive (false);
+		pointer.SetActive (false);
+
 
 		//show text
 //		dontForget.SetActive (true);
@@ -104,6 +113,18 @@ public class LampHit2 : MonoBehaviour {
 		Debug.Log ("Third Module Button Tapped");
 		trashCanScene.SetActive (false);
 		thirdModuleObj.SetActive (true);
+
+
+	}
+
+
+	public void outro() {
+		
+		if (seeImpact.activeInHierarchy) {
+			outroBtn.SetActive (true);
+
+		}
+			
 	}
 		
 }
