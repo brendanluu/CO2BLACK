@@ -27,6 +27,12 @@ public class LampHit2 : MonoBehaviour {
 
 	public Material smokeHigh;
 
+	//example Cube for beginning to combine scenes
+	public GameObject exampleCube;
+	public GameObject newPlacedLamp;
+	public GameObject nextButton;
+	public GameObject newLightBulb;
+
 
 	void Update () {
 		if (replaceBulb.activeInHierarchy) {
@@ -54,7 +60,37 @@ public class LampHit2 : MonoBehaviour {
 
 		if (turnOff.activeInHierarchy) {
 			lampSpotlight.SetActive (false);
+			nextButton.SetActive (true);
 		}
+
+	}
+
+	public void nextBtn () {
+		Debug.Log ("Next Button Tapped");
+		//hide old text
+		BuildingFactTop.SetActive (false);
+		BuildingFactBot.SetActive (false);
+
+		//hide btn and show cube
+		exampleCube.SetActive (true);
+		nextButton.SetActive (false);
+		newPlacedLamp.SetActive (false);
+		turnOff.SetActive (false);
+		newLightBulb.SetActive (false);
+
+		//show text
+//		dontForget.SetActive (true);
+
+//		pointer.SetActive (false);
+
+	
+
+		if (newPlacedLamp.activeInHierarchy) {
+			Debug.Log ("didn't work");
+		} else {
+			Debug.Log ("Worked");
+		}
+
 	}
 		
 }
