@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="EnergyHit">
+			<method name="chosenEnergy"/>
+			<method name="energyFact2btn"/>
+			<method name="energyFactbtn"/>
+		</type>
+	</assembly>
+</linker>
