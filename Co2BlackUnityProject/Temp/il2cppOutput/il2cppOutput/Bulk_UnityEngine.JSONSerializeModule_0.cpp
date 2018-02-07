@@ -23,7 +23,6 @@ struct String_t;
 // System.Type
 struct Type_t;
 // System.Char[]
-<<<<<<< HEAD
 struct CharU5BU5D_t1328083999;
 // System.Void
 struct Void_t1841601450;
@@ -31,20 +30,10 @@ struct Void_t1841601450;
 struct TypeU5BU5D_t1664964607;
 // System.Reflection.MemberFilter
 struct MemberFilter_t3405857066;
-=======
-struct CharU5BU5D_t1174261403;
-// System.Void
-struct Void_t3849202847;
-// System.Type[]
-struct TypeU5BU5D_t313308530;
-// System.Reflection.MemberFilter
-struct MemberFilter_t3748538228;
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 
 
 
 
-<<<<<<< HEAD
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__
@@ -61,10 +50,6 @@ struct MemberFilter_t3748538228;
 #endif // RUNTIMEOBJECT_H
 #ifndef U3CMODULEU3E_T3783534229_H
 #define U3CMODULEU3E_T3783534229_H
-=======
-#ifndef U3CMODULEU3E_T3111201985_H
-#define U3CMODULEU3E_T3111201985_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -72,7 +57,6 @@ struct MemberFilter_t3748538228;
 #endif
 
 // <Module>
-<<<<<<< HEAD
 struct  U3CModuleU3E_t3783534229 
 {
 public:
@@ -94,9 +78,6 @@ public:
 
 // System.ValueType
 struct  ValueType_t3507792607  : public RuntimeObject
-=======
-struct  U3CModuleU3E_t3111201985 
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 {
 public:
 
@@ -106,7 +87,6 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-<<<<<<< HEAD
 // Native definition for P/Invoke marshalling of System.ValueType
 struct ValueType_t3507792607_marshaled_pinvoke
 {
@@ -118,18 +98,12 @@ struct ValueType_t3507792607_marshaled_com
 #endif // VALUETYPE_T3507792607_H
 #ifndef MEMBERINFO_T_H
 #define MEMBERINFO_T_H
-=======
-#endif // U3CMODULEU3E_T3111201985_H
-#ifndef RUNTIMEOBJECT_H
-#define RUNTIMEOBJECT_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
-<<<<<<< HEAD
 // System.Reflection.MemberInfo
 struct  MemberInfo_t  : public RuntimeObject
 {
@@ -137,18 +111,11 @@ public:
 
 public:
 };
-=======
-// System.Object
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-<<<<<<< HEAD
 #endif // MEMBERINFO_T_H
-=======
-#endif // RUNTIMEOBJECT_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 struct Il2CppArrayBounds;
 #ifndef RUNTIMEARRAY_H
 #define RUNTIMEARRAY_H
@@ -164,13 +131,8 @@ struct Il2CppArrayBounds;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEARRAY_H
-<<<<<<< HEAD
 #ifndef JSONUTILITY_T653638946_H
 #define JSONUTILITY_T653638946_H
-=======
-#ifndef JSONUTILITY_T3789827755_H
-#define JSONUTILITY_T3789827755_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -178,11 +140,7 @@ struct Il2CppArrayBounds;
 #endif
 
 // UnityEngine.JsonUtility
-<<<<<<< HEAD
 struct  JsonUtility_t653638946  : public RuntimeObject
-=======
-struct  JsonUtility_t3789827755  : public RuntimeObject
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 {
 public:
 
@@ -192,11 +150,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-<<<<<<< HEAD
 #endif // JSONUTILITY_T653638946_H
-=======
-#endif // JSONUTILITY_T3789827755_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifndef STRING_T_H
 #define STRING_T_H
 #ifdef __clang__
@@ -238,11 +192,7 @@ public:
 	// System.String System.String::Empty
 	String_t* ___Empty_2;
 	// System.Char[] System.String::WhiteChars
-<<<<<<< HEAD
 	CharU5BU5D_t1328083999* ___WhiteChars_3;
-=======
-	CharU5BU5D_t1174261403* ___WhiteChars_3;
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 
 public:
 	inline static int32_t get_offset_of_Empty_2() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_2)); }
@@ -255,15 +205,9 @@ public:
 	}
 
 	inline static int32_t get_offset_of_WhiteChars_3() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___WhiteChars_3)); }
-<<<<<<< HEAD
 	inline CharU5BU5D_t1328083999* get_WhiteChars_3() const { return ___WhiteChars_3; }
 	inline CharU5BU5D_t1328083999** get_address_of_WhiteChars_3() { return &___WhiteChars_3; }
 	inline void set_WhiteChars_3(CharU5BU5D_t1328083999* value)
-=======
-	inline CharU5BU5D_t1174261403* get_WhiteChars_3() const { return ___WhiteChars_3; }
-	inline CharU5BU5D_t1174261403** get_address_of_WhiteChars_3() { return &___WhiteChars_3; }
-	inline void set_WhiteChars_3(CharU5BU5D_t1174261403* value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		___WhiteChars_3 = value;
 		Il2CppCodeGenWriteBarrier((&___WhiteChars_3), value);
@@ -274,61 +218,8 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // STRING_T_H
-<<<<<<< HEAD
 #ifndef ENUM_T2459695545_H
 #define ENUM_T2459695545_H
-=======
-#ifndef MEMBERINFO_T_H
-#define MEMBERINFO_T_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
-{
-public:
-
-public:
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // MEMBERINFO_T_H
-#ifndef VALUETYPE_T175624090_H
-#define VALUETYPE_T175624090_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// System.ValueType
-struct  ValueType_t175624090  : public RuntimeObject
-{
-public:
-
-public:
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-// Native definition for P/Invoke marshalling of System.ValueType
-struct ValueType_t175624090_marshaled_pinvoke
-{
-};
-// Native definition for COM marshalling of System.ValueType
-struct ValueType_t175624090_marshaled_com
-{
-};
-#endif // VALUETYPE_T175624090_H
-#ifndef ENUM_T921147632_H
-#define ENUM_T921147632_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -336,18 +227,13 @@ struct ValueType_t175624090_marshaled_com
 #endif
 
 // System.Enum
-<<<<<<< HEAD
 struct  Enum_t2459695545  : public ValueType_t3507792607
-=======
-struct  Enum_t921147632  : public ValueType_t175624090
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 {
 public:
 
 public:
 };
 
-<<<<<<< HEAD
 struct Enum_t2459695545_StaticFields
 {
 public:
@@ -359,19 +245,6 @@ public:
 	inline CharU5BU5D_t1328083999* get_split_char_0() const { return ___split_char_0; }
 	inline CharU5BU5D_t1328083999** get_address_of_split_char_0() { return &___split_char_0; }
 	inline void set_split_char_0(CharU5BU5D_t1328083999* value)
-=======
-struct Enum_t921147632_StaticFields
-{
-public:
-	// System.Char[] System.Enum::split_char
-	CharU5BU5D_t1174261403* ___split_char_0;
-
-public:
-	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t921147632_StaticFields, ___split_char_0)); }
-	inline CharU5BU5D_t1174261403* get_split_char_0() const { return ___split_char_0; }
-	inline CharU5BU5D_t1174261403** get_address_of_split_char_0() { return &___split_char_0; }
-	inline void set_split_char_0(CharU5BU5D_t1174261403* value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		___split_char_0 = value;
 		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
@@ -382,7 +255,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 // Native definition for P/Invoke marshalling of System.Enum
-<<<<<<< HEAD
 struct Enum_t2459695545_marshaled_pinvoke
 {
 };
@@ -391,16 +263,6 @@ struct Enum_t2459695545_marshaled_com
 {
 };
 #endif // ENUM_T2459695545_H
-=======
-struct Enum_t921147632_marshaled_pinvoke
-{
-};
-// Native definition for COM marshalling of System.Enum
-struct Enum_t921147632_marshaled_com
-{
-};
-#endif // ENUM_T921147632_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifndef INTPTR_T_H
 #define INTPTR_T_H
 #ifdef __clang__
@@ -446,20 +308,14 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // INTPTR_T_H
-<<<<<<< HEAD
 #ifndef RUNTIMETYPEHANDLE_T2330101084_H
 #define RUNTIMETYPEHANDLE_T2330101084_H
-=======
-#ifndef BINDINGFLAGS_T4229109652_H
-#define BINDINGFLAGS_T4229109652_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
-<<<<<<< HEAD
 // System.RuntimeTypeHandle
 struct  RuntimeTypeHandle_t2330101084 
 {
@@ -474,44 +330,21 @@ public:
 	inline void set_value_0(intptr_t value)
 	{
 		___value_0 = value;
-=======
-// System.Reflection.BindingFlags
-struct  BindingFlags_t4229109652 
-{
-public:
-	// System.Int32 System.Reflection.BindingFlags::value__
-	int32_t ___value___1;
-
-public:
-	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(BindingFlags_t4229109652, ___value___1)); }
-	inline int32_t get_value___1() const { return ___value___1; }
-	inline int32_t* get_address_of_value___1() { return &___value___1; }
-	inline void set_value___1(int32_t value)
-	{
-		___value___1 = value;
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-<<<<<<< HEAD
 #endif // RUNTIMETYPEHANDLE_T2330101084_H
 #ifndef BINDINGFLAGS_T1082350898_H
 #define BINDINGFLAGS_T1082350898_H
-=======
-#endif // BINDINGFLAGS_T4229109652_H
-#ifndef RUNTIMETYPEHANDLE_T1792665459_H
-#define RUNTIMETYPEHANDLE_T1792665459_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 
-<<<<<<< HEAD
 // System.Reflection.BindingFlags
 struct  BindingFlags_t1082350898 
 {
@@ -526,33 +359,13 @@ public:
 	inline void set_value___1(int32_t value)
 	{
 		___value___1 = value;
-=======
-// System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t1792665459 
-{
-public:
-	// System.IntPtr System.RuntimeTypeHandle::value
-	intptr_t ___value_0;
-
-public:
-	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(RuntimeTypeHandle_t1792665459, ___value_0)); }
-	inline intptr_t get_value_0() const { return ___value_0; }
-	inline intptr_t* get_address_of_value_0() { return &___value_0; }
-	inline void set_value_0(intptr_t value)
-	{
-		___value_0 = value;
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-<<<<<<< HEAD
 #endif // BINDINGFLAGS_T1082350898_H
-=======
-#endif // RUNTIMETYPEHANDLE_T1792665459_H
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 #ifndef TYPE_T_H
 #define TYPE_T_H
 #ifdef __clang__
@@ -566,7 +379,6 @@ struct  Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
-<<<<<<< HEAD
 	RuntimeTypeHandle_t2330101084  ____impl_1;
 
 public:
@@ -574,15 +386,6 @@ public:
 	inline RuntimeTypeHandle_t2330101084  get__impl_1() const { return ____impl_1; }
 	inline RuntimeTypeHandle_t2330101084 * get_address_of__impl_1() { return &____impl_1; }
 	inline void set__impl_1(RuntimeTypeHandle_t2330101084  value)
-=======
-	RuntimeTypeHandle_t1792665459  ____impl_1;
-
-public:
-	inline static int32_t get_offset_of__impl_1() { return static_cast<int32_t>(offsetof(Type_t, ____impl_1)); }
-	inline RuntimeTypeHandle_t1792665459  get__impl_1() const { return ____impl_1; }
-	inline RuntimeTypeHandle_t1792665459 * get_address_of__impl_1() { return &____impl_1; }
-	inline void set__impl_1(RuntimeTypeHandle_t1792665459  value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		____impl_1 = value;
 	}
@@ -594,7 +397,6 @@ public:
 	// System.Char System.Type::Delimiter
 	Il2CppChar ___Delimiter_2;
 	// System.Type[] System.Type::EmptyTypes
-<<<<<<< HEAD
 	TypeU5BU5D_t1664964607* ___EmptyTypes_3;
 	// System.Reflection.MemberFilter System.Type::FilterAttribute
 	MemberFilter_t3405857066 * ___FilterAttribute_4;
@@ -602,15 +404,6 @@ public:
 	MemberFilter_t3405857066 * ___FilterName_5;
 	// System.Reflection.MemberFilter System.Type::FilterNameIgnoreCase
 	MemberFilter_t3405857066 * ___FilterNameIgnoreCase_6;
-=======
-	TypeU5BU5D_t313308530* ___EmptyTypes_3;
-	// System.Reflection.MemberFilter System.Type::FilterAttribute
-	MemberFilter_t3748538228 * ___FilterAttribute_4;
-	// System.Reflection.MemberFilter System.Type::FilterName
-	MemberFilter_t3748538228 * ___FilterName_5;
-	// System.Reflection.MemberFilter System.Type::FilterNameIgnoreCase
-	MemberFilter_t3748538228 * ___FilterNameIgnoreCase_6;
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	// System.Object System.Type::Missing
 	RuntimeObject * ___Missing_7;
 
@@ -624,60 +417,36 @@ public:
 	}
 
 	inline static int32_t get_offset_of_EmptyTypes_3() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___EmptyTypes_3)); }
-<<<<<<< HEAD
 	inline TypeU5BU5D_t1664964607* get_EmptyTypes_3() const { return ___EmptyTypes_3; }
 	inline TypeU5BU5D_t1664964607** get_address_of_EmptyTypes_3() { return &___EmptyTypes_3; }
 	inline void set_EmptyTypes_3(TypeU5BU5D_t1664964607* value)
-=======
-	inline TypeU5BU5D_t313308530* get_EmptyTypes_3() const { return ___EmptyTypes_3; }
-	inline TypeU5BU5D_t313308530** get_address_of_EmptyTypes_3() { return &___EmptyTypes_3; }
-	inline void set_EmptyTypes_3(TypeU5BU5D_t313308530* value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		___EmptyTypes_3 = value;
 		Il2CppCodeGenWriteBarrier((&___EmptyTypes_3), value);
 	}
 
 	inline static int32_t get_offset_of_FilterAttribute_4() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___FilterAttribute_4)); }
-<<<<<<< HEAD
 	inline MemberFilter_t3405857066 * get_FilterAttribute_4() const { return ___FilterAttribute_4; }
 	inline MemberFilter_t3405857066 ** get_address_of_FilterAttribute_4() { return &___FilterAttribute_4; }
 	inline void set_FilterAttribute_4(MemberFilter_t3405857066 * value)
-=======
-	inline MemberFilter_t3748538228 * get_FilterAttribute_4() const { return ___FilterAttribute_4; }
-	inline MemberFilter_t3748538228 ** get_address_of_FilterAttribute_4() { return &___FilterAttribute_4; }
-	inline void set_FilterAttribute_4(MemberFilter_t3748538228 * value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		___FilterAttribute_4 = value;
 		Il2CppCodeGenWriteBarrier((&___FilterAttribute_4), value);
 	}
 
 	inline static int32_t get_offset_of_FilterName_5() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___FilterName_5)); }
-<<<<<<< HEAD
 	inline MemberFilter_t3405857066 * get_FilterName_5() const { return ___FilterName_5; }
 	inline MemberFilter_t3405857066 ** get_address_of_FilterName_5() { return &___FilterName_5; }
 	inline void set_FilterName_5(MemberFilter_t3405857066 * value)
-=======
-	inline MemberFilter_t3748538228 * get_FilterName_5() const { return ___FilterName_5; }
-	inline MemberFilter_t3748538228 ** get_address_of_FilterName_5() { return &___FilterName_5; }
-	inline void set_FilterName_5(MemberFilter_t3748538228 * value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		___FilterName_5 = value;
 		Il2CppCodeGenWriteBarrier((&___FilterName_5), value);
 	}
 
 	inline static int32_t get_offset_of_FilterNameIgnoreCase_6() { return static_cast<int32_t>(offsetof(Type_t_StaticFields, ___FilterNameIgnoreCase_6)); }
-<<<<<<< HEAD
 	inline MemberFilter_t3405857066 * get_FilterNameIgnoreCase_6() const { return ___FilterNameIgnoreCase_6; }
 	inline MemberFilter_t3405857066 ** get_address_of_FilterNameIgnoreCase_6() { return &___FilterNameIgnoreCase_6; }
 	inline void set_FilterNameIgnoreCase_6(MemberFilter_t3405857066 * value)
-=======
-	inline MemberFilter_t3748538228 * get_FilterNameIgnoreCase_6() const { return ___FilterNameIgnoreCase_6; }
-	inline MemberFilter_t3748538228 ** get_address_of_FilterNameIgnoreCase_6() { return &___FilterNameIgnoreCase_6; }
-	inline void set_FilterNameIgnoreCase_6(MemberFilter_t3748538228 * value)
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	{
 		___FilterNameIgnoreCase_6 = value;
 		Il2CppCodeGenWriteBarrier((&___FilterNameIgnoreCase_6), value);
@@ -706,21 +475,12 @@ public:
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // System.Object UnityEngine.JsonUtility::FromJson(System.String,System.Type)
-<<<<<<< HEAD
 extern "C"  RuntimeObject * JsonUtility_FromJson_m2698672133 (RuntimeObject * __this /* static, unused */, String_t* ___json0, Type_t * ___type1, const RuntimeMethod* method)
 {
 	typedef RuntimeObject * (*JsonUtility_FromJson_m2698672133_ftn) (String_t*, Type_t *);
 	static JsonUtility_FromJson_m2698672133_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (JsonUtility_FromJson_m2698672133_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.JsonUtility::FromJson(System.String,System.Type)");
-=======
-extern "C"  RuntimeObject * JsonUtility_FromJson_m4131294335 (RuntimeObject * __this /* static, unused */, String_t* ___json0, Type_t * ___type1, const RuntimeMethod* method)
-{
-	typedef RuntimeObject * (*JsonUtility_FromJson_m4131294335_ftn) (String_t*, Type_t *);
-	static JsonUtility_FromJson_m4131294335_ftn _il2cpp_icall_func;
-	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (JsonUtility_FromJson_m4131294335_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.JsonUtility::FromJson(System.String,System.Type)");
->>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	RuntimeObject * retVal = _il2cpp_icall_func(___json0, ___type1);
 	return retVal;
 }
