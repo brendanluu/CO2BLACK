@@ -1,5 +1,8 @@
 sceneSetups:
 <<<<<<< HEAD
+- path: Assets/_Scenes/erinLampUI_duplicate.unity
+=======
+<<<<<<< HEAD
 - path: Assets/_Scenes/thirdModule.unity
 =======
 <<<<<<< HEAD
@@ -28,5 +31,6 @@ sceneSetups:
 >>>>>>> Stashed changes
 >>>>>>> 23adae7f03ebf9dcf39a5b618b209379d0fb97b7
 >>>>>>> 18da4d547d856c477b56e68ac61678bea8ee2d77
+>>>>>>> 5f156a1243ac70dca1929f74ee3340c9620e6d12
   isLoaded: 1
   isActive: 1

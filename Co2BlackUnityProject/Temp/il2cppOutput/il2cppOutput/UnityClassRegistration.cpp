@@ -191,7 +191,11 @@ class ComputeShader;
 class Flare; 
 namespace TextRendering { class Font; } template <> void RegisterClass<TextRendering::Font>();
 class GameObjectRecorder; 
+<<<<<<< HEAD
 class LightProbes; template <> void RegisterClass<LightProbes>();
+=======
+class LightProbes; 
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 class Material; template <> void RegisterClass<Material>();
 class ProceduralMaterial; 
 class Mesh; template <> void RegisterClass<Mesh>();
@@ -200,7 +204,11 @@ class AnimationClip; template <> void RegisterClass<AnimationClip>();
 class PreviewAnimationClip; 
 class NavMeshData; 
 class OcclusionCullingData; 
+<<<<<<< HEAD
 class PhysicMaterial; 
+=======
+class PhysicMaterial; template <> void RegisterClass<PhysicMaterial>();
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 class PhysicsMaterial2D; 
 class PreloadData; template <> void RegisterClass<PreloadData>();
 class RuntimeAnimatorController; template <> void RegisterClass<RuntimeAnimatorController>();
@@ -427,6 +435,7 @@ RegisterBuiltinTypes();
 	RegisterClass<LightmapSettings>();
 	//77. CGProgram
 	RegisterClass<CGProgram>();
+<<<<<<< HEAD
 	//78. Motion
 	RegisterClass<Motion>();
 	//79. AnimatorController
@@ -437,6 +446,18 @@ RegisterBuiltinTypes();
 	RegisterClass<ParticleSystemRenderer>();
 	//82. LightProbes
 	RegisterClass<LightProbes>();
+=======
+	//78. PhysicMaterial
+	RegisterClass<PhysicMaterial>();
+	//79. Motion
+	RegisterClass<Motion>();
+	//80. AnimatorController
+	RegisterClass<AnimatorController>();
+	//81. RuntimeAnimatorController
+	RegisterClass<RuntimeAnimatorController>();
+	//82. ParticleSystemRenderer
+	RegisterClass<ParticleSystemRenderer>();
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 	//83. AnimationClip
 	RegisterClass<AnimationClip>();
 	//84. NavMeshSettings

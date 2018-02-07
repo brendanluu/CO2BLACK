@@ -1,4 +1,5 @@
 <linker>
+<<<<<<< HEAD
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="EnergyHit">
 			<method name="chosenEnergy"/>
@@ -6,4 +7,6 @@
 			<method name="energyFactbtn"/>
 		</type>
 	</assembly>
+=======
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 </linker>
