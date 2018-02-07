@@ -1,4 +1,20 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/WiegmanRussoContrast.unity
+=======
+<<<<<<< HEAD
+- path: Assets/_Scenes/erinLampUI.unity
+=======
+<<<<<<< HEAD
+- path: Assets/_Scenes/erinMarty_duplicate.unity
+=======
+<<<<<<< Updated upstream
+- path: Assets/_Scenes/erinLampUI.unity
+=======
+- path: Assets/_Scenes/Grabbing 04.unity
+>>>>>>> Stashed changes
+>>>>>>> d42f6982cdf8a55f387e49bc45508e939b9d3b73
+>>>>>>> 1da8a36c81520ec21c35767be43af01e62895f2d
+>>>>>>> c3c611734b130eaca1ecfbf3a90c0c016de94e53
   isLoaded: 1
   isActive: 1
