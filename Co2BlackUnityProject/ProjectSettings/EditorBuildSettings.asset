@@ -4,7 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/_Scenes/Grabbing05.unity
-    guid: 1789357335acc4209a7ad55dc263f885
+  m_Scenes: []
