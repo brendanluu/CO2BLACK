@@ -367,6 +367,10 @@ c93728c2de7be1bdc64a28d1233525e7 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.sceneChange
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
 f4322fc0f64b38fe7809a75cfdc78866 Assembly-CSharp.dll:Mapbox.Examples.Voxels.VoxelTile
+<<<<<<< HEAD
+b30b1b0d4e503af076a6b78f43488d0f Assembly-CSharp.dll:.EnergyHit
+=======
+>>>>>>> c3348c2123b7ca8675e9de434b03045539207126
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Examples.ObjectInspectorModifier
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.replay
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.loadDelayIntro
