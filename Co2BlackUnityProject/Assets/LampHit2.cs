@@ -30,10 +30,18 @@ public class LampHit2 : MonoBehaviour {
 	public Material smokeHigh;
 
 	//example Cube for beginning to combine scenes
-	public GameObject exampleCube;
+	public GameObject trashCanScene;
 	public GameObject newPlacedLamp;
 	public GameObject nextButton;
 	public GameObject newLightBulb;
+
+	//third Module 
+	public GameObject thirdModuleObj;
+	public GameObject thirdButton;
+
+	public GameObject outroBtn;
+
+	public GameObject seeImpact;
 
 
 	void Update () {
@@ -74,11 +82,17 @@ public class LampHit2 : MonoBehaviour {
 		BuildingFactBot.SetActive (false);
 
 		//hide btn and show cube
-		exampleCube.SetActive (true);
+		trashCanScene.SetActive (true);
 		nextButton.SetActive (false);
 		newPlacedLamp.SetActive (false);
 		turnOff.SetActive (false);
 		newLightBulb.SetActive (false);
+		thirdButton.SetActive (true);
+		smokeHigh.SetFloat ("_Alpha", 0f);
+		replaceBulb.SetActive (false);
+		cflTrans.SetActive (false);
+		pointer.SetActive (false);
+
 
 		//show text
 //		dontForget.SetActive (true);
@@ -93,6 +107,24 @@ public class LampHit2 : MonoBehaviour {
 			Debug.Log ("Worked");
 		}
 
+	}
+
+	public void thirdModuleBtn() {
+		Debug.Log ("Third Module Button Tapped");
+		trashCanScene.SetActive (false);
+		thirdModuleObj.SetActive (true);
+
+
+	}
+
+
+	public void outro() {
+		
+		if (seeImpact.activeInHierarchy) {
+			outroBtn.SetActive (true);
+
+		}
+			
 	}
 		
 }
