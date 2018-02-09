@@ -23,6 +23,7 @@ public class FocusSquare : MonoBehaviour {
 	public GameObject tapToPlaceText;
 	public GameObject findFlatSurface;
 
+
 	private FocusState squareState;
 	public FocusState SquareState { 
 		get {
@@ -152,7 +153,6 @@ public class FocusSquare : MonoBehaviour {
 			}
 
 		}
-
 	}
 
 

@@ -23,8 +23,12 @@ public class LampHit2 : MonoBehaviour {
 	//fifth screen
 	public GameObject turnOff;
 	public GameObject lampSpotlight;
-	public GameObject lampSpotlight2;
+//	public GameObject lampSpotlight2;
 
+
+	public GameObject focusSquareFocus;
+	public GameObject focusSquareFind;
+	public GameObject scanDots;
 
 
 	public Material smokeHigh;
@@ -47,6 +51,19 @@ public class LampHit2 : MonoBehaviour {
 	void Update () {
 		if (replaceBulb.activeInHierarchy) {
 			cflTrans.SetActive (true);
+//			focusSquareFocus.SetActive (false);
+//			focusSquareFind.SetActive (false);
+//			scanDots.SetActive (false);
+
+			Destroy(focusSquareFind);
+			Destroy(focusSquareFocus);
+			Destroy(scanDots);
+
+			if (!scanDots.activeInHierarchy) {
+				Debug.Log ("not there");
+			}
+			
+
 		}
 		if (cflBulb.activeInHierarchy) {
 			cflTrans.SetActive (false);
@@ -70,6 +87,8 @@ public class LampHit2 : MonoBehaviour {
 
 		if (turnOff.activeInHierarchy) {
 			lampSpotlight.SetActive (false);
+//			lampSpotlight2.SetActive (false);
+
 			nextButton.SetActive (true);
 		}
 
