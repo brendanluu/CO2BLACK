@@ -1,12 +1,4 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-- path: Assets/_Scenes/WiegmanRussoContrast.unity
-=======
-- path: Assets/_Scenes/erinLampUI_duplicate.unity
->>>>>>> 6acc29b55a0d0647e9c60e505855cd3e297758cb
-=======
-- path: Assets/_Scenes/WiegmanRussoContrast.unity
->>>>>>> Stashed changes
+- path: Assets/_Scenes/master.unity
   isLoaded: 1
   isActive: 1
