@@ -9,6 +9,8 @@ public class secondModule : MonoBehaviour {
 	public GameObject lampStand;
 	public GameObject lampCFL;
 
+	public GameObject secondInstructions;
+
 	//to second module
 	public GameObject toSecondMod;
 
@@ -31,6 +33,7 @@ public class secondModule : MonoBehaviour {
 
 		//show second module
 		secondModuleGroup.SetActive (true);
+		secondInstructions.SetActive (true);
 
 		//for now
 		toThirdMod.SetActive (true);
