@@ -4,35 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
   m_Scenes: []
-=======
->>>>>>> b0bf492a6f8e7cb19b1f66eee8596cc927ffcf77
-  m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/erinLampUI_duplicate.unity
-    guid: 0a2578cdad4fc4c4ba5edcf34ddd1f7c
-<<<<<<< HEAD
-  - enabled: 1
-    path: Assets/_Scenes/WiegmanRussoContrast.unity
-    guid: 49bf403695bd74c1fbfab63f1b510d7d
-  - enabled: 1
-    path: Assets/_Scenes/master.unity
-    guid: 7b5510fbd196341e7bdac6df951ec656
-  - enabled: 1
-    path: Assets/_Scenes/Outro2.unity
-    guid: 781b8fe1362f443a7a287ab22409b535
-=======
-  - enabled: 0
-    path: Assets/_Scenes/master.unity
-    guid: 7b5510fbd196341e7bdac6df951ec656
-  - enabled: 0
-    path: Assets/_Scenes/Outro2.unity
-    guid: 781b8fe1362f443a7a287ab22409b535
-  - enabled: 1
-    path: Assets/_Scenes/master 1.unity
-    guid: 9847ca471dc2f4d8e85e7794ce7f6481
->>>>>>> Stashed changes
->>>>>>> b0bf492a6f8e7cb19b1f66eee8596cc927ffcf77
