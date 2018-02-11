@@ -38,14 +38,14 @@ public class Move2 : MonoBehaviour {
 			}
 
 			Debug.Log ("Touch Position" + touch.position);
-			if (touch.phase == TouchPhase.Moved) {
+			if (touch.phase == TouchPhase.Moved && !EventSystem.current.IsPointerOverGameObject(0)) {
 				Vector3 fingerPosition = Camera.main.ScreenToWorldPoint (new Vector3 (touch.position.x, touch.position.y, .3f));
 				objectSelect.transform.position = new Vector3(fingerPosition.x, fingerPosition.y, fingerPosition.z);
 
 
 			}
 
-			if (touch.phase == TouchPhase.Stationary) {
+			if (touch.phase == TouchPhase.Stationary && !EventSystem.current.IsPointerOverGameObject(0)) {
 				Vector3 fingerPosition = Camera.main.ScreenToWorldPoint (new Vector3 (touch.position.x, touch.position.y, .3f));
 				objectSelect.transform.position = new Vector3 (fingerPosition.x, fingerPosition.y, fingerPosition.z);
 				rb.isKinematic = true;
