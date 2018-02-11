@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 932f5565c5f714285a7d5a7e0c3ab5bd, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: eeabe486ed1244230a027f348939ce1e, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.58105177, g: 0.604913, b: 0.57573074, a: 1}
+  m_IndirectSpecularColor: {r: 0.49824172, g: 0.30105442, b: 0.19074115, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -11039,8 +11039,8 @@ GameObject:
   - component: {fileID: 1664258315}
   - component: {fileID: 1664258314}
   - component: {fileID: 1664258313}
-  - component: {fileID: 1664258316}
   - component: {fileID: 1664258312}
+  - component: {fileID: 1664258316}
   m_Layer: 5
   m_Name: reduce
   m_TagString: Untagged
@@ -11140,12 +11140,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1664258310}
-        m_MethodName: 
+      - m_Target: {fileID: 1664258316}
+        m_MethodName: ModeSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -11194,7 +11194,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1664258310}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f71ea8586de74a03826af124c8516ac, type: 3}
+  m_Script: {fileID: 11500000, guid: b47720de2e09c469fa54f4d44cf2d941, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1695780841

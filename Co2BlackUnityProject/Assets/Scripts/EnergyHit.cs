@@ -23,7 +23,6 @@ public class EnergyHit : MonoBehaviour {
 	public void chosenEnergy() {
 
 		coal.SetActive (false);
-		//trigger animation of solar pamphlet getting larger and centered
 		chooseEnergy.SetActive (false);
 		pointer.SetActive (true);
 		energyFact.SetActive (true);
