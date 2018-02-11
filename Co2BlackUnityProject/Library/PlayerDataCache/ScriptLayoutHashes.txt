@@ -253,6 +253,7 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
@@ -396,3 +397,7 @@ e8302dd43ad4b6a8d1ddbf8eabd491ad Assembly-CSharp.dll:.thirdModule
 d7633f860b11828316e25a801bb3d283 Assembly-CSharp.dll:.detectCollision
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.tapAway
 >>>>>>> b0bf492a6f8e7cb19b1f66eee8596cc927ffcf77
+=======
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.tapAway
+d7633f860b11828316e25a801bb3d283 Assembly-CSharp.dll:.detectCollision
+>>>>>>> Stashed changes

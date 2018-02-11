@@ -1,0 +1,31 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="lampBtns">
+			<method name="BuildingFactTopBtn"/>
+			<method name="dontForgetBtn"/>
+			<method name="BuildingFactBotBtn"/>
+		</type>
+		<type fullname="thirdModule">
+			<method name="toThirdModBtn"/>
+		</type>
+		<type fullname="EnergyHit">
+			<method name="chosenEnergy"/>
+			<method name="energyFact2btn"/>
+			<method name="energyFactbtn"/>
+		</type>
+		<type fullname="detectCollision">
+			<method name="boxTapAway"/>
+		</type>
+		<type fullname="secondModule">
+			<method name="toSecondModBtn"/>
+		</type>
+		<type fullname="loadDelayOutro">
+			<method name="ModeSelect"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>
