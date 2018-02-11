@@ -7,12 +7,12 @@ public class loadDelayIntro : MonoBehaviour {
 
 	public void ModeSelect(){
 		StartCoroutine ("Wait");
-		Initiate.Fade("master",Color.black,1.0f);
+		Initiate.Fade("master 1",Color.black,1.0f);
 	}
 
 	IEnumerator Wait(){
 		yield return new WaitForSeconds (1.3f);
-		Application.LoadLevel ("master");
+		Application.LoadLevel ("master 1");
 	}
 
 

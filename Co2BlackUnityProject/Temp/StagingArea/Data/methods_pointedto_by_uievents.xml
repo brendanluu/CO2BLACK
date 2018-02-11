@@ -1,5 +1,25 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
+		<type fullname="screen2btns">
+			<method name="desc1btn"/>
+			<method name="desc2btn"/>
+			<method name="desc1btn"/>
+			<method name="desc2btn"/>
+		</type>
+		<type fullname="newScreen">
+			<method name="visualize"/>
+			<method name="visualize"/>
+		</type>
+		<type fullname="loadDelay">
+			<method name="ModeSelect"/>
+			<method name="ModeSelect"/>
+		</type>
+		<type fullname="Screen3">
+			<method name="deActivate"/>
+		</type>
+		<type fullname="loadDelayIntro">
+			<method name="ModeSelect"/>
+		</type>
 		<type fullname="lampBtns">
 			<method name="BuildingFactTopBtn"/>
 			<method name="dontForgetBtn"/>
@@ -13,7 +33,13 @@
 			<method name="energyFact2btn"/>
 			<method name="energyFactbtn"/>
 		</type>
+		<type fullname="ignoreCollision">
+			<method name="foamTapAway"/>
+			<method name="trashTapAway"/>
+		</type>
 		<type fullname="detectCollision">
+			<method name="bottleTapAway"/>
+			<method name="sodaTapAway"/>
 			<method name="boxTapAway"/>
 		</type>
 		<type fullname="secondModule">
@@ -25,6 +51,8 @@
 	</assembly>
 	<assembly fullname="UnityEngine">
 		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+			<method name="Play"/>
 			<method name="Play"/>
 		</type>
 	</assembly>
