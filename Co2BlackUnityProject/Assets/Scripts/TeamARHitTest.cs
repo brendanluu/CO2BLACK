@@ -32,7 +32,8 @@ namespace UnityEngine.XR.iOS
 
 			if (hitResults.Count > 0) {
 
-				replaceBulb.SetActive (true);
+				//text bug
+//				replaceBulb.SetActive (true);
 				BlueFocusSquare.SetActive (false);
 
 				FocusedSquare.SetActive (false);

@@ -11,6 +11,8 @@ public class firstModule : MonoBehaviour {
 
 	//second screen (bulb was switched)
 	public GameObject cflBulb;
+	public GameObject lampShade;
+	public Material lampShadeMat;
 	public GameObject buildingFactTop;
 	public GameObject pointer;
 
@@ -37,11 +39,16 @@ public class firstModule : MonoBehaviour {
 		//if bulb has been switched, hide the cfl sprite
 		if (cflBulb.activeInHierarchy) {
 			cflTrans.SetActive (false);
+			lampShade.SetActive (true);
+			lampShadeMat.DisableKeyword ("_EMISSION");
+
 		}
 	}
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
+
+		replaceBulb.SetActive (true);
 
 		if (badBulb.activeInHierarchy) {
 
