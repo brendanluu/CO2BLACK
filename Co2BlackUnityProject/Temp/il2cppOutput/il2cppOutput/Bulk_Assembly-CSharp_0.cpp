@@ -882,7 +882,6 @@ extern const uint32_t Fader_OnEnable_m4269331039_MetadataUsageId;
 extern const uint32_t Fader_OnDisable_m1831611200_MetadataUsageId;
 extern const uint32_t Fader_OnGUI_m2075395937_MetadataUsageId;
 extern Il2CppCodeGenString* _stringLiteral2910395628;
-extern const uint32_t firstModule_Update_m485507888_MetadataUsageId;
 extern const uint32_t firstModule_HitByRay_m3398552351_MetadataUsageId;
 extern const uint32_t fixedpos_LateUpdate_m1663295942_MetadataUsageId;
 extern Il2CppCodeGenString* _stringLiteral3211615289;
@@ -29593,12 +29592,6 @@ extern "C"  void firstModule__ctor_m240784067 (firstModule_t569720198 * __this, 
 // System.Void firstModule::Update()
 extern "C"  void firstModule_Update_m485507888 (firstModule_t569720198 * __this, const RuntimeMethod* method)
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (firstModule_Update_m485507888_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
 	{
 		GameObject_t1756533147 * L_0 = __this->get_replaceBulb_2();
 		NullCheck(L_0);
@@ -29621,7 +29614,7 @@ IL_001c:
 		bool L_4 = GameObject_get_activeInHierarchy_m2532098784(L_3, /*hidden argument*/NULL);
 		if (!L_4)
 		{
-			goto IL_0054;
+			goto IL_0044;
 		}
 	}
 	{
@@ -29631,12 +29624,9 @@ IL_001c:
 		GameObject_t1756533147 * L_6 = __this->get_lampShade_6();
 		NullCheck(L_6);
 		GameObject_SetActive_m2693135142(L_6, (bool)1, /*hidden argument*/NULL);
-		Material_t193706927 * L_7 = __this->get_lampShadeMat_7();
-		NullCheck(L_7);
-		Material_DisableKeyword_m2117537928(L_7, _stringLiteral2910395628, /*hidden argument*/NULL);
 	}
 
-IL_0054:
+IL_0044:
 	{
 		return;
 	}
@@ -29653,58 +29643,61 @@ extern "C"  void firstModule_HitByRay_m3398552351 (firstModule_t569720198 * __th
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t1368543263_il2cpp_TypeInfo_var);
 		Debug_Log_m2923680153(NULL /*static, unused*/, _stringLiteral3123677613, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_0 = __this->get_replaceBulb_2();
+		GameObject_t1756533147 * L_0 = __this->get_badBulb_3();
 		NullCheck(L_0);
-		GameObject_SetActive_m2693135142(L_0, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_1 = __this->get_badBulb_3();
-		NullCheck(L_1);
-		bool L_2 = GameObject_get_activeInHierarchy_m2532098784(L_1, /*hidden argument*/NULL);
-		if (!L_2)
+		bool L_1 = GameObject_get_activeInHierarchy_m2532098784(L_0, /*hidden argument*/NULL);
+		if (!L_1)
 		{
-			goto IL_0077;
+			goto IL_006b;
 		}
 	}
 	{
-		GameObject_t1756533147 * L_3 = __this->get_replaceBulb_2();
+		GameObject_t1756533147 * L_2 = __this->get_replaceBulb_2();
+		NullCheck(L_2);
+		GameObject_SetActive_m2693135142(L_2, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_3 = __this->get_badBulb_3();
 		NullCheck(L_3);
 		GameObject_SetActive_m2693135142(L_3, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_4 = __this->get_badBulb_3();
+		GameObject_t1756533147 * L_4 = __this->get_cflBulb_5();
 		NullCheck(L_4);
-		GameObject_SetActive_m2693135142(L_4, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_5 = __this->get_cflBulb_5();
+		GameObject_SetActive_m2693135142(L_4, (bool)1, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_5 = __this->get_buildingFactTop_8();
 		NullCheck(L_5);
 		GameObject_SetActive_m2693135142(L_5, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_6 = __this->get_buildingFactTop_8();
+		GameObject_t1756533147 * L_6 = __this->get_pointer_9();
 		NullCheck(L_6);
 		GameObject_SetActive_m2693135142(L_6, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_7 = __this->get_pointer_9();
+		Material_t193706927 * L_7 = __this->get_smokeHigh_14();
 		NullCheck(L_7);
-		GameObject_SetActive_m2693135142(L_7, (bool)1, /*hidden argument*/NULL);
-		Material_t193706927 * L_8 = __this->get_smokeHigh_14();
-		NullCheck(L_8);
-		Material_SetFloat_m1418481636(L_8, _stringLiteral2089520167, (0.15f), /*hidden argument*/NULL);
+		Material_SetFloat_m1418481636(L_7, _stringLiteral2089520167, (0.15f), /*hidden argument*/NULL);
 	}
 
-IL_0077:
+IL_006b:
 	{
-		GameObject_t1756533147 * L_9 = __this->get_turnOff_12();
-		NullCheck(L_9);
-		bool L_10 = GameObject_get_activeInHierarchy_m2532098784(L_9, /*hidden argument*/NULL);
-		if (!L_10)
+		GameObject_t1756533147 * L_8 = __this->get_turnOff_12();
+		NullCheck(L_8);
+		bool L_9 = GameObject_get_activeInHierarchy_m2532098784(L_8, /*hidden argument*/NULL);
+		if (!L_9)
 		{
-			goto IL_009f;
+			goto IL_00af;
 		}
 	}
 	{
-		GameObject_t1756533147 * L_11 = __this->get_lampSpotlight_13();
+		GameObject_t1756533147 * L_10 = __this->get_lampSpotlight_13();
+		NullCheck(L_10);
+		GameObject_SetActive_m2693135142(L_10, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_11 = __this->get_lampShade_6();
 		NullCheck(L_11);
-		GameObject_SetActive_m2693135142(L_11, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_12 = __this->get_toSecondMod_15();
+		GameObject_SetActive_m2693135142(L_11, (bool)1, /*hidden argument*/NULL);
+		Material_t193706927 * L_12 = __this->get_lampShadeMat_7();
 		NullCheck(L_12);
-		GameObject_SetActive_m2693135142(L_12, (bool)1, /*hidden argument*/NULL);
+		Material_DisableKeyword_m2117537928(L_12, _stringLiteral2910395628, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_13 = __this->get_toSecondMod_15();
+		NullCheck(L_13);
+		GameObject_SetActive_m2693135142(L_13, (bool)1, /*hidden argument*/NULL);
 	}
 
-IL_009f:
+IL_00af:
 	{
 		return;
 	}

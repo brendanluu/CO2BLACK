@@ -4773,14 +4773,16 @@ public:
 	GameObject_t1756533147 * ___lampStand_4;
 	// UnityEngine.GameObject secondModule::lampCFL
 	GameObject_t1756533147 * ___lampCFL_5;
+	// UnityEngine.GameObject secondModule::lampShade
+	GameObject_t1756533147 * ___lampShade_6;
 	// UnityEngine.GameObject secondModule::secondInstructions
-	GameObject_t1756533147 * ___secondInstructions_6;
+	GameObject_t1756533147 * ___secondInstructions_7;
 	// UnityEngine.GameObject secondModule::toSecondMod
-	GameObject_t1756533147 * ___toSecondMod_7;
+	GameObject_t1756533147 * ___toSecondMod_8;
 	// UnityEngine.GameObject secondModule::secondModuleGroup
-	GameObject_t1756533147 * ___secondModuleGroup_8;
+	GameObject_t1756533147 * ___secondModuleGroup_9;
 	// UnityEngine.GameObject secondModule::toThirdMod
-	GameObject_t1756533147 * ___toThirdMod_9;
+	GameObject_t1756533147 * ___toThirdMod_10;
 
 public:
 	inline static int32_t get_offset_of_firstModuleGroup_2() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___firstModuleGroup_2)); }
@@ -4819,40 +4821,49 @@ public:
 		Il2CppCodeGenWriteBarrier((&___lampCFL_5), value);
 	}
 
-	inline static int32_t get_offset_of_secondInstructions_6() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___secondInstructions_6)); }
-	inline GameObject_t1756533147 * get_secondInstructions_6() const { return ___secondInstructions_6; }
-	inline GameObject_t1756533147 ** get_address_of_secondInstructions_6() { return &___secondInstructions_6; }
-	inline void set_secondInstructions_6(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_lampShade_6() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___lampShade_6)); }
+	inline GameObject_t1756533147 * get_lampShade_6() const { return ___lampShade_6; }
+	inline GameObject_t1756533147 ** get_address_of_lampShade_6() { return &___lampShade_6; }
+	inline void set_lampShade_6(GameObject_t1756533147 * value)
 	{
-		___secondInstructions_6 = value;
-		Il2CppCodeGenWriteBarrier((&___secondInstructions_6), value);
+		___lampShade_6 = value;
+		Il2CppCodeGenWriteBarrier((&___lampShade_6), value);
 	}
 
-	inline static int32_t get_offset_of_toSecondMod_7() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___toSecondMod_7)); }
-	inline GameObject_t1756533147 * get_toSecondMod_7() const { return ___toSecondMod_7; }
-	inline GameObject_t1756533147 ** get_address_of_toSecondMod_7() { return &___toSecondMod_7; }
-	inline void set_toSecondMod_7(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_secondInstructions_7() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___secondInstructions_7)); }
+	inline GameObject_t1756533147 * get_secondInstructions_7() const { return ___secondInstructions_7; }
+	inline GameObject_t1756533147 ** get_address_of_secondInstructions_7() { return &___secondInstructions_7; }
+	inline void set_secondInstructions_7(GameObject_t1756533147 * value)
 	{
-		___toSecondMod_7 = value;
-		Il2CppCodeGenWriteBarrier((&___toSecondMod_7), value);
+		___secondInstructions_7 = value;
+		Il2CppCodeGenWriteBarrier((&___secondInstructions_7), value);
 	}
 
-	inline static int32_t get_offset_of_secondModuleGroup_8() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___secondModuleGroup_8)); }
-	inline GameObject_t1756533147 * get_secondModuleGroup_8() const { return ___secondModuleGroup_8; }
-	inline GameObject_t1756533147 ** get_address_of_secondModuleGroup_8() { return &___secondModuleGroup_8; }
-	inline void set_secondModuleGroup_8(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_toSecondMod_8() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___toSecondMod_8)); }
+	inline GameObject_t1756533147 * get_toSecondMod_8() const { return ___toSecondMod_8; }
+	inline GameObject_t1756533147 ** get_address_of_toSecondMod_8() { return &___toSecondMod_8; }
+	inline void set_toSecondMod_8(GameObject_t1756533147 * value)
 	{
-		___secondModuleGroup_8 = value;
-		Il2CppCodeGenWriteBarrier((&___secondModuleGroup_8), value);
+		___toSecondMod_8 = value;
+		Il2CppCodeGenWriteBarrier((&___toSecondMod_8), value);
 	}
 
-	inline static int32_t get_offset_of_toThirdMod_9() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___toThirdMod_9)); }
-	inline GameObject_t1756533147 * get_toThirdMod_9() const { return ___toThirdMod_9; }
-	inline GameObject_t1756533147 ** get_address_of_toThirdMod_9() { return &___toThirdMod_9; }
-	inline void set_toThirdMod_9(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_secondModuleGroup_9() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___secondModuleGroup_9)); }
+	inline GameObject_t1756533147 * get_secondModuleGroup_9() const { return ___secondModuleGroup_9; }
+	inline GameObject_t1756533147 ** get_address_of_secondModuleGroup_9() { return &___secondModuleGroup_9; }
+	inline void set_secondModuleGroup_9(GameObject_t1756533147 * value)
 	{
-		___toThirdMod_9 = value;
-		Il2CppCodeGenWriteBarrier((&___toThirdMod_9), value);
+		___secondModuleGroup_9 = value;
+		Il2CppCodeGenWriteBarrier((&___secondModuleGroup_9), value);
+	}
+
+	inline static int32_t get_offset_of_toThirdMod_10() { return static_cast<int32_t>(offsetof(secondModule_t272875596, ___toThirdMod_10)); }
+	inline GameObject_t1756533147 * get_toThirdMod_10() const { return ___toThirdMod_10; }
+	inline GameObject_t1756533147 ** get_address_of_toThirdMod_10() { return &___toThirdMod_10; }
+	inline void set_toThirdMod_10(GameObject_t1756533147 * value)
+	{
+		___toThirdMod_10 = value;
+		Il2CppCodeGenWriteBarrier((&___toThirdMod_10), value);
 	}
 };
 
@@ -7230,16 +7241,17 @@ extern const int32_t g_FieldOffsetTable3463[4] =
 	TrashARHitTest_t1948775624::get_offset_of_bigDickHit_5(),
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3464 = { sizeof (secondModule_t272875596), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3464[8] = 
+extern const int32_t g_FieldOffsetTable3464[9] = 
 {
 	secondModule_t272875596::get_offset_of_firstModuleGroup_2(),
 	secondModule_t272875596::get_offset_of_lampModel_3(),
 	secondModule_t272875596::get_offset_of_lampStand_4(),
 	secondModule_t272875596::get_offset_of_lampCFL_5(),
-	secondModule_t272875596::get_offset_of_secondInstructions_6(),
-	secondModule_t272875596::get_offset_of_toSecondMod_7(),
-	secondModule_t272875596::get_offset_of_secondModuleGroup_8(),
-	secondModule_t272875596::get_offset_of_toThirdMod_9(),
+	secondModule_t272875596::get_offset_of_lampShade_6(),
+	secondModule_t272875596::get_offset_of_secondInstructions_7(),
+	secondModule_t272875596::get_offset_of_toSecondMod_8(),
+	secondModule_t272875596::get_offset_of_secondModuleGroup_9(),
+	secondModule_t272875596::get_offset_of_toThirdMod_10(),
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3465 = { sizeof (Fader_t1787722948), -1, 0, 0 };
 extern const int32_t g_FieldOffsetTable3465[6] = 

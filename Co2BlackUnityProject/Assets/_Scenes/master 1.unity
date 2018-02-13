@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44983393, g: 0.499902, b: 0.5756032, a: 1}
+  m_IndirectSpecularColor: {r: 0.44981843, g: 0.49988526, b: 0.5755968, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -765,6 +765,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1594088741}
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: lampShadeAnim
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &94576012
@@ -1108,7 +1119,7 @@ MonoBehaviour:
   toThirdMod: {fileID: 113310975}
   thirdModuleGroup: {fileID: 1669714006}
   lampModel: {fileID: 1019435492}
-  lampStand: {fileID: 1365453729}
+  lampStand: {fileID: 1894642488}
   lampCFL: {fileID: 958016284}
 --- !u!1 &143934247
 GameObject:
@@ -5265,9 +5276,8 @@ Transform:
   - {fileID: 894610522}
   - {fileID: 1373092246}
   - {fileID: 1894642487}
-  - {fileID: 1594088738}
   m_Father: {fileID: 1149822707}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1019435494
 BoxCollider:
@@ -5792,6 +5802,7 @@ Transform:
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children:
   - {fileID: 1967328786}
+  - {fileID: 1594088738}
   - {fileID: 1019435493}
   - {fileID: 1210864561}
   m_Father: {fileID: 0}
@@ -5928,7 +5939,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1149822707}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1210864562
 MonoBehaviour:
@@ -6062,7 +6073,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: -1441927665
+  randomSeed: 1971681301
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -9886,8 +9897,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstModuleGroup: {fileID: 761996837}
   lampModel: {fileID: 1019435492}
-  lampStand: {fileID: 1365453729}
+  lampStand: {fileID: 1894642488}
   lampCFL: {fileID: 958016284}
+  lampShade: {fileID: 1594088740}
   secondInstructions: {fileID: 1484680536}
   toSecondMod: {fileID: 1306258099}
   secondModuleGroup: {fileID: 1967328785}
@@ -10590,7 +10602,7 @@ Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1019435493}
+    m_TransformParent: {fileID: 1149822707}
     m_Modifications:
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10598,7 +10610,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.34
+      value: 8.68
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10606,7 +10618,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_LocalRotation.y
@@ -10622,7 +10634,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -10636,22 +10648,43 @@ Prefab:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.010000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.010000001
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 9500000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
   m_IsPrefabParent: 0
 --- !u!4 &1594088738 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
   m_PrefabInternal: {fileID: 1594088737}
---- !u!95 &1594088739 stripped
-Animator:
-  m_PrefabParentObject: {fileID: 9500000, guid: db28a511ae2a449768cdc77ac5d4172c,
-    type: 3}
-  m_PrefabInternal: {fileID: 1594088737}
 --- !u!1 &1594088740 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
   m_PrefabInternal: {fileID: 1594088737}
+--- !u!95 &1594088741
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1594088740}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1902f805827be4e348f49c426e21aebe, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1596917924
 GameObject:
   m_ObjectHideFlags: 0
@@ -10849,18 +10882,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1647811336}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1594088739}
-        m_MethodName: Play
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: lampShadeAnim
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1647811336
@@ -12089,6 +12111,10 @@ Prefab:
 --- !u!4 &1894642487 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 5220566f584094ad79bbc3e0439fba29, type: 3}
+  m_PrefabInternal: {fileID: 1894642486}
+--- !u!1 &1894642488 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: 5220566f584094ad79bbc3e0439fba29, type: 3}
   m_PrefabInternal: {fileID: 1894642486}
 --- !u!1001 &1922507383
 Prefab:
