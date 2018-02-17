@@ -9,17 +9,26 @@ public class thirdmod : MonoBehaviour {
 	public GameObject gas;
 	public GameObject clean;
 
+	public GameObject woodEnergy;
+	public GameObject coalEnergy;
 
-	void turnOnCoal() {
+	public GameObject gasEnergy;
+
+	public void turnOnCoal() {
 		coal.SetActive (true);
+		coalEnergy.SetActive (true);
+		woodEnergy.SetActive (false);
 	}
 
-	void turnOnGas(){
+	public void turnOnGas(){
 		gas.SetActive (true);
+		gasEnergy.SetActive (true);
+		coalEnergy.SetActive (false);
 	}
 
-	void turnOnClean(){
+	public void  turnOnClean(){
 		clean.SetActive (true);
+		gasEnergy.SetActive (true);
 	}
 
 
