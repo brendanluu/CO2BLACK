@@ -8,6 +8,7 @@ public class secondModule : MonoBehaviour {
 	public GameObject lampModel;
 	public GameObject lampStand;
 	public GameObject lampCFL;
+	public GameObject lampShade;
 
 	public GameObject secondInstructions;
 
@@ -27,6 +28,7 @@ public class secondModule : MonoBehaviour {
 		lampModel.SetActive (false);
 		lampStand.SetActive (false);
 		lampCFL.SetActive (false);
+		lampShade.SetActive (false);
 
 		//hide btn
 		toSecondMod.SetActive (false);
@@ -52,6 +54,7 @@ public class secondModule : MonoBehaviour {
 			lampModel.SetActive (false);
 			lampStand.SetActive (false);
 			lampCFL.SetActive (false);
+			lampShade.SetActive (false);
 		}
 	}
 }

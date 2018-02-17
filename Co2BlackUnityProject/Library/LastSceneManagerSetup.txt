@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/master 1.unity
+=======
+- path: Assets/_Scenes/smokeyintro.unity
+>>>>>>> 505e3212f1a2592ecb19b2010ce2df8bbd4914aa
   isLoaded: 1
   isActive: 1

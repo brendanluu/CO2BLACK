@@ -40,7 +40,6 @@ public class firstModule : MonoBehaviour {
 		if (cflBulb.activeInHierarchy) {
 			cflTrans.SetActive (false);
 			lampShade.SetActive (true);
-			lampShadeMat.DisableKeyword ("_EMISSION");
 
 		}
 	}
@@ -48,7 +47,7 @@ public class firstModule : MonoBehaviour {
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
 
-		replaceBulb.SetActive (true);
+//		replaceBulb.SetActive (true);
 
 		if (badBulb.activeInHierarchy) {
 
@@ -65,6 +64,8 @@ public class firstModule : MonoBehaviour {
 
 		if (turnOff.activeInHierarchy) {
 			lampSpotlight.SetActive (false);
+			lampShade.SetActive (true);
+			lampShadeMat.DisableKeyword ("_EMISSION");
 			toSecondMod.SetActive (true);
 		}
 
