@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/master_tapanywhere.unity
+=======
+- path: Assets/_Scenes/3rdmodule.unity
+>>>>>>> 13c9731ff78360438cca51ddfc109d54ea24b096
   isLoaded: 1
   isActive: 1
