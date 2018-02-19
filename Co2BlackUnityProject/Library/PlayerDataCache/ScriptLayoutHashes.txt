@@ -15,6 +15,7 @@ e8302dd43ad4b6a8d1ddbf8eabd491ad Assembly-CSharp.dll:.thirdModule
 7481472d4e57e8477d484d43a43b79dc Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.FirstPersonController
 65ce61bce6a9cc1cdde99a2eb764fefc Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.SnapTerrainModifier
 430c1729d7a445aa5df470ced463fca9 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExplosionPhysicsForce
+f1309a5f5eb45591b72443077029bd22 Assembly-CSharp.dll:.OnClickExample
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.SampleInfo
 609883ba9b3462e00c79080cdb51d119 Assembly-CSharp-firstpass.dll:.iTween
 516e5cc4558edc3eaf07fa540ce485bf Assembly-CSharp.dll:.ColorPickerTester
@@ -256,6 +257,12 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.badCollision
+=======
+>>>>>>> Stashed changes
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
@@ -391,3 +398,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 f1309a5f5eb45591b72443077029bd22 Assembly-CSharp.dll:.OnClickExample
 1ea89276f2c022a6d6b4b4891376d8ce Assembly-CSharp.dll:.thirdmod
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
