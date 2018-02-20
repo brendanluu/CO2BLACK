@@ -39,7 +39,6 @@ e81238197aa643d93e3d903c06302a67 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 f4386a940b0c945b42ba5098c696420b Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Filters.HeightFilter
 5785468d2f96b6ca4050e315282b32b0 Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
 e3614d77c024e8379444f971096aaac4 Assembly-CSharp.dll:.UnityARCameraManager
-2da8e8ffac115f877eb464df95e3df04 Assembly-CSharp.dll:.dontForget_turnOff
 6c156248975c65e334daa4cbfba64bd1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectActivator
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Unity.Map.GlobeTileProvider
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Unity.Utilities.Runnable
@@ -48,29 +47,7 @@ e3614d77c024e8379444f971096aaac4 Assembly-CSharp.dll:.UnityARCameraManager
 77644474df6c5b551a248f4f83812e84 Assembly-CSharp.dll:Mapbox.Examples.LoadingPanelController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RayHit
 c1465577256149eb2fdaaf3754ab7da9 Assembly-CSharp.dll:.TiltWindow
-<<<<<<< HEAD
 bc70f8e042ef533f25a9f8053988b311 Assembly-CSharp.dll:.lampBtns
-=======
-<<<<<<< Updated upstream
-9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtns
-fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
-60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
-426c06448d7cff8f4261760b2d8e781f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkIdentity
-b684027795c03ea8253e603d8afe864a UnityEngine.Networking.dll:UnityEngine.Networking.NetworkLobbyManager
-9d178a32937c7fac8f23a949ac137f70 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkLobbyPlayer
-1df234784afa2cbe0613283a35c66908 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkManager
-c38ec0d21c425a274f55b7414a6e54c1 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkManagerHUD
-e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkMigrationManager
-8e28bfd01710b18059e3eb5ea5a4643b UnityEngine.Networking.dll:UnityEngine.Networking.NetworkProximityChecker
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkStartPosition
-3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
-73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
-528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
-=======
-bc70f8e042ef533f25a9f8053988b311 Assembly-CSharp.dll:.lampBtns
->>>>>>> Stashed changes
->>>>>>> 738b194828e409450b1931b1d04ca340a8566026
 7d5b8986d788d51c21bcecec760e0129 Assembly-CSharp.dll:.Screen3
 1de2e2cbb104e97d6c51bb8790db321c Assembly-CSharp.dll:Mapbox.Examples.Voxels.VoxelFetcher
 78a2a366a0a3b585e1178d2dd9d006ab Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointProgressTracker
@@ -102,7 +79,6 @@ e763036081c708b34f78f5a56f72c23d TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_St
 136f28bae18bcd1072d830ee3456f3ab TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_SubMesh
 5833a86cc374f497ae8d9fb9d8c3e5f4 TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_SubMeshUI
 d672cee35261f9935d5ce974c746730f TextMeshPro-1.0.55.2017.2.0b12.dll:TMPro.TMP_Text
-fb030d7303ad0b522ef24e0e3d62d83e Assembly-CSharp.dll:.firstBuilding_secondBuilding
 51c9cbdf3e71d8f78252c2a491af267b Assembly-CSharp.dll:.newScreen
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
 0abbdc4938288c690efd9c810a09b02f Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.MergedModifierStack
@@ -189,7 +165,6 @@ e97ff9540a49b92b779792c195839d33 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 5a90eb2925b8ecd079577e09e9511e24 Assembly-CSharp.dll:.FactHit2
 5511a49b5104d2e14b66af50a17125f0 Assembly-CSharp.dll:.ParticlePainter
 e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.TerrainFactory
-1ea89276f2c022a6d6b4b4891376d8ce Assembly-CSharp.dll:.thirdmod
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
 e7254d36d3c5c5a1dd5030dd341fe88f Assembly-CSharp.dll:.ignoreCollision
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
@@ -197,27 +172,6 @@ e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
 f3c78920fe48df8b0cb9a5df21c82d06 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.FlatTerrainFactory
 971a922a947f778f2fdd72a60ccf2e8d Assembly-CSharp.dll:.screen2btns
 869e5abc2271c3b618904edff22e38ef Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExplosionFireAndDebris
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
-60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
-426c06448d7cff8f4261760b2d8e781f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkIdentity
-b684027795c03ea8253e603d8afe864a UnityEngine.Networking.dll:UnityEngine.Networking.NetworkLobbyManager
-9d178a32937c7fac8f23a949ac137f70 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkLobbyPlayer
-1df234784afa2cbe0613283a35c66908 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkManager
-c38ec0d21c425a274f55b7414a6e54c1 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkManagerHUD
-e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkMigrationManager
-8e28bfd01710b18059e3eb5ea5a4643b UnityEngine.Networking.dll:UnityEngine.Networking.NetworkProximityChecker
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkStartPosition
-3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
-73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
-528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
-=======
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.badCollision
->>>>>>> Stashed changes
->>>>>>> 738b194828e409450b1931b1d04ca340a8566026
 0ab1bbed85b44e2f039b237552baefdc Assembly-CSharp.dll:.rejectionBadTrash
 bb2c736a6bf82df1138b83fbd7e29067 Assembly-CSharp.dll:Mapbox.Examples.PositionWithLocationProvider
 f6dccfc611980e48234f29ac86dfc6a1 Assembly-CSharp.dll:Mapbox.Examples.Scripts.Utilities.DragRotate
@@ -246,18 +200,6 @@ d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveScene
 bf09ee2e5fc51800c24bc9ad47088efd Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.AddMonoBehavioursModifier
 4db0663f9c228f9276322045ee5037d5 Assembly-CSharp.dll:.FocusSquare
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
-463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
-c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
-45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
-=======
-b223e0bd892d4820d7514e05905f8534 Assembly-CSharp.dll:.secondBuilding_dontForget
->>>>>>> Stashed changes
->>>>>>> 738b194828e409450b1931b1d04ca340a8566026
 076e35b09a1b5a014e21d57d28756f33 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.StyleOptimizedVectorTileFactory
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.RotateSample
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.ColorImage
@@ -315,20 +257,6 @@ a1d41d38fc0ffc365dc294688f92cb95 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnityARCameraNearFar
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
 658bf8334790d2ed35310347cc5219d9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.badCollision
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
->>>>>>> 738b194828e409450b1931b1d04ca340a8566026
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
@@ -462,21 +390,10 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
-<<<<<<< HEAD
 fb030d7303ad0b522ef24e0e3d62d83e Assembly-CSharp.dll:.firstBuilding_secondBuilding
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.badCollision
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.changeTrashColor
 b223e0bd892d4820d7514e05905f8534 Assembly-CSharp.dll:.secondBuilding_dontForget
 2da8e8ffac115f877eb464df95e3df04 Assembly-CSharp.dll:.dontForget_turnOff
-=======
-<<<<<<< Updated upstream
-f1309a5f5eb45591b72443077029bd22 Assembly-CSharp.dll:.OnClickExample
 1ea89276f2c022a6d6b4b4891376d8ce Assembly-CSharp.dll:.thirdmod
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
->>>>>>> 332e2374e0ef10f226a3b421829e1cc6c2cdb25b
-=======
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.changeTrashColor
->>>>>>> Stashed changes
->>>>>>> 738b194828e409450b1931b1d04ca340a8566026
+9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtnsNOTRANS

@@ -1,6 +1,6 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
-		<type fullname="lampBtns">
+		<type fullname="lampBtnsNOTRANS">
 			<method name="BuildingFactTopBtn"/>
 			<method name="dontForgetBtn"/>
 			<method name="BuildingFactBotBtn"/>

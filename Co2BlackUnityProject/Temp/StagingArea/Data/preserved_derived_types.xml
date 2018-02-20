@@ -53,6 +53,7 @@
 <assembly fullname="Assembly-CSharp">
 <type fullname="dontForget_turnOff" preserve="all"/>
 <type fullname="firstBuilding_secondBuilding" preserve="all"/>
+<type fullname="lampBtnsNOTRANS" preserve="all"/>
 <type fullname="exampleSceneScript" preserve="all"/>
 <type fullname="Mapbox.Examples.Scripts.Utilities.DragRotate" preserve="all"/>
 <type fullname="Mapbox.Examples.SpawnOnGlobeExample" preserve="all"/>
