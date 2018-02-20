@@ -13759,12 +13759,14 @@ public:
 	GameObject_t1756533147 * ___toThirdMod_3;
 	// UnityEngine.GameObject thirdModule::thirdModuleGroup
 	GameObject_t1756533147 * ___thirdModuleGroup_4;
+	// UnityEngine.GameObject thirdModule::thirdUI
+	GameObject_t1756533147 * ___thirdUI_5;
 	// UnityEngine.GameObject thirdModule::lampModel
-	GameObject_t1756533147 * ___lampModel_5;
+	GameObject_t1756533147 * ___lampModel_6;
 	// UnityEngine.GameObject thirdModule::lampStand
-	GameObject_t1756533147 * ___lampStand_6;
+	GameObject_t1756533147 * ___lampStand_7;
 	// UnityEngine.GameObject thirdModule::lampCFL
-	GameObject_t1756533147 * ___lampCFL_7;
+	GameObject_t1756533147 * ___lampCFL_8;
 
 public:
 	inline static int32_t get_offset_of_secondModuleGroup_2() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___secondModuleGroup_2)); }
@@ -13794,31 +13796,40 @@ public:
 		Il2CppCodeGenWriteBarrier((&___thirdModuleGroup_4), value);
 	}
 
-	inline static int32_t get_offset_of_lampModel_5() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___lampModel_5)); }
-	inline GameObject_t1756533147 * get_lampModel_5() const { return ___lampModel_5; }
-	inline GameObject_t1756533147 ** get_address_of_lampModel_5() { return &___lampModel_5; }
-	inline void set_lampModel_5(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_thirdUI_5() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___thirdUI_5)); }
+	inline GameObject_t1756533147 * get_thirdUI_5() const { return ___thirdUI_5; }
+	inline GameObject_t1756533147 ** get_address_of_thirdUI_5() { return &___thirdUI_5; }
+	inline void set_thirdUI_5(GameObject_t1756533147 * value)
 	{
-		___lampModel_5 = value;
-		Il2CppCodeGenWriteBarrier((&___lampModel_5), value);
+		___thirdUI_5 = value;
+		Il2CppCodeGenWriteBarrier((&___thirdUI_5), value);
 	}
 
-	inline static int32_t get_offset_of_lampStand_6() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___lampStand_6)); }
-	inline GameObject_t1756533147 * get_lampStand_6() const { return ___lampStand_6; }
-	inline GameObject_t1756533147 ** get_address_of_lampStand_6() { return &___lampStand_6; }
-	inline void set_lampStand_6(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_lampModel_6() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___lampModel_6)); }
+	inline GameObject_t1756533147 * get_lampModel_6() const { return ___lampModel_6; }
+	inline GameObject_t1756533147 ** get_address_of_lampModel_6() { return &___lampModel_6; }
+	inline void set_lampModel_6(GameObject_t1756533147 * value)
 	{
-		___lampStand_6 = value;
-		Il2CppCodeGenWriteBarrier((&___lampStand_6), value);
+		___lampModel_6 = value;
+		Il2CppCodeGenWriteBarrier((&___lampModel_6), value);
 	}
 
-	inline static int32_t get_offset_of_lampCFL_7() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___lampCFL_7)); }
-	inline GameObject_t1756533147 * get_lampCFL_7() const { return ___lampCFL_7; }
-	inline GameObject_t1756533147 ** get_address_of_lampCFL_7() { return &___lampCFL_7; }
-	inline void set_lampCFL_7(GameObject_t1756533147 * value)
+	inline static int32_t get_offset_of_lampStand_7() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___lampStand_7)); }
+	inline GameObject_t1756533147 * get_lampStand_7() const { return ___lampStand_7; }
+	inline GameObject_t1756533147 ** get_address_of_lampStand_7() { return &___lampStand_7; }
+	inline void set_lampStand_7(GameObject_t1756533147 * value)
 	{
-		___lampCFL_7 = value;
-		Il2CppCodeGenWriteBarrier((&___lampCFL_7), value);
+		___lampStand_7 = value;
+		Il2CppCodeGenWriteBarrier((&___lampStand_7), value);
+	}
+
+	inline static int32_t get_offset_of_lampCFL_8() { return static_cast<int32_t>(offsetof(thirdModule_t1718044623, ___lampCFL_8)); }
+	inline GameObject_t1756533147 * get_lampCFL_8() const { return ___lampCFL_8; }
+	inline GameObject_t1756533147 ** get_address_of_lampCFL_8() { return &___lampCFL_8; }
+	inline void set_lampCFL_8(GameObject_t1756533147 * value)
+	{
+		___lampCFL_8 = value;
+		Il2CppCodeGenWriteBarrier((&___lampCFL_8), value);
 	}
 };
 
@@ -13979,6 +13990,12 @@ public:
 	GameObject_t1756533147 * ___coalEnergy_7;
 	// UnityEngine.GameObject thirdmod::gasEnergy
 	GameObject_t1756533147 * ___gasEnergy_8;
+	// UnityEngine.GameObject thirdmod::allEnergy
+	GameObject_t1756533147 * ___allEnergy_9;
+	// UnityEngine.GameObject thirdmod::getClean
+	GameObject_t1756533147 * ___getClean_10;
+	// UnityEngine.GameObject thirdmod::laptopFirstStep
+	GameObject_t1756533147 * ___laptopFirstStep_11;
 
 public:
 	inline static int32_t get_offset_of_fire_2() { return static_cast<int32_t>(offsetof(thirdmod_t3672307499, ___fire_2)); }
@@ -14042,6 +14059,33 @@ public:
 	{
 		___gasEnergy_8 = value;
 		Il2CppCodeGenWriteBarrier((&___gasEnergy_8), value);
+	}
+
+	inline static int32_t get_offset_of_allEnergy_9() { return static_cast<int32_t>(offsetof(thirdmod_t3672307499, ___allEnergy_9)); }
+	inline GameObject_t1756533147 * get_allEnergy_9() const { return ___allEnergy_9; }
+	inline GameObject_t1756533147 ** get_address_of_allEnergy_9() { return &___allEnergy_9; }
+	inline void set_allEnergy_9(GameObject_t1756533147 * value)
+	{
+		___allEnergy_9 = value;
+		Il2CppCodeGenWriteBarrier((&___allEnergy_9), value);
+	}
+
+	inline static int32_t get_offset_of_getClean_10() { return static_cast<int32_t>(offsetof(thirdmod_t3672307499, ___getClean_10)); }
+	inline GameObject_t1756533147 * get_getClean_10() const { return ___getClean_10; }
+	inline GameObject_t1756533147 ** get_address_of_getClean_10() { return &___getClean_10; }
+	inline void set_getClean_10(GameObject_t1756533147 * value)
+	{
+		___getClean_10 = value;
+		Il2CppCodeGenWriteBarrier((&___getClean_10), value);
+	}
+
+	inline static int32_t get_offset_of_laptopFirstStep_11() { return static_cast<int32_t>(offsetof(thirdmod_t3672307499, ___laptopFirstStep_11)); }
+	inline GameObject_t1756533147 * get_laptopFirstStep_11() const { return ___laptopFirstStep_11; }
+	inline GameObject_t1756533147 ** get_address_of_laptopFirstStep_11() { return &___laptopFirstStep_11; }
+	inline void set_laptopFirstStep_11(GameObject_t1756533147 * value)
+	{
+		___laptopFirstStep_11 = value;
+		Il2CppCodeGenWriteBarrier((&___laptopFirstStep_11), value);
 	}
 };
 
@@ -27155,16 +27199,57 @@ extern "C"  void thirdmod_turnOnGas_m2003847463 (thirdmod_t3672307499 * __this, 
 		return;
 	}
 }
-// System.Void thirdmod::turnOnClean()
-extern "C"  void thirdmod_turnOnClean_m4057066279 (thirdmod_t3672307499 * __this, const RuntimeMethod* method)
+// System.Void thirdmod::turnOnAll()
+extern "C"  void thirdmod_turnOnAll_m1183722407 (thirdmod_t3672307499 * __this, const RuntimeMethod* method)
 {
 	{
 		GameObject_t1756533147 * L_0 = __this->get_clean_5();
 		NullCheck(L_0);
 		GameObject_SetActive_m2693135142(L_0, (bool)1, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_1 = __this->get_gasEnergy_8();
+		GameObject_t1756533147 * L_1 = __this->get_allEnergy_9();
 		NullCheck(L_1);
 		GameObject_SetActive_m2693135142(L_1, (bool)1, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_2 = __this->get_gasEnergy_8();
+		NullCheck(L_2);
+		GameObject_SetActive_m2693135142(L_2, (bool)0, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void thirdmod::turnOnCleanText()
+extern "C"  void thirdmod_turnOnCleanText_m1376071330 (thirdmod_t3672307499 * __this, const RuntimeMethod* method)
+{
+	{
+		GameObject_t1756533147 * L_0 = __this->get_allEnergy_9();
+		NullCheck(L_0);
+		GameObject_SetActive_m2693135142(L_0, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_1 = __this->get_getClean_10();
+		NullCheck(L_1);
+		GameObject_SetActive_m2693135142(L_1, (bool)1, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void thirdmod::hideAllModels()
+extern "C"  void thirdmod_hideAllModels_m3208811679 (thirdmod_t3672307499 * __this, const RuntimeMethod* method)
+{
+	{
+		GameObject_t1756533147 * L_0 = __this->get_getClean_10();
+		NullCheck(L_0);
+		GameObject_SetActive_m2693135142(L_0, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_1 = __this->get_fire_2();
+		NullCheck(L_1);
+		GameObject_SetActive_m2693135142(L_1, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_2 = __this->get_coal_3();
+		NullCheck(L_2);
+		GameObject_SetActive_m2693135142(L_2, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_3 = __this->get_gas_4();
+		NullCheck(L_3);
+		GameObject_SetActive_m2693135142(L_3, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_4 = __this->get_clean_5();
+		NullCheck(L_4);
+		GameObject_SetActive_m2693135142(L_4, (bool)0, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_5 = __this->get_laptopFirstStep_11();
+		NullCheck(L_5);
+		GameObject_SetActive_m2693135142(L_5, (bool)1, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -27194,18 +27279,21 @@ extern "C"  void thirdModule_toThirdModBtn_m2921471906 (thirdModule_t1718044623 
 		GameObject_t1756533147 * L_1 = __this->get_toThirdMod_3();
 		NullCheck(L_1);
 		GameObject_SetActive_m2693135142(L_1, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_2 = __this->get_lampModel_5();
+		GameObject_t1756533147 * L_2 = __this->get_lampModel_6();
 		NullCheck(L_2);
 		GameObject_SetActive_m2693135142(L_2, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_3 = __this->get_lampStand_6();
+		GameObject_t1756533147 * L_3 = __this->get_lampStand_7();
 		NullCheck(L_3);
 		GameObject_SetActive_m2693135142(L_3, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_4 = __this->get_lampCFL_7();
+		GameObject_t1756533147 * L_4 = __this->get_lampCFL_8();
 		NullCheck(L_4);
 		GameObject_SetActive_m2693135142(L_4, (bool)0, /*hidden argument*/NULL);
 		GameObject_t1756533147 * L_5 = __this->get_thirdModuleGroup_4();
 		NullCheck(L_5);
 		GameObject_SetActive_m2693135142(L_5, (bool)1, /*hidden argument*/NULL);
+		GameObject_t1756533147 * L_6 = __this->get_thirdUI_5();
+		NullCheck(L_6);
+		GameObject_SetActive_m2693135142(L_6, (bool)1, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -27222,13 +27310,13 @@ extern "C"  void thirdModule_Update_m656854583 (thirdModule_t1718044623 * __this
 		}
 	}
 	{
-		GameObject_t1756533147 * L_2 = __this->get_lampModel_5();
+		GameObject_t1756533147 * L_2 = __this->get_lampModel_6();
 		NullCheck(L_2);
 		GameObject_SetActive_m2693135142(L_2, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_3 = __this->get_lampStand_6();
+		GameObject_t1756533147 * L_3 = __this->get_lampStand_7();
 		NullCheck(L_3);
 		GameObject_SetActive_m2693135142(L_3, (bool)0, /*hidden argument*/NULL);
-		GameObject_t1756533147 * L_4 = __this->get_lampCFL_7();
+		GameObject_t1756533147 * L_4 = __this->get_lampCFL_8();
 		NullCheck(L_4);
 		GameObject_SetActive_m2693135142(L_4, (bool)0, /*hidden argument*/NULL);
 	}

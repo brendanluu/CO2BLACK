@@ -3,7 +3,7 @@ iOS
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARKitControl
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Mapbox.Examples.HighlightFeature
 7ba1e84ad3d2d8813486668e75f842ce Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExtinguishableParticleSystem
-e8302dd43ad4b6a8d1ddbf8eabd491ad Assembly-CSharp.dll:.thirdModule
+091c7ab1e85e0aa1c80fc914022d94ee Assembly-CSharp.dll:.thirdModule
 12096ddf91bc99172a48b0419861fd00 Assembly-CSharp.dll:.PointCloudParticleExample
 1db2689b3233b29a96c693c2c074a142 Assembly-CSharp.dll:Mapbox.Unity.Map.MapVisualizer
 37f72ce84749c8c3f7dc26905e7d1eb5 Assembly-CSharp.dll:.ModeSwitcher
@@ -395,5 +395,5 @@ fb030d7303ad0b522ef24e0e3d62d83e Assembly-CSharp.dll:.firstBuilding_secondBuildi
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.changeTrashColor
 b223e0bd892d4820d7514e05905f8534 Assembly-CSharp.dll:.secondBuilding_dontForget
 2da8e8ffac115f877eb464df95e3df04 Assembly-CSharp.dll:.dontForget_turnOff
-1ea89276f2c022a6d6b4b4891376d8ce Assembly-CSharp.dll:.thirdmod
+c02eddd04e58a423f3366e8cb7de705a Assembly-CSharp.dll:.thirdmod
 9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtnsNOTRANS

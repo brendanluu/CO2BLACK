@@ -8,6 +8,13 @@
 		<type fullname="thirdModule">
 			<method name="toThirdModBtn"/>
 		</type>
+		<type fullname="thirdmod">
+			<method name="hideAllModels"/>
+			<method name="turnOnCleanText"/>
+			<method name="turnOnGas"/>
+			<method name="turnOnCoal"/>
+			<method name="turnOnAll"/>
+		</type>
 		<type fullname="EnergyHit">
 			<method name="chosenEnergy"/>
 			<method name="energyFact2btn"/>

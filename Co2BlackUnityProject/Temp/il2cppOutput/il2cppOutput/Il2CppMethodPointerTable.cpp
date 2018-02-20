@@ -22846,7 +22846,9 @@ extern "C" void tapAway_Update_m3811067317 ();
 extern "C" void thirdmod__ctor_m3492726194 ();
 extern "C" void thirdmod_turnOnCoal_m3284482871 ();
 extern "C" void thirdmod_turnOnGas_m2003847463 ();
-extern "C" void thirdmod_turnOnClean_m4057066279 ();
+extern "C" void thirdmod_turnOnAll_m1183722407 ();
+extern "C" void thirdmod_turnOnCleanText_m1376071330 ();
+extern "C" void thirdmod_hideAllModels_m3208811679 ();
 extern "C" void thirdModule__ctor_m3104340124 ();
 extern "C" void thirdModule_toThirdModBtn_m2921471906 ();
 extern "C" void thirdModule_Update_m656854583 ();
@@ -23879,7 +23881,7 @@ extern "C" void BallUserControl__ctor_m1854748185 ();
 extern "C" void BallUserControl_Awake_m4216224384 ();
 extern "C" void BallUserControl_Update_m1471660078 ();
 extern "C" void BallUserControl_FixedUpdate_m1908019444 ();
-extern const Il2CppMethodPointer g_MethodPointers[23862] = 
+extern const Il2CppMethodPointer g_MethodPointers[23864] = 
 {
 	Locale_GetText_m1954433032,
 	Locale_GetText_m2553164138,
@@ -46710,7 +46712,9 @@ extern const Il2CppMethodPointer g_MethodPointers[23862] =
 	thirdmod__ctor_m3492726194,
 	thirdmod_turnOnCoal_m3284482871,
 	thirdmod_turnOnGas_m2003847463,
-	thirdmod_turnOnClean_m4057066279,
+	thirdmod_turnOnAll_m1183722407,
+	thirdmod_turnOnCleanText_m1376071330,
+	thirdmod_hideAllModels_m3208811679,
 	thirdModule__ctor_m3104340124,
 	thirdModule_toThirdModBtn_m2921471906,
 	thirdModule_Update_m656854583,
