@@ -1596,6 +1596,8 @@ GameObject:
   - component: {fileID: 1932640853}
   - component: {fileID: 1932640852}
   - component: {fileID: 1932640851}
+  - component: {fileID: 1932640856}
+  - component: {fileID: 1932640857}
   m_Layer: 0
   m_Name: Trash Can
   m_TagString: Untagged
@@ -1631,7 +1633,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 1
   m_Interpolate: 0
-  m_Constraints: 126
+  m_Constraints: 110
   m_CollisionDetection: 0
 --- !u!64 &1932640852
 MeshCollider:
@@ -1662,7 +1664,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: ac5a12e4e0976495990986da15d2309e, type: 2}
+  - {fileID: 2100000, guid: d47733814d72243f483166ce654a65ab, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1690,6 +1692,32 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1932640849}
   m_Mesh: {fileID: 4300000, guid: 9c5ffdba2d3f54214822ccc719923623, type: 3}
+--- !u!114 &1932640856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1932640849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 945bb60e97afa4e2cb244394ce59dc9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!111 &1932640857
+Animation:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1932640849}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: df76d268c816940d8a7e2e8f80087810, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: df76d268c816940d8a7e2e8f80087810, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 1
 --- !u!1 &1967103989
 GameObject:
   m_ObjectHideFlags: 0
@@ -1786,7 +1814,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2147158073}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.48, y: 7, z: 4.28}
+  m_LocalPosition: {x: -0.48, y: 16.04, z: 4.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1967328786}
