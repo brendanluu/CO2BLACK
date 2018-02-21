@@ -1,4 +1,5 @@
 sceneSetups:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/_Scenes/third-UI.unity
 =======
@@ -34,5 +35,8 @@ sceneSetups:
 >>>>>>> Stashed changes
 >>>>>>> 738b194828e409450b1931b1d04ca340a8566026
 >>>>>>> 6c0af396c68e5799f73852d365bc4554a846b8c5
+=======
+- path: Assets/_Scenes/master 1.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
