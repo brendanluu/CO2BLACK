@@ -16,10 +16,7 @@ public class thirdmod : MonoBehaviour {
 
 	public GameObject getClean;
 
-	public GameObject laptop;
-	public GameObject screen1;
-	public GameObject screen2;
-
+	public GameObject laptopFirstStep;
 
 //	show coal model
 	public void turnOnCoal() {
@@ -55,22 +52,8 @@ public class thirdmod : MonoBehaviour {
 		coal.SetActive (false);
 		gas.SetActive (false);
 		clean.SetActive (false);
-		laptop.SetActive (true);
-		screen1.SetActive (true);
+		laptopFirstStep.SetActive (true);
 	}
-
-	void HitByRayThird () {
-		Debug.Log ("I was hit by a Ray");
-		if (laptop.activeInHierarchy) {
-			screen1.SetActive (false);
-			screen2.SetActive (true);
-
-			}
-
-
-	}
-
-
 
 
 }
