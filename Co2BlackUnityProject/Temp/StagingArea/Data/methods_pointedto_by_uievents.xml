@@ -1,0 +1,29 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="lampBtnsNOTRANS">
+			<method name="BuildingFactTopBtn"/>
+			<method name="dontForgetBtn"/>
+			<method name="BuildingFactBotBtn"/>
+		</type>
+		<type fullname="thirdModule">
+			<method name="toThirdModBtn"/>
+		</type>
+		<type fullname="ignoreCollision">
+			<method name="foamTapAway"/>
+			<method name="trashTapAway"/>
+		</type>
+		<type fullname="detectCollision">
+			<method name="bottleTapAway"/>
+			<method name="sodaTapAway"/>
+			<method name="boxTapAway"/>
+		</type>
+		<type fullname="secondModule">
+			<method name="toSecondModBtn"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>
