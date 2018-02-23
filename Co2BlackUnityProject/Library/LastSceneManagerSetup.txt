@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/smokeyintro.unity
+=======
+- path: Assets/_Scenes/negativeFeedbackRusso.unity
+>>>>>>> 021953914d47656756c2edb357c058de4024d5c3
   isLoaded: 1
   isActive: 1
