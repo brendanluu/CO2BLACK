@@ -1478,8 +1478,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 211894539}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 580.5, y: 387, z: 0}
-  m_LocalScale: {x: 0.87031484, y: 0.87031484, z: 0.87031484}
+  m_LocalPosition: {x: 686, y: 386, z: 0}
+  m_LocalScale: {x: 1.0284858, y: 1.0284858, z: 1.0284858}
   m_Children:
   - {fileID: 185645755}
   - {fileID: 2108235057}
@@ -7038,7 +7038,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &664478744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7052,7 +7052,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scale: 1.17
   intensity: 0.6
-  alpha: 0.22
+  alpha: 0.2
   alphasub: 0.05
   pow: 0.6
   color: {r: 0.022058845, g: 0.022058845, b: 0.022058845, a: 1}
@@ -7171,7 +7171,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -182659813
+  randomSeed: -1795148761
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -11239,7 +11239,7 @@ MonoBehaviour:
   Screen1: {fileID: 211894539}
   Screen3: {fileID: 108343721}
   Screen2: {fileID: 133212496}
-  smoke: {fileID: 700444161}
+  smoke: {fileID: 664478743}
 --- !u!1 &883605932
 GameObject:
   m_ObjectHideFlags: 0
@@ -13009,7 +13009,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1427142875}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: f56f0869e25654f7592b677e3bbfa956, type: 2}
   m_CullingMode: 0
@@ -13339,7 +13339,7 @@ MonoBehaviour:
   Screen1: {fileID: 211894539}
   Screen3: {fileID: 108343721}
   Screen2: {fileID: 133212496}
-  smoke: {fileID: 700444161}
+  smoke: {fileID: 664478743}
 --- !u!1 &1504703808
 GameObject:
   m_ObjectHideFlags: 0
