@@ -396,4 +396,4 @@ fb030d7303ad0b522ef24e0e3d62d83e Assembly-CSharp.dll:.firstBuilding_secondBuildi
 9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtnsNOTRANS
 b223e0bd892d4820d7514e05905f8534 Assembly-CSharp.dll:.secondBuilding_dontForget
 2da8e8ffac115f877eb464df95e3df04 Assembly-CSharp.dll:.dontForget_turnOff
-c02eddd04e58a423f3366e8cb7de705a Assembly-CSharp.dll:.thirdmod
+528b9caef64d77473d0dbb6e01398cb6 Assembly-CSharp.dll:.thirdmod

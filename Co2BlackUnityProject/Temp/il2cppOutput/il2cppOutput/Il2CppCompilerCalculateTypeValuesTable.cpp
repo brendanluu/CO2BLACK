@@ -2379,7 +2379,7 @@ extern const int32_t g_FieldOffsetTable3463[3];
 extern const int32_t g_FieldOffsetTable3465[4];
 extern const int32_t g_FieldOffsetTable3466[1];
 extern const int32_t g_FieldOffsetTable3468[12];
-extern const int32_t g_FieldOffsetTable3469[10];
+extern const int32_t g_FieldOffsetTable3469[12];
 extern const int32_t g_FieldOffsetTable3470[7];
 extern const int32_t g_FieldOffsetTable3471[2];
 extern const int32_t g_FieldOffsetTable3472[4];
