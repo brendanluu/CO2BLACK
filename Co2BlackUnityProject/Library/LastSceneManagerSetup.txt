@@ -1,38 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/_Scenes/third-UI.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/3rdmodule.unity
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-- path: Assets/_Scenes/master 1.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/master_tapanywhere_less.unity
-=======
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-- path: Assets/_Scenes/master 1.unity
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-- path: Assets/_Scenes/master_tapanywhere.unity
-=======
-- path: Assets/_Scenes/3rdmodule.unity
->>>>>>> 13c9731ff78360438cca51ddfc109d54ea24b096
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
->>>>>>> e5137154414a08de92786600098edcd96c800343
->>>>>>> 332e2374e0ef10f226a3b421829e1cc6c2cdb25b
-=======
-- path: Assets/_Scenes/negativeFeedbackRusso.unity
->>>>>>> Stashed changes
->>>>>>> 738b194828e409450b1931b1d04ca340a8566026
->>>>>>> 6c0af396c68e5799f73852d365bc4554a846b8c5
+- path: Assets/_Scenes/WiegmanRussoContrast.unity
   isLoaded: 1
   isActive: 1
