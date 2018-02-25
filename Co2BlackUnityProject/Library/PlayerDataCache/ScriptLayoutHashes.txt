@@ -18,6 +18,7 @@ iOS
 f1309a5f5eb45591b72443077029bd22 Assembly-CSharp.dll:.OnClickExample
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.SampleInfo
 609883ba9b3462e00c79080cdb51d119 Assembly-CSharp-firstpass.dll:.iTween
+9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtnsNOTRANS
 516e5cc4558edc3eaf07fa540ce485bf Assembly-CSharp.dll:.ColorPickerTester
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.EventSystemChecker
 2b3291da89200462b2545a02cbc12439 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.VectorTileFactory
@@ -167,7 +168,11 @@ e97ff9540a49b92b779792c195839d33 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 5a90eb2925b8ecd079577e09e9511e24 Assembly-CSharp.dll:.FactHit2
 5511a49b5104d2e14b66af50a17125f0 Assembly-CSharp.dll:.ParticlePainter
 e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.TerrainFactory
+<<<<<<< HEAD
 528b9caef64d77473d0dbb6e01398cb6 Assembly-CSharp.dll:.thirdmod
+=======
+cdacd17d349023e814bb8917754c8cb6 Assembly-CSharp.dll:.thirdmod
+>>>>>>> c7f62d095ba2d8136645833037ebc04d68384516
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
 e7254d36d3c5c5a1dd5030dd341fe88f Assembly-CSharp.dll:.ignoreCollision
 e353101906474689643fc3c6d0a3ba4a Assembly-CSharp.dll:.ColorPicker
@@ -237,6 +242,7 @@ f4b175ffc1eeca85d2783436b4c764a7 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 2e2a7bd47042749813855cedf111f699 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARGeneratePlane
 ab32795e4d805b58f47e2b98596aa658 Assembly-CSharp.dll:Mapbox.Unity.Map.RangeTileProvider
 2df6ade470ca34f0868762f59e662a43 Assembly-CSharp.dll:UnityEngine.XR.iOS.TrashARHitTest
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.changeTrashColor
 33a85b2ae614bca5faddeff171651e7f Assembly-CSharp.dll:Mapbox.Unity.Location.DeviceLocationProvider
 48b4f2bb90cadfa8931f7d8baac4245e Assembly-CSharp.dll:.ColorSlider
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.MapAtSpecificLocation
@@ -395,6 +401,10 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
+<<<<<<< HEAD
 157733efb499ebfc3f9d4c0a7e30e795 Assembly-CSharp.dll:.changeTrashColor
 9634141a1c3e0dcf5f4fc19543976f14 Assembly-CSharp.dll:.lampBtnsNOTRANS
 4d5ee507d596d0350f5cfc0884c9d13c Assembly-CSharp.dll:.co2Controller
+=======
+bd6033aaf8629b369daba81b997022e7 Assembly-CSharp.dll:.laptopHit
+>>>>>>> c7f62d095ba2d8136645833037ebc04d68384516
