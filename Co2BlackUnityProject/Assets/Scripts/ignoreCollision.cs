@@ -8,8 +8,12 @@ public class ignoreCollision : MonoBehaviour {
 	public Transform goodTrash2;
 	public Transform goodTrash3;
 
+//	public GameObject bigBlocker;
+//	Collider bigBlockCollider;
+//	bigBlockerCollider = bigBlocker.getComponent<Collider>()
+
 	void Start() {
-//		Transform bullet = Instantiate(bulletPrefab) as Transform;
+
 		Physics.IgnoreCollision(goodTrash.GetComponent<Collider>(), GetComponent<Collider>());
 		Physics.IgnoreCollision(goodTrash2.GetComponent<Collider>(), GetComponent<Collider>());
 		Physics.IgnoreCollision(goodTrash3.GetComponent<Collider>(), GetComponent<Collider>());
@@ -19,10 +23,13 @@ public class ignoreCollision : MonoBehaviour {
 	public GameObject trashDialogue;
 	public GameObject foamDialogue;
 
-	void OnTriggerEnter(Collider col){
+	void OnTriggerEnter(Collision col){
+		
+
 
 
 		if (col.gameObject.name == "trashbag"){
+			Debug.Log ("AHhhhhhhhhhhHHHHHHHHHhhhhhhhhhhhHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHHHH");
 
 			trashDialogue.SetActive (true);
 			foamDialogue.SetActive (false);
@@ -30,12 +37,16 @@ public class ignoreCollision : MonoBehaviour {
 		}
 
 		if (col.gameObject.name == "foam cup"){
+			Debug.Log ("AHhhhhhhhhhhHHHHHHHHHhhhhhhhhhhhHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHHHH");
 			
 
 			trashDialogue.SetActive (false);
 			foamDialogue.SetActive (true);
 
 		}
+
+
+
 
 	}
 
@@ -46,5 +57,9 @@ public class ignoreCollision : MonoBehaviour {
 	public void foamTapAway() {
 		foamDialogue.SetActive (false);
 	}
+
+
+
+
 
 }
