@@ -4,19 +4,20 @@ using UnityEngine;
 
 public class badCollision : MonoBehaviour {
 
-
-
-		
-
+	
 	private bool hasCollide = false;
+
+	
+
 	void OnCollisionEnter(Collision collision)
 	{
 		if (collision.gameObject.name == "Trash Can" && !hasCollide){
 
-
 			Handheld.Vibrate();
 			hasCollide = true;
 			StartCoroutine(MyCoroutine());
+			
+			
 
 		}
 

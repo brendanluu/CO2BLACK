@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44981855, g: 0.49988562, b: 0.5755972, a: 1}
+  m_IndirectSpecularColor: {r: 0.44981843, g: 0.49988526, b: 0.5755968, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -673,8 +673,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 70803800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 667, y: 375, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1532, y: 773, z: 0}
+  m_LocalScale: {x: 2.2968516, y: 2.2968516, z: 2.2968516}
   m_Children:
   - {fileID: 761996838}
   - {fileID: 1669714007}
@@ -832,7 +832,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 94576009}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bf1fcb3b8720493187c9d6e2332de4f, type: 3}
+  m_Script: {fileID: 11500000, guid: b6a13781c731248518e73034ea5c73e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   BuildingFactTop: {fileID: 94576009}
@@ -1020,7 +1020,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 113310975}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 565, y: -198, z: 0}
+  m_LocalPosition: {x: 565, y: -159.54764, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1027310525}
@@ -1318,7 +1318,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 161094343}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bf1fcb3b8720493187c9d6e2332de4f, type: 3}
+  m_Script: {fileID: 11500000, guid: b6a13781c731248518e73034ea5c73e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   BuildingFactTop: {fileID: 94576009}
@@ -9800,7 +9800,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1306258099}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 571, y: -282, z: 0}
+  m_LocalPosition: {x: 571, y: -243.54764, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1486112636}
@@ -10727,7 +10727,7 @@ Prefab:
       objectReference: {fileID: 9100000, guid: e87c50ed46c024d13afd6f32ed69a6eb, type: 2}
     - target: {fileID: 100000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: db28a511ae2a449768cdc77ac5d4172c, type: 3}
       propertyPath: m_LocalScale.x
@@ -12570,7 +12570,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2011183834}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bf1fcb3b8720493187c9d6e2332de4f, type: 3}
+  m_Script: {fileID: 11500000, guid: b6a13781c731248518e73034ea5c73e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   BuildingFactTop: {fileID: 94576009}

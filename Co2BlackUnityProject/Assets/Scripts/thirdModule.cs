@@ -7,6 +7,7 @@ public class thirdModule : MonoBehaviour {
 	public GameObject secondModuleGroup;
 	public GameObject toThirdMod;
 	public GameObject thirdModuleGroup;
+	public GameObject thirdUI;
 
 	public GameObject lampModel;
 	public GameObject lampStand;
@@ -28,6 +29,8 @@ public class thirdModule : MonoBehaviour {
 
 		//show third module
 		thirdModuleGroup.SetActive (true);
+		thirdUI.SetActive (true);
+
 
 	}
 
