@@ -23,32 +23,32 @@ public class ignoreCollision : MonoBehaviour {
 	public GameObject trashDialogue;
 	public GameObject foamDialogue;
 
-	void OnTriggerEnter(Collision col){
+	// void OnTriggerEnter(Collision col){
 		
 
 
 
-		if (col.gameObject.name == "trashbag"){
-			Debug.Log ("AHhhhhhhhhhhHHHHHHHHHhhhhhhhhhhhHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHHHH");
+	// 	if (col.gameObject.name == "trashbag"){
+	// 		Debug.Log ("AHhhhhhhhhhhHHHHHHHHHhhhhhhhhhhhHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHHHH");
 
-			trashDialogue.SetActive (true);
-			foamDialogue.SetActive (false);
+	// 		trashDialogue.SetActive (true);
+	// 		foamDialogue.SetActive (false);
 
-		}
+	// 	}
 
-		if (col.gameObject.name == "foam cup"){
-			Debug.Log ("AHhhhhhhhhhhHHHHHHHHHhhhhhhhhhhhHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHHHH");
+	// 	if (col.gameObject.name == "foam cup"){
+	// 		Debug.Log ("AHhhhhhhhhhhHHHHHHHHHhhhhhhhhhhhHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHHHH");
 			
 
-			trashDialogue.SetActive (false);
-			foamDialogue.SetActive (true);
+	// 		trashDialogue.SetActive (false);
+	// 		foamDialogue.SetActive (true);
 
-		}
-
-
+	// 	}
 
 
-	}
+
+
+	// }
 
 	public void trashTapAway() {
 		trashDialogue.SetActive (false);

@@ -14,10 +14,13 @@ public class firstModule : MonoBehaviour {
 	public GameObject lampShade;
 	public Material lampShadeMat;
 	public GameObject buildingFactTop;
+	public GameObject buildingFactTop_trans;
 	public GameObject pointer;
 
 	//third screen 
 	public GameObject buildingFactBot;
+
+
 
 	//fourth screen
 	public GameObject dontForget;
@@ -57,6 +60,7 @@ public class firstModule : MonoBehaviour {
 			cflBulb.SetActive (true);
 
 			buildingFactTop.SetActive (true);
+			buildingFactTop_trans.SetActive(true);
 			pointer.SetActive (true);
 		
 			smokeHigh.SetFloat ("_Alpha", 0.15f);

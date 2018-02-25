@@ -10,6 +10,7 @@ public class co2Controller : MonoBehaviour {
 	public GameObject BuildingFactTop_Trans;
 	public GameObject BuildingFactBot_Trans;
 	public GameObject BuildingFactBot;
+	public GameObject lampNew;
 
 	public void BuildingTop_BuildingBot () {
 
@@ -17,6 +18,7 @@ public class co2Controller : MonoBehaviour {
 		BuildingFactTop_Trans.SetActive (false);
 		BuildingFactBot_Trans.SetActive (true);
 		BuildingFactBot.SetActive (true);
+		
 	}
 
 // Second Building Fact to dontForget Fact
@@ -33,11 +35,14 @@ public class co2Controller : MonoBehaviour {
 
 // dontForget Fact to TurnOff Dialogue
 	public GameObject turnOff;
+	public GameObject findFlatText;
 
 	public void DontForget_TurnOff () {
 		dontForgetTrans.SetActive (false);
 		dontForget.SetActive (false);
 		turnOff.SetActive (true);
+		findFlatText.SetActive (false);
+	
 	}
 
 // SECOND MODULE //
