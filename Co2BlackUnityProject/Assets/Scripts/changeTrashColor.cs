@@ -10,8 +10,26 @@ public class changeTrashColor : MonoBehaviour {
 
 			
 			GetComponent<Animation>().Play();
-			Debug.Log("yolo");
+
 			
+
+		}
+
+		if (collision.gameObject.name == "trashbag"){
+
+
+
+
+
+
+		}
+
+		if (collision.gameObject.name == "box"){
+
+
+
+
+
 
 		}
 
