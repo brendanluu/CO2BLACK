@@ -6,6 +6,7 @@ TagManager:
   tags:
   - goodTrash
   - badTrash
+  - laptop
   layers:
   - Default
   - TransparentFX
