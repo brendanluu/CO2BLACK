@@ -17,6 +17,8 @@ public class thirdmod : MonoBehaviour {
 	public GameObject getClean;
 
 	public GameObject laptopFirstStep;
+	public GameObject laptop;
+	public GameObject table;
 
 //	show coal model
 	public void turnOnCoal() {
@@ -52,7 +54,9 @@ public class thirdmod : MonoBehaviour {
 		coal.SetActive (false);
 		gas.SetActive (false);
 		clean.SetActive (false);
-		laptopFirstStep.SetActive (true);
+		laptop.SetActive (true);
+		table.SetActive (true);
+		Debug.Log("boiiiii");
 	}
 
 
