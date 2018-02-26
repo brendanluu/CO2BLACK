@@ -15,11 +15,29 @@ public class changeTrashColor : MonoBehaviour {
 		public GameObject sodaDialogue;
 		public GameObject sodaDialogue_trans;
 
+		public GameObject nextTrash;
+
+		private int rejectionsCount;
+		public bool twoRejections = false;
+		
+		
+
 	void OnCollisionEnter(Collision collision)
 	{
 		if (collision.gameObject.name == "trashbag" || collision.gameObject.name == "foam cup"){
 
 			GetComponent<Animation>().Play();
+
+			rejectionsCount++;
+			if(rejectionsCount > 1){
+				twoRejections = true;
+
+				nextTrash.SetActive (true);
+
+			}
+
+
+
 
 		}
 
