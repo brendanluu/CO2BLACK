@@ -36,6 +36,7 @@ namespace UnityEngine.XR.iOS
 				replaceBulb.SetActive (true);
 				BlueFocusSquare.SetActive (false);
 
+
 				FocusedSquare.SetActive (false);
 				Destroy (FocusedSquare);
 				Destroy (TapToText);

@@ -68,6 +68,7 @@ public class FocusSquare : MonoBehaviour {
 
 		if (squareState == FocusState.Found) {
 			Debug.Log ("Focus State is Found");
+
 		}   else {
 			Debug.Log ("No Focus State is Found");
 		}
