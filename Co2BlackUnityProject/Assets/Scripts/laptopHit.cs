@@ -48,7 +48,7 @@ public class laptopHit : MonoBehaviour {
 						screen1.SetActive (false);
 						screen2.SetActive (true);
                     }
-					if (screen2.activeInHierarchy && hit.transform.gameObject.tag == "laptop"){
+					if (fingerCount > 2 && screen2.activeInHierarchy){
 						laptopSelect = hit.transform.gameObject;
 //						Destroy(laptopSelect);
 						screen2.SetActive (false);
@@ -60,6 +60,13 @@ public class laptopHit : MonoBehaviour {
 
 		
 		}
+
+//		if (screen2.activeInHierarchy && hit.transform.gameObject.tag == "laptop"){
+//			laptopSelect = hit.transform.gameObject;
+//			//						Destroy(laptopSelect);
+//			screen2.SetActive (false);
+//			screen3.SetActive (true);
+//		}
 //		if (Input.touchCount > 1) {
 //
 //			Touch touch = Input.GetTouch (0);
