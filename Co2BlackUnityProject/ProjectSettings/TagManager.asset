@@ -7,6 +7,9 @@ TagManager:
   - goodTrash
   - badTrash
   - laptop
+  - screen1
+  - screen2
+  - screen3
   layers:
   - Default
   - TransparentFX

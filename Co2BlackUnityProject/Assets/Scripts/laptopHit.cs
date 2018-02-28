@@ -12,6 +12,9 @@ public class laptopHit : MonoBehaviour {
 	public GameObject screen3;
 	//public GameObject bubblePrefab;
 	private static GameObject laptopSelect = null;
+	private static GameObject screenTwoSelect = null;
+
+//	private bool secondActive = false;
 
 
 
@@ -36,30 +39,34 @@ public class laptopHit : MonoBehaviour {
 
 			Touch touch = Input.GetTouch (0);
 			if (touch.phase == TouchPhase.Began  && !EventSystem.current.IsPointerOverGameObject(0)) {
-				fingerCount++;
+
 				Ray ray = Camera.main.ScreenPointToRay (touch.position);
 				RaycastHit hit;
 
 				if (Physics.Raycast (ray, out hit, 100)) {
 
                     if (hit.transform.gameObject.tag == "laptop"){
+						Debug.Log ("plz");
+
 						laptopSelect = hit.transform.gameObject;
-//						Destroy(laptopSelect);
 						screen1.SetActive (false);
 						screen2.SetActive (true);
+
                     }
-					if (fingerCount > 2 && screen2.activeInHierarchy){
-						laptopSelect = hit.transform.gameObject;
-//						Destroy(laptopSelect);
+
+
+					else if (hit.transform.gameObject.tag == "screen2"){
+						Debug.Log ("popp");
+						screenTwoSelect = hit.transform.gameObject;
 						screen2.SetActive (false);
 						screen3.SetActive (true);
 					}
 					
 				}
 			}
-
-		
 		}
+
+
 
 //		if (screen2.activeInHierarchy && hit.transform.gameObject.tag == "laptop"){
 //			laptopSelect = hit.transform.gameObject;
