@@ -24,10 +24,26 @@ public class learningLayerUp : MonoBehaviour {
 
 	public GameObject progBtn;
 
+	public GameObject secondBoxes;
+
+
+	public GameObject secondModuleGroup;
+	public GameObject toThirdMod;
+	public GameObject thirdModuleGroup;
+	public GameObject thirdUI;
+
+	public GameObject lampModel;
+	public GameObject lampStand;
+	public GameObject lampCFL;
+
+
+
+
 
 	// Use this for initialization
 	void Start () {
 		trashScript = trashCan.GetComponent<changeTrashColor> ();
+
 	}
 	
 	// Update is called once per frame
@@ -47,6 +63,7 @@ public class learningLayerUp : MonoBehaviour {
 			isLayerUp = true;
 			closeBtn.SetActive (true);
 			isBadgeUp = false;
+
 
 
 
@@ -76,6 +93,7 @@ public class learningLayerUp : MonoBehaviour {
 			trashLayer.GetComponent<Animation> ().Play ("layerDown");
 
 			closeBtn.SetActive (false);
+			secondBoxes.SetActive (true);
 
 
 
@@ -84,6 +102,7 @@ public class learningLayerUp : MonoBehaviour {
 			trashBadge.SetActive (false);
 			closeBtn.SetActive (false);
 			progBtn.SetActive (false);
+			secondBoxes.SetActive (true);
 		}
 
 
@@ -93,10 +112,33 @@ public class learningLayerUp : MonoBehaviour {
 		trashBadge.GetComponent<Animation> ().Play ("badgeOut");
 		progBtn.SetActive (false);
 		closeBtn.SetActive (false);
+		secondBoxes.SetActive (false);
+
+		Debug.Log ("Go to Third Mod Button Tapped");
+
+		//hide second module
+		secondModuleGroup.SetActive (false);
+
+
+
+
+
+		//show third module
+		thirdModuleGroup.SetActive (true);
+		thirdUI.SetActive (true);
+
 
 
 
 	}
+
+
+
+
+
+
+
+
 
 
 

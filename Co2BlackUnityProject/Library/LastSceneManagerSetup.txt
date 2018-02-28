@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/_Scenes/master5.unity
-=======
-- path: Assets/_Scenes/3rdmodule1.unity
->>>>>>> c7f62d095ba2d8136645833037ebc04d68384516
+- path: Assets/_Scenes/master6.unity
   isLoaded: 1
   isActive: 1
