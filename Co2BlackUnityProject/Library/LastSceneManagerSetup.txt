@@ -1,20 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/_Scenes/3rdmodule1.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/3rdmodule.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/WiegmanRussoContrast.unity
-=======
-<<<<<<< HEAD
-- path: Assets/_Scenes/smokeyintro.unity
-=======
-- path: Assets/_Scenes/negativeFeedbackRusso.unity
->>>>>>> 021953914d47656756c2edb357c058de4024d5c3
->>>>>>> f840e2e3e13b5847e4872296965e17ba628ecd53
->>>>>>> 65da0db929c38bdbe6ad99741ab8f7918315c22f
->>>>>>> bc88289b26053e62d58afc6113a97c1a3e6bb55a
+- path: Assets/_Scenes/skyboxred.unity
   isLoaded: 1
   isActive: 1
