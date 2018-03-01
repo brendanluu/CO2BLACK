@@ -10,7 +10,6 @@ public class IfAnchorAddedScript : MonoBehaviour {
 	public GameObject FindFlatSurfaceText;
 	public GameObject TapToPlaceText;
 	public GameObject ObjectFocusSquare;
-	public Material lampShade;
 
 
 	// Use this for initialization

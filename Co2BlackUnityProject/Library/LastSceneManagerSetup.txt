@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/skyboxred.unity
+=======
+- path: Assets/_Scenes/3rdmodule1.unity
+>>>>>>> f65b6b19fd89ca0a434acb6128bfa506fab9461c
   isLoaded: 1
   isActive: 1
