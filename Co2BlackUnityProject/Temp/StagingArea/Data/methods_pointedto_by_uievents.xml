@@ -1,0 +1,33 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="thirdModule">
+			<method name="toThirdModBtn"/>
+		</type>
+		<type fullname="co2Controller">
+			<method name="DontForget_TurnOff"/>
+			<method name="tapBottleDialogue_trans"/>
+			<method name="tapFoamDialogue_trans"/>
+			<method name="tapBoxDialogue_trans"/>
+			<method name="tapTrashDialogue_trans"/>
+			<method name="BuildingBot_DontForget"/>
+			<method name="BuildingBot_DontForget"/>
+			<method name="BuildingTop_BuildingBot"/>
+			<method name="DontForget_TurnOff"/>
+			<method name="tapSodaDialogue_trans"/>
+			<method name="BuildingTop_BuildingBot"/>
+		</type>
+		<type fullname="learningLayerUp">
+			<method name="goToThirdModule"/>
+			<method name="layerUp"/>
+			<method name="layerClose"/>
+		</type>
+		<type fullname="secondModule">
+			<method name="toSecondModBtn"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>

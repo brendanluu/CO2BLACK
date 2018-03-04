@@ -7,6 +7,7 @@ using UnityEngine.XR.iOS;
 public class RayHitLamp : MonoBehaviour {
 
 	private static GameObject lampObject;
+	public float findingSquareDist = 0.5f;
 //	private Vector3 fixedPos;
 //	private Vector3 moleculePosition;
 
@@ -20,6 +21,7 @@ public class RayHitLamp : MonoBehaviour {
 		//debug
 		Vector3 forward = transform.TransformDirection(Vector3.forward) * 10;
 		Debug.DrawRay(transform.position, forward, Color.green);
+		// Vector3 center = new Vector3(Screen.width/2, Screen.height/2, findingSquareDist);
 
 		if (Input.touchCount > 0) {
 			lampObject = null;

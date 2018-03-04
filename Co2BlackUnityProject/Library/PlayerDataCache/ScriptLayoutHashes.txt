@@ -361,7 +361,7 @@ a44800dea40844833d4608760184aee4 Assembly-CSharp.dll:.firstModule
 6ff378b4630d84f63e95fc3d2b45eaf7 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.TextureModifier
 3ab020542763dd872bb58dde7c918ece Assembly-CSharp.dll:.FadeAwayScript
 a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TouchPad
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RayHitLamp
+0071fe42a1c51ec51b96a55c5d475fd0 Assembly-CSharp.dll:.RayHitLamp
 03fadd777262cdaa131ac84a2e4aaa22 Assembly-CSharp.dll:Mapbox.Unity.Location.EditorLocationProvider
 b7f557c19cce3b6f593e26edfe1ec859 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Ball.Ball
 0ad469aca31264c6140b1e503c43ab6b Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectDestructor
