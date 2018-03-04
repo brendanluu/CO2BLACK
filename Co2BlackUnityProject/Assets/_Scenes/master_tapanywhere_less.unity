@@ -673,8 +673,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 70803800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 276, y: 586, z: 0}
-  m_LocalScale: {x: 0.41379312, y: 0.41379312, z: 0.41379312}
+  m_LocalPosition: {x: 860, y: 412, z: 0}
+  m_LocalScale: {x: 1.2893553, y: 1.2893553, z: 1.2893553}
   m_Children:
   - {fileID: 761996838}
   - {fileID: 1669714007}
@@ -1018,7 +1018,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 113310975}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 565, y: -1239.1666, z: 0}
+  m_LocalPosition: {x: 565, y: -142.53955, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1027310525}
@@ -1727,7 +1727,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &232248575
 Transform:
   m_ObjectHideFlags: 0
@@ -10303,7 +10303,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1306258099}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 571, y: -1323.1666, z: 0}
+  m_LocalPosition: {x: 571, y: -226.53955, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1486112636}
@@ -13068,6 +13068,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 945bb60e97afa4e2cb244394ce59dc9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  trashBagDialogue: {fileID: 0}
+  trashBagDialogue_trans: {fileID: 0}
+  boxDialogue: {fileID: 0}
+  boxDialogue_trans: {fileID: 0}
+  bottleDialogue: {fileID: 0}
+  bottleDialogue_trans: {fileID: 0}
+  foamCupDialogue: {fileID: 0}
+  foamCupDialogue_trans: {fileID: 0}
+  sodaDialogue: {fileID: 0}
+  sodaDialogue_trans: {fileID: 0}
 --- !u!111 &1932640856
 Animation:
   m_ObjectHideFlags: 0
