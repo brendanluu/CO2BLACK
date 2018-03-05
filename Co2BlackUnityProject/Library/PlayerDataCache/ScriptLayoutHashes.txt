@@ -114,7 +114,7 @@ c8786fa39097a1fd03ada84ffda1ed3b Assembly-CSharp.dll:.fallController
 ab06b6058fcbbcaa74a328639dc7d3e3 Assembly-CSharp.dll:Mapbox.Unity.Map.InitializeMapWithLocationProvider
 e81238197aa643d93e3d903c06302a67 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ColliderModifier
 f4386a940b0c945b42ba5098c696420b Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Filters.HeightFilter
-5785468d2f96b6ca4050e315282b32b0 Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
+80110d8df14b8c02d81212c31af040b8 Assembly-CSharp.dll:UnityEngine.XR.iOS.TeamARHitTest
 e3614d77c024e8379444f971096aaac4 Assembly-CSharp.dll:.UnityARCameraManager
 2da8e8ffac115f877eb464df95e3df04 Assembly-CSharp.dll:.dontForget_turnOff
 6c156248975c65e334daa4cbfba64bd1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectActivator
@@ -276,7 +276,7 @@ e4eb7ab1b14de91732c229d2e0e48391 Assembly-CSharp.dll:.collideScript
 e97ff9540a49b92b779792c195839d33 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.AfterburnerPhysicsForce
 5a90eb2925b8ecd079577e09e9511e24 Assembly-CSharp.dll:.FactHit2
 5511a49b5104d2e14b66af50a17125f0 Assembly-CSharp.dll:.ParticlePainter
-4d5ee507d596d0350f5cfc0884c9d13c Assembly-CSharp.dll:.co2Controller
+096d82be4c15ad52d37ce4f86ac8d70b Assembly-CSharp.dll:.co2Controller
 e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.TerrainFactory
 cdacd17d349023e814bb8917754c8cb6 Assembly-CSharp.dll:.thirdmod
 e2100106453ffa0f0485d9fa51b3b009 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
@@ -357,7 +357,7 @@ b15500bf1b76bbde5922a3b83fc39627 Assembly-CSharp.dll:Mapbox.Examples.Playground.
 1db2689b3233b29a96c693c2c074a142 Assembly-CSharp.dll:Mapbox.Unity.Map.DynamicZoomMapVisualizer
 c9576c6a51e2e71bc5caab85a96801e8 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.SmokeParticles
 db3b233e35a88802fed1717d19c3d9ec Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FollowTarget
-a44800dea40844833d4608760184aee4 Assembly-CSharp.dll:.firstModule
+d170419c917bf5c53ad4196d1f07ebb1 Assembly-CSharp.dll:.firstModule
 6ff378b4630d84f63e95fc3d2b45eaf7 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.TextureModifier
 3ab020542763dd872bb58dde7c918ece Assembly-CSharp.dll:.FadeAwayScript
 a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TouchPad

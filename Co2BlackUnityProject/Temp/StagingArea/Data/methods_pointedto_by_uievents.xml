@@ -9,12 +9,10 @@
 			<method name="tapFoamDialogue_trans"/>
 			<method name="tapBoxDialogue_trans"/>
 			<method name="tapTrashDialogue_trans"/>
-			<method name="BuildingBot_DontForget"/>
-			<method name="BuildingBot_DontForget"/>
-			<method name="BuildingTop_BuildingBot"/>
+			<method name="BuildingFact_ReplaceBulb"/>
 			<method name="DontForget_TurnOff"/>
 			<method name="tapSodaDialogue_trans"/>
-			<method name="BuildingTop_BuildingBot"/>
+			<method name="BuildingFact_ReplaceBulb"/>
 		</type>
 		<type fullname="learningLayerUp">
 			<method name="goToThirdModule"/>
@@ -23,11 +21,6 @@
 		</type>
 		<type fullname="secondModule">
 			<method name="toSecondModBtn"/>
-		</type>
-	</assembly>
-	<assembly fullname="UnityEngine">
-		<type fullname="UnityEngine.Animator">
-			<method name="Play"/>
 		</type>
 	</assembly>
 </linker>
