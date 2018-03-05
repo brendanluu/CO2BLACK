@@ -24,5 +24,10 @@ EditorBuildSettings:
     path: Assets/_Scenes/master5.unity
     guid: d8b3b71bfeb2f464095ec6d015cf8fd3
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/_Scenes/master6.unity
     guid: 067f31bcf3f6d4a448d53cfe48c7a8d8
+=======
+    path: Assets/_Scenes/master7.unity
+    guid: 2576b53a21822421baf6fcbe9641a031
+>>>>>>> Stashed changes

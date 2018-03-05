@@ -86,6 +86,13 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Animator_INTERNAL_get_deltaPosition();
 		Register_UnityEngine_Animator_INTERNAL_get_deltaPosition();
 
+<<<<<<< Updated upstream
+=======
+		//System.Void UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)
+		void Register_UnityEngine_Animator_Play();
+		Register_UnityEngine_Animator_Play();
+
+>>>>>>> Stashed changes
 		//System.Void UnityEngine.Animator::ResetTriggerString(System.String)
 		void Register_UnityEngine_Animator_ResetTriggerString();
 		Register_UnityEngine_Animator_ResetTriggerString();

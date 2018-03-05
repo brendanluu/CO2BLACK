@@ -375,12 +375,12 @@ f4b175ffc1eeca85d2783436b4c764a7 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 2e2a7bd47042749813855cedf111f699 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARGeneratePlane
 ab32795e4d805b58f47e2b98596aa658 Assembly-CSharp.dll:Mapbox.Unity.Map.RangeTileProvider
 2df6ade470ca34f0868762f59e662a43 Assembly-CSharp.dll:UnityEngine.XR.iOS.TrashARHitTest
-4deffafa98f82555ff70fdb111c52b41 Assembly-CSharp.dll:.changeTrashColor
+5f18402a9ea9258ec1aea34260690f16 Assembly-CSharp.dll:.changeTrashColor
 33a85b2ae614bca5faddeff171651e7f Assembly-CSharp.dll:Mapbox.Unity.Location.DeviceLocationProvider
 48b4f2bb90cadfa8931f7d8baac4245e Assembly-CSharp.dll:.ColorSlider
 ae9dce8d90505348dcfb3009a17849b5 Assembly-CSharp.dll:Mapbox.Unity.Map.MapAtSpecificLocation
 48aac773de77753c007e6b8e5fa95d61 Assembly-CSharp.dll:.ColorPresets
-120ed61e42216a8607a058ee4c4b0e2a Assembly-CSharp.dll:.Move2
+38518b81a1759e3989984248b07256dd Assembly-CSharp.dll:.Move2
 c93728c2de7be1bdc64a28d1233525e7 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.SnapTerrainRaycastModifier
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.sceneChange
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
