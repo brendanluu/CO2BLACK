@@ -7064,7 +7064,7 @@ MonoBehaviour:
   buildingFact: {fileID: 1063221362}
   buildingFact_trans: {fileID: 1825204489}
   cflBulb: {fileID: 958016284}
-  cflTrans: {fileID: 1435905793}
+  replaceBulb: {fileID: 1104974975}
   lampNewCollider: {fileID: 1594088740}
   lampShade: {fileID: 2100000, guid: dc1597777e1ce499d99ce51b2d48ab5b, type: 2}
 --- !u!95 &1019435500
