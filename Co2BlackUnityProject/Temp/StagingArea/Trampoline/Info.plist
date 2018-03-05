@@ -4,7 +4,11 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>
+<<<<<<< Updated upstream
     <string>lampScene</string>
+=======
+    <string>CO2 Black</string>
+>>>>>>> Stashed changes
     <key>CFBundleExecutable</key>
     <string>${EXECUTABLE_NAME}</string>
     <key>CFBundleIconFiles</key>
@@ -18,7 +22,11 @@
       <string>AppIcon76x76~ipad.png</string>
     </array>
     <key>CFBundleIdentifier</key>
+<<<<<<< Updated upstream
     <string>com.culp.${PRODUCT_NAME}</string>
+=======
+    <string>com.marty.${PRODUCT_NAME}</string>
+>>>>>>> Stashed changes
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>

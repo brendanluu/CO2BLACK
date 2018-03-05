@@ -22,8 +22,13 @@
 
 
 
+<<<<<<< Updated upstream
 #ifndef U3CMODULEU3E_T604819509_H
 #define U3CMODULEU3E_T604819509_H
+=======
+#ifndef U3CMODULEU3E_T407905634_H
+#define U3CMODULEU3E_T407905634_H
+>>>>>>> Stashed changes
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -31,7 +36,11 @@
 #endif
 
 // <Module>
+<<<<<<< Updated upstream
 struct  U3CModuleU3E_t604819509 
+=======
+struct  U3CModuleU3E_t407905634 
+>>>>>>> Stashed changes
 {
 public:
 
@@ -41,7 +50,11 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
+<<<<<<< Updated upstream
 #endif // U3CMODULEU3E_T604819509_H
+=======
+#endif // U3CMODULEU3E_T407905634_H
+>>>>>>> Stashed changes
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__

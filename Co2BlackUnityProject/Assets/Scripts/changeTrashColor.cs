@@ -17,29 +17,52 @@ public class changeTrashColor : MonoBehaviour {
 
 		public GameObject nextTrash;
 
-		private int rejectionsCount;
+		private int interactionCount;
 		public bool twoRejections = false;
+
+		public bool trashOk = true;
+		
+		public bool trashHasCollided = false;
+		public bool trashCanRun = true;
+
+		public bool foamHasCollided = false;
+		public bool foamCanRun = true;
+
+		public bool bottleHasCollided = false;
+		public bool bottleCanRun = true;
+
+		public bool boxHasCollided = false;
+		public bool boxCanRun = true;
+
+		public bool sodaHasCollided = false;
+		public bool sodaCanRun = true;
+
+
 		
 		
 
 	void OnCollisionEnter(Collision collision)
-	{
-		if (collision.gameObject.name == "trashbag" || collision.gameObject.name == "foam cup"){
+	{	
+
+		if(interactionCount > 2){
+		
+			nextTrash.SetActive (true);
+		
+		}
+
+
+		if ((collision.gameObject.name == "trashbag" || collision.gameObject.name == "foam cup") && trashOk){
 
 			GetComponent<Animation>().Play();
-
-			rejectionsCount++;
-			if(rejectionsCount > 1){
-				twoRejections = true;
-
-				nextTrash.SetActive (true);
-
-			}
-
-
-
-
+			StartCoroutine(negativeCoroutine());
+			trashOk = false;
 		}
+
+
+
+
+
+
 
 		if (collision.gameObject.name == "trashbag"){
 
@@ -57,6 +80,15 @@ public class changeTrashColor : MonoBehaviour {
 			
 			sodaDialogue.SetActive(false);
 			sodaDialogue_trans.SetActive(false);
+
+			trashCanRun = false;
+			StartCoroutine(trashCoroutine());
+
+			if (!trashHasCollided) {
+				trashHasCollided = true;
+				interactionCount++;
+
+			}
 		}
 
 		if (collision.gameObject.name == "box"){
@@ -75,6 +107,15 @@ public class changeTrashColor : MonoBehaviour {
 			
 			sodaDialogue.SetActive(false);
 			sodaDialogue_trans.SetActive(false);
+
+			boxCanRun = false;
+			StartCoroutine(boxCoroutine());
+
+			if (!boxHasCollided) {
+				boxHasCollided = true;
+				interactionCount++;
+
+			}
 
 		}
 
@@ -96,6 +137,15 @@ public class changeTrashColor : MonoBehaviour {
 			sodaDialogue.SetActive(false);
 			sodaDialogue_trans.SetActive(false);
 
+			bottleCanRun = false;
+			StartCoroutine(bottleCoroutine());
+
+			if (!bottleHasCollided) {
+				bottleHasCollided = true;
+				interactionCount++;
+
+			}
+
 		}
 
 		if (collision.gameObject.name == "foam cup"){
@@ -114,6 +164,15 @@ public class changeTrashColor : MonoBehaviour {
 			
 			sodaDialogue.SetActive(false);
 			sodaDialogue_trans.SetActive(false);
+
+			foamCanRun = false;
+			StartCoroutine(foamCoroutine());
+
+			if (!foamHasCollided) {
+				foamHasCollided = true;
+				interactionCount++;
+
+			}
 
 		}
 
@@ -134,8 +193,62 @@ public class changeTrashColor : MonoBehaviour {
 			sodaDialogue.SetActive(true);
 			sodaDialogue_trans.SetActive(true);
 
+			sodaCanRun = false;
+			StartCoroutine(sodaCoroutine());
+
+			if (!sodaHasCollided) {
+				sodaHasCollided = true;
+				interactionCount++;
+
+			}
+
 
 		}
 
 	}
+
+
+	IEnumerator negativeCoroutine()
+	{
+		//disable the desired script here
+		yield return new WaitForSeconds(1.5F);
+		trashOk = true;
+	}
+
+	IEnumerator trashCoroutine()
+	{
+		//disable the desired script here
+		yield return new WaitForSeconds(1.0F);
+		trashCanRun = true;
+	}
+
+	IEnumerator boxCoroutine()
+	{
+		//disable the desired script here
+		yield return new WaitForSeconds(1.0F);
+		boxCanRun = true;
+	}
+
+	IEnumerator sodaCoroutine()
+	{
+		//disable the desired script here
+		yield return new WaitForSeconds(1.0F);
+		sodaCanRun = true;
+	}
+
+	IEnumerator bottleCoroutine()
+	{
+		//disable the desired script here
+		yield return new WaitForSeconds(1.0F);
+		bottleCanRun = true;
+	}
+
+	IEnumerator foamCoroutine()
+	{
+		//disable the desired script here
+		yield return new WaitForSeconds(1.0F);
+		foamCanRun = true;
+	}
+
+
 }
