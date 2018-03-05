@@ -2278,8 +2278,12 @@ extern "C"  void Animator_SetTriggerString_m598103909 (Animator_t69676727 * __th
 extern "C"  void Animator_ResetTriggerString_m946167554 (Animator_t69676727 * __this, String_t* ___name0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Animator::INTERNAL_get_deltaPosition(UnityEngine.Vector3&)
 extern "C"  void Animator_INTERNAL_get_deltaPosition_m3275684743 (Animator_t69676727 * __this, Vector3_t2243707580 * ___value0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Animator::Play(System.String,System.Int32,System.Single)
+extern "C"  void Animator_Play_m1706432228 (Animator_t69676727 * __this, String_t* ___stateName0, int32_t ___layer1, float ___normalizedTime2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.Animator::StringToHash(System.String)
 extern "C"  int32_t Animator_StringToHash_m1845745834 (RuntimeObject * __this /* static, unused */, String_t* ___name0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
+// System.Void UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)
+extern "C"  void Animator_Play_m1244626253 (Animator_t69676727 * __this, int32_t ___stateNameHash0, int32_t ___layer1, float ___normalizedTime2, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.AnimatorStateInfo::IsName(System.String)
 extern "C"  bool AnimatorStateInfo_IsName_m1591389294 (AnimatorStateInfo_t2577870592 * __this, String_t* ___name0, const RuntimeMethod* method) IL2CPP_METHOD_ATTR;
 // System.Single UnityEngine.AnimatorStateInfo::get_normalizedTime()
@@ -3096,6 +3100,83 @@ extern "C"  void Animator_set_speed_m3190202775 (Animator_t69676727 * __this, fl
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Animator_set_speed_m3190202775_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Animator::set_speed(System.Single)");
 	_il2cpp_icall_func(__this, ___value0);
+}
+// System.Void UnityEngine.Animator::Play(System.String,System.Int32)
+extern "C"  void Animator_Play_m1354644779 (Animator_t69676727 * __this, String_t* ___stateName0, int32_t ___layer1, const RuntimeMethod* method)
+{
+	float V_0 = 0.0f;
+	{
+		V_0 = (-std::numeric_limits<float>::infinity());
+		String_t* L_0 = ___stateName0;
+		int32_t L_1 = ___layer1;
+		float L_2 = V_0;
+		Animator_Play_m1706432228(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void UnityEngine.Animator::Play(System.String)
+extern "C"  void Animator_Play_m577397764 (Animator_t69676727 * __this, String_t* ___stateName0, const RuntimeMethod* method)
+{
+	float V_0 = 0.0f;
+	int32_t V_1 = 0;
+	{
+		V_0 = (-std::numeric_limits<float>::infinity());
+		V_1 = (-1);
+		String_t* L_0 = ___stateName0;
+		int32_t L_1 = V_1;
+		float L_2 = V_0;
+		Animator_Play_m1706432228(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void UnityEngine.Animator::Play(System.String,System.Int32,System.Single)
+extern "C"  void Animator_Play_m1706432228 (Animator_t69676727 * __this, String_t* ___stateName0, int32_t ___layer1, float ___normalizedTime2, const RuntimeMethod* method)
+{
+	{
+		String_t* L_0 = ___stateName0;
+		int32_t L_1 = Animator_StringToHash_m1845745834(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		int32_t L_2 = ___layer1;
+		float L_3 = ___normalizedTime2;
+		Animator_Play_m1244626253(__this, L_1, L_2, L_3, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)
+extern "C"  void Animator_Play_m1244626253 (Animator_t69676727 * __this, int32_t ___stateNameHash0, int32_t ___layer1, float ___normalizedTime2, const RuntimeMethod* method)
+{
+	typedef void (*Animator_Play_m1244626253_ftn) (Animator_t69676727 *, int32_t, int32_t, float);
+	static Animator_Play_m1244626253_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Animator_Play_m1244626253_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)");
+	_il2cpp_icall_func(__this, ___stateNameHash0, ___layer1, ___normalizedTime2);
+}
+// System.Void UnityEngine.Animator::Play(System.Int32,System.Int32)
+extern "C"  void Animator_Play_m1504254530 (Animator_t69676727 * __this, int32_t ___stateNameHash0, int32_t ___layer1, const RuntimeMethod* method)
+{
+	float V_0 = 0.0f;
+	{
+		V_0 = (-std::numeric_limits<float>::infinity());
+		int32_t L_0 = ___stateNameHash0;
+		int32_t L_1 = ___layer1;
+		float L_2 = V_0;
+		Animator_Play_m1244626253(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void UnityEngine.Animator::Play(System.Int32)
+extern "C"  void Animator_Play_m1824597217 (Animator_t69676727 * __this, int32_t ___stateNameHash0, const RuntimeMethod* method)
+{
+	float V_0 = 0.0f;
+	int32_t V_1 = 0;
+	{
+		V_0 = (-std::numeric_limits<float>::infinity());
+		V_1 = (-1);
+		int32_t L_0 = ___stateNameHash0;
+		int32_t L_1 = V_1;
+		float L_2 = V_0;
+		Animator_Play_m1244626253(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		return;
+	}
 }
 // System.Boolean UnityEngine.Animator::get_hasBoundPlayables()
 extern "C"  bool Animator_get_hasBoundPlayables_m2257984562 (Animator_t69676727 * __this, const RuntimeMethod* method)

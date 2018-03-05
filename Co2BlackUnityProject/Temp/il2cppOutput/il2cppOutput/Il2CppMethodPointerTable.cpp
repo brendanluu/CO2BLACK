@@ -13691,6 +13691,12 @@ extern "C" void Animator_INTERNAL_get_deltaPosition_m3275684743 ();
 extern "C" void Animator_set_applyRootMotion_m333705050 ();
 extern "C" void Animator_GetCurrentAnimatorStateInfo_m2354582050 ();
 extern "C" void Animator_set_speed_m3190202775 ();
+extern "C" void Animator_Play_m1354644779 ();
+extern "C" void Animator_Play_m577397764 ();
+extern "C" void Animator_Play_m1706432228 ();
+extern "C" void Animator_Play_m1244626253 ();
+extern "C" void Animator_Play_m1504254530 ();
+extern "C" void Animator_Play_m1824597217 ();
 extern "C" void Animator_get_hasBoundPlayables_m2257984562 ();
 extern "C" void Animator_StringToHash_m1845745834 ();
 extern "C" void Animator_SetFloatString_m4025347812 ();
@@ -20821,6 +20827,14 @@ extern "C" void ignoreCollision_foamTapAway_m2281911791 ();
 extern "C" void Initiate_Fade_m2725295307 ();
 extern "C" void instantiateSphere__ctor_m30151836 ();
 extern "C" void instantiateSphere_Start_m3596017020 ();
+extern "C" void introController__ctor_m1770745121 ();
+extern "C" void introController_secondScreen_m3662461425 ();
+extern "C" void introController_visualizeBtn_m1031891599 ();
+extern "C" void introController_s2d1btn_m2576599137 ();
+extern "C" void introController_s2d2btn_m2576596068 ();
+extern "C" void introController_s3d1btn_m2576630914 ();
+extern "C" void introController_s3d2btn_m2576629891 ();
+extern "C" void introController_thirdScreenHide_m1036840796 ();
 extern "C" void lampBtns__ctor_m1011836334 ();
 extern "C" void lampBtns_BuildingFactTopBtn_m713731533 ();
 extern "C" void lampBtns_BuildingFactBotBtn_m713118459 ();
@@ -23938,7 +23952,7 @@ extern "C" void BallUserControl__ctor_m1854748185 ();
 extern "C" void BallUserControl_Awake_m4216224384 ();
 extern "C" void BallUserControl_Update_m1471660078 ();
 extern "C" void BallUserControl_FixedUpdate_m1908019444 ();
-extern const Il2CppMethodPointer g_MethodPointers[23921] = 
+extern const Il2CppMethodPointer g_MethodPointers[23935] = 
 {
 	Locale_GetText_m1954433032,
 	Locale_GetText_m2553164138,
@@ -37614,6 +37628,12 @@ extern const Il2CppMethodPointer g_MethodPointers[23921] =
 	Animator_set_applyRootMotion_m333705050,
 	Animator_GetCurrentAnimatorStateInfo_m2354582050,
 	Animator_set_speed_m3190202775,
+	Animator_Play_m1354644779,
+	Animator_Play_m577397764,
+	Animator_Play_m1706432228,
+	Animator_Play_m1244626253,
+	Animator_Play_m1504254530,
+	Animator_Play_m1824597217,
 	Animator_get_hasBoundPlayables_m2257984562,
 	Animator_StringToHash_m1845745834,
 	Animator_SetFloatString_m4025347812,
@@ -44744,6 +44764,14 @@ extern const Il2CppMethodPointer g_MethodPointers[23921] =
 	Initiate_Fade_m2725295307,
 	instantiateSphere__ctor_m30151836,
 	instantiateSphere_Start_m3596017020,
+	introController__ctor_m1770745121,
+	introController_secondScreen_m3662461425,
+	introController_visualizeBtn_m1031891599,
+	introController_s2d1btn_m2576599137,
+	introController_s2d2btn_m2576596068,
+	introController_s3d1btn_m2576630914,
+	introController_s3d2btn_m2576629891,
+	introController_thirdScreenHide_m1036840796,
 	lampBtns__ctor_m1011836334,
 	lampBtns_BuildingFactTopBtn_m713731533,
 	lampBtns_BuildingFactBotBtn_m713118459,

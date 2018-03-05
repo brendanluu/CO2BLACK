@@ -48786,6 +48786,13 @@ void* RuntimeInvoker_AnimatorStateInfo_t2577870592_Int32_t2071877448 (Il2CppMeth
 	return Box(il2cpp_codegen_class_from_type (il2cpp_codegen_method_return_type(methodMetadata)), &ret);
 }
 
+void* RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_Single_t2076509932 (Il2CppMethodPointer methodPointer, const RuntimeMethod* methodMetadata, void* obj, void** args)
+{
+	typedef void (*Func)(void* obj, RuntimeObject * p1, int32_t p2, float p3, const RuntimeMethod* method);
+	((Func)methodPointer)(obj, (RuntimeObject *)args[0], *((int32_t*)args[1]), *((float*)args[2]), methodMetadata);
+	return NULL;
+}
+
 void* RuntimeInvoker_Boolean_t3825574718_AnimatorControllerPlayable_t1744083903 (Il2CppMethodPointer methodPointer, const RuntimeMethod* methodMetadata, void* obj, void** args)
 {
 	typedef bool (*Func)(void* obj, AnimatorControllerPlayable_t1744083903  p1, const RuntimeMethod* method);
@@ -52207,13 +52214,6 @@ void* RuntimeInvoker_Single_t2076509932_Int32_t2071877448_Single_t2076509932 (Il
 	typedef float (*Func)(void* obj, int32_t p1, float p2, const RuntimeMethod* method);
 	float ret = ((Func)methodPointer)(obj, *((int32_t*)args[0]), *((float*)args[1]), methodMetadata);
 	return Box(il2cpp_codegen_class_from_type (il2cpp_codegen_method_return_type(methodMetadata)), &ret);
-}
-
-void* RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_Single_t2076509932 (Il2CppMethodPointer methodPointer, const RuntimeMethod* methodMetadata, void* obj, void** args)
-{
-	typedef void (*Func)(void* obj, RuntimeObject * p1, int32_t p2, float p3, const RuntimeMethod* method);
-	((Func)methodPointer)(obj, (RuntimeObject *)args[0], *((int32_t*)args[1]), *((float*)args[2]), methodMetadata);
-	return NULL;
 }
 
 void* RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_Single_t2076509932_Single_t2076509932 (Il2CppMethodPointer methodPointer, const RuntimeMethod* methodMetadata, void* obj, void** args)
@@ -64972,6 +64972,7 @@ extern const InvokerMethod g_Il2CppInvokerPointers[3392] =
 	RuntimeInvoker_Boolean_t3825574718_AnimationOffsetPlayable_t1019600543,
 	RuntimeInvoker_Void_t1841601450_RuntimeObject_Single_t2076509932_Single_t2076509932_Single_t2076509932,
 	RuntimeInvoker_AnimatorStateInfo_t2577870592_Int32_t2071877448,
+	RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_Single_t2076509932,
 	RuntimeInvoker_Boolean_t3825574718_AnimatorControllerPlayable_t1744083903,
 	RuntimeInvoker_Void_t1841601450_RuntimeObject_Double_t4078015681_RuntimeObject,
 	RuntimeInvoker_Void_t1841601450_Int64_t909078037_RuntimeObject_RuntimeObject,
@@ -65461,7 +65462,6 @@ extern const InvokerMethod g_Il2CppInvokerPointers[3392] =
 	RuntimeInvoker_Constraint_t3558160636,
 	RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_SByte_t454417549_SByte_t454417549_SingleU26_t4173844468_SingleU26_t4173844468_SingleU26_t4173844468,
 	RuntimeInvoker_Single_t2076509932_Int32_t2071877448_Single_t2076509932,
-	RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_Single_t2076509932,
 	RuntimeInvoker_Void_t1841601450_RuntimeObject_Int32_t2071877448_Single_t2076509932_Single_t2076509932,
 	RuntimeInvoker_Single_t2076509932_RuntimeObject_RuntimeObject_Single_t2076509932,
 	RuntimeInvoker_Single_t2076509932_RuntimeObject_RuntimeObject_Single_t2076509932_ILayoutElementU26_t440254879,

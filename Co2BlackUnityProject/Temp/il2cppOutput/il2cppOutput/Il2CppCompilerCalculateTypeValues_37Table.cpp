@@ -32,14 +32,14 @@ struct CharU5BU5D_t1328083999;
 struct Void_t1841601450;
 // UnityEngine.GameObject
 struct GameObject_t1756533147;
-// UnityEngine.Transform
-struct Transform_t3275118058;
 // UnityStandardAssets.Utility.WaypointCircuit/WaypointList
 struct WaypointList_t2985503331;
 // UnityEngine.Vector3[]
 struct Vector3U5BU5D_t1172311765;
 // System.Single[]
 struct SingleU5BU5D_t577127397;
+// UnityEngine.Transform
+struct Transform_t3275118058;
 
 
 
@@ -58,34 +58,6 @@ struct SingleU5BU5D_t577127397;
 #pragma clang diagnostic pop
 #endif
 #endif // RUNTIMEOBJECT_H
-#ifndef VALUETYPE_T3507792607_H
-#define VALUETYPE_T3507792607_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// System.ValueType
-struct  ValueType_t3507792607  : public RuntimeObject
-{
-public:
-
-public:
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-// Native definition for P/Invoke marshalling of System.ValueType
-struct ValueType_t3507792607_marshaled_pinvoke
-{
-};
-// Native definition for COM marshalling of System.ValueType
-struct ValueType_t3507792607_marshaled_com
-{
-};
-#endif // VALUETYPE_T3507792607_H
 #ifndef U3CRELOADLEVELU3EC__ITERATOR2_T1764217217_H
 #define U3CRELOADLEVELU3EC__ITERATOR2_T1764217217_H
 #ifdef __clang__
@@ -147,6 +119,34 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // U3CRELOADLEVELU3EC__ITERATOR2_T1764217217_H
+#ifndef VALUETYPE_T3507792607_H
+#define VALUETYPE_T3507792607_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.ValueType
+struct  ValueType_t3507792607  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Native definition for P/Invoke marshalling of System.ValueType
+struct ValueType_t3507792607_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.ValueType
+struct ValueType_t3507792607_marshaled_com
+{
+};
+#endif // VALUETYPE_T3507792607_H
 #ifndef U3CDEACTIVATEU3EC__ITERATOR1_T707185157_H
 #define U3CDEACTIVATEU3EC__ITERATOR1_T707185157_H
 #ifdef __clang__
@@ -340,6 +340,51 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // WAYPOINTLIST_T2985503331_H
+#ifndef ENUM_T2459695545_H
+#define ENUM_T2459695545_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.Enum
+struct  Enum_t2459695545  : public ValueType_t3507792607
+{
+public:
+
+public:
+};
+
+struct Enum_t2459695545_StaticFields
+{
+public:
+	// System.Char[] System.Enum::split_char
+	CharU5BU5D_t1328083999* ___split_char_0;
+
+public:
+	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t2459695545_StaticFields, ___split_char_0)); }
+	inline CharU5BU5D_t1328083999* get_split_char_0() const { return ___split_char_0; }
+	inline CharU5BU5D_t1328083999** get_address_of_split_char_0() { return &___split_char_0; }
+	inline void set_split_char_0(CharU5BU5D_t1328083999* value)
+	{
+		___split_char_0 = value;
+		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Native definition for P/Invoke marshalling of System.Enum
+struct Enum_t2459695545_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.Enum
+struct Enum_t2459695545_marshaled_com
+{
+};
+#endif // ENUM_T2459695545_H
 #ifndef VECTOR3_T2243707580_H
 #define VECTOR3_T2243707580_H
 #ifdef __clang__
@@ -495,51 +540,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // VECTOR3_T2243707580_H
-#ifndef ENUM_T2459695545_H
-#define ENUM_T2459695545_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// System.Enum
-struct  Enum_t2459695545  : public ValueType_t3507792607
-{
-public:
-
-public:
-};
-
-struct Enum_t2459695545_StaticFields
-{
-public:
-	// System.Char[] System.Enum::split_char
-	CharU5BU5D_t1328083999* ___split_char_0;
-
-public:
-	inline static int32_t get_offset_of_split_char_0() { return static_cast<int32_t>(offsetof(Enum_t2459695545_StaticFields, ___split_char_0)); }
-	inline CharU5BU5D_t1328083999* get_split_char_0() const { return ___split_char_0; }
-	inline CharU5BU5D_t1328083999** get_address_of_split_char_0() { return &___split_char_0; }
-	inline void set_split_char_0(CharU5BU5D_t1328083999* value)
-	{
-		___split_char_0 = value;
-		Il2CppCodeGenWriteBarrier((&___split_char_0), value);
-	}
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-// Native definition for P/Invoke marshalling of System.Enum
-struct Enum_t2459695545_marshaled_pinvoke
-{
-};
-// Native definition for COM marshalling of System.Enum
-struct Enum_t2459695545_marshaled_com
-{
-};
-#endif // ENUM_T2459695545_H
 #ifndef INTPTR_T_H
 #define INTPTR_T_H
 #ifdef __clang__
@@ -585,35 +585,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // INTPTR_T_H
-#ifndef ACTION_T769078069_H
-#define ACTION_T769078069_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// UnityStandardAssets.Utility.TimedObjectActivator/Action
-struct  Action_t769078069 
-{
-public:
-	// System.Int32 UnityStandardAssets.Utility.TimedObjectActivator/Action::value__
-	int32_t ___value___1;
-
-public:
-	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(Action_t769078069, ___value___1)); }
-	inline int32_t get_value___1() const { return ___value___1; }
-	inline int32_t* get_address_of_value___1() { return &___value___1; }
-	inline void set_value___1(int32_t value)
-	{
-		___value___1 = value;
-	}
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // ACTION_T769078069_H
 #ifndef OBJECT_T1021602117_H
 #define OBJECT_T1021602117_H
 #ifdef __clang__
@@ -669,6 +640,64 @@ struct Object_t1021602117_marshaled_com
 	intptr_t ___m_CachedPtr_0;
 };
 #endif // OBJECT_T1021602117_H
+#ifndef PROGRESSSTYLE_T1659392090_H
+#define PROGRESSSTYLE_T1659392090_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityStandardAssets.Utility.WaypointProgressTracker/ProgressStyle
+struct  ProgressStyle_t1659392090 
+{
+public:
+	// System.Int32 UnityStandardAssets.Utility.WaypointProgressTracker/ProgressStyle::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(ProgressStyle_t1659392090, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // PROGRESSSTYLE_T1659392090_H
+#ifndef ACTION_T769078069_H
+#define ACTION_T769078069_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityStandardAssets.Utility.TimedObjectActivator/Action
+struct  Action_t769078069 
+{
+public:
+	// System.Int32 UnityStandardAssets.Utility.TimedObjectActivator/Action::value__
+	int32_t ___value___1;
+
+public:
+	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(Action_t769078069, ___value___1)); }
+	inline int32_t get_value___1() const { return ___value___1; }
+	inline int32_t* get_address_of_value___1() { return &___value___1; }
+	inline void set_value___1(int32_t value)
+	{
+		___value___1 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // ACTION_T769078069_H
 #ifndef ROUTEPOINT_T318924311_H
 #define ROUTEPOINT_T318924311_H
 #ifdef __clang__
@@ -708,35 +737,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // ROUTEPOINT_T318924311_H
-#ifndef PROGRESSSTYLE_T1659392090_H
-#define PROGRESSSTYLE_T1659392090_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// UnityStandardAssets.Utility.WaypointProgressTracker/ProgressStyle
-struct  ProgressStyle_t1659392090 
-{
-public:
-	// System.Int32 UnityStandardAssets.Utility.WaypointProgressTracker/ProgressStyle::value__
-	int32_t ___value___1;
-
-public:
-	inline static int32_t get_offset_of_value___1() { return static_cast<int32_t>(offsetof(ProgressStyle_t1659392090, ___value___1)); }
-	inline int32_t get_value___1() const { return ___value___1; }
-	inline int32_t* get_address_of_value___1() { return &___value___1; }
-	inline void set_value___1(int32_t value)
-	{
-		___value___1 = value;
-	}
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // PROGRESSSTYLE_T1659392090_H
 #ifndef ENTRY_T420114983_H
 #define ENTRY_T420114983_H
 #ifdef __clang__
@@ -847,177 +847,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // MONOBEHAVIOUR_T1158329972_H
-#ifndef WAYPOINTPROGRESSTRACKER_T2206407592_H
-#define WAYPOINTPROGRESSTRACKER_T2206407592_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// UnityStandardAssets.Utility.WaypointProgressTracker
-struct  WaypointProgressTracker_t2206407592  : public MonoBehaviour_t1158329972
-{
-public:
-	// UnityStandardAssets.Utility.WaypointCircuit UnityStandardAssets.Utility.WaypointProgressTracker::circuit
-	WaypointCircuit_t2375210762 * ___circuit_2;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForTargetOffset
-	float ___lookAheadForTargetOffset_3;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForTargetFactor
-	float ___lookAheadForTargetFactor_4;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForSpeedOffset
-	float ___lookAheadForSpeedOffset_5;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForSpeedFactor
-	float ___lookAheadForSpeedFactor_6;
-	// UnityStandardAssets.Utility.WaypointProgressTracker/ProgressStyle UnityStandardAssets.Utility.WaypointProgressTracker::progressStyle
-	int32_t ___progressStyle_7;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::pointToPointThreshold
-	float ___pointToPointThreshold_8;
-	// UnityStandardAssets.Utility.WaypointCircuit/RoutePoint UnityStandardAssets.Utility.WaypointProgressTracker::<targetPoint>k__BackingField
-	RoutePoint_t318924311  ___U3CtargetPointU3Ek__BackingField_9;
-	// UnityStandardAssets.Utility.WaypointCircuit/RoutePoint UnityStandardAssets.Utility.WaypointProgressTracker::<speedPoint>k__BackingField
-	RoutePoint_t318924311  ___U3CspeedPointU3Ek__BackingField_10;
-	// UnityStandardAssets.Utility.WaypointCircuit/RoutePoint UnityStandardAssets.Utility.WaypointProgressTracker::<progressPoint>k__BackingField
-	RoutePoint_t318924311  ___U3CprogressPointU3Ek__BackingField_11;
-	// UnityEngine.Transform UnityStandardAssets.Utility.WaypointProgressTracker::target
-	Transform_t3275118058 * ___target_12;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::progressDistance
-	float ___progressDistance_13;
-	// System.Int32 UnityStandardAssets.Utility.WaypointProgressTracker::progressNum
-	int32_t ___progressNum_14;
-	// UnityEngine.Vector3 UnityStandardAssets.Utility.WaypointProgressTracker::lastPosition
-	Vector3_t2243707580  ___lastPosition_15;
-	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::speed
-	float ___speed_16;
-
-public:
-	inline static int32_t get_offset_of_circuit_2() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___circuit_2)); }
-	inline WaypointCircuit_t2375210762 * get_circuit_2() const { return ___circuit_2; }
-	inline WaypointCircuit_t2375210762 ** get_address_of_circuit_2() { return &___circuit_2; }
-	inline void set_circuit_2(WaypointCircuit_t2375210762 * value)
-	{
-		___circuit_2 = value;
-		Il2CppCodeGenWriteBarrier((&___circuit_2), value);
-	}
-
-	inline static int32_t get_offset_of_lookAheadForTargetOffset_3() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForTargetOffset_3)); }
-	inline float get_lookAheadForTargetOffset_3() const { return ___lookAheadForTargetOffset_3; }
-	inline float* get_address_of_lookAheadForTargetOffset_3() { return &___lookAheadForTargetOffset_3; }
-	inline void set_lookAheadForTargetOffset_3(float value)
-	{
-		___lookAheadForTargetOffset_3 = value;
-	}
-
-	inline static int32_t get_offset_of_lookAheadForTargetFactor_4() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForTargetFactor_4)); }
-	inline float get_lookAheadForTargetFactor_4() const { return ___lookAheadForTargetFactor_4; }
-	inline float* get_address_of_lookAheadForTargetFactor_4() { return &___lookAheadForTargetFactor_4; }
-	inline void set_lookAheadForTargetFactor_4(float value)
-	{
-		___lookAheadForTargetFactor_4 = value;
-	}
-
-	inline static int32_t get_offset_of_lookAheadForSpeedOffset_5() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForSpeedOffset_5)); }
-	inline float get_lookAheadForSpeedOffset_5() const { return ___lookAheadForSpeedOffset_5; }
-	inline float* get_address_of_lookAheadForSpeedOffset_5() { return &___lookAheadForSpeedOffset_5; }
-	inline void set_lookAheadForSpeedOffset_5(float value)
-	{
-		___lookAheadForSpeedOffset_5 = value;
-	}
-
-	inline static int32_t get_offset_of_lookAheadForSpeedFactor_6() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForSpeedFactor_6)); }
-	inline float get_lookAheadForSpeedFactor_6() const { return ___lookAheadForSpeedFactor_6; }
-	inline float* get_address_of_lookAheadForSpeedFactor_6() { return &___lookAheadForSpeedFactor_6; }
-	inline void set_lookAheadForSpeedFactor_6(float value)
-	{
-		___lookAheadForSpeedFactor_6 = value;
-	}
-
-	inline static int32_t get_offset_of_progressStyle_7() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___progressStyle_7)); }
-	inline int32_t get_progressStyle_7() const { return ___progressStyle_7; }
-	inline int32_t* get_address_of_progressStyle_7() { return &___progressStyle_7; }
-	inline void set_progressStyle_7(int32_t value)
-	{
-		___progressStyle_7 = value;
-	}
-
-	inline static int32_t get_offset_of_pointToPointThreshold_8() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___pointToPointThreshold_8)); }
-	inline float get_pointToPointThreshold_8() const { return ___pointToPointThreshold_8; }
-	inline float* get_address_of_pointToPointThreshold_8() { return &___pointToPointThreshold_8; }
-	inline void set_pointToPointThreshold_8(float value)
-	{
-		___pointToPointThreshold_8 = value;
-	}
-
-	inline static int32_t get_offset_of_U3CtargetPointU3Ek__BackingField_9() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___U3CtargetPointU3Ek__BackingField_9)); }
-	inline RoutePoint_t318924311  get_U3CtargetPointU3Ek__BackingField_9() const { return ___U3CtargetPointU3Ek__BackingField_9; }
-	inline RoutePoint_t318924311 * get_address_of_U3CtargetPointU3Ek__BackingField_9() { return &___U3CtargetPointU3Ek__BackingField_9; }
-	inline void set_U3CtargetPointU3Ek__BackingField_9(RoutePoint_t318924311  value)
-	{
-		___U3CtargetPointU3Ek__BackingField_9 = value;
-	}
-
-	inline static int32_t get_offset_of_U3CspeedPointU3Ek__BackingField_10() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___U3CspeedPointU3Ek__BackingField_10)); }
-	inline RoutePoint_t318924311  get_U3CspeedPointU3Ek__BackingField_10() const { return ___U3CspeedPointU3Ek__BackingField_10; }
-	inline RoutePoint_t318924311 * get_address_of_U3CspeedPointU3Ek__BackingField_10() { return &___U3CspeedPointU3Ek__BackingField_10; }
-	inline void set_U3CspeedPointU3Ek__BackingField_10(RoutePoint_t318924311  value)
-	{
-		___U3CspeedPointU3Ek__BackingField_10 = value;
-	}
-
-	inline static int32_t get_offset_of_U3CprogressPointU3Ek__BackingField_11() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___U3CprogressPointU3Ek__BackingField_11)); }
-	inline RoutePoint_t318924311  get_U3CprogressPointU3Ek__BackingField_11() const { return ___U3CprogressPointU3Ek__BackingField_11; }
-	inline RoutePoint_t318924311 * get_address_of_U3CprogressPointU3Ek__BackingField_11() { return &___U3CprogressPointU3Ek__BackingField_11; }
-	inline void set_U3CprogressPointU3Ek__BackingField_11(RoutePoint_t318924311  value)
-	{
-		___U3CprogressPointU3Ek__BackingField_11 = value;
-	}
-
-	inline static int32_t get_offset_of_target_12() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___target_12)); }
-	inline Transform_t3275118058 * get_target_12() const { return ___target_12; }
-	inline Transform_t3275118058 ** get_address_of_target_12() { return &___target_12; }
-	inline void set_target_12(Transform_t3275118058 * value)
-	{
-		___target_12 = value;
-		Il2CppCodeGenWriteBarrier((&___target_12), value);
-	}
-
-	inline static int32_t get_offset_of_progressDistance_13() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___progressDistance_13)); }
-	inline float get_progressDistance_13() const { return ___progressDistance_13; }
-	inline float* get_address_of_progressDistance_13() { return &___progressDistance_13; }
-	inline void set_progressDistance_13(float value)
-	{
-		___progressDistance_13 = value;
-	}
-
-	inline static int32_t get_offset_of_progressNum_14() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___progressNum_14)); }
-	inline int32_t get_progressNum_14() const { return ___progressNum_14; }
-	inline int32_t* get_address_of_progressNum_14() { return &___progressNum_14; }
-	inline void set_progressNum_14(int32_t value)
-	{
-		___progressNum_14 = value;
-	}
-
-	inline static int32_t get_offset_of_lastPosition_15() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lastPosition_15)); }
-	inline Vector3_t2243707580  get_lastPosition_15() const { return ___lastPosition_15; }
-	inline Vector3_t2243707580 * get_address_of_lastPosition_15() { return &___lastPosition_15; }
-	inline void set_lastPosition_15(Vector3_t2243707580  value)
-	{
-		___lastPosition_15 = value;
-	}
-
-	inline static int32_t get_offset_of_speed_16() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___speed_16)); }
-	inline float get_speed_16() const { return ___speed_16; }
-	inline float* get_address_of_speed_16() { return &___speed_16; }
-	inline void set_speed_16(float value)
-	{
-		___speed_16 = value;
-	}
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // WAYPOINTPROGRESSTRACKER_T2206407592_H
 #ifndef TIMEDOBJECTDESTRUCTOR_T3133065407_H
 #define TIMEDOBJECTDESTRUCTOR_T3133065407_H
 #ifdef __clang__
@@ -1239,6 +1068,177 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // WAYPOINTCIRCUIT_T2375210762_H
+#ifndef WAYPOINTPROGRESSTRACKER_T2206407592_H
+#define WAYPOINTPROGRESSTRACKER_T2206407592_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// UnityStandardAssets.Utility.WaypointProgressTracker
+struct  WaypointProgressTracker_t2206407592  : public MonoBehaviour_t1158329972
+{
+public:
+	// UnityStandardAssets.Utility.WaypointCircuit UnityStandardAssets.Utility.WaypointProgressTracker::circuit
+	WaypointCircuit_t2375210762 * ___circuit_2;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForTargetOffset
+	float ___lookAheadForTargetOffset_3;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForTargetFactor
+	float ___lookAheadForTargetFactor_4;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForSpeedOffset
+	float ___lookAheadForSpeedOffset_5;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::lookAheadForSpeedFactor
+	float ___lookAheadForSpeedFactor_6;
+	// UnityStandardAssets.Utility.WaypointProgressTracker/ProgressStyle UnityStandardAssets.Utility.WaypointProgressTracker::progressStyle
+	int32_t ___progressStyle_7;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::pointToPointThreshold
+	float ___pointToPointThreshold_8;
+	// UnityStandardAssets.Utility.WaypointCircuit/RoutePoint UnityStandardAssets.Utility.WaypointProgressTracker::<targetPoint>k__BackingField
+	RoutePoint_t318924311  ___U3CtargetPointU3Ek__BackingField_9;
+	// UnityStandardAssets.Utility.WaypointCircuit/RoutePoint UnityStandardAssets.Utility.WaypointProgressTracker::<speedPoint>k__BackingField
+	RoutePoint_t318924311  ___U3CspeedPointU3Ek__BackingField_10;
+	// UnityStandardAssets.Utility.WaypointCircuit/RoutePoint UnityStandardAssets.Utility.WaypointProgressTracker::<progressPoint>k__BackingField
+	RoutePoint_t318924311  ___U3CprogressPointU3Ek__BackingField_11;
+	// UnityEngine.Transform UnityStandardAssets.Utility.WaypointProgressTracker::target
+	Transform_t3275118058 * ___target_12;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::progressDistance
+	float ___progressDistance_13;
+	// System.Int32 UnityStandardAssets.Utility.WaypointProgressTracker::progressNum
+	int32_t ___progressNum_14;
+	// UnityEngine.Vector3 UnityStandardAssets.Utility.WaypointProgressTracker::lastPosition
+	Vector3_t2243707580  ___lastPosition_15;
+	// System.Single UnityStandardAssets.Utility.WaypointProgressTracker::speed
+	float ___speed_16;
+
+public:
+	inline static int32_t get_offset_of_circuit_2() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___circuit_2)); }
+	inline WaypointCircuit_t2375210762 * get_circuit_2() const { return ___circuit_2; }
+	inline WaypointCircuit_t2375210762 ** get_address_of_circuit_2() { return &___circuit_2; }
+	inline void set_circuit_2(WaypointCircuit_t2375210762 * value)
+	{
+		___circuit_2 = value;
+		Il2CppCodeGenWriteBarrier((&___circuit_2), value);
+	}
+
+	inline static int32_t get_offset_of_lookAheadForTargetOffset_3() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForTargetOffset_3)); }
+	inline float get_lookAheadForTargetOffset_3() const { return ___lookAheadForTargetOffset_3; }
+	inline float* get_address_of_lookAheadForTargetOffset_3() { return &___lookAheadForTargetOffset_3; }
+	inline void set_lookAheadForTargetOffset_3(float value)
+	{
+		___lookAheadForTargetOffset_3 = value;
+	}
+
+	inline static int32_t get_offset_of_lookAheadForTargetFactor_4() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForTargetFactor_4)); }
+	inline float get_lookAheadForTargetFactor_4() const { return ___lookAheadForTargetFactor_4; }
+	inline float* get_address_of_lookAheadForTargetFactor_4() { return &___lookAheadForTargetFactor_4; }
+	inline void set_lookAheadForTargetFactor_4(float value)
+	{
+		___lookAheadForTargetFactor_4 = value;
+	}
+
+	inline static int32_t get_offset_of_lookAheadForSpeedOffset_5() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForSpeedOffset_5)); }
+	inline float get_lookAheadForSpeedOffset_5() const { return ___lookAheadForSpeedOffset_5; }
+	inline float* get_address_of_lookAheadForSpeedOffset_5() { return &___lookAheadForSpeedOffset_5; }
+	inline void set_lookAheadForSpeedOffset_5(float value)
+	{
+		___lookAheadForSpeedOffset_5 = value;
+	}
+
+	inline static int32_t get_offset_of_lookAheadForSpeedFactor_6() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lookAheadForSpeedFactor_6)); }
+	inline float get_lookAheadForSpeedFactor_6() const { return ___lookAheadForSpeedFactor_6; }
+	inline float* get_address_of_lookAheadForSpeedFactor_6() { return &___lookAheadForSpeedFactor_6; }
+	inline void set_lookAheadForSpeedFactor_6(float value)
+	{
+		___lookAheadForSpeedFactor_6 = value;
+	}
+
+	inline static int32_t get_offset_of_progressStyle_7() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___progressStyle_7)); }
+	inline int32_t get_progressStyle_7() const { return ___progressStyle_7; }
+	inline int32_t* get_address_of_progressStyle_7() { return &___progressStyle_7; }
+	inline void set_progressStyle_7(int32_t value)
+	{
+		___progressStyle_7 = value;
+	}
+
+	inline static int32_t get_offset_of_pointToPointThreshold_8() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___pointToPointThreshold_8)); }
+	inline float get_pointToPointThreshold_8() const { return ___pointToPointThreshold_8; }
+	inline float* get_address_of_pointToPointThreshold_8() { return &___pointToPointThreshold_8; }
+	inline void set_pointToPointThreshold_8(float value)
+	{
+		___pointToPointThreshold_8 = value;
+	}
+
+	inline static int32_t get_offset_of_U3CtargetPointU3Ek__BackingField_9() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___U3CtargetPointU3Ek__BackingField_9)); }
+	inline RoutePoint_t318924311  get_U3CtargetPointU3Ek__BackingField_9() const { return ___U3CtargetPointU3Ek__BackingField_9; }
+	inline RoutePoint_t318924311 * get_address_of_U3CtargetPointU3Ek__BackingField_9() { return &___U3CtargetPointU3Ek__BackingField_9; }
+	inline void set_U3CtargetPointU3Ek__BackingField_9(RoutePoint_t318924311  value)
+	{
+		___U3CtargetPointU3Ek__BackingField_9 = value;
+	}
+
+	inline static int32_t get_offset_of_U3CspeedPointU3Ek__BackingField_10() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___U3CspeedPointU3Ek__BackingField_10)); }
+	inline RoutePoint_t318924311  get_U3CspeedPointU3Ek__BackingField_10() const { return ___U3CspeedPointU3Ek__BackingField_10; }
+	inline RoutePoint_t318924311 * get_address_of_U3CspeedPointU3Ek__BackingField_10() { return &___U3CspeedPointU3Ek__BackingField_10; }
+	inline void set_U3CspeedPointU3Ek__BackingField_10(RoutePoint_t318924311  value)
+	{
+		___U3CspeedPointU3Ek__BackingField_10 = value;
+	}
+
+	inline static int32_t get_offset_of_U3CprogressPointU3Ek__BackingField_11() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___U3CprogressPointU3Ek__BackingField_11)); }
+	inline RoutePoint_t318924311  get_U3CprogressPointU3Ek__BackingField_11() const { return ___U3CprogressPointU3Ek__BackingField_11; }
+	inline RoutePoint_t318924311 * get_address_of_U3CprogressPointU3Ek__BackingField_11() { return &___U3CprogressPointU3Ek__BackingField_11; }
+	inline void set_U3CprogressPointU3Ek__BackingField_11(RoutePoint_t318924311  value)
+	{
+		___U3CprogressPointU3Ek__BackingField_11 = value;
+	}
+
+	inline static int32_t get_offset_of_target_12() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___target_12)); }
+	inline Transform_t3275118058 * get_target_12() const { return ___target_12; }
+	inline Transform_t3275118058 ** get_address_of_target_12() { return &___target_12; }
+	inline void set_target_12(Transform_t3275118058 * value)
+	{
+		___target_12 = value;
+		Il2CppCodeGenWriteBarrier((&___target_12), value);
+	}
+
+	inline static int32_t get_offset_of_progressDistance_13() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___progressDistance_13)); }
+	inline float get_progressDistance_13() const { return ___progressDistance_13; }
+	inline float* get_address_of_progressDistance_13() { return &___progressDistance_13; }
+	inline void set_progressDistance_13(float value)
+	{
+		___progressDistance_13 = value;
+	}
+
+	inline static int32_t get_offset_of_progressNum_14() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___progressNum_14)); }
+	inline int32_t get_progressNum_14() const { return ___progressNum_14; }
+	inline int32_t* get_address_of_progressNum_14() { return &___progressNum_14; }
+	inline void set_progressNum_14(int32_t value)
+	{
+		___progressNum_14 = value;
+	}
+
+	inline static int32_t get_offset_of_lastPosition_15() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___lastPosition_15)); }
+	inline Vector3_t2243707580  get_lastPosition_15() const { return ___lastPosition_15; }
+	inline Vector3_t2243707580 * get_address_of_lastPosition_15() { return &___lastPosition_15; }
+	inline void set_lastPosition_15(Vector3_t2243707580  value)
+	{
+		___lastPosition_15 = value;
+	}
+
+	inline static int32_t get_offset_of_speed_16() { return static_cast<int32_t>(offsetof(WaypointProgressTracker_t2206407592, ___speed_16)); }
+	inline float get_speed_16() const { return ___speed_16; }
+	inline float* get_address_of_speed_16() { return &___speed_16; }
+	inline void set_speed_16(float value)
+	{
+		___speed_16 = value;
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // WAYPOINTPROGRESSTRACKER_T2206407592_H
 
 
 
@@ -1249,50 +1249,60 @@ public:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3700 = { sizeof (Entry_t420114983), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3700[3] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3700 = { sizeof (Action_t769078069)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable3700[6] = 
+{
+	Action_t769078069::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
+	0,
+	0,
+	0,
+	0,
+	0,
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3701 = { sizeof (Entry_t420114983), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3701[3] = 
 {
 	Entry_t420114983::get_offset_of_target_0(),
 	Entry_t420114983::get_offset_of_action_1(),
 	Entry_t420114983::get_offset_of_delay_2(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3701 = { sizeof (Entries_t1135469853), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3701[1] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3702 = { sizeof (Entries_t1135469853), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3702[1] = 
 {
 	Entries_t1135469853::get_offset_of_entries_0(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3702 = { sizeof (U3CActivateU3Ec__Iterator0_t56702769), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3702[4] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3703 = { sizeof (U3CActivateU3Ec__Iterator0_t56702769), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3703[4] = 
 {
 	U3CActivateU3Ec__Iterator0_t56702769::get_offset_of_entry_0(),
 	U3CActivateU3Ec__Iterator0_t56702769::get_offset_of_U24current_1(),
 	U3CActivateU3Ec__Iterator0_t56702769::get_offset_of_U24disposing_2(),
 	U3CActivateU3Ec__Iterator0_t56702769::get_offset_of_U24PC_3(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3703 = { sizeof (U3CDeactivateU3Ec__Iterator1_t707185157), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3703[4] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3704 = { sizeof (U3CDeactivateU3Ec__Iterator1_t707185157), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3704[4] = 
 {
 	U3CDeactivateU3Ec__Iterator1_t707185157::get_offset_of_entry_0(),
 	U3CDeactivateU3Ec__Iterator1_t707185157::get_offset_of_U24current_1(),
 	U3CDeactivateU3Ec__Iterator1_t707185157::get_offset_of_U24disposing_2(),
 	U3CDeactivateU3Ec__Iterator1_t707185157::get_offset_of_U24PC_3(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3704 = { sizeof (U3CReloadLevelU3Ec__Iterator2_t1764217217), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3704[4] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3705 = { sizeof (U3CReloadLevelU3Ec__Iterator2_t1764217217), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3705[4] = 
 {
 	U3CReloadLevelU3Ec__Iterator2_t1764217217::get_offset_of_entry_0(),
 	U3CReloadLevelU3Ec__Iterator2_t1764217217::get_offset_of_U24current_1(),
 	U3CReloadLevelU3Ec__Iterator2_t1764217217::get_offset_of_U24disposing_2(),
 	U3CReloadLevelU3Ec__Iterator2_t1764217217::get_offset_of_U24PC_3(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3705 = { sizeof (TimedObjectDestructor_t3133065407), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3705[2] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3706 = { sizeof (TimedObjectDestructor_t3133065407), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3706[2] = 
 {
 	TimedObjectDestructor_t3133065407::get_offset_of_m_TimeOut_2(),
 	TimedObjectDestructor_t3133065407::get_offset_of_m_DetachChildren_3(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3706 = { sizeof (WaypointCircuit_t2375210762), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3706[16] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3707 = { sizeof (WaypointCircuit_t2375210762), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3707[16] = 
 {
 	WaypointCircuit_t2375210762::get_offset_of_waypointList_2(),
 	WaypointCircuit_t2375210762::get_offset_of_smoothRoute_3(),
@@ -1311,20 +1321,20 @@ extern const int32_t g_FieldOffsetTable3706[16] =
 	WaypointCircuit_t2375210762::get_offset_of_P2_16(),
 	WaypointCircuit_t2375210762::get_offset_of_P3_17(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3707 = { sizeof (WaypointList_t2985503331), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3707[2] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3708 = { sizeof (WaypointList_t2985503331), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3708[2] = 
 {
 	WaypointList_t2985503331::get_offset_of_circuit_0(),
 	WaypointList_t2985503331::get_offset_of_items_1(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3708 = { sizeof (RoutePoint_t318924311)+ sizeof (RuntimeObject), sizeof(RoutePoint_t318924311 ), 0, 0 };
-extern const int32_t g_FieldOffsetTable3708[2] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3709 = { sizeof (RoutePoint_t318924311)+ sizeof (RuntimeObject), sizeof(RoutePoint_t318924311 ), 0, 0 };
+extern const int32_t g_FieldOffsetTable3709[2] = 
 {
 	RoutePoint_t318924311::get_offset_of_position_0() + static_cast<int32_t>(sizeof(RuntimeObject)),
 	RoutePoint_t318924311::get_offset_of_direction_1() + static_cast<int32_t>(sizeof(RuntimeObject)),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3709 = { sizeof (WaypointProgressTracker_t2206407592), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable3709[15] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3710 = { sizeof (WaypointProgressTracker_t2206407592), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable3710[15] = 
 {
 	WaypointProgressTracker_t2206407592::get_offset_of_circuit_2(),
 	WaypointProgressTracker_t2206407592::get_offset_of_lookAheadForTargetOffset_3(),
@@ -1342,8 +1352,8 @@ extern const int32_t g_FieldOffsetTable3709[15] =
 	WaypointProgressTracker_t2206407592::get_offset_of_lastPosition_15(),
 	WaypointProgressTracker_t2206407592::get_offset_of_speed_16(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3710 = { sizeof (ProgressStyle_t1659392090)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
-extern const int32_t g_FieldOffsetTable3710[3] = 
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3711 = { sizeof (ProgressStyle_t1659392090)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };
+extern const int32_t g_FieldOffsetTable3711[3] = 
 {
 	ProgressStyle_t1659392090::get_offset_of_value___1() + static_cast<int32_t>(sizeof(RuntimeObject)),
 	0,
