@@ -16,6 +16,8 @@ public class badCollision : MonoBehaviour {
 			Handheld.Vibrate();
 			hasCollide = true;
 			StartCoroutine(MyCoroutine());
+
+			GetComponent<Animation>().Play();
 			
 			
 

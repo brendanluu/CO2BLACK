@@ -5,27 +5,22 @@ using UnityEngine;
 public class firstModule : MonoBehaviour {
 
 	//first screen (after tap to place)
-	public GameObject replaceBulb;
+	public GameObject buildingFact;
 	public GameObject badBulb;
 	public GameObject cflTrans;
 
-	//second screen (bulb was switched)
+	//second screen 
 	public GameObject cflBulb;
 	public GameObject lampShade;
 	public Material lampShadeMat;
-	public GameObject buildingFactTop;
-	public GameObject buildingFactTop_trans;
+	public GameObject replaceBulb;
 	public GameObject pointer;
 
 	//third screen 
-	public GameObject buildingFactBot;
-
-
+	public GameObject dontForget;
+	public GameObject dontForgetTrans;
 
 	//fourth screen
-	public GameObject dontForget;
-
-	//fifth screen
 	public GameObject turnOff;
 	public GameObject lampSpotlight;
 
@@ -42,25 +37,26 @@ public class firstModule : MonoBehaviour {
 		//if bulb has been switched, hide the cfl sprite
 		if (cflBulb.activeInHierarchy) {
 			cflTrans.SetActive (false);
+			replaceBulb.SetActive (false);
 			lampShade.SetActive (true);
-
 		}
+		if (cflBulb.activeInHierarchy && !turnOff.activeInHierarchy) {
+			dontForgetTrans.SetActive (true);
+			dontForget.SetActive (true);
+		}
+
 	}
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
 
-//		replaceBulb.SetActive (true);
+		if (replaceBulb.activeInHierarchy) {
 
-		if (badBulb.activeInHierarchy) {
-
-			replaceBulb.SetActive (false);
 			badBulb.SetActive (false);
 
 			cflBulb.SetActive (true);
 
-			buildingFactTop.SetActive (true);
-			buildingFactTop_trans.SetActive(true);
+			lampShade.GetComponent<Animation>().Play();
 			pointer.SetActive (true);
 		
 			smokeHigh.SetFloat ("_Alpha", 0.15f);
