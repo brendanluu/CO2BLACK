@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/smokeymaster.unity
+- path: Assets/_Scenes/smokeyintro.unity
   isLoaded: 1
   isActive: 1
