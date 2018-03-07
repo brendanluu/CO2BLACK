@@ -1,23 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/UnityARKitPlugin/ARKitRemote/EditorTestScene.unity
-=======
-<<<<<<< HEAD
 - path: Assets/_Scenes/master6.unity
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-- path: Assets/_Scenes/master7.unity
-=======
-- path: Assets/_Scenes/smokeyintro.unity
->>>>>>> origin/master
-=======
-- path: Assets/_Scenes/master6.unity
-=======
-- path: Assets/_Scenes/smokeyintro.unity
->>>>>>> c60c2b535ce7ef3936d831ef9f33fc7a168f22b4
->>>>>>> origin/master
->>>>>>> 8b32e92e8b97bee7ee68efbc8a9ce2d9bab6a257
->>>>>>> 0c8c581d36462f5187c833c9333d3603ce3354dd
   isLoaded: 1
   isActive: 1
