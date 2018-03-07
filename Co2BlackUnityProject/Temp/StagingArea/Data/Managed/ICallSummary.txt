@@ -16,6 +16,10 @@ UnityEngine.AnimationCurve::Init
 UnityEngine.Animator::get_hasBoundPlayables
 UnityEngine.Animator::StringToHash
 UnityEngine.Animator::INTERNAL_get_deltaPosition
+<<<<<<< HEAD
+=======
+UnityEngine.Animator::Play
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 UnityEngine.Animator::ResetTriggerString
 UnityEngine.Animator::SetBoolString
 UnityEngine.Animator::SetFloatString

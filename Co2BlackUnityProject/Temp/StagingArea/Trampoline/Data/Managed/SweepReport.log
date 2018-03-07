@@ -11,7 +11,11 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 201
   Total Field Removals = 1113
+<<<<<<< HEAD
   Total Method Removals = 15555
+=======
+  Total Method Removals = 15549
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 ---------------------------------------------------
 ---------------------------------------------------
 Assembly: Mapbox.Json
@@ -14310,7 +14314,11 @@ Summary:
     Generic Abstract Classes = 0
     Attributes = 0
   Total Field Removals = 0
+<<<<<<< HEAD
   Total Method Removals = 628
+=======
+  Total Method Removals = 622
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
   References Removed = 0
 ---------------------------------------------------
     UnityEngine.Animation
@@ -14820,12 +14828,15 @@ Summary:
         IsParameterControlledByCurveString(System.String)
         MatchTarget(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.AvatarTarget,UnityEngine.MatchTargetWeightMask,System.Single)
         MatchTarget(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.AvatarTarget,UnityEngine.MatchTargetWeightMask,System.Single,System.Single)
+<<<<<<< HEAD
         Play(System.Int32)
         Play(System.Int32,System.Int32)
         Play(System.Int32,System.Int32,System.Single)
         Play(System.String)
         Play(System.String,System.Int32)
         Play(System.String,System.Int32,System.Single)
+=======
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
         PlayInFixedTime(System.Int32)
         PlayInFixedTime(System.Int32,System.Int32)
         PlayInFixedTime(System.Int32,System.Int32,System.Single)

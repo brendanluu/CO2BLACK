@@ -1,5 +1,6 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
+<<<<<<< HEAD
 		<type fullname="thirdModule">
 			<method name="toThirdModBtn"/>
 		</type>
@@ -18,9 +19,51 @@
 			<method name="goToThirdModule"/>
 			<method name="layerUp"/>
 			<method name="layerClose"/>
+=======
+		<type fullname="lampBtnsNOTRANS">
+			<method name="BuildingFactTopBtn"/>
+			<method name="dontForgetBtn"/>
+			<method name="BuildingFactBotBtn"/>
+		</type>
+		<type fullname="thirdModule">
+			<method name="toThirdModBtn"/>
+		</type>
+		<type fullname="thirdmod">
+			<method name="hideAllModels"/>
+			<method name="turnOnCleanText"/>
+			<method name="turnOnGas"/>
+			<method name="turnOnCoal"/>
+			<method name="turnOnAll"/>
+		</type>
+		<type fullname="EnergyHit">
+			<method name="chosenEnergy"/>
+			<method name="energyFact2btn"/>
+			<method name="energyFactbtn"/>
+		</type>
+		<type fullname="ignoreCollision">
+			<method name="foamTapAway"/>
+			<method name="trashTapAway"/>
+		</type>
+		<type fullname="detectCollision">
+			<method name="bottleTapAway"/>
+			<method name="sodaTapAway"/>
+			<method name="boxTapAway"/>
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 		</type>
 		<type fullname="secondModule">
 			<method name="toSecondModBtn"/>
 		</type>
+<<<<<<< HEAD
+=======
+		<type fullname="loadDelayOutro">
+			<method name="ModeSelect"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator">
+			<method name="Play"/>
+			<method name="Play"/>
+		</type>
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 	</assembly>
 </linker>

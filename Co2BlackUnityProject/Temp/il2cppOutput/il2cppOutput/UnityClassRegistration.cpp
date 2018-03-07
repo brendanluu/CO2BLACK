@@ -162,7 +162,11 @@ class ParticleRenderer;
 class ParticleSystemRenderer; template <> void RegisterClass<ParticleSystemRenderer>();
 class SkinnedMeshRenderer; 
 class SpriteMask; 
+<<<<<<< HEAD
 class SpriteRenderer; template <> void RegisterClass<SpriteRenderer>();
+=======
+class SpriteRenderer; 
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 class TilemapRenderer; 
 class TrailRenderer; 
 class Rigidbody; template <> void RegisterClass<Rigidbody>();
@@ -270,7 +274,11 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
+<<<<<<< HEAD
 	//Total: 88 non stripped classes
+=======
+	//Total: 87 non stripped classes
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 	//0. Behaviour
 	RegisterClass<Behaviour>();
 	//1. Unity::Component
@@ -423,6 +431,7 @@ RegisterBuiltinTypes();
 	RegisterClass<FlareLayer>();
 	//75. RenderSettings
 	RegisterClass<RenderSettings>();
+<<<<<<< HEAD
 	//76. SpriteRenderer
 	RegisterClass<SpriteRenderer>();
 	//77. LightmapSettings
@@ -446,6 +455,29 @@ RegisterBuiltinTypes();
 	//86. AnimationClip
 	RegisterClass<AnimationClip>();
 	//87. NavMeshSettings
+=======
+	//76. LightmapSettings
+	RegisterClass<LightmapSettings>();
+	//77. CGProgram
+	RegisterClass<CGProgram>();
+	//78. PhysicMaterial
+	RegisterClass<PhysicMaterial>();
+	//79. Motion
+	RegisterClass<Motion>();
+	//80. AnimatorController
+	RegisterClass<AnimatorController>();
+	//81. RuntimeAnimatorController
+	RegisterClass<RuntimeAnimatorController>();
+	//82. ParticleSystemRenderer
+	RegisterClass<ParticleSystemRenderer>();
+	//83. Avatar
+	RegisterClass<Avatar>();
+	//84. LightProbes
+	RegisterClass<LightProbes>();
+	//85. AnimationClip
+	RegisterClass<AnimationClip>();
+	//86. NavMeshSettings
+>>>>>>> ce6ebb9b698cde86a8cf84a442c048d464368a94
 	RegisterClass<NavMeshSettings>();
 
 }
