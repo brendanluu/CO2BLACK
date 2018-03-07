@@ -1,8 +1,15 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/_Scenes/master7.unity
 =======
 - path: Assets/_Scenes/smokeyintro.unity
+>>>>>>> origin/master
+=======
+- path: Assets/_Scenes/master6.unity
+=======
+- path: Assets/_Scenes/smokeyintro.unity
+>>>>>>> c60c2b535ce7ef3936d831ef9f33fc7a168f22b4
 >>>>>>> origin/master
   isLoaded: 1
   isActive: 1
