@@ -40,6 +40,9 @@ MonoBehaviour:
   m_RootView: {fileID: 6}
   m_MinSize: {x: 950, y: 300}
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
@@ -61,6 +64,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1440
     height: 717
   m_MinSize: {x: 683, y: 342}
@@ -69,6 +73,8 @@ MonoBehaviour:
   controlID: 25
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     width: 1680
     height: 877
   m_MinSize: {x: 681, y: 492}
@@ -83,6 +89,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 25
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
 --- !u!114 &3
 MonoBehaviour:
@@ -101,10 +110,13 @@ MonoBehaviour:
     x: 1148
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 292
     height: 717
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     width: 341
     height: 877
   m_MinSize: {x: 275, y: 50}
@@ -112,6 +124,9 @@ MonoBehaviour:
 =======
     width: 277
     height: 668
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -138,16 +153,22 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 284
     height: 446
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     width: 202
     height: 497
 =======
     width: 248
     height: 397
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -172,6 +193,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 446
     width: 1148
     height: 271
@@ -184,6 +206,8 @@ MonoBehaviour:
   m_Selected: 1
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     y: 497
     width: 1339
     height: 380
@@ -201,6 +225,9 @@ MonoBehaviour:
   m_Selected: 0
 <<<<<<< HEAD
   m_LastSelected: 1
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
 =======
 >>>>>>> parent of 58bea8bb... meta
   m_LastSelected: 0
@@ -225,11 +252,14 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1440
     height: 767
   m_MinSize: {x: 950, y: 392}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     width: 1680
     height: 927
 =======
@@ -237,6 +267,9 @@ MonoBehaviour:
     height: 718
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
   m_MinSize: {x: 950, y: 300}
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -276,16 +309,22 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 747
     width: 1440
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     y: 907
     width: 1680
 =======
     y: 698
     width: 1280
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -309,6 +348,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1148
     height: 717
   m_MinSize: {x: 406, y: 342}
@@ -317,6 +357,8 @@ MonoBehaviour:
   controlID: 26
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     width: 1339
     height: 877
   m_MinSize: {x: 406, y: 492}
@@ -331,6 +373,9 @@ MonoBehaviour:
   vertical: 1
   controlID: 26
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
 --- !u!114 &10
 MonoBehaviour:
@@ -351,10 +396,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1148
     height: 446
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     width: 1339
     height: 497
   m_MinSize: {x: 406, y: 221}
@@ -364,12 +412,19 @@ MonoBehaviour:
 =======
     width: 1003
     height: 397
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 27
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+>>>>>>> parent of 58bea8bb... meta
 =======
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
 >>>>>>> parent of 58bea8bb... meta
@@ -388,6 +443,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 284
     y: 0
     width: 864
@@ -396,6 +452,10 @@ MonoBehaviour:
 <<<<<<< HEAD
     x: 202
     y: 0
+=======
+    x: 202
+    y: 0
+>>>>>>> parent of 58bea8bb... meta
     width: 1137
     height: 497
 =======
@@ -404,6 +464,9 @@ MonoBehaviour:
     width: 755
     height: 397
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -414,13 +477,19 @@ MonoBehaviour:
   - {fileID: 12}
   m_Selected: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelected: 1
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
   m_LastSelected: 0
 =======
   m_LastSelected: 1
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
 --- !u!114 &12
 MonoBehaviour:
@@ -478,14 +547,20 @@ MonoBehaviour:
 =======
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 539
     width: 1146
     height: 250
 =======
+=======
+>>>>>>> parent of 58bea8bb... meta
     y: 491
     width: 1001
     height: 250
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_SearchFilter:
     m_NameFilter: 
@@ -506,6 +581,7 @@ MonoBehaviour:
   - Assets/Animations
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: /Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject
   m_IsLocked: 0
   m_FolderTreeState:
@@ -514,6 +590,8 @@ MonoBehaviour:
     m_LastClickedID: 13054
     m_ExpandedIDs: 00000000d42b0000e62b0000622c0000f42c0000382e0000d82e0000e22e0000002f0000262f0000e43100008232000026330000ba330000bc3300006e340000b4340000ee3600000e3800003438000078380000ba390000143a0000443a0000383b000000ca9a3bffffff7f
 =======
+=======
+>>>>>>> parent of 58bea8bb... meta
   m_LastProjectPath: /Users/erinwiegman/Desktop/junior_year/Fall_17/Workshop-IDM_371/CO2BLACK/Co2BlackUnityProject
   m_IsLocked: 0
   m_FolderTreeState:
@@ -527,6 +605,9 @@ MonoBehaviour:
     m_LastClickedID: 12038
     m_ExpandedIDs: 000000002c2c00003e2c0000b82c00004a2d00008c2e00002c2f0000362f0000542f0000602f00007a2f000036320000d4320000783300000c3400000e340000be3400003e3700005a38000080380000c4380000063a0000603a0000903a0000843b0000ffffff7f
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -556,13 +637,19 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000d42b0000e62b0000622c0000f42c0000382e0000d82e0000e22e0000002f0000262f0000e43100008232000026330000ba330000bc3300006e340000b4340000ee3600000e3800003438000078380000ba390000143a0000443a0000383b0000
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     m_ExpandedIDs: 00000000d22b0000e42b00005a2c0000ec2c0000222e0000c02e0000ca2e0000e62e0000f22e00000a2f0000c031000054320000ee3200007a3300007c330000263400008e360000a6370000cc37000010380000463900009e390000ca390000ba3a0000
 =======
     m_ExpandedIDs: 000000002c2c00003e2c0000b82c00004a2d00008c2e00002c2f0000362f0000542f0000602f00007a2f000036320000d4320000783300000c3400000e340000be3400003e3700005a38000080380000c4380000063a0000603a0000903a0000843b0000
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -620,11 +707,14 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 43.5}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 252
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 258
@@ -633,6 +723,9 @@ MonoBehaviour:
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
 --- !u!114 &14
 MonoBehaviour:
@@ -657,12 +750,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1150
     y: 93
     width: 290
     height: 696
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     x: 1340
     y: 94
     width: 339
@@ -673,6 +769,9 @@ MonoBehaviour:
     width: 275
     height: 647
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -719,19 +818,28 @@ MonoBehaviour:
     width: 246
     height: 376
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: a4efffff5af1ffff1ef4ffff38f7ffffccf8ffffa6fbffff00000000
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     m_ExpandedIDs: cae9fdffdaeafdffdcedfdffea1bfefffc1cfefffe1ffeffa6fbffff00000000d83e0000f03e0000ca3f000078410000884200008e4200006e6000009860000036610000a863000076670000
 =======
     m_ExpandedIDs: a4c0ffff48c1ffff76c4ffff94f3ffff8cfbffff00000000cc420000
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -782,6 +890,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 286
     y: 93
     width: 860
@@ -805,16 +914,43 @@ MonoBehaviour:
   lastFramingTime: 0
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
 >>>>>>> parent of 58bea8bb... meta
+=======
+    x: 203
+    y: 94
+    width: 1133
+    height: 476
+  m_SceneLighting: 1
+  lastFramingTime: 189.34645700454712
+=======
+    x: 250
+    y: 94
+    width: 751
+    height: 376
+  m_SceneLighting: 1
+  lastFramingTime: 0
+>>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+>>>>>>> parent of 58bea8bb... meta
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -0.093160704, y: 0.7111607, z: -2.9434528}
     speed: 2
     m_Value: {x: -0.093160704, y: 0.7111607, z: -2.9434528}
 =======
 <<<<<<< HEAD
+    m_Target: {x: 0.103980534, y: -0.05854124, z: -2.274184}
+    speed: 2
+    m_Value: {x: 0.103980534, y: -0.05854124, z: -2.274184}
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+>>>>>>> parent of 58bea8bb... meta
+=======
     m_Target: {x: 0.103980534, y: -0.05854124, z: -2.274184}
     speed: 2
     m_Value: {x: 0.103980534, y: -0.05854124, z: -2.274184}
@@ -847,6 +983,7 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.04729748, y: 0.9417875, z: -0.14986922, w: -0.29722038}
     speed: 2
     m_Value: {x: -0.047297448, y: 0.9417868, z: -0.14986911, w: -0.29722017}
@@ -856,6 +993,8 @@ MonoBehaviour:
     m_Value: 1.9369073
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     m_Target: {x: -0.37716785, y: 0.04913923, z: -0.020047843, w: -0.9246271}
     speed: 2
     m_Value: {x: -0.37716645, y: 0.04913905, z: -0.020047769, w: -0.9246237}
@@ -872,6 +1011,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 10
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_Ortho:
     m_Target: 0
@@ -907,12 +1049,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 286
     y: 93
     width: 860
     height: 493
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     x: 583
     y: 19
     width: 754
@@ -923,6 +1068,9 @@ MonoBehaviour:
     width: 1532
     height: 790
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -933,12 +1081,15 @@ MonoBehaviour:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -430
     m_HBaseRangeMax: 430
     m_VBaseRangeMin: -238
     m_VBaseRangeMax: 238
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
     m_HBaseRangeMin: -188.5
     m_HBaseRangeMax: 188.5
     m_VBaseRangeMin: -114.75
@@ -949,6 +1100,9 @@ MonoBehaviour:
     m_VBaseRangeMin: -193.25
     m_VBaseRangeMax: 193.25
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -967,12 +1121,15 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 860
       height: 476
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 430, y: 238}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
       width: 754
       height: 459
     m_Scale: {x: 2, y: 2}
@@ -983,6 +1140,9 @@ MonoBehaviour:
     m_Scale: {x: 2, y: 2}
     m_Translation: {x: 766, y: 386.5}
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -991,24 +1151,33 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -430
       y: -238
       width: 860
       height: 476
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 58bea8bb... meta
       x: -188.5
       y: -114.75
       width: 377
       height: 229.5
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
     m_MinimalGUI: 1
   m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 860, y: 493}
 =======
+=======
+>>>>>>> parent of 58bea8bb... meta
   m_LastWindowPixelSize: {x: 1508, y: 952}
 =======
       x: -383
@@ -1021,6 +1190,9 @@ MonoBehaviour:
   m_CurrentColorSpace: 1
   m_LastWindowPixelSize: {x: 3064, y: 1580}
 >>>>>>> 0a1b9b8aac15b7fc2081d6ec4c98620262c46a39
+<<<<<<< HEAD
+>>>>>>> parent of 58bea8bb... meta
+=======
 >>>>>>> parent of 58bea8bb... meta
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
