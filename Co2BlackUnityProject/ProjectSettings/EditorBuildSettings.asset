@@ -4,30 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/WiegmanRussoContrast.unity
-    guid: 49bf403695bd74c1fbfab63f1b510d7d
-  - enabled: 0
-    path: Assets/_Scenes/master 1.unity
-    guid: 9847ca471dc2f4d8e85e7794ce7f6481
-  - enabled: 0
-    path: Assets/_Scenes/Outro2.unity
-    guid: 781b8fe1362f443a7a287ab22409b535
-  - enabled: 0
-    path: Assets/_Scenes/3rdmodule.unity
-    guid: 2055195520c164fb997710caf94e3cc7
-  - enabled: 0
-    path: Assets/_Scenes/3rdmodule1.unity
-    guid: 7bb8fc0f546394749aaa7d24c862856b
-  - enabled: 0
-    path: Assets/_Scenes/master5.unity
-    guid: d8b3b71bfeb2f464095ec6d015cf8fd3
-  - enabled: 1
-<<<<<<< Updated upstream
-    path: Assets/_Scenes/master6.unity
-    guid: 067f31bcf3f6d4a448d53cfe48c7a8d8
-=======
-    path: Assets/_Scenes/master7.unity
-    guid: 2576b53a21822421baf6fcbe9641a031
->>>>>>> Stashed changes
+  m_Scenes: []
