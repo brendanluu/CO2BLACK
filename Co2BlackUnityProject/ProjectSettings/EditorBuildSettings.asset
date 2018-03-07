@@ -6,5 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/_Scenes/master6.unity
     guid: 067f31bcf3f6d4a448d53cfe48c7a8d8
+=======
+    path: Assets/_Scenes/smokeyintro.unity
+    guid: ba73b00188cf4429987718fa0a163038
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> c60c2b535ce7ef3936d831ef9f33fc7a168f22b4
+>>>>>>> origin/master
+>>>>>>> 0c8c581d36462f5187c833c9333d3603ce3354dd

@@ -642,16 +642,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   instructions: {fileID: 613919910}
-  trashBagDialogue: {fileID: 0}
-  trashBagDialogue_trans: {fileID: 0}
-  boxDialogue: {fileID: 0}
-  boxDialogue_trans: {fileID: 0}
-  bottleDialogue: {fileID: 0}
-  bottleDialogue_trans: {fileID: 0}
-  foamCupDialogue: {fileID: 0}
-  foamCupDialogue_trans: {fileID: 0}
-  sodaDialogue: {fileID: 0}
-  sodaDialogue_trans: {fileID: 0}
 --- !u!1 &54304119
 GameObject:
   m_ObjectHideFlags: 0
@@ -1794,7 +1784,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &232248575
 Transform:
   m_ObjectHideFlags: 0
@@ -2026,7 +2016,6 @@ GameObject:
   - component: {fileID: 254553985}
   - component: {fileID: 254553987}
   - component: {fileID: 254553986}
-  - component: {fileID: 254553988}
   m_Layer: 5
   m_Name: tapToPlaceText
   m_TagString: Untagged
@@ -2173,23 +2162,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 254553984}
---- !u!95 &254553988
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 254553984}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b562061019d6040808a486e4f47163a7, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1001 &264628782
 Prefab:
   m_ObjectHideFlags: 0
@@ -4623,6 +4595,7 @@ GameObject:
   - component: {fileID: 597554535}
   - component: {fileID: 597554538}
   - component: {fileID: 597554537}
+  - component: {fileID: 597554536}
   m_Layer: 5
   m_Name: Image (1)
   m_TagString: Untagged
@@ -4637,7 +4610,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 597554534}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -50, y: 118, z: -1.6249999}
+  m_LocalPosition: {x: -42, y: 110, z: -1.6249999}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1692953094}
@@ -4645,9 +4618,26 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -50, y: 118}
+  m_AnchoredPosition: {x: -42, y: 110}
   m_SizeDelta: {x: 100, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &597554536
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 597554534}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 43dcc7bf230514808870d4d3102a1b66, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &597554537
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5240,7 +5230,6 @@ GameObject:
   - component: {fileID: 701593745}
   - component: {fileID: 701593747}
   - component: {fileID: 701593746}
-  - component: {fileID: 701593748}
   m_Layer: 5
   m_Name: BuildingFactBotText
   m_TagString: Untagged
@@ -5386,23 +5375,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 701593744}
---- !u!95 &701593748
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 701593744}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e8fb12452e9a840cdad273118aadfd1f, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &710613553
 GameObject:
   m_ObjectHideFlags: 0
@@ -6113,7 +6085,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buildingFact: {fileID: 1063221362}
-  buildingFact_trans: {fileID: 1825204489}
   badBulb: {fileID: 733248250}
   cflTrans: {fileID: 1435905793}
   cflBulb: {fileID: 958016284}
@@ -6195,7 +6166,6 @@ GameObject:
   - component: {fileID: 806436619}
   - component: {fileID: 806436618}
   - component: {fileID: 806436617}
-  - component: {fileID: 806436620}
   m_Layer: 5
   m_Name: FindFlatText
   m_TagString: Untagged
@@ -6222,7 +6192,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Aim at the floor and move your device in a circle
+  m_text: Point at floor to find flat surface
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5d0c7208780b941778fe2e0e09902f22, type: 2}
   m_sharedMaterial: {fileID: 21439053817977586, guid: 5d0c7208780b941778fe2e0e09902f22,
@@ -6290,10 +6260,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -776.1199, w: 21.92419}
   m_textInfo:
     textComponent: {fileID: 806436617}
-    characterCount: 49
+    characterCount: 35
     spriteCount: 0
-    spaceCount: 10
-    wordCount: 11
+    spaceCount: 6
+    wordCount: 7
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -6340,23 +6310,6 @@ RectTransform:
   m_AnchoredPosition: {x: 316.7791, y: 603}
   m_SizeDelta: {x: 673, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!95 &806436620
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 806436616}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0f77243b108674469829c66cf4248c7b, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &812821668
 GameObject:
   m_ObjectHideFlags: 0
@@ -7052,7 +7005,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buildingFact: {fileID: 1063221362}
-  buildingFact_trans: {fileID: 1825204489}
   badBulb: {fileID: 733248250}
   cflTrans: {fileID: 1435905793}
   cflBulb: {fileID: 958016284}
@@ -7117,8 +7069,6 @@ MonoBehaviour:
   TapToText: {fileID: 254553984}
   buildingFact: {fileID: 1063221362}
   buildingFact_trans: {fileID: 1825204489}
-  cflBulb: {fileID: 958016284}
-  replaceBulb: {fileID: 1104974975}
   lampNewCollider: {fileID: 1594088740}
   lampShade: {fileID: 2100000, guid: dc1597777e1ce499d99ce51b2d48ab5b, type: 2}
 --- !u!95 &1019435500
@@ -7777,7 +7727,6 @@ GameObject:
   - component: {fileID: 1104974976}
   - component: {fileID: 1104974978}
   - component: {fileID: 1104974977}
-  - component: {fileID: 1104974979}
   m_Layer: 5
   m_Name: replaceBulbText
   m_TagString: Untagged
@@ -7922,6 +7871,7 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1104974975}
+<<<<<<< HEAD
 --- !u!95 &1104974979
 Animator:
   serializedVersion: 3
@@ -7981,6 +7931,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> 0c8c581d36462f5187c833c9333d3603ce3354dd
 --- !u!1 &1123351383
 GameObject:
   m_ObjectHideFlags: 0
@@ -8597,7 +8549,11 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
+<<<<<<< HEAD
   randomSeed: 1998239641
+=======
+  randomSeed: 65279480
+>>>>>>> 0c8c581d36462f5187c833c9333d3603ce3354dd
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -13208,7 +13164,7 @@ RectTransform:
   m_GameObject: {fileID: 1435905793}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 741.0645, y: 406.13586, z: 0}
-  m_LocalScale: {x: 2.5928798, y: 2.592881, z: 2.592881}
+  m_LocalScale: {x: 3.199095, y: 3.1990962, z: 3.1990962}
   m_Children: []
   m_Father: {fileID: 761996838}
   m_RootOrder: 3
@@ -13216,7 +13172,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 741.0645, y: 406.13586}
-  m_SizeDelta: {x: 50, y: 100}
+  m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1435905795
 MonoBehaviour:
@@ -13237,7 +13193,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8f19447c6bb4343c7b6768e84c540596, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bf171abbc18d34298b5c4a12b64a5171, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13881,8 +13837,7 @@ Animation:
   m_Enabled: 1
   serializedVersion: 3
   m_Animation: {fileID: 7400000, guid: 47ca1679cd18049b2889ef309fa17942, type: 2}
-  m_Animations:
-  - {fileID: 7400000, guid: 47ca1679cd18049b2889ef309fa17942, type: 2}
+  m_Animations: []
   m_WrapMode: 0
   m_PlayAutomatically: 0
   m_AnimatePhysics: 0
@@ -14390,8 +14345,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1692953090}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 839.8421, y: -27, z: 2.469067}
-  m_LocalScale: {x: 1.7494646, y: 1.749465, z: 1.749465}
+  m_LocalPosition: {x: 839.8421, y: 13, z: 2.4690673}
+  m_LocalScale: {x: 1.9579968, y: 1.9579979, z: 1.9579979}
   m_Children:
   - {fileID: 597554535}
   m_Father: {fileID: 761996838}
@@ -15234,7 +15189,6 @@ GameObject:
   - component: {fileID: 1821008832}
   - component: {fileID: 1821008834}
   - component: {fileID: 1821008833}
-  - component: {fileID: 1821008835}
   m_Layer: 5
   m_Name: TurnOffText
   m_TagString: Untagged
@@ -15381,23 +15335,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1821008831}
---- !u!95 &1821008835
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1821008831}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6d113468f6508470694b5f607abc0f21, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1823172429
 GameObject:
   m_ObjectHideFlags: 0
@@ -15942,17 +15879,6 @@ MonoBehaviour:
   sodaDialogue_trans: {fileID: 1807197351}
   nextTrash: {fileID: 1440206168}
   twoRejections: 0
-  trashOk: 1
-  trashHasCollided: 0
-  trashCanRun: 1
-  foamHasCollided: 0
-  foamCanRun: 1
-  bottleHasCollided: 0
-  bottleCanRun: 1
-  boxHasCollided: 0
-  boxCanRun: 1
-  sodaHasCollided: 0
-  sodaCanRun: 1
 --- !u!111 &1932640856
 Animation:
   m_ObjectHideFlags: 0
