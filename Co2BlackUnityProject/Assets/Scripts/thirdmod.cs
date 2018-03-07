@@ -63,19 +63,19 @@ public class thirdmod : MonoBehaviour {
 		Debug.Log("boiiiii");
 	}
 
-//	void HitByRayThird () {
-//		Debug.Log ("I was hit by a Ray");
-//		if (screen1.activeInHierarchy) {
-//			screen1.SetActive (false);
-//			screen2.SetActive (true);
-//
-//		}
-//		if (screen2.activeInHierarchy) {
-//			screen2.SetActive (false);
-//			screen3.SetActive (true);
-//		}
-//
-//	}
-//
+	void HitByRayThird () {
+		Debug.Log ("I was hit by a Ray");
+		if (screen1.activeInHierarchy) {
+			screen1.SetActive (false);
+			screen2.SetActive (true);
+
+		}
+		if (screen2.activeInHierarchy) {
+			screen2.SetActive (false);
+			screen3.SetActive (true);
+		}
+
+	}
+
 
 }
