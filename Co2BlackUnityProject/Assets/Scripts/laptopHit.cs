@@ -23,15 +23,6 @@ public class laptopHit : MonoBehaviour {
 
 		Debug.Log (Input.touchCount);
 
-		int fingerCount = 0;
-		foreach (Touch touch in Input.touches) {
-			if (touch.phase != TouchPhase.Ended && touch.phase != TouchPhase.Canceled)
-				fingerCount++;
-		}
-
-		if (fingerCount > 0)
-			print("User has " + fingerCount + " finger(s) touching the screen");
-
 
 
 
@@ -51,17 +42,16 @@ public class laptopHit : MonoBehaviour {
 						laptopSelect = hit.transform.gameObject;
 						screen1.SetActive (false);
 						screen2.SetActive (true);
-
                     }
+				}
 
-
-					else if (hit.transform.gameObject.tag == "screen2"){
+				if (Physics.Raycast (ray, out hit, 100)) {
+					if  (hit.transform.gameObject.tag == "screen2"){
 						Debug.Log ("popp");
 						screenTwoSelect = hit.transform.gameObject;
 						screen2.SetActive (false);
 						screen3.SetActive (true);
 					}
-					
 				}
 			}
 		}
