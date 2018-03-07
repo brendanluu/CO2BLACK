@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44981855, g: 0.49988562, b: 0.5755972, a: 1}
+  m_IndirectSpecularColor: {r: 0.44981843, g: 0.49988526, b: 0.5755968, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -642,6 +642,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   instructions: {fileID: 613919910}
+  trashBagDialogue: {fileID: 0}
+  trashBagDialogue_trans: {fileID: 0}
+  boxDialogue: {fileID: 0}
+  boxDialogue_trans: {fileID: 0}
+  bottleDialogue: {fileID: 0}
+  bottleDialogue_trans: {fileID: 0}
+  foamCupDialogue: {fileID: 0}
+  foamCupDialogue_trans: {fileID: 0}
+  sodaDialogue: {fileID: 0}
+  sodaDialogue_trans: {fileID: 0}
 --- !u!1 &54304119
 GameObject:
   m_ObjectHideFlags: 0
@@ -903,8 +913,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 70803800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 815, y: 408, z: 0}
-  m_LocalScale: {x: 1.221889, y: 1.221889, z: 1.221889}
+  m_LocalPosition: {x: 667, y: 375, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 934687023}
   - {fileID: 761996838}
@@ -946,7 +956,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 113310975}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 565, y: -156.90921, z: 0}
+  m_LocalPosition: {x: 565, y: -198, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1027310525}
@@ -1784,7 +1794,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &232248575
 Transform:
   m_ObjectHideFlags: 0
@@ -2016,6 +2026,7 @@ GameObject:
   - component: {fileID: 254553985}
   - component: {fileID: 254553987}
   - component: {fileID: 254553986}
+  - component: {fileID: 254553988}
   m_Layer: 5
   m_Name: tapToPlaceText
   m_TagString: Untagged
@@ -2162,6 +2173,23 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 254553984}
+--- !u!95 &254553988
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 254553984}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b562061019d6040808a486e4f47163a7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1001 &264628782
 Prefab:
   m_ObjectHideFlags: 0
@@ -5212,6 +5240,7 @@ GameObject:
   - component: {fileID: 701593745}
   - component: {fileID: 701593747}
   - component: {fileID: 701593746}
+  - component: {fileID: 701593748}
   m_Layer: 5
   m_Name: BuildingFactBotText
   m_TagString: Untagged
@@ -5357,6 +5386,23 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 701593744}
+--- !u!95 &701593748
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 701593744}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e8fb12452e9a840cdad273118aadfd1f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &710613553
 GameObject:
   m_ObjectHideFlags: 0
@@ -6067,6 +6113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buildingFact: {fileID: 1063221362}
+  buildingFact_trans: {fileID: 1825204489}
   badBulb: {fileID: 733248250}
   cflTrans: {fileID: 1435905793}
   cflBulb: {fileID: 958016284}
@@ -6148,6 +6195,7 @@ GameObject:
   - component: {fileID: 806436619}
   - component: {fileID: 806436618}
   - component: {fileID: 806436617}
+  - component: {fileID: 806436620}
   m_Layer: 5
   m_Name: FindFlatText
   m_TagString: Untagged
@@ -6250,11 +6298,11 @@ MonoBehaviour:
     lineCount: 1
     pageCount: 1
     materialCount: 1
-  m_havePropertiesChanged: 0
+  m_havePropertiesChanged: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_spriteAnimator: {fileID: 0}
-  m_isInputParsingRequired: 0
+  m_isInputParsingRequired: 1
   m_inputSource: 0
   m_hasFontAssetChanged: 0
   m_subTextObjects:
@@ -6292,6 +6340,23 @@ RectTransform:
   m_AnchoredPosition: {x: 316.7791, y: 603}
   m_SizeDelta: {x: 673, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &806436620
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 806436616}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0f77243b108674469829c66cf4248c7b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &812821668
 GameObject:
   m_ObjectHideFlags: 0
@@ -6577,7 +6642,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 934687022}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 301.9092, z: 0}
+  m_LocalPosition: {x: 0, y: 343, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 847366407}
@@ -6987,6 +7052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buildingFact: {fileID: 1063221362}
+  buildingFact_trans: {fileID: 1825204489}
   badBulb: {fileID: 733248250}
   cflTrans: {fileID: 1435905793}
   cflBulb: {fileID: 958016284}
@@ -7051,6 +7117,8 @@ MonoBehaviour:
   TapToText: {fileID: 254553984}
   buildingFact: {fileID: 1063221362}
   buildingFact_trans: {fileID: 1825204489}
+  cflBulb: {fileID: 958016284}
+  replaceBulb: {fileID: 1104974975}
   lampNewCollider: {fileID: 1594088740}
   lampShade: {fileID: 2100000, guid: dc1597777e1ce499d99ce51b2d48ab5b, type: 2}
 --- !u!95 &1019435500
@@ -7709,6 +7777,7 @@ GameObject:
   - component: {fileID: 1104974976}
   - component: {fileID: 1104974978}
   - component: {fileID: 1104974977}
+  - component: {fileID: 1104974979}
   m_Layer: 5
   m_Name: replaceBulbText
   m_TagString: Untagged
@@ -7853,6 +7922,23 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1104974975}
+--- !u!95 &1104974979
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1104974975}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 925614e10467e4a82906a78a2fcfdee6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1123351383
 GameObject:
   m_ObjectHideFlags: 0
@@ -8469,7 +8555,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: 65279480
+  randomSeed: 1449188003
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -12352,7 +12438,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1306258099}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 571, y: -240.90921, z: 0}
+  m_LocalPosition: {x: 571, y: -282, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1486112636}
@@ -15106,6 +15192,7 @@ GameObject:
   - component: {fileID: 1821008832}
   - component: {fileID: 1821008834}
   - component: {fileID: 1821008833}
+  - component: {fileID: 1821008835}
   m_Layer: 5
   m_Name: TurnOffText
   m_TagString: Untagged
@@ -15252,6 +15339,23 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1821008831}
+--- !u!95 &1821008835
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1821008831}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6d113468f6508470694b5f607abc0f21, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1823172429
 GameObject:
   m_ObjectHideFlags: 0
@@ -15796,6 +15900,17 @@ MonoBehaviour:
   sodaDialogue_trans: {fileID: 1807197351}
   nextTrash: {fileID: 1440206168}
   twoRejections: 0
+  trashOk: 1
+  trashHasCollided: 0
+  trashCanRun: 1
+  foamHasCollided: 0
+  foamCanRun: 1
+  bottleHasCollided: 0
+  bottleCanRun: 1
+  boxHasCollided: 0
+  boxCanRun: 1
+  sodaHasCollided: 0
+  sodaCanRun: 1
 --- !u!111 &1932640856
 Animation:
   m_ObjectHideFlags: 0

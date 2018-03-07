@@ -9,14 +9,12 @@ public class co2Controller : MonoBehaviour {
 	public GameObject BuildingFact;
 	public GameObject BuildingFact_Trans;
 	public GameObject replaceBulb;
-	// public GameObject ReplaceBulb_Trans;
 	public GameObject lampNew;
 
 	public void BuildingFact_ReplaceBulb () {
 
 		BuildingFact.SetActive (false);
 		BuildingFact_Trans.SetActive (false);
-		// ReplaceBulb_Trans.SetActive (true);
 		replaceBulb.SetActive (true);
 		
 	}

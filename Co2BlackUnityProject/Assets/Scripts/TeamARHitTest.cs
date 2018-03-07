@@ -18,6 +18,9 @@ namespace UnityEngine.XR.iOS
 		public GameObject buildingFact;
 		public GameObject buildingFact_trans;
 
+		public GameObject cflBulb;
+		public GameObject replaceBulb;
+
 
 		public GameObject lampNewCollider;
 
@@ -33,15 +36,17 @@ namespace UnityEngine.XR.iOS
 
 			if (hitResults.Count > 0) {
 
-				//text bug
-				buildingFact.SetActive (true);
-				buildingFact_trans.SetActive (true);
+				if (!cflBulb.activeInHierarchy) {
+					//works as long as theres only one condition?
+					buildingFact.SetActive (true);
+					buildingFact_trans.SetActive (true);
+				} 
 
 				BlueFocusSquare.SetActive (false);
 
-
 				FocusedSquare.SetActive (false);
 				Destroy (FocusedSquare);
+				Destroy (BlueFocusSquare);
 				Destroy (TapToText);
 
 
