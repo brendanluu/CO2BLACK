@@ -6,6 +6,7 @@ public class firstModule : MonoBehaviour {
 
 	//first screen (after tap to place)
 	public GameObject buildingFact;
+	public GameObject buildingFact_trans;
 	public GameObject badBulb;
 	public GameObject cflTrans;
 
@@ -26,10 +27,28 @@ public class firstModule : MonoBehaviour {
 
 	public Material smokeHigh;
 
+//	public GameObject lampContainer;
+//	public GameObject BlueFocusSquare;
+//	public GameObject FocusedSquare;
+//	public ParticleSystem scanningDots;
+//	public GameObject scanningDotsPs;
+//	public GameObject scanningDots;
+
 	//to second module
 	public GameObject toSecondMod;
 
 	void Update () {
+//		if (buildingFact.activeInHierarchy) {
+////	foundSquare.SetActive (squareState != FocusState.Found);
+////	findingSquare.SetActive (squareState != FocusState.Found);
+//		//Destroy (FocusedSquare);
+//		//BlueFocusSquare.SetActive (false);
+//		//Destroy (BlueFocusSquare);
+////	scanningDots.GetComponent<ParticleSystem>().enableEmission = false;
+////	scanningDots.Stop();
+//		scanningDotsPs.SetActive (false);
+//		//Destroy (scanningDots);
+//	}
 		//if text says "tap to replace bulb" show the cfl sprite
 		if (replaceBulb.activeInHierarchy) {
 			cflTrans.SetActive (true);
@@ -49,7 +68,6 @@ public class firstModule : MonoBehaviour {
 
 	void HitByRay () {
 		Debug.Log ("I was hit by a Ray");
-
 		if (replaceBulb.activeInHierarchy) {
 
 			badBulb.SetActive (false);
