@@ -260,6 +260,8 @@ dd6501652c91cb163a39e051d37a965f Assembly-CSharp.dll:.Ballz
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARAmbient
 b496c1e865ab2adff39f0738aaf6d87a Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.DirectionsFactory
 3c131bc1fcd62a99173616f1006723eb Assembly-CSharp.dll:.SVBoxSlider
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 e460db8af525eb7c78c76a025f4acae9 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Factories.LowPolyTerrainFactory
 bf2cf9401d7443cb02c1a66d3a4f2575 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ChamferHeightModifier
 3d5386862c34b50dc271b72256933016 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Interfaces.VectorLayerVisualizer

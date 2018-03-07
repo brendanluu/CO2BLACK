@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/_Scenes/master6.unity
-=======
-- path: Assets/_Scenes/smokeyintro.unity
->>>>>>> c60c2b535ce7ef3936d831ef9f33fc7a168f22b4
+- path: Assets/UnityARKitPlugin/ARKitRemote/EditorTestScene.unity
   isLoaded: 1
   isActive: 1
