@@ -4,10 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
+  m_Scenes: []
+=======
   m_Scenes:
   - enabled: 0
     path: Assets/_Scenes/smokeyintro.unity
     guid: ba73b00188cf4429987718fa0a163038
+<<<<<<< HEAD
   - enabled: 1
     path: Assets/_Scenes/3rdmodule1.unity
     guid: 7bb8fc0f546394749aaa7d24c862856b
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> c60c2b535ce7ef3936d831ef9f33fc7a168f22b4
+>>>>>>> origin/master
+>>>>>>> 0c8c581d36462f5187c833c9333d3603ce3354dd
