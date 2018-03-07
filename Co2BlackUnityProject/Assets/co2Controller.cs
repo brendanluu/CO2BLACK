@@ -4,34 +4,32 @@ using UnityEngine;
 
 public class co2Controller : MonoBehaviour {
 
-// First Building Fact to Second Building Fact
+// First Building Fact to Tap to Replace
 
-	public GameObject BuildingFactTop;
-	public GameObject BuildingFactTop_Trans;
-	public GameObject BuildingFactBot_Trans;
-	public GameObject BuildingFactBot;
+	public GameObject BuildingFact;
+	public GameObject BuildingFact_Trans;
+	public GameObject replaceBulb;
 	public GameObject lampNew;
 
-	public void BuildingTop_BuildingBot () {
+	public void BuildingFact_ReplaceBulb () {
 
-		BuildingFactTop.SetActive (false);
-		BuildingFactTop_Trans.SetActive (false);
-		BuildingFactBot_Trans.SetActive (true);
-		BuildingFactBot.SetActive (true);
+		BuildingFact.SetActive (false);
+		BuildingFact_Trans.SetActive (false);
+		replaceBulb.SetActive (true);
 		
 	}
 
-// Second Building Fact to dontForget Fact
+// Tap to Replace to dontForget Fact
 	public GameObject dontForget;
 	public GameObject dontForgetTrans;
 
-	public void BuildingBot_DontForget () {
+	// public void ReplaceBulb_DontForget () {
 
-		BuildingFactBot.SetActive (false);
-		BuildingFactBot_Trans.SetActive (false);
-		dontForgetTrans.SetActive (true);
-		dontForget.SetActive (true);
-	}
+	// 	replaceBulb.SetActive (false);
+	// 	// ReplaceBulb_Trans.SetActive (false);
+	// 	dontForgetTrans.SetActive (true);
+	// 	dontForget.SetActive (true);
+	// }
 
 // dontForget Fact to TurnOff Dialogue
 	public GameObject turnOff;

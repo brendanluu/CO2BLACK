@@ -11,6 +11,7 @@ public class PointCloudParticleExample : MonoBehaviour {
     private bool frameUpdated = false;
     private ParticleSystem currentPS;
     private ParticleSystem.Particle [] particles;
+//	public GameObject buildingFact;
 
 	// Use this for initialization
 	void Start () {
@@ -46,5 +47,12 @@ public class PointCloudParticleExample : MonoBehaviour {
             }
             frameUpdated = false;
         }
+//		if (buildingFact.activeInHierarchy) {
+//			currentPS.SetParticles (particles, 0);
+//			currentPS.Stop ();
+//			pointCloudParticlePrefab.Stop ();
+//			pointCloudParticlePrefab.enableEmission = false;
+//
+//		}
 	}
 }

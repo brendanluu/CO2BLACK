@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44981843, g: 0.49988526, b: 0.5755968, a: 1}
+  m_IndirectSpecularColor: {r: 0.44981855, g: 0.49988562, b: 0.5755972, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -596,7 +596,6 @@ MonoBehaviour:
   FindFlatSurfaceText: {fileID: 963181963}
   TapToPlaceText: {fileID: 2019929907}
   ObjectFocusSquare: {fileID: 157753746}
-  lampShade: {fileID: 0}
 --- !u!114 &70803802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -661,8 +660,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 70803800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 667, y: 375, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 751, y: 387, z: 0}
+  m_LocalScale: {x: 1.125937, y: 1.125937, z: 1.125937}
   m_Children:
   - {fileID: 761996838}
   - {fileID: 1669714007}
@@ -670,7 +669,7 @@ RectTransform:
   - {fileID: 1306258100}
   - {fileID: 113310976}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -823,9 +822,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BuildingFactTop: {fileID: 94576009}
+  BuildingFactTop_Trans: {fileID: 0}
+  BuildingFactBot_Trans: {fileID: 0}
   BuildingFactBot: {fileID: 2011183834}
   dontForget: {fileID: 161094343}
+  dontForgetTrans: {fileID: 0}
   turnOff: {fileID: 1596917924}
+  turnOffTrans: {fileID: 0}
   pointer: {fileID: 972099987}
 --- !u!1 &103395728
 GameObject:
@@ -1007,7 +1010,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 113310975}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 565, y: -198, z: 0}
+  m_LocalPosition: {x: 565, y: -166.71371, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1027310525}
@@ -1118,6 +1121,7 @@ MonoBehaviour:
   secondModuleGroup: {fileID: 1967328785}
   toThirdMod: {fileID: 113310975}
   thirdModuleGroup: {fileID: 1669714006}
+  thirdUI: {fileID: 0}
   lampModel: {fileID: 1019435492}
   lampStand: {fileID: 1894642488}
   lampCFL: {fileID: 958016284}
@@ -1309,9 +1313,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BuildingFactTop: {fileID: 94576009}
+  BuildingFactTop_Trans: {fileID: 0}
+  BuildingFactBot_Trans: {fileID: 0}
   BuildingFactBot: {fileID: 2011183834}
   dontForget: {fileID: 161094343}
+  dontForgetTrans: {fileID: 0}
   turnOff: {fileID: 1596917924}
+  turnOffTrans: {fileID: 0}
   pointer: {fileID: 972099987}
 --- !u!114 &161094346
 MonoBehaviour:
@@ -1963,7 +1971,7 @@ Transform:
   - {fileID: 157753747}
   - {fileID: 576481481}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &422283298
 GameObject:
@@ -3246,7 +3254,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &684198596
 GameObject:
@@ -4020,6 +4028,7 @@ MonoBehaviour:
   lampShade: {fileID: 1594088740}
   lampShadeMat: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
   buildingFactTop: {fileID: 94576009}
+  buildingFactTop_trans: {fileID: 0}
   pointer: {fileID: 972099987}
   buildingFactBot: {fileID: 2011183834}
   dontForget: {fileID: 161094343}
@@ -4464,7 +4473,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &881221508
 GameObject:
@@ -4508,7 +4517,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &894610521
 GameObject:
@@ -5324,6 +5333,7 @@ MonoBehaviour:
   lampShade: {fileID: 1594088740}
   lampShadeMat: {fileID: 2100000, guid: 56c6aa8e18af54016909ab7ae9d36a92, type: 2}
   buildingFactTop: {fileID: 94576009}
+  buildingFactTop_trans: {fileID: 0}
   pointer: {fileID: 972099987}
   buildingFactBot: {fileID: 2011183834}
   dontForget: {fileID: 161094343}
@@ -5774,7 +5784,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1149822706
 GameObject:
@@ -5804,9 +5814,8 @@ Transform:
   - {fileID: 1967328786}
   - {fileID: 1594088738}
   - {fileID: 1019435493}
-  - {fileID: 1210864561}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1192606881
 GameObject:
@@ -5935,11 +5944,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1210864560}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.7900001, y: 0, z: -6.02}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children: []
-  m_Father: {fileID: 1149822707}
-  m_RootOrder: 3
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1210864562
 MonoBehaviour:
@@ -5947,17 +5956,17 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1210864560}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9ee9af5f0769444259c39a59205758b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   scale: 0.6
   intensity: 0.6
-  alpha: 0.2
+  alpha: 0.11
   alphasub: 0.05
   pow: 0.6
-  color: {r: 0.4039216, g: 0.4039216, b: 0.4039216, a: 1}
+  color: {r: 0.102941155, g: 0.102941155, b: 0.102941155, a: 1}
   fogMaterial: {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
 --- !u!199 &1210864563
 ParticleSystemRenderer:
@@ -6073,7 +6082,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: 1971681301
+  randomSeed: -277670170
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -9346,7 +9355,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1230818650
 GameObject:
@@ -9787,7 +9796,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1306258099}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 571, y: -282, z: 0}
+  m_LocalPosition: {x: 571, y: -250.71371, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1486112636}
@@ -10229,7 +10238,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1435905793
 GameObject:
@@ -11722,6 +11731,48 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1821008831}
+--- !u!1001 &1839580603
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661046637869644, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8ce7d6271a01a4274a00066492aed04a, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1841057974
 GameObject:
   m_ObjectHideFlags: 0
@@ -11760,7 +11811,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1850178513
 GameObject:
@@ -12493,9 +12544,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BuildingFactTop: {fileID: 94576009}
+  BuildingFactTop_Trans: {fileID: 0}
+  BuildingFactBot_Trans: {fileID: 0}
   BuildingFactBot: {fileID: 2011183834}
   dontForget: {fileID: 161094343}
+  dontForgetTrans: {fileID: 0}
   turnOff: {fileID: 1596917924}
+  turnOffTrans: {fileID: 0}
   pointer: {fileID: 972099987}
 --- !u!114 &2011183836
 MonoBehaviour:

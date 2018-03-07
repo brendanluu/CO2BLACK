@@ -23,7 +23,7 @@ public class FocusSquare : MonoBehaviour {
 	public GameObject tapToPlaceText;
 	public GameObject findFlatSurface;
 
-
+//	public GameObject buildingFact;
 	private FocusState squareState;
 	public FocusState SquareState { 
 		get {
@@ -68,7 +68,8 @@ public class FocusSquare : MonoBehaviour {
 
 		if (squareState == FocusState.Found) {
 			Debug.Log ("Focus State is Found");
-
+//			foundSquare.SetActive (false);
+//			findingSquare.SetActive (false);
 		}   else {
 			Debug.Log ("No Focus State is Found");
 		}

@@ -15,6 +15,10 @@ namespace UnityEngine.XR.iOS
 		public GameObject WholeLamp;
 		public GameObject TapToText;
 
+		public GameObject buildingFact;
+		public GameObject buildingFact_trans;
+
+		public GameObject cflBulb;
 		public GameObject replaceBulb;
 
 
@@ -32,13 +36,17 @@ namespace UnityEngine.XR.iOS
 
 			if (hitResults.Count > 0) {
 
-				//text bug
-				replaceBulb.SetActive (true);
-				BlueFocusSquare.SetActive (false);
+				if (!cflBulb.activeInHierarchy) {
+					//works as long as theres only one condition?
+					buildingFact.SetActive (true);
+					buildingFact_trans.SetActive (true);
+				} 
 
+				BlueFocusSquare.SetActive (false);
 
 				FocusedSquare.SetActive (false);
 				Destroy (FocusedSquare);
+				Destroy (BlueFocusSquare);
 				Destroy (TapToText);
 
 
